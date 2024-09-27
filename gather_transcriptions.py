@@ -1,11 +1,13 @@
 import os
 
 import soundfile as sf
-from datasets import load_dataset, DownloadMode
+from datasets import load_dataset
 from json_database import JsonStorage
 from ovos_stt_plugin_chromium import ChromiumSTT
 from ovos_stt_plugin_fasterwhisper import FasterWhisperSTT
-from ovos_utils.parse import fuzzy_match, MatchStrategy
+from ovos_stt_plugin_citrinet import CitrinetSTT
+from ovos_stt_plugin_nemo import NemoSTT
+from ovos_stt_plugin_mms import MMSSTT
 from speech_recognition import Recognizer, AudioFile
 from tqdm import tqdm  # Import tqdm for progress tracking
 
@@ -29,12 +31,19 @@ def transcribe(wav, lang, stt) -> str:
 
 STTS = [
     ("ovos-stt-plugin-chromium", "chromium", ChromiumSTT()),
-    #("ovos-stt-plugin-fasterwhisper", "large-v3", FasterWhisperSTT({"model": "large-v3",
-    #                                                                "use_cuda": True,
-    #                                                                "compute_type": "float16",
-    #                                                                "beam_size": 5,
-    #                                                                "cpu_threads": 12
-    #                                                                }))
+    ("ovos-stt-plugin-mms", "facebook/mms-1b-all", MMSSTT()),
+    ("ovos-stt-plugin-nemo", "stt_en_quartznet15x5", NemoSTT({"lang": "en"})),
+    ("ovos-stt-plugin-citrinet", "neongeckocom/stt_en_citrinet_512_gamma_0_25", CitrinetSTT({"lang": "en"})),
+    ("ovos-stt-plugin-fasterwhisper", "large-v3", FasterWhisperSTT({"model": "large-v3",
+                                                                    "use_cuda": True,
+                                                                    "compute_type": "float16",
+                                                                    "beam_size": 5,
+                                                                    "cpu_threads": 12
+                                                                    }))
+
+    # not even worth testing, they suck
+    #("ovos-stt-plugin-vosk", "vosk-model-small-en-us-0.15", VoskKaldiSTT({"lang": "en"})),
+    #("ovos-stt-plugin-vosk", "vosk-model-en-us-aspire-0.2", VoskKaldiSTT({"lang": "en", "large": True})),
 ]
 
 DATASETS = [(ds[0],
@@ -43,9 +52,9 @@ DATASETS = [(ds[0],
                           streaming=ds[3],
                           trust_remote_code=True))
             for ds in [
-                # ("mozilla-foundation/common_voice_17_0", "en", "test", True),
+                ("mozilla-foundation/common_voice_17_0", "en", "test", True),
                 # ("mozilla-foundation/common_voice_13_0", "en", "test", True),
-                # ("google/fleurs", "en_us", "test", True),
+                ("google/fleurs", "en_us", "test", True),
                 ("speechcolab/gigaspeech", "xs", "test", True),
             ]]
 
