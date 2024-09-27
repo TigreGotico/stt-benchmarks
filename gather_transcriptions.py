@@ -30,16 +30,16 @@ def transcribe(wav, lang, stt) -> str:
 
 
 STTS = [
-    ("ovos-stt-plugin-chromium", "chromium", ChromiumSTT()),
+    #("ovos-stt-plugin-chromium", "chromium", ChromiumSTT()),
     ("ovos-stt-plugin-mms", "facebook/mms-1b-all", MMSSTT()),
-    ("ovos-stt-plugin-nemo", "stt_en_quartznet15x5", NemoSTT({"lang": "en"})),
-    ("ovos-stt-plugin-citrinet", "neongeckocom/stt_en_citrinet_512_gamma_0_25", CitrinetSTT({"lang": "en"})),
-    ("ovos-stt-plugin-fasterwhisper", "large-v3", FasterWhisperSTT({"model": "large-v3",
-                                                                    "use_cuda": True,
-                                                                    "compute_type": "float16",
-                                                                    "beam_size": 5,
-                                                                    "cpu_threads": 12
-                                                                    }))
+    #("ovos-stt-plugin-nemo", "stt_en_quartznet15x5", NemoSTT({"lang": "en"})),
+    #("ovos-stt-plugin-citrinet", "neongeckocom/stt_en_citrinet_512_gamma_0_25", CitrinetSTT({"lang": "en"})),
+    #("ovos-stt-plugin-fasterwhisper", "large-v3", FasterWhisperSTT({"model": "large-v3",
+    #                                                                "use_cuda": True,
+    #                                                                "compute_type": "float16",
+    #                                                                "beam_size": 5,
+    #                                                                "cpu_threads": 12
+    #                                                                }))
 
     # not even worth testing, they suck
     #("ovos-stt-plugin-vosk", "vosk-model-small-en-us-0.15", VoskKaldiSTT({"lang": "en"})),
