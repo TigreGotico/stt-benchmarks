@@ -9214,5 +9214,1029 @@
     "pt_test_0/common_voice_pt_19350526.mp3": {
         "ground": "Invadir o Yuan Legislativo",
         "transcript": "me partiram e o homem desativo"
+    },
+    "pt_test_0/common_voice_pt_19350527.mp3": {
+        "ground": "Mas use-os para comprar seu rebanho.",
+        "transcript": "mas usas para comprar seu rebanho"
+    },
+    "pt_test_0/common_voice_pt_19350528.mp3": {
+        "ground": "Já conhecemos?, mas seria bom vê-lo novamente.",
+        "transcript": "já conhecemos mas seria bom pelo novamente"
+    },
+    "pt_test_0/common_voice_pt_27139135.mp3": {
+        "ground": "Os aplicativos que ainda não foram pagos não foram validados eletronicamente.",
+        "transcript": "os aplicativos que ainda não foram pagos não foram validadas eletronicamente"
+    },
+    "pt_test_0/common_voice_pt_27139136.mp3": {
+        "ground": "Na próxima terça temos que votar.",
+        "transcript": "na próxima terça temos que voltar"
+    },
+    "pt_test_0/common_voice_pt_27139138.mp3": {
+        "ground": "Redução de danos",
+        "transcript": "redução de danos"
+    },
+    "pt_test_0/common_voice_pt_27139139.mp3": {
+        "ground": "Nossa influência em seu monopólio é pequena.",
+        "transcript": "Nelson influência em seu Monopólio é pequena"
+    },
+    "pt_test_0/common_voice_pt_37689502.mp3": {
+        "ground": "caixinhas, diabetes tipo, hipertensão, pílula anticoncepcional, hipotireoidismo",
+        "transcript": "caixinhas diabetes tipo hipertensão e o anticoncepcional hipotiroidismo"
+    },
+    "pt_test_0/common_voice_pt_37689503.mp3": {
+        "ground": "desenvolvedores web e web designers",
+        "transcript": "desenvolvedores web web designers"
+    },
+    "pt_test_0/common_voice_pt_37689504.mp3": {
+        "ground": "Ele tinha atropelado uma ciclista mas fugiu da cena do crime",
+        "transcript": "Policia atropelado na ciclista mas fugiu da cena do crime"
+    },
+    "pt_test_0/common_voice_pt_37689505.mp3": {
+        "ground": "regenerativa, estrume, patorícia, semi-áridas, reboque, desmatada, cortando, queimando, infértil",
+        "transcript": "regenerativa streaming para a polícia sem árvores reboque desmontada cortando queimando infection"
+    },
+    "pt_test_0/common_voice_pt_23649986.mp3": {
+        "ground": "Todo mundo dirigindo, tenha cuidado",
+        "transcript": "todo mundo dirigindo é cuidado"
+    },
+    "pt_test_0/common_voice_pt_23649987.mp3": {
+        "ground": "Eu finalmente te vi.",
+        "transcript": "eu finalmente te vi"
+    },
+    "pt_test_0/common_voice_pt_23649988.mp3": {
+        "ground": "Pegue eles!",
+        "transcript": "beijinhos"
+    },
+    "pt_test_0/common_voice_pt_23649989.mp3": {
+        "ground": "Campo de melhoria agrícola",
+        "transcript": "campo de melhor elétrico"
+    },
+    "pt_test_0/common_voice_pt_27024395.mp3": {
+        "ground": "Quando a mãe não está lá, as crianças saltam e dançam.",
+        "transcript": "quando a mãe não instalar as crianças soltam e dança"
+    },
+    "pt_test_0/common_voice_pt_27024399.mp3": {
+        "ground": "Isso é o que nós temos.",
+        "transcript": "Isso é o que nós temos"
+    },
+    "pt_test_0/common_voice_pt_27024400.mp3": {
+        "ground": "Mais verde que maduro.",
+        "transcript": "mais verde e maduro"
+    },
+    "pt_test_0/common_voice_pt_27024402.mp3": {
+        "ground": "Quantos países são atualmente reconhecidos pelas Nações Unidas?",
+        "transcript": "Quantos países são atualmente reconhecidos pela Nações Unidas"
+    },
+    "pt_test_0/common_voice_pt_30088051.mp3": {
+        "ground": "Não há necessidade de preparação ou estudo para senti-los.",
+        "transcript": "não há necessidade de preparação eu estudo para sentir-nos"
+    },
+    "pt_test_0/common_voice_pt_30088053.mp3": {
+        "ground": "Fogo é meia vida",
+        "transcript": "Hugo é minha vida"
+    },
+    "pt_test_0/common_voice_pt_30088055.mp3": {
+        "ground": "Brasilândia de Minas",
+        "transcript": "Brasilândia de Minas"
+    },
+    "pt_test_0/common_voice_pt_30088058.mp3": {
+        "ground": "Maracaí",
+        "transcript": "maracaí"
+    },
+    "pt_test_0/common_voice_pt_20424102.mp3": {
+        "ground": "Hey Lucy, você já se lembrou da letra do hino?",
+        "transcript": "tablet você já se lembrou da letra do hino"
+    },
+    "pt_test_0/common_voice_pt_20424103.mp3": {
+        "ground": "O camelô jurava que era um tênis original",
+        "transcript": "o camelô jurava que era um ténis original"
+    },
+    "pt_test_0/common_voice_pt_20424104.mp3": {
+        "ground": "O ônibus está finalmente aqui.",
+        "transcript": "ônibus está Finalmente aqui"
+    },
+    "pt_test_0/common_voice_pt_20424105.mp3": {
+        "ground": "A cidade ainda estava dormindo.",
+        "transcript": "a cidade ainda estava dormindo"
+    },
+    "pt_test_0/common_voice_pt_30525428.mp3": {
+        "ground": "Pasmo e desolo-me.",
+        "transcript": "pasmo e resolume"
+    },
+    "pt_test_0/common_voice_pt_30525430.mp3": {
+        "ground": "Guaratuba",
+        "transcript": "guaratuba"
+    },
+    "pt_test_0/common_voice_pt_30525431.mp3": {
+        "ground": "São Roque de Minas",
+        "transcript": "São Roque de Minas"
+    },
+    "pt_test_0/common_voice_pt_30525432.mp3": {
+        "ground": "Santa Maria da Boa Vista",
+        "transcript": "Santa Maria da Boavista"
+    },
+    "pt_test_0/common_voice_pt_37629150.mp3": {
+        "ground": "pinta, pintar a macaca, pioiento, pipoca, pirandelo, fininho, pirar, pirituba, pisante",
+        "transcript": "pinta pintar a macaca Pio gente pipoca Pirandello fininho pirar Pirituba pisante"
+    },
+    "pt_test_0/common_voice_pt_37629151.mp3": {
+        "ground": "Cadáver do acidente estava desfigurado, cérebro escorria sobre o asfalto enquanto cão lambia",
+        "transcript": "cadáver do acidente estava desfigurado cérebro escorria sobre o asfalto enquanto cão lambia"
+    },
+    "pt_test_0/common_voice_pt_37629152.mp3": {
+        "ground": "A muamba já tá vindo, vai chegar no aeroporto",
+        "transcript": "a Mamba já tá vindo vai chegar no aeroporto"
+    },
+    "pt_test_0/common_voice_pt_37629153.mp3": {
+        "ground": "semanticamente, transportável, criterioso",
+        "transcript": "semente com mente transportavam criterioso"
+    },
+    "pt_test_0/common_voice_pt_32643491.mp3": {
+        "ground": "E a ironia atravessa dois estádios",
+        "transcript": "e a ironia a Travessa dos estádios"
+    },
+    "pt_test_0/common_voice_pt_32643493.mp3": {
+        "ground": "Você está trabalhando para crianças ou melhorando a indústria de computadores?",
+        "transcript": "você está trabalhando para crianças ou melhorando a indústria de computadores"
+    },
+    "pt_test_0/common_voice_pt_32643495.mp3": {
+        "ground": "Eu sou Sion",
+        "transcript": "eu sou sion"
+    },
+    "pt_test_0/common_voice_pt_28034956.mp3": {
+        "ground": "Santa Catarina",
+        "transcript": "Santa Catarina"
+    },
+    "pt_test_0/common_voice_pt_28034957.mp3": {
+        "ground": "Como poderia ser estranho?",
+        "transcript": "Como poderia ser estranho"
+    },
+    "pt_test_0/common_voice_pt_28034958.mp3": {
+        "ground": "Felizmente, nós corremos rápido",
+        "transcript": "felizmente nós corremos rápido"
+    },
+    "pt_test_0/common_voice_pt_37634299.mp3": {
+        "ground": "crack, psicose, esquizofrenia, despersonalização, dopamina, fumavam, neuropsicológico",
+        "transcript": "crack psicose esquizofrenia diz personalização dopamina fumavam neuropsicológico"
+    },
+    "pt_test_0/common_voice_pt_37634300.mp3": {
+        "ground": "pretensão punitiva, perda, punir, executar, decurso, extinguindo, punibilidade, acusado, condenado",
+        "transcript": "pretensão punitiva perda punir Executar de curso extinguindo disponibilidade acusado condenado"
+    },
+    "pt_test_0/common_voice_pt_37634302.mp3": {
+        "ground": "tiomersal, letal, pólvora, arsênico, biossegurança, antídoto, saxitoxina, peçonha",
+        "transcript": "Schumer Sound pólvora arsénico e a segurança anti doutora saxitoxina Peçonha"
+    },
+    "pt_test_0/common_voice_pt_25445585.mp3": {
+        "ground": "A aventura das crianças salvou nosso dia.",
+        "transcript": "a aventura das crianças salvou no outro dia"
+    },
+    "pt_test_0/common_voice_pt_25445587.mp3": {
+        "ground": "São coisas que consolam e reconciliam com a modernidade.",
+        "transcript": "são coisas que consola e reconstruir um com a maternidade"
+    },
+    "pt_test_0/common_voice_pt_25445589.mp3": {
+        "ground": "Então toda a cidade trabalhou ao toque da Sereia dos Químicos.",
+        "transcript": "Então toda a cidade que trabalhou ao toque da Sereia dos químicos"
+    },
+    "pt_test_0/common_voice_pt_25445591.mp3": {
+        "ground": "Tome banho regularmente e certifique-se cem por cento de que está limpa",
+        "transcript": "dorme bem regulamento de 7:35 de que está limpa"
+    },
+    "pt_test_0/common_voice_pt_22727702.mp3": {
+        "ground": "Leia verso em voz alta por prazer.",
+        "transcript": "Leia verso em voz alta por prazer"
+    },
+    "pt_test_0/common_voice_pt_22727703.mp3": {
+        "ground": "Declarou o fim da era do transporte aquaviário",
+        "transcript": "declarou fim da Era do transporte aquaviário"
+    },
+    "pt_test_0/common_voice_pt_22727704.mp3": {
+        "ground": "Um homem sentado em um escritório em um computador.",
+        "transcript": "um homem sentado em escritório em um computador"
+    },
+    "pt_test_0/common_voice_pt_22727705.mp3": {
+        "ground": "Eu até trouxe isso pra te mostrar",
+        "transcript": "eu até trouxe isso para te mostrar"
+    },
+    "pt_test_0/common_voice_pt_26079581.mp3": {
+        "ground": "Cinco vezes campeão",
+        "transcript": "5 x campeão"
+    },
+    "pt_test_0/common_voice_pt_26079583.mp3": {
+        "ground": "Elena vai se atrasar.",
+        "transcript": "Helena vai se atrasar"
+    },
+    "pt_test_0/common_voice_pt_26079584.mp3": {
+        "ground": "Diamantina",
+        "transcript": "Diamantino"
+    },
+    "pt_test_0/common_voice_pt_27056225.mp3": {
+        "ground": "É uma circunstância agravante que causa perturbações ou desordem pública.",
+        "transcript": "é uma circunstância agravante e que causa perturbações ou desordem pública"
+    },
+    "pt_test_0/common_voice_pt_27056226.mp3": {
+        "ground": "Aimorés",
+        "transcript": "ai moretti"
+    },
+    "pt_test_0/common_voice_pt_27056232.mp3": {
+        "ground": "Segundo alguns relatos, havia um odor de gás na área.",
+        "transcript": "Segunda voz relatos avião a dor de gás na área"
+    },
+    "pt_test_0/common_voice_pt_27056234.mp3": {
+        "ground": "Portugal e Brasil são nações irmãs",
+        "transcript": "Portugal é Brasil seleções irmãs"
+    },
+    "pt_test_0/common_voice_pt_24521447.mp3": {
+        "ground": "Arlene Ramalho dos Santos",
+        "transcript": "Orlando Ramalho dos Santos"
+    },
+    "pt_test_0/common_voice_pt_24521448.mp3": {
+        "ground": "O Carlos tem um perfil secreto no Instagram",
+        "transcript": "o Carlos tem um perfil secretos no Instagram"
+    },
+    "pt_test_0/common_voice_pt_24521449.mp3": {
+        "ground": "Os muçulmanos são maioria na Arábia Saudita",
+        "transcript": "Os muçulmanos são maioria na Arábia Saudita"
+    },
+    "pt_test_0/common_voice_pt_24521450.mp3": {
+        "ground": "Sabará",
+        "transcript": "sabará"
+    },
+    "pt_test_0/common_voice_pt_24521451.mp3": {
+        "ground": "Arthur Bandeira Soares",
+        "transcript": "Artur bandeiras Soares"
+    },
+    "pt_test_0/common_voice_pt_26605672.mp3": {
+        "ground": "Paes Landim",
+        "transcript": "Paes Landim"
+    },
+    "pt_test_0/common_voice_pt_26605673.mp3": {
+        "ground": "Quantos biscoitos cada amigo receberá?",
+        "transcript": "Quantos biscoitos cada amigo receberá"
+    },
+    "pt_test_0/common_voice_pt_26605674.mp3": {
+        "ground": "Aquele homem, cego pela fortuna, não sabia o que estava dizendo.",
+        "transcript": "aquele homem cego pela fartura não sabia o que estava dizendo"
+    },
+    "pt_test_0/common_voice_pt_26605675.mp3": {
+        "ground": "Os espaços transformacionais dependem da criatividade, sendo essenciais para o seu desenvolvimento.",
+        "transcript": "os espaços transformacionais Depende da Criatividade sendo essenciais para se eu desenvolvimento"
+    },
+    "pt_test_0/common_voice_pt_24618074.mp3": {
+        "ground": "Campos Dos Goytacazes",
+        "transcript": "Campos dos goytacazes"
+    },
+    "pt_test_0/common_voice_pt_24618075.mp3": {
+        "ground": "Caicó",
+        "transcript": "Caicó"
+    },
+    "pt_test_0/common_voice_pt_24618077.mp3": {
+        "ground": "Aurilene Oliveira Ribeiro Silva",
+        "transcript": "aurilene Oliveira Rebelo Silva"
+    },
+    "pt_test_0/common_voice_pt_24618079.mp3": {
+        "ground": "Os grãos foram ensacados no inverno",
+        "transcript": "Quantos graus foram em sacados no inverno"
+    },
+    "pt_test_0/common_voice_pt_24618080.mp3": {
+        "ground": "Pedro, Raimundo, Manoel e Francisca",
+        "transcript": "Pedro Raimundo Manuel e Francisco"
+    },
+    "pt_test_0/common_voice_pt_20966496.mp3": {
+        "ground": "Esta é uma notícia do céu azul de toda a família.",
+        "transcript": "Esta é uma notícia do Céu Azul de toda a família"
+    },
+    "pt_test_0/common_voice_pt_20966497.mp3": {
+        "ground": "mostre os tempos do filme",
+        "transcript": "mostre os tempos do filme"
+    },
+    "pt_test_0/common_voice_pt_20966498.mp3": {
+        "ground": "Mulheres e seus filhos no parque",
+        "transcript": "mulheres e seus filhos no parque"
+    },
+    "pt_test_0/common_voice_pt_20966499.mp3": {
+        "ground": "O que está acontecendo aqui?",
+        "transcript": "o que está acontecendo aqui"
+    },
+    "pt_test_0/common_voice_pt_20966500.mp3": {
+        "ground": "Além disso, um número de ordem de lista será atribuído a cada lista.",
+        "transcript": "Além disso um número de ordem de lista será distribuído a cada lista"
+    },
+    "pt_test_0/common_voice_pt_21501852.mp3": {
+        "ground": "Tempo de descanso",
+        "transcript": "tempo de descanso"
+    },
+    "pt_test_0/common_voice_pt_21501853.mp3": {
+        "ground": "No Emacs?, familiarize-se com o modo de sub-palavras.",
+        "transcript": "no Imax familiares com modo de sub palavras"
+    },
+    "pt_test_0/common_voice_pt_21501854.mp3": {
+        "ground": "O grupo terrorista fez sua demanda.",
+        "transcript": "o grupo terrorista fez sua demanda"
+    },
+    "pt_test_0/common_voice_pt_21501855.mp3": {
+        "ground": "No ano passado não estava mudando a bateria",
+        "transcript": "no ano passado não estava mudando a bateria"
+    },
+    "pt_test_0/common_voice_pt_21501856.mp3": {
+        "ground": "Oh?, vamos lá? não seja ganancioso com os Jolly Ranchers.",
+        "transcript": "Oh Vamos lá não seja ganancioso como Johnny Rangers"
+    },
+    "pt_test_0/common_voice_pt_28799124.mp3": {
+        "ground": "Juazeirinho",
+        "transcript": "juazeirinho"
+    },
+    "pt_test_0/common_voice_pt_28799125.mp3": {
+        "ground": "Fortaleza do Tabocão",
+        "transcript": "Fortaleza do tabocão"
+    },
+    "pt_test_0/common_voice_pt_28799126.mp3": {
+        "ground": "Avanhandava",
+        "transcript": "avanhandava"
+    },
+    "pt_test_0/common_voice_pt_28799127.mp3": {
+        "ground": "Eu conhecia ela.",
+        "transcript": "eu conhecia ela"
+    },
+    "pt_test_0/common_voice_pt_28799128.mp3": {
+        "ground": "A nevasca que acometeu o sul do Brasil na noite passada",
+        "transcript": "a nevasca que é cometeu o sul do Brasil na noite passada"
+    },
+    "pt_test_0/common_voice_pt_29515451.mp3": {
+        "ground": "Eu não posso mais fazer.",
+        "transcript": "eu não posso mais fazer"
+    },
+    "pt_test_0/common_voice_pt_29515452.mp3": {
+        "ground": "Ele abriu os olhos, olhou para todos os lados e não viu nada.",
+        "transcript": "ele abriu os olhos olhou para todos os lados e não viu nada"
+    },
+    "pt_test_0/common_voice_pt_29515453.mp3": {
+        "ground": "Na segunda-feira, apague as luzes.",
+        "transcript": "na segunda-feira apague as luzes"
+    },
+    "pt_test_0/common_voice_pt_29515454.mp3": {
+        "ground": "Nada aconteceu entre o nascer e o pôr do sol",
+        "transcript": "nada aconteceu entre o nascer e o pôr do sol"
+    },
+    "pt_test_0/common_voice_pt_29515455.mp3": {
+        "ground": "Todos aqueles que contêm qualquer marca que possa identificar o autor são anulados.",
+        "transcript": "todos os aqueles que contém qualquer marca que posso Identificar o autor são anulados"
+    },
+    "pt_test_0/common_voice_pt_25259083.mp3": {
+        "ground": "Viajar sozinho é bom para conhecer novas pessoas.",
+        "transcript": "viajar sozinha é bom para conhecer novas pessoas"
+    },
+    "pt_test_0/common_voice_pt_25259084.mp3": {
+        "ground": "Eu não acho que seja um sistema ideal, porque ele registra na parte errada.",
+        "transcript": "Eu não acho que seja um sistema Ideal porque ele registro uma parte errado"
+    },
+    "pt_test_0/common_voice_pt_25259086.mp3": {
+        "ground": "É bom saber isso a tempo.",
+        "transcript": "é bom saber se o tempo"
+    },
+    "pt_test_0/common_voice_pt_25259087.mp3": {
+        "ground": "Duas pessoas estão jogando golfe em um campo de golfe.",
+        "transcript": "duas pessoas estão jogando golfe em campo de golfe"
+    },
+    "pt_test_0/common_voice_pt_35966505.mp3": {
+        "ground": "Nova Bréscia",
+        "transcript": "nova Grécia"
+    },
+    "pt_test_0/common_voice_pt_35966506.mp3": {
+        "ground": "países comunistas",
+        "transcript": "países comunistas"
+    },
+    "pt_test_0/common_voice_pt_35966507.mp3": {
+        "ground": "Incentivo à guerra civil",
+        "transcript": "Incentivo a Guerra Civil"
+    },
+    "pt_test_0/common_voice_pt_35966509.mp3": {
+        "ground": "Não é um bom marinheiro que não caiu cem vezes na água.",
+        "transcript": "não é um bom marinheiro que não caiu 100 vezes na água"
+    },
+    "pt_test_0/common_voice_pt_35966511.mp3": {
+        "ground": "Guaimbê",
+        "transcript": "granby"
+    },
+    "pt_test_0/common_voice_pt_27025833.mp3": {
+        "ground": "Tenho que ir atrás das crianças e mandá-las para o coro.",
+        "transcript": "tenho que ir atrás das crianças e mandalas para o couro"
+    },
+    "pt_test_0/common_voice_pt_27025836.mp3": {
+        "ground": "Para mais informações, você pode verificar seu site.",
+        "transcript": "Para mais informações você pode verificar seus site"
+    },
+    "pt_test_0/common_voice_pt_27025838.mp3": {
+        "ground": "Precisamos cuidar mais uns dos outros, ouvir mais e falar menos",
+        "transcript": "precisamos cuidar mais uns dos outros ouvir mais e falar menos"
+    },
+    "pt_test_0/common_voice_pt_27025846.mp3": {
+        "ground": "O homo sapiens evoluiu a partir de um ancestral comum aos primatas",
+        "transcript": "o homo sapiens evoluiu a partir de um ancestral comum aos primatas"
+    },
+    "pt_test_0/common_voice_pt_28205169.mp3": {
+        "ground": "Carlos Ferreira Leite",
+        "transcript": "Carlos Ferreira Leite"
+    },
+    "pt_test_0/common_voice_pt_28205170.mp3": {
+        "ground": "O regulamento limita os castigos.",
+        "transcript": "regulamento limita os castigos"
+    },
+    "pt_test_0/common_voice_pt_28205171.mp3": {
+        "ground": "Envie um depoimento para incorporá-lo às performances.",
+        "transcript": "envia um depoimento para incorporar o as performances"
+    },
+    "pt_test_0/common_voice_pt_28205172.mp3": {
+        "ground": "Quem vence?",
+        "transcript": "Quem vence"
+    },
+    "pt_test_0/common_voice_pt_28205173.mp3": {
+        "ground": "Pois então resolverá por si mesma.",
+        "transcript": "Pois então resolverá por si mesma"
+    },
+    "pt_test_0/common_voice_pt_19451738.mp3": {
+        "ground": "Quase dá a ele a sensação de que ele não era desejado.",
+        "transcript": "qual cidade a Ilha sensação de que ele não era desejando"
+    },
+    "pt_test_0/common_voice_pt_19451739.mp3": {
+        "ground": "Quatro homens grandes estão comendo juntos no que parece ser um concurso de comida.",
+        "transcript": "quatro homens grandes estão comendo juntos no que parece ser um concurso de comida"
+    },
+    "pt_test_0/common_voice_pt_19451740.mp3": {
+        "ground": "Se você enfrentasse esses valores discrepantes, isso reduziria os artefatos.",
+        "transcript": "se você enfrentar Esses valores discrepantes isso reduzia os artefatos"
+    },
+    "pt_test_0/common_voice_pt_19451741.mp3": {
+        "ground": "Sua ansiedade explodiu.",
+        "transcript": "sua ansiedade explodiu"
+    },
+    "pt_test_0/common_voice_pt_19451742.mp3": {
+        "ground": "Não.",
+        "transcript": "não"
+    },
+    "pt_test_0/common_voice_pt_26438457.mp3": {
+        "ground": "Amorinópolis",
+        "transcript": "amor incómodo"
+    },
+    "pt_test_0/common_voice_pt_26438458.mp3": {
+        "ground": "Isso também inclui mensagens enviadas do Outlook.",
+        "transcript": "isso também incluir mensagens enviadas no Outlook"
+    },
+    "pt_test_0/common_voice_pt_26438460.mp3": {
+        "ground": "Finalmente, existem políticas de cluster que servem para fortalecer a competitividade global.",
+        "transcript": "Finalmente existem políticas de Costa que serve para fortalecer competitividade global"
+    },
+    "pt_test_0/common_voice_pt_26438461.mp3": {
+        "ground": "Como um empreendedor",
+        "transcript": "como um empreendedor"
+    },
+    "pt_test_0/common_voice_pt_24014115.mp3": {
+        "ground": "Luíza, Hélio, Rosângela e Celso",
+        "transcript": "Luísa Élio Rosangela e Celso"
+    },
+    "pt_test_0/common_voice_pt_24014116.mp3": {
+        "ground": "Tatuí",
+        "transcript": "tatuí"
+    },
+    "pt_test_0/common_voice_pt_24014117.mp3": {
+        "ground": "Cassia Abreu da Silva",
+        "transcript": "Cássia abriu da Silva"
+    },
+    "pt_test_0/common_voice_pt_24014118.mp3": {
+        "ground": "O óleo diesel teve seu valor reduzido na refinaria",
+        "transcript": "o óleo diesel teve o seu valor reduzido na refinaria"
+    },
+    "pt_test_0/common_voice_pt_24014119.mp3": {
+        "ground": "Carlos Amaro Gomes",
+        "transcript": "Carlos Amaro Gomes"
+    },
+    "pt_test_0/common_voice_pt_20915985.mp3": {
+        "ground": "Não sei porque você pergunta.",
+        "transcript": "Não sei porque você pergunta"
+    },
+    "pt_test_0/common_voice_pt_20915986.mp3": {
+        "ground": "Várias pessoas assistem a uma apresentação no palco com diferentes graus de interesse.",
+        "transcript": "para as pessoas assistem a uma apresentação do palco com diferentes graus de interesse"
+    },
+    "pt_test_0/common_voice_pt_20915987.mp3": {
+        "ground": "Em um passo ruim, saia cedo.",
+        "transcript": "em um pássaro ruim sai a cedo"
+    },
+    "pt_test_0/common_voice_pt_20915988.mp3": {
+        "ground": "Mas? pouco antes da hora do almoço? um menino parou na frente da loja.",
+        "transcript": "mas o quentes da hora do almoço o menino parou na frente da loja"
+    },
+    "pt_test_0/common_voice_pt_20915989.mp3": {
+        "ground": "Cassie desmontou a bicicleta.",
+        "transcript": "Cássia desmontou a bicicleta"
+    },
+    "pt_test_0/common_voice_pt_26236799.mp3": {
+        "ground": "O que você acha sobre como os policiais veem unidades de proteção infantil?",
+        "transcript": "o que você acha sobre como os policiais vem unidade de proteção infantil"
+    },
+    "pt_test_0/common_voice_pt_26236800.mp3": {
+        "ground": "Caldeirão Grande",
+        "transcript": "Caldeirão grande"
+    },
+    "pt_test_0/common_voice_pt_26236802.mp3": {
+        "ground": "Governador Eugênio Barros",
+        "transcript": "governador Eugénio Barros"
+    },
+    "pt_test_0/common_voice_pt_27064384.mp3": {
+        "ground": "Organização das Nações Unidas",
+        "transcript": "Organização das Nações Unidas"
+    },
+    "pt_test_0/common_voice_pt_27064385.mp3": {
+        "ground": "Ele estava com medo.",
+        "transcript": "ele estava com medo"
+    },
+    "pt_test_0/common_voice_pt_27064386.mp3": {
+        "ground": "Estamos ansiosos para contribuições de todos.",
+        "transcript": "estamos ansiosos para contribuições de todos"
+    },
+    "pt_test_0/common_voice_pt_27064387.mp3": {
+        "ground": "Assim, literatura, negócios, formas de interação social, etc., não podem ser patenteados.",
+        "transcript": "assim literatura negócios formas de interação social Etcétera não podem ser patenteados"
+    },
+    "pt_test_0/common_voice_pt_27064392.mp3": {
+        "ground": "Eles podem ser construídos ou não.",
+        "transcript": "eles podem ser construídos ou não"
+    },
+    "pt_test_0/common_voice_pt_25053530.mp3": {
+        "ground": "Embu",
+        "transcript": "embu"
+    },
+    "pt_test_0/common_voice_pt_25053532.mp3": {
+        "ground": "A arbitrariedade da tirania deve ser claramente distinguida.",
+        "transcript": "a arbitrariedade da tirania deve ser claramente distinguida"
+    },
+    "pt_test_0/common_voice_pt_25053533.mp3": {
+        "ground": "Quixadá",
+        "transcript": "quixadá"
+    },
+    "pt_test_0/common_voice_pt_25053534.mp3": {
+        "ground": "Matheus e Valentina",
+        "transcript": "Mateus e Valentina"
+    },
+    "pt_test_0/common_voice_pt_25053535.mp3": {
+        "ground": "Bruno Lacerda dos Santos",
+        "transcript": "Bruno Lacerda dos Santos"
+    },
+    "pt_test_0/common_voice_pt_27029674.mp3": {
+        "ground": "Ele só aponta nas dúzias",
+        "transcript": "ele só aponta nas dúzias"
+    },
+    "pt_test_0/common_voice_pt_27029679.mp3": {
+        "ground": "Viajando no submarino amarelo",
+        "transcript": "viajando no submarino amarelo"
+    },
+    "pt_test_0/common_voice_pt_27029681.mp3": {
+        "ground": "Vê-se que eles se conheceram no instituto.",
+        "transcript": "vê-se que eles se conheceram no instituto"
+    },
+    "pt_test_0/common_voice_pt_27029682.mp3": {
+        "ground": "Divida o bolo, mas não esqueça as crianças.",
+        "transcript": "divide o bolo mas não esqueças as crianças"
+    },
+    "pt_test_0/common_voice_pt_21367614.mp3": {
+        "ground": "Mostre-me onde há vida no deserto.",
+        "transcript": "mostra-me Onde há vida no deserto"
+    },
+    "pt_test_0/common_voice_pt_21367615.mp3": {
+        "ground": "Nossos comerciantes compraram aquele homem e o trouxeram para o Egito.",
+        "transcript": "gostas de comerciantes compraram aquele homem e o trouxeram para o Egito"
+    },
+    "pt_test_0/common_voice_pt_21367616.mp3": {
+        "ground": "Vamos ligar para ele!",
+        "transcript": "vamos ligar para ele"
+    },
+    "pt_test_0/common_voice_pt_21367617.mp3": {
+        "ground": "escoteiros em um palco com um microfone",
+        "transcript": "escuteiros em um palco com microfone"
+    },
+    "pt_test_0/common_voice_pt_21367618.mp3": {
+        "ground": "Joice e Júlia estudam juntas.",
+        "transcript": "já esse Júlia estudam juntas"
+    },
+    "pt_test_0/common_voice_pt_26999528.mp3": {
+        "ground": "Você entende o que isso significa?",
+        "transcript": "você entende o que significa"
+    },
+    "pt_test_0/common_voice_pt_26999529.mp3": {
+        "ground": "Em relação à população, as estruturas também permitem alguma lógica explicativa.",
+        "transcript": "em relação à população as estruturas também permitem alguma lógica e explicativa"
+    },
+    "pt_test_0/common_voice_pt_26999530.mp3": {
+        "ground": "Não tente compensar a realidade.",
+        "transcript": "não tens compensar a realidade"
+    },
+    "pt_test_0/common_voice_pt_26999531.mp3": {
+        "ground": "Pertencendo a um dos corpos que compõem a função de ensino público.",
+        "transcript": "pertencendo à um dos corpos que compõem a função de ensino público"
+    },
+    "pt_test_0/common_voice_pt_26999532.mp3": {
+        "ground": "Eu falo um pouco de irlandês.",
+        "transcript": "eu falo um pouco de irlandês"
+    },
+    "pt_test_0/common_voice_pt_27127119.mp3": {
+        "ground": "Era meio-dia",
+        "transcript": "era meio-dia"
+    },
+    "pt_test_0/common_voice_pt_27127120.mp3": {
+        "ground": "O Festival não terá sede oficial.",
+        "transcript": "o festival não terá sede oficial"
+    },
+    "pt_test_0/common_voice_pt_27127121.mp3": {
+        "ground": "Dentro da unidade há grande contraste interno, devido à heterogeneidade dos elementos.",
+        "transcript": "dentro da unidade a grande contraste interna devido a heterogeneidade dos elementos"
+    },
+    "pt_test_0/common_voice_pt_27127122.mp3": {
+        "ground": "Era mais do que meia-noite quando ele alcançou Palmar.",
+        "transcript": "era mais do que meia-noite quando ele é alcançou o Palmar"
+    },
+    "pt_test_0/common_voice_pt_27127123.mp3": {
+        "ground": "Estou esperando em casa para pagar.",
+        "transcript": "estou esperando em casa para pagar"
+    },
+    "pt_test_0/common_voice_pt_27022840.mp3": {
+        "ground": "Monte Sião",
+        "transcript": "Monte Sião"
+    },
+    "pt_test_0/common_voice_pt_27022841.mp3": {
+        "ground": "a em sentido amplo, isto é, que realmente incorpore",
+        "transcript": "a incentivando isto é realmente incorpora"
+    },
+    "pt_test_0/common_voice_pt_27022842.mp3": {
+        "ground": "Este exame médico é obrigatório e eliminatório.",
+        "transcript": "pesquisa-me médico é obrigatório e eliminatório"
+    },
+    "pt_test_0/common_voice_pt_27022843.mp3": {
+        "ground": "Ela subiu os degraus naquele lugar, de supervisora a gerente e diretora",
+        "transcript": "ela sumiu os degraus naquele lugar de supervisora a gerente e diretor"
+    },
+    "pt_test_0/common_voice_pt_27022845.mp3": {
+        "ground": "Ser sensível às necessidades do paciente é crucial na prestação de cuidados de demência.",
+        "transcript": "ser sensível necessidades do paciente Crucial na prestação de cuidados de demência"
+    },
+    "pt_test_0/common_voice_pt_28393965.mp3": {
+        "ground": "Vender a privacidade é conveniente",
+        "transcript": "vender a privacidade conveniente"
+    },
+    "pt_test_0/common_voice_pt_28393969.mp3": {
+        "ground": "Desculpe, eu fui enganado.",
+        "transcript": "Desculpe o fim enganado"
+    },
+    "pt_test_0/common_voice_pt_28393970.mp3": {
+        "ground": "Isso lhes dá alguma respiração.",
+        "transcript": "estilos de algum respiração"
+    },
+    "pt_test_0/common_voice_pt_28393972.mp3": {
+        "ground": "Os chineses dizem que levará dez minutos.",
+        "transcript": "os chineses dizem que levara 10 minutos"
+    },
+    "pt_test_0/common_voice_pt_19401581.mp3": {
+        "ground": "A velha panela estava coberta de calda dura.",
+        "transcript": "a Velha Panela estava coberta de calda dura"
+    },
+    "pt_test_0/common_voice_pt_19401582.mp3": {
+        "ground": "Ele alugou um flat.",
+        "transcript": "ilha alugou um flat"
+    },
+    "pt_test_0/common_voice_pt_19401583.mp3": {
+        "ground": "Homem toca guitarra para bebezinho.",
+        "transcript": "homem toca guitarra para bebezinho"
+    },
+    "pt_test_0/common_voice_pt_19401584.mp3": {
+        "ground": "Uma mãe e um filho caminham juntos enquanto o filho carrega uma bandeira.",
+        "transcript": "mamãe um filho caminho juntos enquanto filho Carrega uma bandeira"
+    },
+    "pt_test_0/common_voice_pt_19401585.mp3": {
+        "ground": "A avaliação deve ser estendida para outros conjuntos de dados.",
+        "transcript": "a avaliação deve ser estendida para outros conjuntos de dados"
+    },
+    "pt_test_0/common_voice_pt_31095238.mp3": {
+        "ground": "Quem faz uma enseada, faz um galo.",
+        "transcript": "quem faz uma encerrada faz um galo"
+    },
+    "pt_test_0/common_voice_pt_31095239.mp3": {
+        "ground": "Pinheiral",
+        "transcript": "Pinheiral"
+    },
+    "pt_test_0/common_voice_pt_31095240.mp3": {
+        "ground": "O amor e a lua parecem, eles diminuem quando não crescem.",
+        "transcript": "o amor e a lua aparece ele diminui quando não cresce"
+    },
+    "pt_test_0/common_voice_pt_31095241.mp3": {
+        "ground": "Nomear inspectores actuariais na abertura do processo disciplinar.",
+        "transcript": "nomear inspetores atuará na abertura do processo disciplinar"
+    },
+    "pt_test_0/common_voice_pt_31095242.mp3": {
+        "ground": "Carrancas",
+        "transcript": "carrancas"
+    },
+    "pt_test_0/common_voice_pt_22435016.mp3": {
+        "ground": "Como eu sei?",
+        "transcript": "como eu sei"
+    },
+    "pt_test_0/common_voice_pt_22435017.mp3": {
+        "ground": "Embora um pouco verde",
+        "transcript": "embora um pouco Verde"
+    },
+    "pt_test_0/common_voice_pt_22435018.mp3": {
+        "ground": "Eu não caí dentro",
+        "transcript": "eu não cai dentro"
+    },
+    "pt_test_0/common_voice_pt_22435019.mp3": {
+        "ground": "Um homem com uma camisa xadrez está trabalhando em alguma madeira em sua oficina.",
+        "transcript": "um homem com uma camisa xadrez está trabalhando em alguma madeira em São oficina"
+    },
+    "pt_test_0/common_voice_pt_22435020.mp3": {
+        "ground": "Um grupo de garotas africanas olha para a pessoa tirando sua foto.",
+        "transcript": "um grupo de garotas africanas Olha para a pessoa tirando sua foto"
+    },
+    "pt_test_0/common_voice_pt_27057698.mp3": {
+        "ground": "A duração das cobranças é de quatro anos e pode ser reeleita indefinidamente.",
+        "transcript": "a duração das cobranças é de 4 anos que pode ser eleita indefinidamente"
+    },
+    "pt_test_0/common_voice_pt_27057699.mp3": {
+        "ground": "Estou aprendendo biologia.",
+        "transcript": "estou aprendendo biologia"
+    },
+    "pt_test_0/common_voice_pt_27057702.mp3": {
+        "ground": "E tudo acabou em pizza",
+        "transcript": "e tudo acabou em pizza"
+    },
+    "pt_test_0/common_voice_pt_27057706.mp3": {
+        "ground": "Função: permite controlar o espectro de luz para melhorar a visão.",
+        "transcript": "função permite controlar o Espectro de luz para melhorar a visão"
+    },
+    "pt_test_0/common_voice_pt_27057709.mp3": {
+        "ground": "O pobre trabalhador culpa suas ferramentas.",
+        "transcript": "o pobre trabalhador culpa suas ferramen"
+    },
+    "pt_test_0/common_voice_pt_20648753.mp3": {
+        "ground": "Reduza o risco de câncer",
+        "transcript": "reduz o risco de câncer"
+    },
+    "pt_test_0/common_voice_pt_20648754.mp3": {
+        "ground": "Várias pessoas estão sentadas do lado de fora de um prédio.",
+        "transcript": "várias pessoas estão sentadas do lado de fora de um prédio"
+    },
+    "pt_test_0/common_voice_pt_20648755.mp3": {
+        "ground": "Nem tudo é indispensável",
+        "transcript": "nem tudo em dispensável"
+    },
+    "pt_test_0/common_voice_pt_20648756.mp3": {
+        "ground": "\"Não diga nada?\" Fatima interrompeu.",
+        "transcript": "não diga nada faz-me interrompeu"
+    },
+    "pt_test_0/common_voice_pt_20648757.mp3": {
+        "ground": "Ovelha que gosta de perder peso.",
+        "transcript": "ovelha que gosta de perder peso"
+    },
+    "pt_test_0/common_voice_pt_27072734.mp3": {
+        "ground": "Quanto custa um único quarto?",
+        "transcript": "Quanto custa um único quarto"
+    },
+    "pt_test_0/common_voice_pt_27072735.mp3": {
+        "ground": "Este é um erro fundamental.",
+        "transcript": "este é um erro fundamental"
+    },
+    "pt_test_0/common_voice_pt_27072736.mp3": {
+        "ground": "Nós temos um longo caminho a percorrer.",
+        "transcript": "nós temos Um Longo Caminho a percorrer"
+    },
+    "pt_test_0/common_voice_pt_27072737.mp3": {
+        "ground": "Ela obviamente não escutou.",
+        "transcript": "ela Obviamente não escutou"
+    },
+    "pt_test_0/common_voice_pt_19857554.mp3": {
+        "ground": "Uma mulher está pagando por uma compra, enquanto outras duas mulheres olham para revistas.",
+        "transcript": "uma mulher está pagando por uma compra e quanto outras duas mulheres olham para revistas"
+    },
+    "pt_test_0/common_voice_pt_19857555.mp3": {
+        "ground": "Aguarde o sinal!",
+        "transcript": "aguarde o sinal"
+    },
+    "pt_test_0/common_voice_pt_19857556.mp3": {
+        "ground": "Existem quatro tipos diferentes de combustível neste posto de gasolina.",
+        "transcript": "existem quatro tipos diferentes de combustível nesse posto de gasolina"
+    },
+    "pt_test_0/common_voice_pt_19857557.mp3": {
+        "ground": "Um homem está lendo um jornal em um trem ou ônibus.",
+        "transcript": "homem instalei no jornal em um trem ou ônibus"
+    },
+    "pt_test_0/common_voice_pt_19857558.mp3": {
+        "ground": "Quatro pessoas balançando em um balanço.",
+        "transcript": "quatro pessoas balançando em balanço"
+    },
+    "pt_test_0/common_voice_pt_20830960.mp3": {
+        "ground": "Aprendi e usei",
+        "transcript": "atendi eu usei"
+    },
+    "pt_test_0/common_voice_pt_20830961.mp3": {
+        "ground": "Três adolescentes do lado de fora andando pela rua.",
+        "transcript": "três adolescentes do lado de fora andando pela rua"
+    },
+    "pt_test_0/common_voice_pt_20830962.mp3": {
+        "ground": "Tão certo quanto eu estou vivo",
+        "transcript": "tão certo quanto eu estou ouvindo"
+    },
+    "pt_test_0/common_voice_pt_20830963.mp3": {
+        "ground": "Instituições de pesquisa incluindo escolas",
+        "transcript": "instituições de pesquisa inquilino escola"
+    },
+    "pt_test_0/common_voice_pt_20830964.mp3": {
+        "ground": "Ele começou a chorar de repente.",
+        "transcript": "ele começou a chorar de repente"
+    },
+    "pt_test_0/common_voice_pt_19555329.mp3": {
+        "ground": "Um grupo de pessoas está próximo a um pequeno vendedor ambulante.",
+        "transcript": "um grupo de pessoas está próximo a um pequeno vendedor ambulante"
+    },
+    "pt_test_0/common_voice_pt_19555330.mp3": {
+        "ground": "Um jovem rapaz de camisa vermelha entra em uma rua de terra.",
+        "transcript": "um jovem rapaz de camisa vermelha entre em uma rua de terra"
+    },
+    "pt_test_0/common_voice_pt_19555332.mp3": {
+        "ground": "Você planejou sua atividade de fim de semana ainda?",
+        "transcript": "você planejou Sua atividade de fim de semana ainda"
+    },
+    "pt_test_0/common_voice_pt_19555333.mp3": {
+        "ground": "As vacinas podem fornecer alguma proteção durante a temporada de gripe.",
+        "transcript": "as vacinas podem fornecer alguma proteção durante a temporada de"
+    },
+    "pt_test_0/common_voice_pt_27020276.mp3": {
+        "ground": "As mãos livres permitem que você fale sem usar as mãos.",
+        "transcript": "as mãos livres permite que você fale sem usar as mãos"
+    },
+    "pt_test_0/common_voice_pt_27020278.mp3": {
+        "ground": "Quando estiver pronto, coloque o pato e cubra com água fervente.",
+        "transcript": "Quando estiver pronto coloque o pato e cubra com água fervente"
+    },
+    "pt_test_0/common_voice_pt_27020279.mp3": {
+        "ground": "Eu tenho um recibo?",
+        "transcript": "Eu tenho um recibo"
+    },
+    "pt_test_0/common_voice_pt_27020282.mp3": {
+        "ground": "E ela tem uma seção transversal de pessoas que trabalham para ela.",
+        "transcript": "e ela tem uma sessão transversal de pessoas que trabalham para ela"
+    },
+    "pt_test_0/common_voice_pt_27020284.mp3": {
+        "ground": "Você está vindo?",
+        "transcript": "você está vindo"
+    },
+    "pt_test_0/common_voice_pt_28617524.mp3": {
+        "ground": "Itamogi",
+        "transcript": "itamogi"
+    },
+    "pt_test_0/common_voice_pt_28617526.mp3": {
+        "ground": "É melhor ser feliz como rico.",
+        "transcript": "é melhor ser feliz como rico"
+    },
+    "pt_test_0/common_voice_pt_28617527.mp3": {
+        "ground": "Lena é tão sensual quanto ele é.",
+        "transcript": "Lena é tão sensual contra ele é"
+    },
+    "pt_test_0/common_voice_pt_28617528.mp3": {
+        "ground": "Você é mais baixo, apenas suas obras são sua memória.",
+        "transcript": "Você é mais baixo apenas suas obras São sua memória"
+    },
+    "pt_test_0/common_voice_pt_28617530.mp3": {
+        "ground": "Raul Soares",
+        "transcript": "Raul Soares"
+    },
+    "pt_test_0/common_voice_pt_27023622.mp3": {
+        "ground": "O amor é cego, mas você pode vê-lo remotamente.",
+        "transcript": "o amor é cego Mas você pode ver o remotamente"
+    },
+    "pt_test_0/common_voice_pt_27023623.mp3": {
+        "ground": "Garanta que os impostos estaduais serão devidamente pagos",
+        "transcript": "garantia impostos estaduais sedã devidamente pagos"
+    },
+    "pt_test_0/common_voice_pt_27023628.mp3": {
+        "ground": "Esse lazer experiencial está positivamente relacionado à criatividade profissional.",
+        "transcript": "esse laser experiencial está positivamente relacionado a criatividade profissional"
+    },
+    "pt_test_0/common_voice_pt_27023633.mp3": {
+        "ground": "Incluirá as empresas indicadas no artigo anterior e todos os seus funcionários.",
+        "transcript": "utilidade empresas indicadas no artigo anterior e todos os seus funcionários"
+    },
+    "pt_test_0/common_voice_pt_27023636.mp3": {
+        "ground": "Suco de uva e água misturam bem.",
+        "transcript": "suco de uva e água misturam bem"
+    },
+    "pt_test_0/common_voice_pt_36468972.mp3": {
+        "ground": "e não o fez sem estudar muito e muito;",
+        "transcript": "e não fez sentido há muito e muito"
+    },
+    "pt_test_0/common_voice_pt_36468973.mp3": {
+        "ground": "Não inveje nada, tente ganhar sozinho.",
+        "transcript": "não Invés nada Tente ganhar sozinho"
+    },
+    "pt_test_0/common_voice_pt_36468999.mp3": {
+        "ground": "o forçado congelamento de salários",
+        "transcript": "o forçado congelamento de salários"
+    },
+    "pt_test_0/common_voice_pt_36469001.mp3": {
+        "ground": "me prendia à revolução cubaname prendia à revolução cubana",
+        "transcript": "me prendia a revolução cubana prendia a revolução cubana"
+    },
+    "pt_test_0/common_voice_pt_36469002.mp3": {
+        "ground": "Bernardo de Souza Amorim",
+        "transcript": "Bernardo de Sousa Amorim"
+    },
+    "pt_test_0/common_voice_pt_29020254.mp3": {
+        "ground": "Nenhum problema ocorreu",
+        "transcript": "nenhum problema ocorreu"
+    },
+    "pt_test_0/common_voice_pt_29020255.mp3": {
+        "ground": "Que saco!",
+        "transcript": "o saco"
+    },
+    "pt_test_0/common_voice_pt_29020256.mp3": {
+        "ground": "O fósforo não é meio tradutor.",
+        "transcript": "o fósforo não é meio tradutor"
+    },
+    "pt_test_0/common_voice_pt_29020257.mp3": {
+        "ground": "Piratininga",
+        "transcript": "piratininga"
+    },
+    "pt_test_0/common_voice_pt_29020258.mp3": {
+        "ground": "Em agosto, a trilha perecedora.",
+        "transcript": "em agosto a trilha processadora"
+    },
+    "pt_test_0/common_voice_pt_27339446.mp3": {
+        "ground": "Detecta as áreas de melhoria e propõe medidas para alcançá-las.",
+        "transcript": "detecta as áreas de melhoria e propõe medidas para alcançáveis"
+    },
+    "pt_test_0/common_voice_pt_27339447.mp3": {
+        "ground": "Esta Comissão pode ser assistida por um jornalista recrutado para o efeito.",
+        "transcript": "esta começou pode ser assistida por um jornalista recrutado para o efeito"
+    },
+    "pt_test_0/common_voice_pt_27339448.mp3": {
+        "ground": "Espero ter me explicado bem.",
+        "transcript": "Espero ter me explicado bem"
+    },
+    "pt_test_0/common_voice_pt_27339449.mp3": {
+        "ground": "Por favor, me perdoe.",
+        "transcript": "por favor me perdoe"
+    },
+    "pt_test_0/common_voice_pt_36856573.mp3": {
+        "ground": "tétano, botulismo, subcutânea, picada, mordida, antibióticos, antimicrobianos",
+        "transcript": "tétano bluetooth subcutânea picada mordida antibióticos anti microbianos"
+    },
+    "pt_test_0/common_voice_pt_36856574.mp3": {
+        "ground": "Empresa Gerencial de Projetos Navais",
+        "transcript": "empresa gerenciais de projetos na paz"
+    },
+    "pt_test_0/common_voice_pt_36856592.mp3": {
+        "ground": "colação",
+        "transcript": "coleção"
+    },
+    "pt_test_0/common_voice_pt_36856594.mp3": {
+        "ground": "imóveis alheios",
+        "transcript": "imóveis alegrias"
+    },
+    "pt_test_0/common_voice_pt_26427734.mp3": {
+        "ground": "Então ele falou de novo.",
+        "transcript": "Então ele falou de novo"
+    },
+    "pt_test_0/common_voice_pt_26427735.mp3": {
+        "ground": "Bate-papo",
+        "transcript": "bate-papo"
+    },
+    "pt_test_0/common_voice_pt_26427736.mp3": {
+        "ground": "Você me conhece?",
+        "transcript": "você me conhece"
+    },
+    "pt_test_0/common_voice_pt_26427737.mp3": {
+        "ground": "Camilo pegou-lhe nas mãos, e olhou para ela sério e fixo.",
+        "transcript": "Camilo pegou e nas mãos e olhou para ela a sério e fixo"
+    },
+    "pt_test_0/common_voice_pt_26427738.mp3": {
+        "ground": "Ajuda que promove o multilinguismo.",
+        "transcript": "ajuda que Promove um tiranossauro"
+    },
+    "pt_test_0/common_voice_pt_19399908.mp3": {
+        "ground": "O homem olhou para o anjo surpreso.",
+        "transcript": "o homem olhou para o âmbito preto"
+    },
+    "pt_test_0/common_voice_pt_19399909.mp3": {
+        "ground": "Ele não podia ajudá-lo.",
+        "transcript": "ele não podia ajudar"
+    },
+    "pt_test_0/common_voice_pt_19399910.mp3": {
+        "ground": "Minha esposa vai ficar comigo a qualquer momento.",
+        "transcript": "minha esposa vai ficar comigo a qualquer momento"
+    },
+    "pt_test_0/common_voice_pt_19399911.mp3": {
+        "ground": "Ela é acusada de roubar um relógio.",
+        "transcript": "ela é acusada de roubar um relógio"
+    },
+    "pt_test_0/common_voice_pt_19399912.mp3": {
+        "ground": "Uma criança está usando uma máscara de snorkel amarela em um banho de espuma",
+        "transcript": "uma criança está usando uma máscara dos Mortos ou amarela em um banco 1"
     }
 }

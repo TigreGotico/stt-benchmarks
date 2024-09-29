@@ -810,5 +810,325 @@
     "test_part_0/20120911-0900-PLENARY-4-en_20120911-09:24:23_11.wav": {
         "ground": "i believe that this will prove to be the most cost effective way to meet the eu air quality standards.",
         "transcript": " I believe this will be proven to be the most cost-effective way to meet the EU air quality standards."
+    },
+    "test_part_0/20170405-0900-PLENARY-14-en_20170405-17:13:42_27.wav": {
+        "ground": "we follow news online order bus tickets make restaurant reservations use maps look for tourist attractions play mobile games and we can stay connected with our colleagues online.",
+        "transcript": " We follow news online, order bus tickets, make restaurant reservations, use the maps, look for tourist attractions, play mobile games, and we can stay connected with the colleagues online."
+    },
+    "test_part_0/20171024-0900-PLENARY-16-en_20171024-16:48:26_2.wav": {
+        "ground": "two thousand and eighteen is the year where preparations for the european elections in two thousand and nineteen will be in full swing and we should take this opportunity to inform citizens of their rights and the impact their vote carries for themselves and for europe as a whole.",
+        "transcript": " 2018 is the year where preparations for the European elections in 2019 will be in full swing and we should take this opportunity to inform citizens of their rights and the impact their vote carries for themselves and for Europe as a whole."
+    },
+    "test_part_0/20090204-0900-PLENARY-10-en_20090204-15:03:55_6.wav": {
+        "ground": "now that is in breach of the rules of procedure where it is clearly stated how speaking time should be allocated.",
+        "transcript": " Now that is in breach of the Rules to Procedure where it is clearly stated how speaking time should be allocated."
+    },
+    "test_part_0/20100210-0900-PLENARY-13-en_20100210-21:01:57_6.wav": {
+        "ground": "what strategy does the commission intend to pursue to enable eu industry to become more competitive?",
+        "transcript": " What strategy does the Commission intend to pursue to enable the EU industry to become more competitive?"
+    },
+    "test_part_0/20170517-0900-PLENARY-19-en_20170517-19:22:35_1.wav": {
+        "ground": "for the last two years we have seen many cases of violation of free competition in the eu in this sector.",
+        "transcript": " For the last two years we have seen many cases of violation of free competition in the EU and the sector."
+    },
+    "test_part_0/20090218-0900-PLENARY-10-en_20090218-15:15:21_22.wav": {
+        "ground": "however at the same time deeper international engagement remains essential.",
+        "transcript": " But at the same time, deeper international engagement remains essential."
+    },
+    "test_part_0/20131024-0900-PLENARY-6-en_20131024-11:38:53_2.wav": {
+        "ground": "we all know at this stage that draft amending budget no six is urgently needed and should therefore be adopted without delay.",
+        "transcript": " We all know at this stage that draft amending budget 6 is urgently needed and should therefore be adopted without delay."
+    },
+    "test_part_0/20160510-0900-PLENARY-16-en_20160510-19:18:26_4.wav": {
+        "ground": "this is for me the paramount perspective.",
+        "transcript": " This is for me the Paramount perspective."
+    },
+    "test_part_0/20170314-0900-PLENARY-15-en_20170314-22:27:42_9.wav": {
+        "ground": "we need spectrum policy to push investment to the vital digital networks and we need to allow innovative services to flexibly gain access to the spectrum and enter the market.",
+        "transcript": " We need spectrum policy to push investments to the vital digital networks. And we need to allow innovative services to flexibly gain access to the spectrum and enter the markets."
+    },
+    "test_part_0/20110707-0900-PLENARY-3-en_20110707-09:00:34_10.wav": {
+        "ground": "the commission has recently adopted the two thousand and twelve plan in order to give the participating member states and charities time to find additional resources to replace the volume that will not be provided at european level.",
+        "transcript": " The Commission has recently adopted the 2012 plan in order to give the participating member states and charities time to find additional resources to replace this volume, the volume that will not be provided at European level."
+    },
+    "test_part_0/20131022-0900-PLENARY-19-en_20131022-19:58:22_10.wav": {
+        "ground": "and why the member states and parliament must put the interests of the people first and not slip into party political infighting. russia's pressure on our eastern partners and now on one of our member states must be resisted at all costs for as this process shows president putin is on the wrong side of history.",
+        "transcript": " and the Member States and Parliament must keep up the interests of the people first and not slip into party political infighting. Russia's pressure on our Eastern partners and now on one of our Member States must be resisted at all costs. For as this process shows, President Putin is on the wrong side of history."
+    },
+    "test_part_0/20201007-0900-PLENARY-en_20201007-16:06:04_4.wav": {
+        "ground": "the digital finance report is a good basis.",
+        "transcript": " And the digital finance report is a good basis."
+    },
+    "test_part_0/20150114-0900-PLENARY-9-en_20150114-20:02:01_1.wav": {
+        "ground": "we also do not need to leave the back door open for a retreat and to go back to business as usual with russia just because we can find excuses to do this.",
+        "transcript": " We also don't need to leave the back doors open for the retreat and to go back to the business as usual with Russia just because we can find some excuses to do this."
+    },
+    "test_part_0/20170301-0900-PLENARY-17-en_20170301-22:05:39_4.wav": {
+        "ground": "this mechanism will allow member states to be aware early enough about non conformity with eu law and to have the commission's expertise on their side.",
+        "transcript": " This mechanism will allow Member States to be aware early enough about non-conformity with the EU law and to have the Commission's expertise on their side."
+    },
+    "test_part_0/20170614-0900-PLENARY-7-en_20170614-11:04:26_21.wav": {
+        "ground": "the decision of the us to go back on its pledge to the green climate fund leaves a major void.",
+        "transcript": " The decision of the US to go back on its pledge to the Green Climate Fund leaves a major void."
+    },
+    "test_part_0/20130416-0900-PLENARY-11-en_20130416-17:53:39_3.wav": {
+        "ground": "in this respect i would like to highlight three key issues.",
+        "transcript": " In this respect, I would like to highlight three key issues."
+    },
+    "test_part_0/20131022-0900-PLENARY-18-en_20131022-18:16:03_0.wav": {
+        "ground": "the principle of free movement does not include supporting or rejecting more immigration.",
+        "transcript": " The principle of free movement does not include supporting or rejecting"
+    },
+    "test_part_0/20180528-0900-PLENARY-18-en_20180528-19:09:33_4.wav": {
+        "ground": "again that was not embraced by the council including the uk government.",
+        "transcript": " Again, that was not embraced by the Council, including the UK Government."
+    },
+    "test_part_0/20150210-0900-PLENARY-12-en_20150210-18:07:04_2.wav": {
+        "ground": "enough pretending that we do not understand who and with whose arms is killing thousands of ukrainians even today.",
+        "transcript": " enough pretending that we don't understand who and with whose arms is killing thousand Ukrainians even today"
+    },
+    "test_part_0/20201007-0900-PLENARY-en_20201007-16:06:04_11.wav": {
+        "ground": "they are working on their own central bank digital currency and at the end of the day the conclusion is the question is not if there will be digital currencies in the future but who will issue and control them?",
+        "transcript": " digital currency. At the end of the day the conclusion is the question is not if there will be digital currencies in the future but who will issue and control them."
+    },
+    "test_part_0/20090402-0900-PLENARY-6-en_20090402-11:21:45_1.wav": {
+        "ground": "independently of the adoption of the ecolabel regulation the commission confirms that it intends to propose a regulation on ecolabelling of fishery products before the end of this year to be mainly based on criteria for sustainable fishing.",
+        "transcript": " Independently of the adoption of the ecolabel regulation, the Commission confirms that it intends to propose a regulation on ecolabelling of fishery products before the end of this year to be mainly based on criteria for sustainable fishing."
+    },
+    "test_part_0/20200914-0900-PLENARY-en_20200914-21:39:43_10.wav": {
+        "ground": "but despite great ambitions we are not yet at that point.",
+        "transcript": " But despite great ambitions, we are not yet at that point."
+    },
+    "test_part_0/20170302-0900-PLENARY-4-en_20170302-11:03:15_2.wav": {
+        "ground": "i do not really understand how the brits will continue to try to convince trading partners on the sustainability issue because we can only convince our partners if we have the weight of the whole european union with its five hundred million people.",
+        "transcript": " and"
+    },
+    "test_part_0/20180613-0900-PLENARY-20-en_20180613-18:45:51_1.wav": {
+        "ground": "the cotonou agreement with the countries of africa the caribbean and the pacific concerns the union's cooperation with seventy eight countries.",
+        "transcript": " The kotono agreement with the countries of Africa the Caribbean and the Pacific concerns the unions cooperation with 78 countries"
+    },
+    "test_part_0/20131022-0900-PLENARY-8-en_20131022-12:52:35_0.wav": {
+        "ground": "madam president your original ruling was correct.",
+        "transcript": " Madam President, your original ruling was correct."
+    },
+    "test_part_0/20120912-0900-PLENARY-9-en_20120912-16:27:37_4.wav": {
+        "ground": "trust me because i was one of the finalists of the presidential elections in.",
+        "transcript": " I was one of the finalists of the presidential elections in 2013."
+    },
+    "test_part_0/20170614-0900-PLENARY-21-en_20170614-21:04:15_4.wav": {
+        "ground": "the report states key aspects fully in line with our opinion about the way europe should deal with platforms clarify platforms' responsibility so that no regulatory frameworks are bypassed because of the digital nature of their activities and further enforce and protect copyright and intellectual property rights online.",
+        "transcript": " The report states key aspect fully in line with our opinion about the way Europe should deal with platforms. Clarify platforms responsibility so no regulatory framework are bypassed because of the digital nature of their activities. Further enforce and protect copyright and intellectual property rights online."
+    },
+    "test_part_0/20101215-0900-PLENARY-15-en_20101215-19:14:45_1.wav": {
+        "ground": "an active and effective european union contributes to the overall security of the euro atlantic area.",
+        "transcript": " An active and effective European Union contributes to the overall security of the Euro-Atlantic area."
+    },
+    "test_part_0/20131021-0900-PLENARY-11-en_20131021-20:03:41_7.wav": {
+        "ground": "to hell!",
+        "transcript": " The hell?"
+    },
+    "test_part_0/20131211-0900-PLENARY-7-en_20131211-13:39:08_6.wav": {
+        "ground": "so i think we should be very cautious in relation to what we do in terms of making any decision to suspend development aid.",
+        "transcript": " So I think we should be very cautious in relation to what we do in terms of making any decision to suspend development aid."
+    },
+    "test_part_0/20180418-0900-PLENARY-21-en_20180418-21:22:13_6.wav": {
+        "ground": "we think the commission and the national competition authorities should focus human and financial resources to get the knowledge and skill to implement the competition rules in the digital economy.",
+        "transcript": " We think the Commission and the National Competitive Authorities should focus human and financial resources to get knowledge and skill to implement the competition rules in the digital economy."
+    },
+    "test_part_0/20170118-0900-PLENARY-9-en_20170118-12:56:05_0.wav": {
+        "ground": "mr president i remember very well the years when we worked together in this house years when there was a real optimism about the european idea and a big engagement for the european project. like others here i hope very much that your presidency can bring back a new dynamic that it can give hope to the citizens about europe",
+        "transcript": " Mr. President, I remember very well the years we have worked together in this House, years where there was a real optimism about the European idea and a big engagement for a European project. And like others here, I hope very much that your presidency can bring back a new dynamic. Let's say give hope to the citizens about Europe."
+    },
+    "test_part_0/20150114-0900-PLENARY-9-en_20150114-20:02:01_7.wav": {
+        "ground": "but to do this we also need to be firm with the ukrainians and tell them that they need to implement their reforms.",
+        "transcript": " But to do this, we also need to be firm with the Koreans and tell them that they need to implement their reforms."
+    },
+    "test_part_0/20131120-0900-PLENARY-6-en_20131120-12:21:31_31.wav": {
+        "ground": "people is the real superpower not the country with tonnes of soldiers and",
+        "transcript": " is the real superpower not the country with tons of soldiers and weapons"
+    },
+    "test_part_0/20170214-0900-PLENARY-14-en_20170214-16:47:35_10.wav": {
+        "ground": "so i hope that this will be completed in the foreseeable future which means maybe two or three months.",
+        "transcript": " So I hope that this will be completed in the foreseeable future. That means maybe two or three months."
+    },
+    "test_part_0/20120912-0900-PLENARY-9-en_20120912-16:27:37_7.wav": {
+        "ground": "romania is an american colony.",
+        "transcript": " Romania is an American colony."
+    },
+    "test_part_0/20170316-0900-PLENARY-5-en_20170316-10:30:44_2.wav": {
+        "ground": "they even plan to shift the elections in russia to celebrate the occupation of crimea.",
+        "transcript": " and they even plan to shift the elections in Russia to celebrate occupation of Crimea."
+    },
+    "test_part_0/20170214-0900-PLENARY-14-en_20170214-16:47:35_6.wav": {
+        "ground": "we have sanctions they should be continued but it is also possible that if russia goes on in this way we will increase the sanctions and have more smart sanctions against russia.",
+        "transcript": " We have sanctions that should be continued, but it is also possible if Russia goes on this way that we increase these sanctions and have more smart sanctions against Russia."
+    },
+    "test_part_0/20090309-0900-PLENARY-13-en_20090309-19:45:58_9.wav": {
+        "ground": "this has not been done.",
+        "transcript": " This has not been done."
+    },
+    "test_part_0/20170516-0900-PLENARY-21-en_20170516-22:38:34_3.wav": {
+        "ground": "one could even execute a transfer just within a few hours around the globe for a very fixed and clear price of eur.",
+        "transcript": " One could even execute a transfer just within few hours around the globe for a very fixed and clear price of 60."
+    },
+    "test_part_0/20140916-0900-PLENARY-17-en_20140916-19:34:26_1.wav": {
+        "ground": "it is clear that we have no time to waste. the new results of the ipcc regarding the scientific basis of climate change leave no room for hesitation.",
+        "transcript": " It is clear that we have no time to waste. The new results of the IPCC recording scientific basis of climate change leave no room for hesitation."
+    },
+    "test_part_0/20141112-0900-PLENARY-12-en_20141112-17:43:58_3.wav": {
+        "ground": "however the focus should be on principles not on specific cases or countries.",
+        "transcript": " However, the focus should be on principles, not on specific cases or countries."
+    },
+    "test_part_0/20180613-0900-PLENARY-15-en_20180613-15:21:04_9.wav": {
+        "ground": "democracy which your nation was so admirably fighting for is in danger.",
+        "transcript": " Democracy your nation was so admirably fighting for is in danger."
+    },
+    "test_part_0/20180612-0900-PLENARY-en_20180612-16:07:56_3.wav": {
+        "ground": "i cite iranian foreign minister zarif no agreement has been reached so we do not have any obligation yet ' and iranian leader ali khamenei nothing has happened yet'.",
+        "transcript": " Iranian Foreign Minister Zarif, no agreement has been reached, so we do not have any obligation yet. Iranian leader Ali Khamenei, nothing has happened yet."
+    },
+    "test_part_0/20131120-0900-PLENARY-6-en_20131120-12:21:31_13.wav": {
+        "ground": "and freedom of speech is enchained.",
+        "transcript": " and freedom of speech is in change."
+    },
+    "test_part_0/20141021-0900-PLENARY-15-en_20141021-21:15:02_8.wav": {
+        "ground": "we here should be a platform for examination debate and most of all for solutions but it is not the european union's function to be both judge and jury in this matter.",
+        "transcript": " and most of all for solutions, but it is not the European Union's function to be both judge and jury in this matter."
+    },
+    "test_part_0/20180911-0900-PLENARY-witholdRO-en_20180911-10:24:55_16.wav": {
+        "ground": "and perhaps since he has been let a little more off the hook he can also adjust his government policies into ones that really and truly listen to the needs of the greek people who are suffering.",
+        "transcript": " And perhaps since he is left a little bit more off the hook that he can also adjust his government policies into one that really truly listen to the needs of the Greek people who are suffering."
+    },
+    "test_part_0/20131022-0900-PLENARY-5-en_20131022-10:04:16_17.wav": {
+        "ground": "we have an accumulation of problems resulting from artificial under budgeting in previous years.",
+        "transcript": " So we have accumulation of problems resulting from the artificial under budgeting in the previous years."
+    },
+    "test_part_0/20200915-0900-PLENARY-en_20200915-12:22:46_2.wav": {
+        "ground": "the lebanese people are sick and tired of having to be resilient and i understand them.",
+        "transcript": " The Lebanese people are sick and tired of having to be resilient. And I understand them."
+    },
+    "test_part_0/20180911-0900-PLENARY-en_20180911-10:24:55_17.wav": {
+        "ground": "they are suffering because of the euro they are suffering because of an eu project that was not prepared to step in for greece and to protect the democratic rights of the greek people.",
+        "transcript": " They're suffering because of the euro. They're suffering because of an EU project that was not prepared to stand in for Greece and to protect the democratic rights of the Greek people."
+    },
+    "test_part_0/20160706-0900-PLENARY-18-en_20160706-19:44:54_3.wav": {
+        "ground": "behind this unbearable brutality there are thousands of stories with names and faces but let me tell you about one today.",
+        "transcript": " Behind this unbearable brutality, there are thousands of stories with name and faces. But let me tell you about one today."
+    },
+    "test_part_0/20150527-0900-PLENARY-14-en_20150527-21:41:31_3.wav": {
+        "ground": "girls are afraid to speak out others dismiss it as a cultural practice and our social services in england the police and the politicians dare not speak up for fear of being labelled racist.",
+        "transcript": " Girls are afraid to speak out. Others dismiss it as a cultural practice. And our social services in England, the police, the politicians, dare not speak up for fear of being labelled racist."
+    },
+    "test_part_0/20100210-0900-PLENARY-6-en_20100210-14:09:41_1.wav": {
+        "ground": "the copenhagen summit was a disappointment in many respects.",
+        "transcript": " The Copenhagen summit was a disappointment in many respects"
+    },
+    "test_part_0/20201008-0900-PLENARY-en_20201008-11:25:14_3.wav": {
+        "ground": "their reliance on the national service law which is in fact modern slavery ensures a fearful and compliant population. their intimidation of any opposition including deadly force should be no longer tolerated. eritrea's foreign policy such as it is serves to destabilise an already desperate region.",
+        "transcript": " Their reliance on the national service law, which is in fact modern slavery, ensures a fearful and compliant population. Their intimidation of any opposition, including deadly force, should be no longer tolerated. Eritrea's foreign policy, such as it is, serves to destabilize an already desperate region."
+    },
+    "test_part_0/20090504-0900-PLENARY-8-en_20090504-17:51:03_6.wav": {
+        "ground": "and as they say in star wars may the fourth be with you.",
+        "transcript": " And as they say in Star Trek, may the fourth be with you."
+    },
+    "test_part_0/20120704-0900-PLENARY-7-en_20120704-12:49:39_4.wav": {
+        "ground": "there are also a few shortcomings.",
+        "transcript": " There are also a few shortcomings."
+    },
+    "test_part_0/20090311-0900-PLENARY-6-en_20090311-11:11:51_3.wav": {
+        "ground": "we need to take some technical measures and things will calm down by themselves and we must express our sympathy to the people who will be hit.",
+        "transcript": " We need to take some technical measures and things will come down by themselves and we must say some sad words to the people who will be hit."
+    },
+    "test_part_0/20090325-0900-PLENARY-8-en_20090325-16:21:59_1.wav": {
+        "ground": "i believe that i speak on behalf of many of us when saying that this notion is mutual.",
+        "transcript": " I believe that I speak on behalf of many of us when saying that this notion is mutual."
+    },
+    "test_part_0/20091215-0900-PLENARY-3-en_20091215-11:08:45_3.wav": {
+        "ground": "the two thousand and nine budget is finished.",
+        "transcript": " in 2009 budget is finished"
+    },
+    "test_part_0/20101020-0900-PLENARY-8-en_20101020-12:45:56_8.wav": {
+        "ground": "one the words other than the united states' should be deleted from the heading and the remarks as decided by the committee on budgets.",
+        "transcript": " The words, others than the United States, should be deleted from the heading and the remarks as decided by the Committee on Budget."
+    },
+    "test_part_0/20090424-0900-PLENARY-7-en_20090424-10:56:37_2.wav": {
+        "ground": "however i believe that in our debate and in everything that we do with afghanistan we have to be very careful how we approach things because afghanistan is a country that has come through a violent repressive religious dictatorship;",
+        "transcript": " I believe that in our debate and in everything that we do with Afghanistan, we have to be very careful how we approach things. Because Afghanistan is a country that comes through a violent, repressive, religious dictatorship."
+    },
+    "test_part_0/20090505-0900-PLENARY-3-en_20090505-09:33:26_9.wav": {
+        "ground": "i hope this will be covered by the universal service directive which is to come in the second half of the year.",
+        "transcript": " I hope this will be covered by the Universal Service Directive, which will come in the second half of the year."
+    },
+    "test_part_0/20090325-0900-PLENARY-5-en_20090325-13:45:33_2.wav": {
+        "ground": "we should not take away the right of free speech on this issue even if i do not agree at all with what he has to say.",
+        "transcript": " But we should not take away the right of free speech in this issue, even if I don't agree at all what he has to say."
+    },
+    "test_part_0/20111115-0900-PLENARY-13-en_20111115-20:22:18_2.wav": {
+        "ground": "we should be proud that other countries emerging economies are joining the team of those who are supporting countries in need and supporting people in need.",
+        "transcript": " And we should be proud of that, that other countries, emerging economies, are joining the team of those who are supporting countries in need, who are supporting people in need."
+    },
+    "test_part_0/20141020-0900-PLENARY-14-en_20141020-18:52:00_23.wav": {
+        "ground": "but it was the country itself being more capable.",
+        "transcript": " But it was the country itself being more capable."
+    },
+    "test_part_0/20140115-0900-PLENARY-15-en_20140115-18:48:29_5.wav": {
+        "ground": "she accepted the fact that citizenship is subject to national jurisdiction but she also said that according to the maastricht treaty and she is right there has to be a direct link.",
+        "transcript": " She accepted the fact that citizenship is a national part of the national jurisdiction. But she also said that according to the Maastricht Treaty, and she is right, there has to be a direct link."
+    },
+    "test_part_0/20170405-0900-PLENARY-14-en_20170405-17:13:42_12.wav": {
+        "ground": "what is the reason for this?",
+        "transcript": " What is the reason for this?"
+    },
+    "test_part_0/20091022-0900-PLENARY-4-en_20091022-10:44:44_1.wav": {
+        "ground": "as if it had given up not only on solving the underlying conflict but also on upholding an increasingly fragile cease fire.",
+        "transcript": " as if it had given up not only on solving the underlying conflict but also on upholding and increasingly fragile ceasefire."
+    },
+    "test_part_0/20090421-0900-PLENARY-17-en_20090421-22:22:06_3.wav": {
+        "ground": "of course there is still a long way to go eliminating discards for example and there are times when the commission still seems to veer towards micro management. i mention here article forty seven of the control regulation at least in its original version. i have often said though that the common fisheries policy is a bit like an oil tanker it takes a considerable time to turn round and i do believe that the control regulation will go a long way to achieving the necessary level playing field where enforcement and sanctions are concerned just as the development of regional advisory councils shall do much to bring improvements in other respects.",
+        "transcript": " Of course, there is still a long way to go, eliminating discards, for example, and there are times when the Commission still seems to veer towards micro-management. I mention here Article 47 of the Control Regulation, at least in its original version. I have often said, though, that the common fisheries policy is a bit like an oil tanker. It takes a considerable time to turn round. And I do believe that the Control Regulation will go a long way to achieving the necessary level playing field where enforcement and sanctions are concerned. Just as the development of regional advisory councils shall do so much to bring improvements in other respects,"
+    },
+    "test_part_0/20091124-0900-PLENARY-8-en_20091124-15:33:57_2.wav": {
+        "ground": "into the portfolio of the new commissioner dealing with fundamental rights?",
+        "transcript": " into the portfolio of the new commissioner dealing with fundamental rights."
+    },
+    "test_part_0/20170703-0900-PLENARY-18-en_20170703-19:41:40_11.wav": {
+        "ground": "in order to improve hiv tb and hcv prevention detection and treatment adherence the commission and the member states need to develop specific programmes and financial support to strengthen work with communities and vulnerable people especially in developing countries. without action and funding we cannot fight against these epidemics.",
+        "transcript": " In order to improve HIV, TB and HCV prevention, detection and treatment adherence, the European Commission and the member states need to develop specific programs and financial support to strengthen work with communities and vulnerable people, especially in developing countries. Without action and funding, we cannot fight against these epidemics."
+    },
+    "test_part_0/20130116-0900-PLENARY-17-en_20130116-22:16:26_13.wav": {
+        "ground": "so i think we should stick to the saying if it ain't broke don't fix it'.",
+        "transcript": " So I think we should stick to the saying, if it's not broke, don't fix it."
+    },
+    "test_part_0/20130416-0900-PLENARY-11-en_20130416-17:53:39_15.wav": {
+        "ground": "it is worth considering whether this system can deliver the desired results for all stakeholders better targeted eu spending.",
+        "transcript": " It is worth considering whether this system can deliver the desired results for all stakeholders, a better targeted use spending."
+    },
+    "test_part_0/20090422-0900-PLENARY-11-en_20090422-15:41:22_4.wav": {
+        "ground": "the second reason is interinstitutional equilibrium.",
+        "transcript": " The second reason is the inter-institutional equilibrium."
+    },
+    "test_part_0/20171025-0900-PLENARY-12-en_20171025-12:47:44_3.wav": {
+        "ground": "it calls upon the commission and the member states to connect and boost efforts towards further sustaining peace and conflict prevention and recalls the worldwide inspiration brought about by the good friday agreement while acknowledging the unprecedented challenges and pressures in the aftermath of the united kingdom two thousand and sixteen referendum.",
+        "transcript": " It calls upon the Commission and the Member States to connect and boost efforts towards further sustaining peace and conflict prevention, and recalls the worldwide inspiration brought about by the Good Friday Agreement while acknowledging the unprecedented challenges and pressures on the aftermath of the United Kingdom 2016 referendum."
+    },
+    "test_part_0/20170216-0900-PLENARY-8-en_20170216-12:04:52_1.wav": {
+        "ground": "we will come to that when we come to the report.",
+        "transcript": " to that when we come to the report."
+    },
+    "test_part_0/20140716-0900-PLENARY-7-en_20140716-10:22:18_9.wav": {
+        "ground": "twenty five there are very large disparities between the youth employment rates in different regions.",
+        "transcript": " There are very large disparities between the youth employment rates in different regions."
+    },
+    "test_part_0/20201021-0900-PLENARY-en_20201021-11:01:41_3.wav": {
+        "ground": "an all ireland labour market and cross border access to services are essential to the lives of thousands of eu nationals living in ireland north and south as well as to the all ireland economy.",
+        "transcript": " An all-Ireland labour market and cross-border access to services are essential to the lives of thousands of EU nationals living in Ireland, North and South, as well as to the all-Ireland economy."
+    },
+    "test_part_0/20150707-0900-PLENARY-4-en_20150707-11:04:10_1.wav": {
+        "ground": "it is not business europe or the american chamber of commerce whose agenda is the basis for this agreement.",
+        "transcript": " It is not business Europe and the American Chamber of Commerce whose agenda is the basis for this agreement."
+    },
+    "test_part_0/20110707-0900-PLENARY-3-en_20110707-09:00:34_8.wav": {
+        "ground": "the proportion of products purchased in the market in relation to the total volume of the plan must reflect their exceptional nature.",
+        "transcript": " and the proportion of products purchased in the market in relation to the total volume of the plant must reflect their exceptional nature."
     }
 }

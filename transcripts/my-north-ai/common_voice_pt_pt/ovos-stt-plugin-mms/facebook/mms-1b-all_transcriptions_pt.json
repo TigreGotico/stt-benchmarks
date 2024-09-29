@@ -110,5 +110,17 @@
     "common_voice_pt_34764164.mp3": {
         "ground": "Se em outubro nunca veio, no mundo da lã não haveria.",
         "transcript": "se alqumo nunca vai no mundo don el nao ouveria"
+    },
+    "common_voice_pt_33868090.mp3": {
+        "ground": "Juruá",
+        "transcript": "junina"
+    },
+    "common_voice_pt_33485045.mp3": {
+        "ground": "Carutapera",
+        "transcript": "quelvui tot beave"
+    },
+    "common_voice_pt_35948822.mp3": {
+        "ground": "Cumprindo obrigações na calunga",
+        "transcript": "comprima pli qa sons nacolong"
     }
 }

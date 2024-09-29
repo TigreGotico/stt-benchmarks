@@ -11666,5 +11666,13 @@
     "pt_test_0/common_voice_pt_19438868.mp3": {
         "ground": "Ele estava tão longe que seu rosto nem era visível.",
         "transcript": "ele estava tao longe que seu rosto nem era visivel"
+    },
+    "pt_test_0/common_voice_pt_19438869.mp3": {
+        "ground": "Acho melhor eu ir embora.",
+        "transcript": "acho melhor eu i embora"
+    },
+    "pt_test_0/common_voice_pt_21289960.mp3": {
+        "ground": "Onde a serra é colocada?",
+        "transcript": "onde a serra e colocada"
     }
 }

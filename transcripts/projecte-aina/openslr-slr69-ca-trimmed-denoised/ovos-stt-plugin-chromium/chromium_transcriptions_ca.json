@@ -134,5 +134,1453 @@
     "caf_09204_01137300851.wav": {
         "ground": "Els Backstreet Boys van ser pioners en la música dirigida a adolescents",
         "transcript": "els va extrick boys van ser pioners en la música dirigida a adolescent"
+    },
+    "caf_08106_00053486754.wav": {
+        "ground": "En Pau Gasol va fer cent punts en un partit",
+        "transcript": "en pau gasol va fer cent punts en un partit"
+    },
+    "caf_04247_01029048725.wav": {
+        "ground": "Francesc Pelagi Briz escriptor del segle dinou és una de les referències de la Renaixença catalana",
+        "transcript": "francesc pel·lògic i gris escriptor del segle dinou és una de les referències de la renaixença catalana"
+    },
+    "caf_06042_01300495268.wav": {
+        "ground": "Taiwan és una de les províncies més poblades de la Xina",
+        "transcript": "taiwan és una de les províncies més poblades de la xina"
+    },
+    "caf_05739_01352347535.wav": {
+        "ground": "El meu amic Pau ven productes d'ortodòncia Proclínic",
+        "transcript": "el meu amic pau vent productes d'ortodòncia però clínic"
+    },
+    "caf_08001_02039573328.wav": {
+        "ground": "La Fundació Jaume Bofill es preocupa molt pels reptes de futur que planteja l'ensenyament",
+        "transcript": "la fundació jaume bou fill es preocupa molt pel reptes de futur que planteja l'ensenyament"
+    },
+    "caf_09204_01447247747.wav": {
+        "ground": "No m'acaba d'agradar la nova cançó de Chenoa",
+        "transcript": "no m'acaba d'agradar la nova cançó de xenoa"
+    },
+    "caf_07245_00661758947.wav": {
+        "ground": "Les cançons de Manel tenen un so especial",
+        "transcript": "les cançons de manel tenen un so especial"
+    },
+    "caf_09204_00760705005.wav": {
+        "ground": "Grace Kelly fou princesa de Mònaco",
+        "transcript": "creix calí fou princesa de mònaco"
+    },
+    "caf_09598_01656537256.wav": {
+        "ground": "Al circuit de Jerez s'hi fan curses de motos",
+        "transcript": "el circuit de hebet s'hi fan curses de motos"
+    },
+    "caf_07803_00321900918.wav": {
+        "ground": "Vaig descobrir Emma Vilarasau a Nissaga de Poder",
+        "transcript": "vaig descobrir emma vinar a sau a nissaga de poder"
+    },
+    "caf_01591_01688844107.wav": {
+        "ground": "Gerblé té unes galetes sense gluten molt bones",
+        "transcript": "jorple té unes galetes sense gluten molt bones"
+    },
+    "caf_07803_01827245785.wav": {
+        "ground": "El seu somni era poder sortir de Botswana i viatjar arreu del món",
+        "transcript": "el seu somni era poder sortir de botswana i viatjà arreu del món"
+    },
+    "caf_09901_01552738065.wav": {
+        "ground": "Albert Malo Navio ha sigut un dels millors esportistes catalans de rugbi",
+        "transcript": "alberg mal un avió ha sigut un dels millors esportistes catalans de rugbi"
+    },
+    "caf_07245_01805283454.wav": {
+        "ground": "Clara Segura ha fet cinema i televisió",
+        "transcript": "clara segura àcid cinema i televisió"
+    },
+    "caf_09598_00350686421.wav": {
+        "ground": "La Cerdanya és una comarca bellíssima repartida entre dos estats",
+        "transcript": "les cerdanya és una comarca bellissima repartida entre dos estats"
+    },
+    "caf_06008_00667781910.wav": {
+        "ground": "Per què has comprat accions de Mercedes-Benz",
+        "transcript": "per què es comprat accions de mercedes benz"
+    },
+    "caf_06008_00514340908.wav": {
+        "ground": "La Terra Alta també és coneguda per la famosa sèrie de televisió",
+        "transcript": "la terra alta també és coneguda per la famosa sèrie de televisió"
+    },
+    "caf_08001_01757395842.wav": {
+        "ground": "Els portàtils d'Acer solen ser els més barats",
+        "transcript": "els portàtils dàfers solen ser els més barats"
+    },
+    "caf_02452_00596496826.wav": {
+        "ground": "Andy Murray és un campió escocès de tennis",
+        "transcript": "andy murray és un campió escocès de tennis"
+    },
+    "caf_06311_01218707661.wav": {
+        "ground": "Els canals de Venècia fan pudor",
+        "transcript": "els canals de venècia fan pudor"
+    },
+    "caf_08106_01785420744.wav": {
+        "ground": "Construcciones Rubau SA s'ha emportat el concurs per construir el mur de Barcelona",
+        "transcript": "construcciones rubal s.a s'han portat el concurs per construir el mur de barcelona"
+    },
+    "caf_06311_00259743237.wav": {
+        "ground": "Per pujar a l'Aconcagua cal estar en forma",
+        "transcript": "per pujar a la concago cal estar en forma"
+    },
+    "caf_06311_00105919616.wav": {
+        "ground": "Francisco González Ledesma amb el pseudònim de Silver Kane va escriure novel·la policíaca",
+        "transcript": "d'esma amb els pseudònim de silver game va escriure novel·la policiaca"
+    },
+    "caf_02452_00786599763.wav": {
+        "ground": "Els Pets fan un pop que entra fàcilment",
+        "transcript": "els pets fan un pop que entre fàcilment"
+    },
+    "caf_03944_01075028398.wav": {
+        "ground": "L'últim dia d'octubre celebrem la castanyada",
+        "transcript": "l'últim dia d'octubre celebrem la castañada"
+    },
+    "caf_09901_02070924282.wav": {
+        "ground": "A La Maquinista pots trobar tot el material necessari per a practicar esports aquàtics",
+        "transcript": "a la maquinista pots trobar tot el material necessari per a practicar esports aquàtics"
+    },
+    "caf_09796_00931758369.wav": {
+        "ground": "Només fa falta que vinguin els directius de Golia",
+        "transcript": "només fa falta que vinguin els directius de golia"
+    },
+    "caf_08106_00156535453.wav": {
+        "ground": "Anirà amb l'Anna a comprar-se un vestit",
+        "transcript": "anirà en l'anna comprat són vestit"
+    },
+    "caf_04247_01034449269.wav": {
+        "ground": "És un deure que tinc pendent llegir algun llibre d'Alegria Julià escriptora de literatura infantil i juvenil",
+        "transcript": "és un deure que tinc pendent llegir algun llibre de alegria julià escriptora de literatura infantil i juvenil"
+    },
+    "caf_07803_00087260106.wav": {
+        "ground": "Els sous a General Labu han augmentat considerablement",
+        "transcript": "els ous de general l'abo han comentat considerablement"
+    },
+    "caf_06942_01008779435.wav": {
+        "ground": "Edimburg és una ciutat fantasmagòrica",
+        "transcript": "avimburg és una ciutat fantasmagòrica"
+    },
+    "caf_09598_01557853101.wav": {
+        "ground": "Crec que a Almenar hi ha una biblioteca",
+        "transcript": "crec que el manar hi ha una biblioteca"
+    },
+    "caf_06942_00553877504.wav": {
+        "ground": "Russell Crowe va néixer a Nova Zelanda",
+        "transcript": "rosa el crou va néixer a nova zelanda"
+    },
+    "caf_03944_00699148680.wav": {
+        "ground": "Hi ha atemptats terroristes diàriament a Kabul",
+        "transcript": "hi ha temptats terroristes diàriament que vol"
+    },
+    "caf_05739_00572132252.wav": {
+        "ground": "L'esposa del Salvador Dalí es deia Gal·la",
+        "transcript": "l'esposa del salvador dalí es deia gala"
+    },
+    "caf_09598_02054211829.wav": {
+        "ground": "A Santa Bàrbara quan trona ningú s'espanta la santa els protegeix",
+        "transcript": "per santa bàrbara quan trona ningú s'espanta la santa els protegeix"
+    },
+    "caf_07245_02095587141.wav": {
+        "ground": "Naomi Watts no és de les que fan qualsevol paper",
+        "transcript": "nau i vots no és de les que fan qualsevol paper"
+    },
+    "caf_05450_01522943968.wav": {
+        "ground": "Hi ha una novel·la molt divertida que explica el projecte boig de pescar salmons al Iemen",
+        "transcript": "hi ha una novel·la molt divertida que explica el projecte boig de pesca salmons olient"
+    },
+    "caf_05450_01319664267.wav": {
+        "ground": "La ballarina Mireia Belmonte s'apunta una nova medalla al seu palmarès",
+        "transcript": "la ballarina mireia belmonte s'apunta una nova medalla al seu palmarès"
+    },
+    "caf_08001_00775879141.wav": {
+        "ground": "Recordo Francesc Ferrer i Gironés amb la seva pipa parlant de la catalanofòbia",
+        "transcript": "recordo francesc ferrer i gironès amb la seva pipa parlant de la catalanofòbia"
+    },
+    "caf_05450_01026840897.wav": {
+        "ground": "Quan veig una bossa Tous sempre penso que és d'imitació",
+        "transcript": "quan veig una bossa tous sempre penso que és limitació"
+    },
+    "caf_09204_02145726299.wav": {
+        "ground": "Ningú no sap qui és Adriana Lima",
+        "transcript": "ningú no sap qui és adrià en el lima"
+    },
+    "caf_08106_01819824613.wav": {
+        "ground": "Vam anar amb tota la família a Port Aventura",
+        "transcript": "vam anar amb tota la família a portaventura"
+    },
+    "caf_02452_01465927361.wav": {
+        "ground": "Armstrong va guanyar el Tour de França set cops consecutius",
+        "transcript": "armstrong va guanyar el tour de frança set cops consecutius"
+    },
+    "caf_02452_00764610498.wav": {
+        "ground": "Radiohead van tocar a l'últim Primavera Sound",
+        "transcript": "ràdio head van tocar l'últim primavera song"
+    },
+    "caf_06008_01549545996.wav": {
+        "ground": "El Gerard tocava la bateria i ho feia bastant bé",
+        "transcript": "el gerard tocava la bateria i ho feia bastant bé"
+    },
+    "caf_05450_00711220078.wav": {
+        "ground": "Els nens surten de l'escola a un quart i mig de cinc",
+        "transcript": "els nens porten de l'escola a un quart i mig de cinc"
+    },
+    "caf_06942_00275353067.wav": {
+        "ground": "Es va presentar al concurs cantant una cançó de Sting",
+        "transcript": "es va presentar al concurs cantant una cançó d'estiu"
+    },
+    "caf_09901_00616991715.wav": {
+        "ground": "Iberia és una bona companyia per els vols transatlàntics",
+        "transcript": "iberia és una bona companyia per als vostres en l'àntics"
+    },
+    "caf_02452_00687620746.wav": {
+        "ground": "Els Bee Gees tenen unes cançons que ja són clàssics de la música contemporània",
+        "transcript": "els vítxis tenen unes cançons que hi ha són clàssics de la música contemporània"
+    },
+    "caf_09796_01736196916.wav": {
+        "ground": "Salvador Gabarró és un empresari català amb molt de poder",
+        "transcript": "salvador gabarró és una empresari català molt de poder"
+    },
+    "caf_06042_01965022394.wav": {
+        "ground": "Als de Palau-solità i Plegamans a l'estiu els agrada plegar aviat de la feina",
+        "transcript": "els de palau-solità i plegamans a l'estiu els agrada aplegar aviat de la feina"
+    },
+    "caf_09204_02136449792.wav": {
+        "ground": "Als Estats Units hi deu haver milers de persones amb el nom Sam Smith",
+        "transcript": "els estats units hi deu haver milers de persones amb el nom samsung"
+    },
+    "caf_02452_00540544353.wav": {
+        "ground": "M'agrada molt el paper de Matt Damon a la pel·lícula L’enginyós senyor Ripley",
+        "transcript": "m'agrada molt el paper de matt damon a la pel·lícula l'enginió senyor ripley"
+    },
+    "caf_01591_02084968507.wav": {
+        "ground": "Molta gent de Reus se'n va a viure a Castellvell del Camp",
+        "transcript": "molta gent de reus se'n va viure a castellvell del camp"
+    },
+    "caf_06042_01699637421.wav": {
+        "ground": "Tan bon punt va sortir de la botiga de Menjar Lleuger ja se sentia més guapo",
+        "transcript": "tant bon punt va sortir de la botiga de menjar lleuger ja se sentia més guapo"
+    },
+    "caf_09598_00911503444.wav": {
+        "ground": "Núria Feliu llegeix La Vanguardia al videoclip de la cançó Paraules",
+        "transcript": "núria feliu llegeix la vanguardia el videoclip de la cançó paraules"
+    },
+    "caf_05147_00398781462.wav": {
+        "ground": "No estic segur si David Checa és el germà de Carles Checa",
+        "transcript": "no estic segur si david txeca és el germà de carles seca"
+    },
+    "caf_06311_00526423362.wav": {
+        "ground": "Vaig comprar una baieta Vileda per rentar l'apartament",
+        "transcript": "vaig comprar una varieta vileda per rentar la apartament"
+    },
+    "caf_03944_01389703705.wav": {
+        "ground": "Esplugues del Llobregat és a l'àrea metropolitana de Barcelona",
+        "transcript": "esplugues del llobregat és a l'àrea metropolitana de barcelona"
+    },
+    "caf_06311_01901549401.wav": {
+        "ground": "Les accions de Carburants Axoil han pujat més d'un cinquanta per cent",
+        "transcript": "les accions de carburants excel en pujat més d'un cinquanta per cent"
+    },
+    "caf_05739_01326141253.wav": {
+        "ground": "La Festa Major de Sant Fost de Campsentelles es celebra a l'estiu",
+        "transcript": "la festa major de sant fost de capcentelles es celebra a l'estiu"
+    },
+    "caf_03655_00943413445.wav": {
+        "ground": "Sant Hipòlit de Voltregà era famós no sé si encara ho és pel seu equip d'hoquei sobre patins",
+        "transcript": "sant hipòlit de voltregà era famós no sé si encara ho és pel seu equip d'hoquei sobre patins"
+    },
+    "caf_09598_01055896941.wav": {
+        "ground": "El concessionari de Volkswagen Audi és tancat els diumenges",
+        "transcript": "el concessionari de volkswagen audi és tancat els diumenges"
+    },
+    "caf_05147_01570301226.wav": {
+        "ground": "Boomerang va ser un número u del grup Manel durant setmanes",
+        "transcript": "bumerang va ser número u del grup manel durant setmanes"
+    },
+    "caf_07245_00422819888.wav": {
+        "ground": "Kate Beckinsale és una actriu anglesa que va sortir a Pearl Harbour",
+        "transcript": "kate beckinsal és una actriu anglesa que va sortir a pearl harbor"
+    },
+    "caf_09901_01667929436.wav": {
+        "ground": "A la Ribera d'Ebre no hi ha costa",
+        "transcript": "a la ribera d'ebre no hi ha costa"
+    },
+    "caf_03655_00576518318.wav": {
+        "ground": "Busco entrar de pràctiques a IBM",
+        "transcript": "busco entrada pràctiques ibm"
+    },
+    "caf_04247_00874641511.wav": {
+        "ground": "Josep Vicenç Foix ens deixà la seva poesia i la pastisseria més famosa de Sarrià",
+        "transcript": "josep vicenç foix ens deixà la seva poesia i la pastisseria més famosa de sarrià"
+    },
+    "caf_03944_01867443919.wav": {
+        "ground": "Va haver de fugir de Manila per problemes de seguretat",
+        "transcript": "va haver de fugir de manila per problemes de seguretat"
+    },
+    "caf_08106_00932969078.wav": {
+        "ground": "M'agrada molt el vestit de les hostesses d’Iberia",
+        "transcript": "m'agrada molt el vestit de la susteses d'ibèria"
+    },
+    "caf_07245_00855600114.wav": {
+        "ground": "Què ha fet Francesc Orella a més de Merlí",
+        "transcript": "què ha fet francesco orella a més de merlí"
+    },
+    "caf_06008_01773365780.wav": {
+        "ground": "Antonio Orozco és un cantant i compositor català amb més de mig milió de còpies venudes arreu de l'Estat",
+        "transcript": "antonio rusca és un cantant i compositor català amb més de mig milió de còpies venudes arreu de l'estat"
+    },
+    "caf_09204_01993677048.wav": {
+        "ground": "La veu greu de Jordi Boixaderas és agradable d'escoltar",
+        "transcript": "la veu greu de jordi buixaderas és agradable d'escoltar"
+    },
+    "caf_04247_00349036878.wav": {
+        "ground": "Fernando Guillén Cuervo no és tan famós com la seva germana Cayetana",
+        "transcript": "fernando guillem cuervo no és tan famós com la seva germana cayetana"
+    },
+    "caf_06008_00998080968.wav": {
+        "ground": "A les dotze del migdia surt de l'escola",
+        "transcript": "a les dotze del migdia surt de l'escola"
+    },
+    "caf_05739_02093559318.wav": {
+        "ground": "Potser t'interessen els ordinadors de Lenovo",
+        "transcript": "potser t'interessen els ordinadors de lenovo"
+    },
+    "caf_07245_00748468194.wav": {
+        "ground": "Somiatruites és una banda masculina de pop català",
+        "transcript": "somiar fruita és una banda masculina de pop català"
+    },
+    "caf_06942_00691808624.wav": {
+        "ground": "Ana Pereira és una rapera compositora i model australiana",
+        "transcript": "anna pereira és una rapera compositora i model australiana"
+    },
+    "caf_05739_00439989226.wav": {
+        "ground": "A vegades Yahoo dóna millors respostes que Google",
+        "transcript": "a vegades yahoo dóna millor respostes que google"
+    },
+    "caf_02452_01154917134.wav": {
+        "ground": "Marc Márquez va guanyar la cinquena cursa consecutiva al Circuit de Montmeló",
+        "transcript": "marc market va guanyar les cinquena cursa consecutiva al circuit de montmeló"
+    },
+    "caf_07245_00290176515.wav": {
+        "ground": "No tothom sap que Emma Watson es va graduar en Història a la Universitat de Brown",
+        "transcript": "no tothom sap que emma watson es va graduar en història a la universitat de brown"
+    },
+    "caf_07803_00285027665.wav": {
+        "ground": "Tinc el nou disc del malagueny Pablo Alborán",
+        "transcript": "tinc el nou disc del malaguen pablo alborant"
+    },
+    "caf_06042_01857121428.wav": {
+        "ground": "No conec a ningú que jugui a La resistència",
+        "transcript": "no conec a ningú que jugui a la resistència"
+    },
+    "caf_06311_01137880742.wav": {
+        "ground": "La fàbrica Danone de Barcelona fa uns iogurts boníssims",
+        "transcript": "la fàbrica de none de barcelona fa uns iogurt boníssims"
+    },
+    "caf_09901_01333666142.wav": {
+        "ground": "Kia motors ha millorat molt la qualitat dels seus cotxes",
+        "transcript": "qui hi ha motors a millorat molt la qualitat dels seus cotxes"
+    },
+    "caf_06042_00109748037.wav": {
+        "ground": "Vigila si llegeixes massa La Vanguardia et pots tornar com ells",
+        "transcript": "vigila si llegeixes massa la vanguardia et pots tornar com ells"
+    },
+    "caf_01591_01010851779.wav": {
+        "ground": "Em van cancel·lar el vol a Nova Delhi",
+        "transcript": "en bon cancel·lòbola no model-li"
+    },
+    "caf_09598_01043071328.wav": {
+        "ground": "Tota la família ha quedat per celebrar el setè aniversari del Teo",
+        "transcript": "tota la família ha quedat per celebrarà el setè aniversari del teu"
+    },
+    "caf_05450_01200350978.wav": {
+        "ground": "Pots comprar articles per a la llar a preus reduïts a Privàlia",
+        "transcript": "pots comprar articles per a la llar a preus reduïts a privàlia"
+    },
+    "caf_04247_01555652335.wav": {
+        "ground": "L'equip del meu poble juga contra el Sant Gregori la final de tercera regional",
+        "transcript": "l'equip del meu poble juga contra el sant gregori la final de tercera regional"
+    },
+    "caf_06942_00263966201.wav": {
+        "ground": "Chris Evans és un actor estatunidenc conegut per participar en Els quatre fantàstics",
+        "transcript": "cris evans és un actor estatunidenc conegut per participar en els quatre fantàstics"
+    },
+    "caf_07803_01345202714.wav": {
+        "ground": "Els de Sabadell tenen un centre comercial",
+        "transcript": "els de sabadell tenen un centre comercial"
+    },
+    "caf_09901_01683665294.wav": {
+        "ground": "El Parc Nacional de Banff és tan gran que necessites una setmana per veure'l tot",
+        "transcript": "el parc nacional d'avald és tan gran que necessites una setmana per veure el tot"
+    },
+    "caf_09901_00826915915.wav": {
+        "ground": "El veí del cinquè va començar a fer soroll a dos quarts de quatre de la matinada",
+        "transcript": "el veí del cinquè va començar a fer soroll a dos quarts de quatre de la matinada"
+    },
+    "caf_04247_00719683106.wav": {
+        "ground": "Sempre hi ha caravana al peatge de Cardedeu",
+        "transcript": "sempre hi ha caravana el peatge de cardedeu"
+    },
+    "caf_09598_01736909789.wav": {
+        "ground": "Calzedònia controla el mercat de la roba interior",
+        "transcript": "qualsevònia controla el mercat de la roba interior"
+    },
+    "caf_07803_01281175330.wav": {
+        "ground": "Joaquim Vicens Gironella va ser un autodidacta d'això que en diuen art marginal i va treballar el suro",
+        "transcript": "joaquim vicenç i ronella va ser un autodidacte d'això que en diuen arm marginal i va treballar al suro"
+    },
+    "caf_03655_00316614511.wav": {
+        "ground": "La tercera ciutat més important d'Irlanda del Nord és Lisburn situada al sud-oest de Belfast",
+        "transcript": "la tercera ciutat més important d'irlanda del nord és lisburn situada al sud-oest de belfast"
+    },
+    "caf_09204_00671815070.wav": {
+        "ground": "El raper Psy és conegut per fer un videoclip molt surrealista amb un ball fàcil d'imitar",
+        "transcript": "el raper si és conegut per fer un videoclip molt surrealista amb un ball fàcil limitar"
+    },
+    "caf_09598_00938839195.wav": {
+        "ground": "El primer cotxe del meu pare va ser un Fiat",
+        "transcript": "el primer cotxe del meu pare va ser un fiat"
+    },
+    "caf_03655_00750650652.wav": {
+        "ground": "Si Inoxcenter no canvia d'administrador pot arribar a fer fallida",
+        "transcript": "si no exempta no canvia d'administrador pot arribar a fer fallida"
+    },
+    "caf_07245_00410180216.wav": {
+        "ground": "El cantant de Jarabe de Palo Pau Donés surt en un capítol de Ventdelplà",
+        "transcript": "el cantant de jarabe de palo pau d'oners surten un capítol de venda el pla"
+    },
+    "caf_01591_02123124959.wav": {
+        "ground": "Quina moneda es fa servir a Bulgària",
+        "transcript": "qui no monedes for servir a vulgària"
+    },
+    "caf_01591_00160215444.wav": {
+        "ground": "Si viatges al Japó hauries de provar de sopar al restaurant de la Ruscalleda",
+        "transcript": "si viatges al japó hauries de provada suport al restaurant de la ruscalleda"
+    },
+    "caf_09796_01446470350.wav": {
+        "ground": "El Barça va fitxar en Valdés el 1995",
+        "transcript": "el barça va fitxar amb baldes al mil nou-cents noranta-cinc"
+    },
+    "caf_05147_00431535031.wav": {
+        "ground": "La vinya domina el paisatge a Sant Llorenç d'Hortons",
+        "transcript": "la vinya domina el paisatge a sant llorenç d'hortons"
+    },
+    "caf_06042_01888449203.wav": {
+        "ground": "L'arxipèlag Midway és un atol que depèn dels Estats Units situat a l'oceà Pacífic a mig camí entre les Filipines i Califòrnia",
+        "transcript": "l'arxipèlag midway és un atol que depèn dels estats units situat a l'oceà pacífic a mig camí inter les filipines i califòrnia"
+    },
+    "caf_07245_00935926224.wav": {
+        "ground": "A la meva cunyada li fa molta gràcia la Rosa Maria Sardà",
+        "transcript": "a la meva cunyiada li fa molta gràcia la rosa maria cerdà"
+    },
+    "caf_08001_01488311950.wav": {
+        "ground": "David Meca neda com un dofí",
+        "transcript": "david metge neda com un dofí"
+    },
+    "caf_04247_00256417305.wav": {
+        "ground": "És una pica Duravit preciosa",
+        "transcript": "és una pica duravit preciosa"
+    },
+    "caf_05147_01789479245.wav": {
+        "ground": "Vaig haver de fer una auditoria a la fàbrica Rocío del País Basc",
+        "transcript": "vaig haver de fer una auditoria a la fàbrica rocío del país basc"
+    },
+    "caf_07245_01492527149.wav": {
+        "ground": "La cantant María Paredes ha hagut de cancel·lar la seva gira a causa d’una greu malaltia",
+        "transcript": "la cantant maria paredes hagut de cancel·lar la seva gira a causa d'una greu malaltia"
+    },
+    "caf_09901_00142597702.wav": {
+        "ground": "Quant són cent noranta-vuit graus centígrads en graus Kelvin",
+        "transcript": "on són sent noranta vuit graus antegrats en graus kelvin"
+    },
+    "caf_03655_00472835288.wav": {
+        "ground": "El primer treball de la meva filla va ser a Ibèria",
+        "transcript": "el primer treball de la meva filla va ser ibèria"
+    },
+    "caf_06008_00185268619.wav": {
+        "ground": "El 2022 és un any ridícul té tres aneguets",
+        "transcript": "el dos mil vint-i-dos és un any ridícul té tres en aquests"
+    },
+    "caf_04247_01112962694.wav": {
+        "ground": "A Caldes d'Estrac no s'hi pot aparcar",
+        "transcript": "a caldes d'estrat no s'hi pot aparcar"
+    },
+    "caf_09598_01774699163.wav": {
+        "ground": "Vaig estar prenent el probiòtics d’Almirall dos mesos",
+        "transcript": "vaig estar prenent els probiòtics del mirall dos mesos"
+    },
+    "caf_06942_01094855870.wav": {
+        "ground": "Josep Maria Mainat és el creador del programa de cerca de talent Operación Triunfo",
+        "transcript": "josep maria mainat és el creador del programa de cerca de talent operación triunfo"
+    },
+    "caf_06311_01713290825.wav": {
+        "ground": "El Baix Llobregat està ple de fàbriques",
+        "transcript": "el baix llobregat està ple de fàbriques"
+    },
+    "caf_09901_01860187089.wav": {
+        "ground": "Al meu pare li agradava repetir els poemes de Juan Goytisolo",
+        "transcript": "al meu pare li agradava a repetir els poemes de juan guiti solo"
+    },
+    "caf_04247_01099476400.wav": {
+        "ground": "Ma mare va viure durant un temps a l'Alt Urgell però ara no sé ben bé en quin poble",
+        "transcript": "ma mare va viure durant un temps a l'alt urgell però ara no sé ben bé en quin poble"
+    },
+    "caf_06042_01496713991.wav": {
+        "ground": "Fa massa calor per anar a Abu Dhabi de vacances",
+        "transcript": "fa massa calor per anar abu dhabi de vacances"
+    },
+    "caf_09796_01569079230.wav": {
+        "ground": "Hi ha molt restaurants de sushi a Akita",
+        "transcript": "hi ha molt restaurant de sushi a àguita"
+    },
+    "caf_08106_01109018206.wav": {
+        "ground": "Visitaré Israel l’any que ve per entendre els problemes de la zona",
+        "transcript": "visitaré israel l'any que ve per entendre els problemes de la zona"
+    },
+    "caf_08001_01755534840.wav": {
+        "ground": "Per Sant Jordi el meu marit es va oblidar de la meva rosa",
+        "transcript": "per sant jordi el meu marit es va oblidar de la meva rosa"
+    },
+    "caf_06311_00629787361.wav": {
+        "ground": "Clementina Arderiu fou una gran poeta",
+        "transcript": "clementina arderíu fou una gran poeta"
+    },
+    "caf_07803_01709297489.wav": {
+        "ground": "No sé si Adriana Torres recordarà aquella copa que vam compartir al Coliseum una nit d'agost amb pluja torrencial",
+        "transcript": "no sé si adriana torres recordarà aquella copa que van compartir alcoholiseum una nit d'agost amb pluja torrencial"
+    },
+    "caf_05147_00655687438.wav": {
+        "ground": "És difícil trobar feina als cinquanta-sis anys",
+        "transcript": "és difícil trobar feina als cinquanta-sis anys"
+    },
+    "caf_03655_01184685734.wav": {
+        "ground": "Fernando Maristany i Guasch va ser un editor important del primer terç del segle passat i va conrear la poesia",
+        "transcript": "fernando maristani guest va ser un editor important del primer terç del segle passat i va conrear la poesia"
+    },
+    "caf_05739_00921359741.wav": {
+        "ground": "Quan em pentina Eduard Barbany em sento bonica",
+        "transcript": "quan em pentina eduard verbany amb cinto bonica"
+    },
+    "caf_05147_00853495662.wav": {
+        "ground": "Què he de fer per guanyar deu milions d'euros",
+        "transcript": "què hi va fer per guanyar deu milions d'euros"
+    },
+    "caf_06008_02049957745.wav": {
+        "ground": "Els diumenges l'entrada al museu del Louvre és gratuïta però hi ha molta cua",
+        "transcript": "els diumenges l'entrava el museu del louvre és gratuïta però hi ha molta cua"
+    },
+    "caf_05147_00188289525.wav": {
+        "ground": "Compro xampú de Naturalia per tenir els cabells més bonics",
+        "transcript": "compro xampuda naturalia per tenir els cabells més bonics"
+    },
+    "caf_07245_00055327967.wav": {
+        "ground": "Els moviments pèlvics de Beyoncé són poc ortodoxos",
+        "transcript": "els moviments pèlvics de vell on ser són poc ortodo"
+    },
+    "caf_06942_00543163183.wav": {
+        "ground": "Quimi Portet sempre serà recordat per la seva cançó La Rambla",
+        "transcript": "qui ni portet sempre serà recordat per la seva cançó la rambla"
+    },
+    "caf_05147_01100735648.wav": {
+        "ground": "És la sisena de la llista",
+        "transcript": "és la sisena de la llista"
+    },
+    "caf_07245_00138759247.wav": {
+        "ground": "Lluís Homar viatja amb transport públic",
+        "transcript": "lluís humà viatge amb transport públic"
+    },
+    "caf_02452_00581673141.wav": {
+        "ground": "Alexa Chung és una model anglesa de trenta-dos anys",
+        "transcript": "alexa jung és una model anglesa de trenta-dos anys"
+    },
+    "caf_09598_01571060748.wav": {
+        "ground": "El personal de Badalona Serveis Assistencials ens ajuda molt a cuidar de l'àvia Júlia",
+        "transcript": "el personal de badalona serveis assistencials ens ajuda molt a cuidar de l'àvia júlia"
+    },
+    "caf_03944_00863607452.wav": {
+        "ground": "Acciona és líder en infraestructures energies renovables industrial aigua i serveis",
+        "transcript": "acciona és líder infraestructures energia renovables i industrial aigua i serveis"
+    },
+    "caf_07803_01687705198.wav": {
+        "ground": "Aniré a buscar-te a la biblioteca de Montornès del Vallès",
+        "transcript": "anireu buscar-te a la biblioteca de montornès del vallès"
+    },
+    "caf_06042_01086952344.wav": {
+        "ground": "El Joan està treballant amb un contracte temporal a Cartonatges Miquel Petit",
+        "transcript": "el joan està treballant amb un contracte temporal a cartonatges miquel petit"
+    },
+    "caf_05739_01944803814.wav": {
+        "ground": "Gonvauto és una empresa de components d'automoció de matriu espanyola i àmbit d'actuació mundial",
+        "transcript": "gombouto és una empresa de components d'automoció d'emetriu espanyola hi ha àmbit d'actuació mundial"
+    },
+    "caf_09796_01292499131.wav": {
+        "ground": "L'aeroport d'Alguaire està tan buit com el de Castelló",
+        "transcript": "l'aeroport delguaire està tan buit com el de castelló"
+    },
+    "caf_03655_00257911623.wav": {
+        "ground": "Has vist el tràiler de la nova pel·lícula de Marvel Studios",
+        "transcript": "és vist el tràiler de la nova pel·lícula de mar de l'estudiós"
+    },
+    "caf_09598_00939571617.wav": {
+        "ground": "Per anar cap al Solsonès has d'agafar la segona sortida a la dreta",
+        "transcript": "per anar cap al solsonès has d'agafar la segona sortida a la dreta"
+    },
+    "caf_05450_00776003790.wav": {
+        "ground": "El meu oncle treballa al polígon industrial de Torrefarrera",
+        "transcript": "el meu un clar treballa el polígon industrial de torre ferrera"
+    },
+    "caf_06008_01260962051.wav": {
+        "ground": "Veig camions de Salvat Logística per tot arreu",
+        "transcript": "veig camions de salvat logística per tot arreu"
+    },
+    "caf_07803_00702586387.wav": {
+        "ground": "Si vas a Vic no et miris el melic",
+        "transcript": "si vas a vic no et mires el melic"
+    },
+    "caf_09204_00358928904.wav": {
+        "ground": "Diuen que John Garcia li ha posat les banyes a la Beyoncé",
+        "transcript": "viu en que jon garcia li ha posat les banyes a l'avilloncer"
+    },
+    "caf_04247_00431416571.wav": {
+        "ground": "La corrupció impera a Kao Corporation",
+        "transcript": "la corrupció impera a cau corporation"
+    },
+    "caf_03944_00912195384.wav": {
+        "ground": "A Suïssa els joves poden comprar cervesa quan tenen setze anys",
+        "transcript": "els suïssa el jove es poden comprar cervesa quan tenen setze anys"
+    },
+    "caf_03655_01527814652.wav": {
+        "ground": "Apple està fent una promoció dos per un en portàtils",
+        "transcript": "apoll està fent una promoció d'es per un emportàtils"
+    },
+    "caf_09204_00585067546.wav": {
+        "ground": "Katy Perry es va fer famosa quan va cantar que havia fet un petó a una noia i li havia agradat",
+        "transcript": "qui té perri es va fer famosa quan va cantar que havia fet un petó una noia i li havia agradat"
+    },
+    "caf_08106_02110673551.wav": {
+        "ground": "Afganistan és un país preciós d'on ens arriben massa males notícies",
+        "transcript": "afganistan és un país preciós don ens arriben massa males notícies"
+    },
+    "caf_04247_00963194054.wav": {
+        "ground": "No és recomanable beure alcohol a l’Iran",
+        "transcript": "no és recomanable veure alcohol a l'iran"
+    },
+    "caf_09598_00182097463.wav": {
+        "ground": "La revista Vallesos costa tres euros",
+        "transcript": "la revista bellesos costa tres euros"
+    },
+    "caf_01591_01104074431.wav": {
+        "ground": "Repsol va fer una crisi fa uns quants anys",
+        "transcript": "repsol va fer una crisi fonts quants anys"
+    },
+    "caf_09598_00193126673.wav": {
+        "ground": "Són les dues i cinc minuts",
+        "transcript": "són les dues i cinc minuts"
+    },
+    "caf_03655_01689104158.wav": {
+        "ground": "El cava Canals i Nubiola es ven a tot Europa",
+        "transcript": "el cava canals innovioles ben a tota europa"
+    },
+    "caf_01591_02082410176.wav": {
+        "ground": "Emtisa també coneguda com a Estampacions Metàl·liques i Transformats Industrials té la seva seu a Sant Andreu de la Barca",
+        "transcript": "hemtissa també coneguda com a estampacions metàl·liques i transformats industrials té la seva seu a sant andreu de la barca"
+    },
+    "caf_09598_01404999702.wav": {
+        "ground": "El creixement de Mataró capital del Maresme pateix per la seva proximitat a Barcelona",
+        "transcript": "el creixement de mataró capital del maresme pateix per la seva proximitat a barcelona"
+    },
+    "caf_01591_01664005753.wav": {
+        "ground": "La família de Francesc Ferrer Ferret va fer negocis a l'Havana",
+        "transcript": "la família de francesc ferrer i ferret va fer negocis a la bona"
+    },
+    "caf_09204_00920141848.wav": {
+        "ground": "Encara no estic segur que m'agradi el nou single d'Ariana Grande",
+        "transcript": "encara no estic segur que m'agradi el nou singel d'ariana grande"
+    },
+    "caf_03655_02009371738.wav": {
+        "ground": "Eslovàquia és a l'est de Txèquia",
+        "transcript": "eslovàquia és a l'est de txèquia"
+    },
+    "caf_03944_01333553430.wav": {
+        "ground": "Nintendo ha generat més d'un trilió de dòlars amb el seu nou joc",
+        "transcript": "nintendo ha generat més d'un trilió de dòlars amb el seu nou joc"
+    },
+    "caf_05739_00046601907.wav": {
+        "ground": "Josep Esteve i Seguí era farmacèutic i també escriptor folklorista català",
+        "transcript": "josep esteve i seguir era farmacèutic i també escriptor culturista català"
+    },
+    "caf_08106_01424861247.wav": {
+        "ground": "El bosc de Cornellà del Terri és ple d'alzines",
+        "transcript": "el bosc de cornellà del terri és ple d'alzines"
+    },
+    "caf_01591_01254327004.wav": {
+        "ground": "A Sant Andreu de Llavaneres hi ha moltes cases modernistes de principis del segle xx",
+        "transcript": "a sant andreu de llavaneres hi ha moltes cases modernistes de principis del cicle vint"
+    },
+    "caf_01591_01193994422.wav": {
+        "ground": "LG presentarà la seva nova línia de mòbils al Congrés de Mòbils de Barcelona",
+        "transcript": "eleger presentarà la seva nova línia de mòbils al congrés de mòbils de barcelona"
+    },
+    "caf_05147_00165437925.wav": {
+        "ground": "L'autor de la novel·la El domador de puces és Francesc Valls-Calzada",
+        "transcript": "l'autor de la novel·la el domador de puces és francesc valls calzada"
+    },
+    "caf_09598_00500823778.wav": {
+        "ground": "A Ernest Ventós van tots perfumats",
+        "transcript": "ernest ventós ven tots perfumats"
+    },
+    "caf_03944_02059664261.wav": {
+        "ground": "Perpinyà és al Rosselló",
+        "transcript": "perpinyà és el rosselló"
+    },
+    "caf_03655_01367479450.wav": {
+        "ground": "Nyutela és una xarxa telemàtica i Nutella una pasta de cacau",
+        "transcript": "ni hotel·la és una xarxa de la màtica i nutella una pasta de cacau"
+    },
+    "caf_08106_00775532359.wav": {
+        "ground": "Vaig coincidir amb Gala González en una discoteca i vaig arribar a parlar-hi una bona estona",
+        "transcript": "vaig coincidir amb gala gonzález en una discoteca i vaig arribar a parlar-hi una bona estona"
+    },
+    "caf_09598_01176527584.wav": {
+        "ground": "Aquesta camisa de Bimba Bosé costa dos-cents euros",
+        "transcript": "aquesta camisa de bimba bocè costa dos-cents euros"
+    },
+    "caf_09796_01140801998.wav": {
+        "ground": "El meu amic Pere viu a prop del circuit de Silverstone i s'ha comprat un abonament anual",
+        "transcript": "el meu amic pere viu a prop del circuit de silverstone i s'ha comprat una bona menta anual"
+    },
+    "caf_09796_01116798518.wav": {
+        "ground": "A la Pobla de Montornès hi ha moltes oliveres i garrofers",
+        "transcript": "a la pobla de montornès hi ha moltes oliveres i garrofers"
+    },
+    "caf_06008_01409344369.wav": {
+        "ground": "Tot visitant el castell de Stirling vaig tenir molts problemes per entendre l'accent anglès que parlava el guia",
+        "transcript": "tot visitant el castell d'estirling vaig tenir molts problemes per entendre l'accin anglès que parlava el guia"
+    },
+    "caf_08001_00159796658.wav": {
+        "ground": "Càrnica Bataller és el meu negoci familiar",
+        "transcript": "carn i que bataller és el meu negoci familiar"
+    },
+    "caf_02452_00482051256.wav": {
+        "ground": "Brooklyn Beckham és tan ben plantat com el seu pare",
+        "transcript": "brooklyn becamp és tan ben plantat com el seu pare"
+    },
+    "caf_09901_00342263551.wav": {
+        "ground": "S'ha fet unes analítiques a l'Etxebarne i li han sortit bé",
+        "transcript": "s'ha fet una sanalítiques a l'eixivarne i li han sortit bé"
+    },
+    "caf_03944_01531264478.wav": {
+        "ground": "Tan grat li era el seu ofici que fins al setantè aniversari es va resistir a deixar la feina",
+        "transcript": "tan grat i era el seu ofici que fins al setanta aniversari es va resistia deixar la feina"
+    },
+    "caf_09901_01294799320.wav": {
+        "ground": "Quina moto porta el Carles Checa",
+        "transcript": "quina moto porta el carles txeca"
+    },
+    "caf_09598_00908876110.wav": {
+        "ground": "Els insults del Vegeta són graciosos",
+        "transcript": "els insults del vegeta són graciosos"
+    },
+    "caf_03944_01004880161.wav": {
+        "ground": "Miguel Bosé va ser un mite del seu temps",
+        "transcript": "miguel bocí va ser un mite del seu temps"
+    },
+    "caf_07803_01822630119.wav": {
+        "ground": "Mostra'm notícies recents sobre Pau Gasol",
+        "transcript": "mostren notícies recents sobre pau gasol"
+    },
+    "caf_07245_01446476122.wav": {
+        "ground": "L'actuació de Lucy Liu a Kill Bill és com a mínim memorable",
+        "transcript": "l'actuació de l'ús silviu a quillville és com a mínim memorable"
+    },
+    "caf_07803_01290802900.wav": {
+        "ground": "L'última vegada que vaig canviar el frigorífic el vaig comprar a Frigorífics Cornellà",
+        "transcript": "l'última vegada que vaig canviar el frigorífic el vaig comprar a frigorífics cornellà"
+    },
+    "caf_03655_00375751338.wav": {
+        "ground": "Ferran Adrià va aconseguir ser el millor cuiner del món",
+        "transcript": "ferran no diria va aconseguir ser el millor cuiner del món"
+    },
+    "caf_07803_00421327678.wav": {
+        "ground": "Alexandre Galí va ser un pedagog renovador que va impulsar el model d'escola activa",
+        "transcript": "alexandre dalí va ser un pedagog renovador que va impulsar el model d'escola activa"
+    },
+    "caf_09598_00059226638.wav": {
+        "ground": "Madrid és tan gran que necessita dues frases",
+        "transcript": "madrid és tan gran que necessita dues frases"
+    },
+    "caf_06311_01544586750.wav": {
+        "ground": "Vodafone és el patrocinador de la volta al món en motocicleta",
+        "transcript": "vodafone és el patrocinador de la volta al món amb motocicleta"
+    },
+    "caf_06942_01639983020.wav": {
+        "ground": "El més interessant de Prudenci Bertrana era la seva explicació de l'entorn i la història",
+        "transcript": "el més interessant de prudència bertrana era la seva explicació de l'entorn i la història"
+    },
+    "caf_06008_00783036152.wav": {
+        "ground": "El viatge a l’Índia passa per Agra abans de pujar cap al nord",
+        "transcript": "el viatge a l'índia passa per agre abans de pujar cap al nord"
+    },
+    "caf_09204_01747649427.wav": {
+        "ground": "Michael Phelps és molt alt fa un metre noranta-tres centímetres",
+        "transcript": "michael phelps és molt alt fa un metre noranta-tres centímetres"
+    },
+    "caf_09598_02114713604.wav": {
+        "ground": "Molts turistes porten càmeres de la marca Canon",
+        "transcript": "molts turistes porten càmeres de la marca cànon"
+    },
+    "caf_06008_01082651231.wav": {
+        "ground": "Quin tros de dona que és Penélope Cruz",
+        "transcript": "quin tros de dona que és penelope cruz"
+    },
+    "caf_09901_01874458178.wav": {
+        "ground": "Vaig trucar a Tèrmic Calefacció perquè reparessin la caldera",
+        "transcript": "vaig trucar a tèrmic calefacció perquè apareixin la caldera"
+    },
+    "caf_03655_00136196394.wav": {
+        "ground": "El meu cosí viu a Cerdanyola del Vallès amb la seva dona",
+        "transcript": "el meu cosí viu a cerdanyola del vallès amb la seva dona"
+    },
+    "caf_05147_00181943144.wav": {
+        "ground": "L'Hotel Calella és davant del mar",
+        "transcript": "l'hotel calella és davant del mar"
+    },
+    "caf_03655_00585040898.wav": {
+        "ground": "Calaf es troba a la Catalunya central",
+        "transcript": "calaf es troba la catalunya central"
+    },
+    "caf_07245_01386888421.wav": {
+        "ground": "La televisió costa nou-cents setanta-cinc euros",
+        "transcript": "la televisió costa nou-cents setanta-cinc euros"
+    },
+    "caf_09598_01211689456.wav": {
+        "ground": "Els turistes poden passar la nit a l'impressionant castell de Cardona",
+        "transcript": "els turistes poden passar la nit a l'impressionant castell de cardona"
+    },
+    "caf_09204_01960214712.wav": {
+        "ground": "Twiggy era una model molt prima de l'època dels meus pares",
+        "transcript": "tuïdi era una model molt prima de l'època dels nous pares"
+    },
+    "caf_09901_00531472104.wav": {
+        "ground": "Juan Domínguez va tenir una polèmica amb la família reial",
+        "transcript": "cuando mingues va tenir una polèmica amb la família reial"
+    },
+    "caf_07803_00620371221.wav": {
+        "ground": "Últimament Pearson fa molt bons llibres per a l'ensenyament de l'anglès com a llengua estrangera",
+        "transcript": "últimament pearson fa molt bons llibres per a l'ensenyament de l'anglès com a llengua estrangera"
+    },
+    "caf_05450_00248228552.wav": {
+        "ground": "Santa Coloma de Queralt es troba a la dreta del riu Gaià",
+        "transcript": "santa coloma de queralt es troba a la dreta del riu gaià"
+    },
+    "caf_03655_01312900693.wav": {
+        "ground": "Avinyó és una població de poc més de 2 200 habitants",
+        "transcript": "avinyó és una població de poc més de dos mil dos-cents habitants"
+    },
+    "caf_08001_00355705630.wav": {
+        "ground": "Canterbury té una de les catedrals més famoses de les Illes Britàniques",
+        "transcript": "quan per morir té una de les catedrals més famoses de les illes britàniques"
+    },
+    "caf_08001_00740769122.wav": {
+        "ground": "Castellet i la Gornal és a tocar del parc del Foix",
+        "transcript": "castellet i la gornal és a tocar del parc del furt"
+    },
+    "caf_03944_01866555575.wav": {
+        "ground": "Jo pràcticament no engego la televisió quan tinc una estona miro algun vídeo al Youtube",
+        "transcript": "jo pràcticament no engego la televisió quan tinc una estona miro algun vídeo youtube"
+    },
+    "caf_08106_00290995431.wav": {
+        "ground": "Quan arribi als noranta anys m'asseuré a veure com passa la vida",
+        "transcript": "quan arribi els noranta anys messauré a veure com passa la vida"
+    },
+    "caf_07803_00997901042.wav": {
+        "ground": "En Martí arriba a l'aeroport a les quatre",
+        "transcript": "en martí arriba l'aeroport a les quatre"
+    },
+    "caf_09901_00294726752.wav": {
+        "ground": "L'any dos-cents cinquanta-tres després de Crist va passar alguna cosa a Roma",
+        "transcript": "l'any dos cent cinquanta-tres després de crist va passar alguna cosa a roma"
+    },
+    "caf_08001_01430795303.wav": {
+        "ground": "El día del watusi és un llibre de Francisco Casavella",
+        "transcript": "el dia del batusí és un llibre de francisco casabella"
+    },
+    "caf_05450_01404298607.wav": {
+        "ground": "El comerç al carrer millora el negoci d'Interquim",
+        "transcript": "el comerç al carrer millora el negoci d'interquim"
+    },
+    "caf_06042_01014700042.wav": {
+        "ground": "Un amic meu va anar a Xipre i diu que parlen un idioma que sembla l'àrab però que té paraules en italià",
+        "transcript": "una amic meu va anar a xipre i diu que parlen un idioma que sembla a l'àrab però que té paraules en italià"
+    },
+    "caf_09901_00570010554.wav": {
+        "ground": "Com s'arriba a la Casa Museu Prat de la Riba de Castellterçol",
+        "transcript": "com s'arriba a la casa museu prat de la riba de castellterçol"
+    },
+    "caf_07803_00654956096.wav": {
+        "ground": "El logo de Grup Indonèsia és un monstre que sembla un Pokémon",
+        "transcript": "on logo de grup indonèsia és un monstre que sembla un pokémon"
+    },
+    "caf_09901_00402613949.wav": {
+        "ground": "L'efecte 2000 va ser un bluf",
+        "transcript": "l'efecte dos mil va ser un grup"
+    },
+    "caf_09796_00205118715.wav": {
+        "ground": "Tinc unes fotos dels cirerers florits a Hirosaki que són una passada",
+        "transcript": "tinc unes fotos dels cireres floritza girosaki que són una passada"
+    },
+    "caf_09901_00051566582.wav": {
+        "ground": "Josep Sánchez Llibre és membre del partit polític Unió Democràtica de Catalunya",
+        "transcript": "josep sánchez llibre és membre del partit polític unió democràtica de catalunya"
+    },
+    "caf_05147_00441287161.wav": {
+        "ground": "Has de marcar el signe més seguit de quaranta-u u dos-cents dotze set-cents vuitanta-dos trenta-tres trenta",
+        "transcript": "has de marcar el signe més seguit de quaranta-u u dos-cents dotze set-cents vuitanta-dos trenta-tres trenta"
+    },
+    "caf_08001_01212819087.wav": {
+        "ground": "En Joan està ingressat a la clínica Debadell",
+        "transcript": "en joan està ingressat a la clínica de vedell"
+    },
+    "caf_08106_00167325556.wav": {
+        "ground": "Ha estat fent excursionisme místic a l'Himàlaia",
+        "transcript": "ha estat fent excursionisme místic al hi malaia"
+    },
+    "caf_07245_01578921523.wav": {
+        "ground": "Virginia Fernández és molt baixeta",
+        "transcript": "virgínia fernández és molt baixeta"
+    },
+    "caf_06008_00936343146.wav": {
+        "ground": "La benzinera Petromiralles és a la sortida del poble",
+        "transcript": "la benzinera petromiralles és a la sortida del poble"
+    },
+    "caf_02452_02047195256.wav": {
+        "ground": "La població de Santa Coloma de Gramenet va créixer exponencialment durant el segle xx",
+        "transcript": "la població de santa coloma de gramenet va créixer exponencialment durant el segle vint"
+    },
+    "caf_06042_00313816428.wav": {
+        "ground": "Crec que la capital de Bangla Desh és Dacca",
+        "transcript": "crec que la capital de bangladesh és dacka"
+    },
+    "caf_09796_01921873457.wav": {
+        "ground": "El cinquè país més ric del món és el Regne Unit",
+        "transcript": "el cinquè país més ric del món és el regne unit"
+    },
+    "caf_03944_01189598189.wav": {
+        "ground": "Pedro de la Rosa va ser un pilot automobilístic de Fórmula 1",
+        "transcript": "pedro de la rosa va ser un pilot automobilístic de fórmula 1"
+    },
+    "caf_07245_00374578114.wav": {
+        "ground": "Kara Degan és l'actriu més admirada de tot el subcontinent indi",
+        "transcript": "cara adeguen és l'actriu més admirada de tot el subcontinent indi"
+    },
+    "caf_09796_00888103524.wav": {
+        "ground": "Els All Blacks són els més famosos de Nova Zelanda",
+        "transcript": "el sol blancs són els més famosos de nova zelanda"
+    },
+    "caf_05739_00220455922.wav": {
+        "ground": "Ningú no ha fet plans per després del 2027",
+        "transcript": "ningú no ha fet plans per després del dos mil vint-i-set"
+    },
+    "caf_03655_01327265885.wav": {
+        "ground": "El fundador de Puma ja ho va ser d'Adidas",
+        "transcript": "el fundador de puma ja ho va ser d'hàbitat"
+    },
+    "caf_06008_01474930690.wav": {
+        "ground": "D'Armargh l'únic que en sé és que era l'antiga capital de l'Ulster a Irlanda del Nord",
+        "transcript": "germà l'únic que no sé és que era la capital de l'úster a irlanda del nord"
+    },
+    "caf_03944_00883448511.wav": {
+        "ground": "De jove la meva mare es va empassar totes les pel·lícules de Pedro Almodóvar",
+        "transcript": "de jove la meva mare es van passar totes les pel·lícules de pedro almodovar"
+    },
+    "caf_08106_01697405367.wav": {
+        "ground": "El casament va ser a Jaipur",
+        "transcript": "el casament va ser esa i pur"
+    },
+    "caf_03944_01078745435.wav": {
+        "ground": "Telecinco té Belén Esteban com a princesa d'Espanya",
+        "transcript": "també finco tv lent esteban com a princesa d'espanya"
+    },
+    "caf_08001_00574790021.wav": {
+        "ground": "Tot i que té una relació té un compte obert a Oh Cupido",
+        "transcript": "tot i que té una relació té un compte oberta o cupido"
+    },
+    "caf_09598_00326509185.wav": {
+        "ground": "El San Francisco és el meu còctel favorit",
+        "transcript": "els són francisco és el meu còctel favorit"
+    },
+    "caf_05147_01135827719.wav": {
+        "ground": "Google té unes quantes oficines a l'Índia",
+        "transcript": "google té unes quantes oficines a l'índia"
+    },
+    "caf_09204_00264297299.wav": {
+        "ground": "On juga Xavi Hernández",
+        "transcript": "on jugat xavier nandi"
+    },
+    "caf_07245_00512829709.wav": {
+        "ground": "Tot sembla indicar que Robert Marc havia superat els seus problemes d'addicció",
+        "transcript": "tot sembla indicar que robert march havia superat els seus problemes d'addicció"
+    },
+    "caf_09204_01768152513.wav": {
+        "ground": "Sir Alex Ferguson ha sigut un dels entrenadors britànics més reconeguts internacionalment",
+        "transcript": "tir alex verbuson ha sigut un dels entrenadors britànics més reconeguts internacionalment"
+    },
+    "caf_05450_00062150090.wav": {
+        "ground": "Jordi Jané i Guasch l'actual conseller d'Interior de la Generalitat és una persona que parla amb molta cautela",
+        "transcript": "jordi gener iguasc l'actual conseller d'interior de la generalitat és una persona que parla amb molta cautela"
+    },
+    "caf_03944_01253125052.wav": {
+        "ground": "La revista Salut per a les Dones no té competència en el mercat",
+        "transcript": "la revista salut per a les dones no té competència en el mercat"
+    },
+    "caf_01591_00554290966.wav": {
+        "ground": "Me'n vaig a Tunísia a comprar uns camells i ara torno",
+        "transcript": "me'n vaig a tunísia compro uns com ells i retorno"
+    },
+    "caf_05450_00778071966.wav": {
+        "ground": "L'oceà Atlàntic té molta però que molta aigua",
+        "transcript": "l'oceà atlàntic té molta però que molta aigua"
+    },
+    "caf_05739_01209004409.wav": {
+        "ground": "Si vols menjar calçots has d'anar a Valls",
+        "transcript": "si vols menjar que el sots has d'anar a valls"
+    },
+    "caf_05147_01857742001.wav": {
+        "ground": "Va estudiar enginyeria i va fer pràctiques a Abertis Autopistes",
+        "transcript": "va estudiar enginyeria i va fer pràctiques a havertis autopistas"
+    },
+    "caf_07245_01706257538.wav": {
+        "ground": "Els grans magatzems Marc Key només es troben al Regne Unit i a Irlanda",
+        "transcript": "els grans magatzems marqué només es troben al regne unit i a irlanda"
+    },
+    "caf_07803_00659853607.wav": {
+        "ground": "Als anys seixanta els Beatles van revolucionar la música",
+        "transcript": "els seixanta els vítils van revolucionar la música"
+    },
+    "caf_07803_00298293681.wav": {
+        "ground": "Queden tretze caramels per repartir",
+        "transcript": "queden tretze caramels per repartir"
+    },
+    "caf_08001_01525952953.wav": {
+        "ground": "Dani Garcia és un dels millors cuiners artesanals i creatius del moment",
+        "transcript": "dani garcia és un dels millors cuiners artesanals i creatius del moment"
+    },
+    "caf_05450_00475596380.wav": {
+        "ground": "La campanya de micromecenatge espera recollir més de set mil euros",
+        "transcript": "la campanya de micromacenatge espera recollir més de set mil euros"
+    },
+    "caf_04247_01446523674.wav": {
+        "ground": "Em vaig comprar unes ulleres Dior súper guapes",
+        "transcript": "em vaig comprar unes ulleres dior super guapes"
+    },
+    "caf_07803_00854068183.wav": {
+        "ground": "No hi ha franceses a les Franqueses del Vallès",
+        "transcript": "no hi ha franceses a les franqueses del vallès"
+    },
+    "caf_05739_01580999674.wav": {
+        "ground": "Qui no recorda l'Ambrosio el majordom de l'anunci de Ferrero Rocher",
+        "transcript": "qui no recorda l'embrució ho majordom de l'anunci de ferrero rocher"
+    },
+    "caf_07245_01242943000.wav": {
+        "ground": "Maria Fradera és la dona d’Elena Miquel i sortia a Ally McBeal",
+        "transcript": "maria fredera és la dona balena miquel i sortia o àlimacville"
+    },
+    "caf_09796_01950054141.wav": {
+        "ground": "A la masia utilitzo gasoil de Dyneff per a la calefacció general",
+        "transcript": "en la masia utilitzo gasoil d'adímef per a la calefacció general"
+    },
+    "caf_03655_01268942591.wav": {
+        "ground": "Ferimet és una empresa que es dedica a la reparació i comerç de materials ferroviaris",
+        "transcript": "farimet és una empresa que es dedica a la reparació i comerç de materials ferroviaris"
+    },
+    "caf_06008_00743585299.wav": {
+        "ground": "Els productes de Lancome van bé per a les erupcions cutànies",
+        "transcript": "els productes de l'encontre van bé per a les erupcions cutànies"
+    },
+    "caf_09204_00763101535.wav": {
+        "ground": "Alexa Chung és una model anglesa de trenta-dos anys",
+        "transcript": "alexa chung és una model anglesa de trenta-dos anys"
+    },
+    "caf_07803_00027711123.wav": {
+        "ground": "Línia es una bona alternativa a Whatsapp",
+        "transcript": "líbia és una bona alternativa a whatsapp"
+    },
+    "caf_04247_01849271902.wav": {
+        "ground": "El cinema de Bellpuig encara és obert",
+        "transcript": "el cinema de bellpuig encara és obert"
+    },
+    "caf_04247_00102524751.wav": {
+        "ground": "Voldria llogar un pis pels voltants de Cruïlles Monells i Sant Sadurní de l'Heura",
+        "transcript": "voldria llogar un pis per voltants de cruïlles monells i sense adorní de l'heura"
+    },
+    "caf_06042_01459674291.wav": {
+        "ground": "De viatge de final de curs van anar a Austràlia",
+        "transcript": "de viatge de final de curs van anar a austràlia"
+    },
+    "caf_05450_00532507520.wav": {
+        "ground": "El castell de Pera es troba a Sant Llorenç Savall",
+        "transcript": "el castell de pere es troba a sant llorenç savall"
+    },
+    "caf_08001_00072606719.wav": {
+        "ground": "Als Emirats Àrabs no se m'hi ha perdut res",
+        "transcript": "els emirats àrabs no se n'hi ha perdut res"
+    },
+    "caf_09204_00916488573.wav": {
+        "ground": "L'origen austríac d'Arnold Schwarzenegger no va ser cap impediment perquè arribes a ser governador de Califòrnia",
+        "transcript": "l'origen austríac d'armelç watsonagar no va ser cap impediment perquè arribés a ser governador de califòrnia"
+    },
+    "caf_03944_00887079246.wav": {
+        "ground": "Miquel Maria Gibert és un senyor molt agradable amb aspecte de despistat",
+        "transcript": "miquel maria gibert és un senyor molt agradable amb aspecte de despistat"
+    },
+    "caf_05450_00052782000.wav": {
+        "ground": "Sabeu si a Castellbisbal hi ha o hi havia un castell episcopal",
+        "transcript": "sabeu si a castell bisbal hi ha o hi havia un castell episcopal"
+    },
+    "caf_03655_01607804764.wav": {
+        "ground": "L'americana que em vaig posar per cap d'any és de Stradivarius",
+        "transcript": "l'americana com vaig posar per cap d'any és d'estradivarius"
+    },
+    "caf_07803_01607829861.wav": {
+        "ground": "Francesc-Marc Álvaro habitualment escriu al diari La Vanguardia",
+        "transcript": "francesc marc álvaro habitualment escriu el diari l'avantguardia"
+    },
+    "caf_07803_01165672391.wav": {
+        "ground": "De tots els llocs anomenats Lancaster solament he visitat la ciutat històrica d'Anglaterra",
+        "transcript": "de tots els llocs anomenats l'encaster solament he visitat la ciutat històrica d'anglaterra"
+    },
+    "caf_05450_01558735848.wav": {
+        "ground": "Gedia s'ha desfet de la seva seu a Girona",
+        "transcript": "ja die dia s'ha desfet de la seva seu a girona"
+    },
+    "caf_08106_01481968473.wav": {
+        "ground": "La seu de l'FBI es troba a Quantico Virgínia",
+        "transcript": "la seu d'allí fabií es troba a quàntico virgínia"
+    },
+    "caf_03655_01298622968.wav": {
+        "ground": "Quan era petit era molt innocent creia que la Selva del Camp hi havia lleons",
+        "transcript": "quan era petit era molt innocent creia que la selva del camp hi havia lleons"
+    },
+    "caf_05147_01234625962.wav": {
+        "ground": "Com bastants advocats Pere Foix va combinar el seu ofici d'advocat amb el de la política",
+        "transcript": "con bastants advocats pere foix va combinar el seu ofici d'advocat amb el de la política"
+    },
+    "caf_06311_00671863493.wav": {
+        "ground": "Meritxell Batet Lamaña ha sigut la cap de llista del Partit Socialista a Barcelona",
+        "transcript": "maritxent matet alemanya ha sigut la cap de llista del partit socialista a barcelona"
+    },
+    "caf_06942_01462245222.wav": {
+        "ground": "Angelina Jolie es va casar amb Brad Pitt fa deu anys",
+        "transcript": "angelina jolie es va casar embrat pit fa deu anys"
+    },
+    "caf_09796_00803913372.wav": {
+        "ground": "Si visiteu Torraspapel veureu la despesa d'aigua en la fabricació de paper",
+        "transcript": "si visiteu torres papel veureu la despesa d'aigua la fabricació de paper"
+    },
+    "caf_05147_02126310247.wav": {
+        "ground": "Fukuyama pertany a la prefectura d'Hiroshima",
+        "transcript": "cucuviama pertany a la prefectura d'hiroshima"
+    },
+    "caf_05147_01728900815.wav": {
+        "ground": "Vaig comprar el viatge a Eivissa des de Saragossa amb els de Vueling",
+        "transcript": "vaig comprar el viatge eivissa des de saragossa amb els de vueling"
+    },
+    "caf_08106_02118125981.wav": {
+        "ground": "Exoclick és una empresa dos punt zero",
+        "transcript": "textoclic és una empresa dos punt zero"
+    },
+    "caf_01591_01398533512.wav": {
+        "ground": "Si haguessis demanat una Visa podries pagar en aquest bar",
+        "transcript": "siguicis demanat una biza podria esperar en aquest bar"
+    },
+    "caf_06942_00048219297.wav": {
+        "ground": "Sabíeu que Clara Segura parla francès de manera fluida",
+        "transcript": "sabíeu que clara segura parla francès de manera fluïda"
+    },
+    "caf_03655_01683964963.wav": {
+        "ground": "Cristian Ugalde és un jugador d'handbol que ho fa molt bé com a extrem esquerre",
+        "transcript": "cristiano valde és un jugador d'handbol cofac molt bé com extrema esquerre"
+    },
+    "caf_06042_01238118380.wav": {
+        "ground": "La pizzeria Sorrento està regentada per un napolità",
+        "transcript": "la pizzeria sorrento està regentada per una polita"
+    },
+    "caf_06042_00956602997.wav": {
+        "ground": "El cafè de Can Pagès és massa car",
+        "transcript": "el café de campagès és massa car"
+    },
+    "caf_04247_01145526253.wav": {
+        "ground": "El nom de la capital de Burkina Faso costa molt de pronunciar",
+        "transcript": "el nom de la capital de burkina faso costa molt de pronunciació"
+    },
+    "caf_09796_00845502349.wav": {
+        "ground": "Vam fer un projecte de petroquímica amb Repsol l'any passat",
+        "transcript": "van fer un projecte de petroquímica en rotsol l'any passat"
+    },
+    "caf_09901_00337267770.wav": {
+        "ground": "Les empreses del Fortuna cinc-cents són les més grans del món",
+        "transcript": "les empreses del fortuna cinc-cents són les més grans del món"
+    },
+    "caf_05147_00915569513.wav": {
+        "ground": "Les primàries d'Ohio són clau per definir el panorama polític dels Estats Units",
+        "transcript": "les primàries dohayo són clau per definir el panorama polític dels estats units"
+    },
+    "caf_06008_01932331740.wav": {
+        "ground": "Leo Messi és el millor futbolista del món",
+        "transcript": "leu messi és el millor futbolista del món"
+    },
+    "caf_06042_01045731444.wav": {
+        "ground": "El parc Vigeland és a Oslo",
+        "transcript": "el parc vigilant és a oslo"
+    },
+    "caf_06008_00240378567.wav": {
+        "ground": "Vam fer una barbacoa a Taradell amb els amics",
+        "transcript": "van fer una barbacoa taradell amb els amics"
+    },
+    "caf_07245_00284815681.wav": {
+        "ground": "La fama de Miquel Sants no va durar tant com la del seu germà gran Nicolàs Benet",
+        "transcript": "la fama de miquel sants no va durar tant com la del seu germà gran nicolàs planet"
+    },
+    "caf_09901_01240996019.wav": {
+        "ground": "L'Ampolla és un municipi de la comarca del Baix Ebre",
+        "transcript": "l'ampolla és un municipi de la comarca del baix ebre"
+    },
+    "caf_06942_01673782210.wav": {
+        "ground": "Sean Connery és escocès",
+        "transcript": "són conari és escocès"
+    },
+    "caf_06042_01988243716.wav": {
+        "ground": "Cabrils és un poblet petit i ben parit",
+        "transcript": "cabrils és un poblet petit i ben perill"
+    },
+    "caf_03655_02021006694.wav": {
+        "ground": "L'Hotel Las Vegas és molt antic",
+        "transcript": "l'hotel les begues és molt antic"
+    },
+    "caf_06042_01827434817.wav": {
+        "ground": "Tinc família a Rubí i no he anat mai a visitar-la",
+        "transcript": "tinc família rubí i no eren mai ha visitar-la"
+    },
+    "caf_08001_01442987812.wav": {
+        "ground": "Els de Nike es gasten molts diners patrocinant tennistes",
+        "transcript": "els de maig es gasten molts diners patrocinantenistes"
+    },
+    "caf_06042_00756118772.wav": {
+        "ground": "Hi ha cocodrils a Dundee",
+        "transcript": "hi ha cocodrils a dandi"
+    },
+    "caf_08001_00488384675.wav": {
+        "ground": "El poble medieval de Montblanc està situat a la Conca de Barberà",
+        "transcript": "el poble medieval de montblanc està situat a la conca de barberà"
+    },
+    "caf_05450_00905424652.wav": {
+        "ground": "A la tercera va la vençuda",
+        "transcript": "en la tercera va la vençuda"
+    },
+    "caf_07245_00999731701.wav": {
+        "ground": "Aquesta serà la segona col·laboració entre Emma Suárez i Luís Tosar",
+        "transcript": "aquesta serà la segona col·laboració entre emma suárez i lluís tosar"
+    },
+    "caf_06311_00635544107.wav": {
+        "ground": "El poeta reusenc del dinou Joaquim Bartrina va escriure en català i castellà temes existencials impregnats de romanticisme",
+        "transcript": "el poeta reusenc del dinou joaquim bartrina va escriure en català i castellà temes existencials impregnats de romanticisme"
+    },
+    "caf_06008_00181755484.wav": {
+        "ground": "Hem visitat el Baix Ebre amb tota la família",
+        "transcript": "hem visitat al baix gibra amb tota la família"
+    },
+    "caf_08001_00106975549.wav": {
+        "ground": "No he vist mai cap obra d'Alexandre Maristany i Guasch",
+        "transcript": "vulguis mai cap obra de l'alexandre maristany iguasc"
+    },
+    "caf_06942_00589038208.wav": {
+        "ground": "Paul McCartney a vegades sembla una dona",
+        "transcript": "palma carni a vegades sembla una dona"
+    },
+    "caf_07245_00559363875.wav": {
+        "ground": "Vam visitar Hawaii amb els companys de la feina",
+        "transcript": "bon visitar de hawaii amb els companys de la feina"
+    },
+    "caf_07245_01149900132.wav": {
+        "ground": "Meryl Streep és considerada per molts la millor actriu del seu temps",
+        "transcript": "maria street és considerada per molts la millor actriu del seu temps"
+    },
+    "caf_03655_02010442358.wav": {
+        "ground": "Algunes de les novel·les infantils juvenils de Joan Manuel Gisbert han estat traduïdes a més d'una vintena d'idiomes",
+        "transcript": "algunes de les novel·les infantils juvenils de joan manuel gisverd han estat traduïdes a més d'una vintena d'idiomes"
+    },
+    "caf_05147_01183562030.wav": {
+        "ground": "No sé si a Dosrius fan justícia a Esteve Albert i Corp",
+        "transcript": "no sé si ador rius fan justícia este valverd i curt"
+    },
+    "caf_06008_01154145476.wav": {
+        "ground": "Les acadèmies Wall Street English van fer fallida fa uns anys",
+        "transcript": "les acadèmies guantes trít i english van fer fallida fa uns anys"
+    },
+    "caf_05450_00230268688.wav": {
+        "ground": "Una de les bones periodistes i locutores de la televisió és Cristina Villanueva",
+        "transcript": "una de les bones periodistes i locutures de la televisió és cristina villanueva"
+    },
+    "caf_09901_01200169670.wav": {
+        "ground": "El turisme a Tailàndia és majoritàriament europeu",
+        "transcript": "el turisme tailàndia és majoritàriament europeu"
+    },
+    "caf_09598_01007639979.wav": {
+        "ground": "Molts nois de la meva escola vestien samarretes Imperio",
+        "transcript": "molts nois de la meva escola vestien samarretes imperia"
+    },
+    "caf_09796_01969998712.wav": {
+        "ground": "El dia de la setmana que em llevo més tard és el diumenge",
+        "transcript": "el dia de la setmana que en llevo més tard és el diumenge"
+    },
+    "caf_06311_01916468658.wav": {
+        "ground": "A Alcarràs difícilment una feina pel teu perfil hi trobaràs",
+        "transcript": "encarràs difícilment una feina pel teu perfil i trobaràs"
+    },
+    "caf_06042_00353933724.wav": {
+        "ground": "L'Aquàrium de Barcelona el visiten molts grups escolars",
+        "transcript": "l'aquàrium de barcelona el visiten molts grups escolars"
+    },
+    "caf_03944_01300872518.wav": {
+        "ground": "Si vius al Maresme i no saps què fer amb la ferralla truca a Viuda Clariana",
+        "transcript": "s'hi vius al maresme i no saps què fer amb la ferralla truca la viu de clariana"
+    },
+    "caf_06008_01082924706.wav": {
+        "ground": "L'únic que sé d’Els Amics de les Arts és que es tracta d'un grup de músics joves",
+        "transcript": "l'únic que ser dels amics de les arts és que es tracta d'un grup de músic joves"
+    },
+    "caf_03655_00639215881.wav": {
+        "ground": "Madeira és un destí turístic molt popular entre els amants del surf",
+        "transcript": "m'agrada és un destí turístic molt popular entre els amants del surf"
+    },
+    "caf_05739_01258900316.wav": {
+        "ground": "L'edifici de Google de Palo Alto és davant la via del tren",
+        "transcript": "l'edifici de google de palo alto és davant la via del tren"
+    },
+    "caf_05147_00811923770.wav": {
+        "ground": "Ana Belén és una bona cantant",
+        "transcript": "en abril és una bona cantant"
+    },
+    "caf_03944_02142129831.wav": {
+        "ground": "L'Oriol Junqueras era alcalde de Sant Vicenç dels Horts",
+        "transcript": "l'oriol junqueras era alcalde de sant vicenç dels horts"
+    },
+    "caf_05147_02070959360.wav": {
+        "ground": "El 2026 els androides substituiran els polítics",
+        "transcript": "el dos mil vint-i-sis els androides substituiran els polítics"
+    },
+    "caf_09598_00381548920.wav": {
+        "ground": "Sovint passava per davant de l'edifici Nissan de la plaça Cerdà",
+        "transcript": "sovint passava per davant de l'edifici nissan de la plaça sardà"
+    },
+    "caf_08001_01346061277.wav": {
+        "ground": "A Monistrol de Montserrat s'hi pot agafar un tren verd que et porta fins al monestir",
+        "transcript": "el monistrol de montserrat s'hi pot agafar un tren verd que porta fins al monestir"
+    },
+    "caf_05147_01236253901.wav": {
+        "ground": "Francisco Camprodón escriptor del dinou amb la Renaixença catalana va passar d'escriure en castellà a fer-ho en català",
+        "transcript": "francisco comprodon escriptor del dinou amb la renaixença catalana va passar d'escriure en castellà a fer-ho en català"
+    },
+    "caf_08001_00606763547.wav": {
+        "ground": "El Parc Nacional d'Iguaçú es troba al mig de la selva",
+        "transcript": "el parc nacional d'iguaçú es troba al mig de la selva"
+    },
+    "caf_07245_00324032919.wav": {
+        "ground": "La revista de Maria Campos ha tingut més èxit que el seu programa",
+        "transcript": "la revista de maria campus ha tingut més èxit que el seu programa"
+    },
+    "caf_02452_01464117571.wav": {
+        "ground": "Marilyn Monroe havia de ser llesta perquè Arthur Miller s'hi fixés",
+        "transcript": "marilyn monroe havia de ser llesta perquè formüllers i fixés"
+    },
+    "caf_07245_01802279815.wav": {
+        "ground": "El fill de Will Smith és un extravagant",
+        "transcript": "el fill de will smith és una extravagant"
+    },
+    "caf_03944_01216660342.wav": {
+        "ground": "La primavera la sang altera",
+        "transcript": "la primavera la sang altera"
+    },
+    "caf_06311_01600813914.wav": {
+        "ground": "El telèfon alemany de la Maria és el zero zero quaranta-nou trenta dos-cents vuit vuitanta-sis quatre-cents trenta",
+        "transcript": "el telèfon en alemany de la maria és el zero zero quaranta-nou trenta dos-cents vuit vuitanta-sis quatre-cents trenta"
+    },
+    "caf_04247_00083243459.wav": {
+        "ground": "L'Èric és un amic del Jordi que fa molta gràcia perquè sempre riu",
+        "transcript": "l'èric és una amic del jordi que fa molta gràcia perquè sempre riu"
+    },
+    "caf_06042_01938757270.wav": {
+        "ground": "Aleix Vidal és el substitut de Dani Alves",
+        "transcript": "aleix vidal és el substitut de dani alves"
+    },
+    "caf_05739_01754125842.wav": {
+        "ground": "L'Adrià sap parlar un idioma minoritari de les Filipines",
+        "transcript": "l'adrià sap parlar un idioma minoritari de les filipines"
+    },
+    "caf_06042_00311012646.wav": {
+        "ground": "Que trobaré cap restaurant a prop de Torrefeta i Florejacs",
+        "transcript": "què trobarà cap restaurant a prop de torrefeta i florejacs"
+    },
+    "caf_06311_01860772489.wav": {
+        "ground": "Els meus primers esquís tenien fixacions Martí",
+        "transcript": "els meus primers esquís tenien fixacions martí"
+    },
+    "caf_03655_01190705787.wav": {
+        "ground": "Si aneu al Japó us proposo visitar la ciutat d'Asahikawa",
+        "transcript": "si aneu al japó us proposo visitar la ciutat de àsiahua"
+    },
+    "caf_09204_01368497303.wav": {
+        "ground": "La meva amiga va anar al concert de Muse amb el seu home i van flipar",
+        "transcript": "la meva amiga va anar al concert de mils amb el seu home i van flipar"
+    },
+    "caf_09204_01391049310.wav": {
+        "ground": "Al Pacino en realitat es diu Alfredo",
+        "transcript": "el patxi no en realitat es diu alfredo"
+    },
+    "caf_09901_00650485186.wav": {
+        "ground": "Quan obren a Mercadona",
+        "transcript": "quan obra en el mercadona"
+    },
+    "caf_09796_01861583462.wav": {
+        "ground": "El 2008 vaig fer divuit anys",
+        "transcript": "el dos mil vuit vaig fer divuit anys"
+    },
+    "caf_03655_01575249942.wav": {
+        "ground": "El gentilici d'Avià és avianès o avianesa",
+        "transcript": "el gentilici s'hi devià és a vienès o a vienesa"
+    },
+    "caf_05450_01298664761.wav": {
+        "ground": "Els ciclistes són feliços quan arriben suats i assedegats a Aiguafreda",
+        "transcript": "els ciclistes són feliços quan arriben suats i assedegats aigua freda"
+    },
+    "caf_09204_01662409218.wav": {
+        "ground": "Marià Fortuny és un personatge d'una sèrie de televisió molt famosa",
+        "transcript": "maria fortuny és un personatge d'una sèrie de televisió molt famosa"
+    },
+    "caf_09598_01857553949.wav": {
+        "ground": "Va passar exactament a les tres i vint-i-set minuts i les autoritats n'estaven ben informades",
+        "transcript": "va passar exactament a les tres i vint-i-set minuts i les autoritats estaven ben informades"
+    },
+    "caf_08001_01613619506.wav": {
+        "ground": "A Ankara hi ha hagut un intent de cop d'estat",
+        "transcript": "a encara hi ha hagut un intent de cop d'estat"
+    },
+    "caf_05450_00285787014.wav": {
+        "ground": "El CEIP Segimon Comas és el centre d'educació primària de Sant Quirze de Besora",
+        "transcript": "pel saïp segimuncomes és el centre d'educació primària de sant quirze de besora"
+    },
+    "caf_09796_01416223187.wav": {
+        "ground": "Hi ha concert a la Sala Apolo de Madrid",
+        "transcript": "hi ha concert a la sala apolo de madrid"
+    },
+    "caf_05739_01224369404.wav": {
+        "ground": "Vam confiar els tràmits de l'herència de l'avi als de Cuatrecasas Gonçalves Pereira i ho van fer bé",
+        "transcript": "vam confiar els tràmits de l'herència de l'avi els de quatre cases es va consolid pereira i ho van fer molt bé"
+    },
+    "caf_09598_00958387385.wav": {
+        "ground": "L'Alt Camp compta amb les colles castelleres amb més tradició",
+        "transcript": "nol compta amb les colles castelleres amb mes tradició"
+    },
+    "caf_08106_01775565016.wav": {
+        "ground": "Toni Bou ha estat un dels molts catalans exitosos en les competicions de trial",
+        "transcript": "toni bou ha estat un dels molts catalans exitosos en les competicions de trial"
     }
 }

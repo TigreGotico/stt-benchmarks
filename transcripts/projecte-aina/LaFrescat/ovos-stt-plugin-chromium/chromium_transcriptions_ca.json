@@ -574,5 +574,1033 @@
     "grau_200_2.wav": {
         "ground": "La mare va entrar a l'habitació, es posà a plorar i demanà que no se n'anessin.",
         "transcript": "la mare ventura a l'habitació es posà plorar i demana que no se n'anéssim"
+    },
+    "pere_298.wav": {
+        "ground": "L'he intentada consolar, però no hi ha hagut manera.",
+        "transcript": "venim de la consolar però no hi ha hagut manera"
+    },
+    "emma_037.wav": {
+        "ground": "Cantar és l'acció que defineix la teua petita aixella desglossada.",
+        "transcript": "cantar és l'acció que defineix la teua petita i cella desglossada"
+    },
+    "grau_138_3.wav": {
+        "ground": "Això no és cap broma, és la febre de l'or, destries l'arena i et quedes lo bo.",
+        "transcript": "persones cap broma és la febre de l'orde d'estui és l'arena i actives lo bo"
+    },
+    "quim_246.wav": {
+        "ground": "La princesa alberga un amor prou profund com per despertar amb un bes al perdut príncep.",
+        "transcript": "lo princesa alberga una molt prou profund com per despertar molt bé és el perdut príncep"
+    },
+    "elia_345.wav": {
+        "ground": "S'ha fet realitat avui, el malson?",
+        "transcript": "s'ha fet realitat avui el malson"
+    },
+    "emma_178.wav": {
+        "ground": "La dona bavejava davant el triomf del seu germà.",
+        "transcript": "la dona va deixava davant el triomf del seu germà"
+    },
+    "grau_179_2.wav": {
+        "ground": "Loyola Rodó González era la novena.",
+        "transcript": "la lluna rodó gonzález era la novena"
+    },
+    "quim_256.wav": {
+        "ground": "Pels gests, intueixo que dius adéu al teu amic. Després te'm tornes a acostar, tot il·lusionat.",
+        "transcript": "peugeots intuïció que vius a déu el teu humit després d'entornes a costa tot il·lusionat"
+    },
+    "quim_143.wav": {
+        "ground": "Es meu padrí sempre me deia que com més són, més s'embullen.",
+        "transcript": "els meu podria sempre bé que com més són més se'n vullen"
+    },
+    "elia_120.wav": {
+        "ground": "Han descatalogat l'última edició del llibre de poemes jurídics d'aquell autor britànic que tant t'agrada.",
+        "transcript": "han d'es catalugat l'última edició del llibre de poemes jurídics va que hi autor britànic que tanta grada"
+    },
+    "pere_046.wav": {
+        "ground": "Deixo d'estar confortable quan m'arriba el so d'aquell accent que gastes.",
+        "transcript": "deixa d'estar confortable quan arribem sobre aquella accent que hastes"
+    },
+    "emma_159.wav": {
+        "ground": "La Magda i l'Artur regentaven una argenteria al carrer del Call número disset.",
+        "transcript": "la magda i l'artur presentaven un argenteria al carrer del call número 17"
+    },
+    "olga_220.wav": {
+        "ground": "En Marc va sentir una fiblada tan forta dins el seu pit, que va costar-li poder parlar i encara més reaccionar.",
+        "transcript": "en marc va sentir una fiulada tan forta dins del seu pit que va costar-li poder parlar i encara més reaccionar"
+    },
+    "pere_142.wav": {
+        "ground": "Tu tingues clar com és la veu que faig, perquè quan la sentis sàpiga que et giraràs.",
+        "transcript": "qui tingues clar com és la dur que faig perquè quan la sentis sapiga aquest girones"
+    },
+    "pere_094.wav": {
+        "ground": "Encara que es posi constantment en dubte, ells són quatre germans.",
+        "transcript": "encara que es posa constantment en dubte ells són quatre germans"
+    },
+    "grau_101.wav": {
+        "ground": "La Lucrècia li agafà les mans i, amb un gest fatal, van precipitar-se al buit.",
+        "transcript": "la lucrecia li agafa les mans i amb un gest fatal va precipitar-se al buit"
+    },
+    "elia_229.wav": {
+        "ground": "La seva mascota patia el mateix turment.",
+        "transcript": "la seva mascota patia el mateix turment"
+    },
+    "elia_389.wav": {
+        "ground": "Moltes mascotes van ser alliberades.",
+        "transcript": "moltes mascotes van ser alliberades"
+    },
+    "olga_074.wav": {
+        "ground": "Vols venir a veure es mot clau que neix a la mar sa nit de Santa Anna?",
+        "transcript": "pels venir a veure's mot clau que neix a l'home senat de santa anna"
+    },
+    "grau_153_3.wav": {
+        "ground": "Fuig d'aquí, et dic! O vols que et parteixi en dos?",
+        "transcript": "fuig d'aquí et vic o vols que et pereixen dos"
+    },
+    "elia_174.wav": {
+        "ground": "Garriga Martínez és la dinovena.",
+        "transcript": "garriga martínez és la dinovena"
+    },
+    "grau_068_2.wav": {
+        "ground": "El seu genoll li feia figa i ja no podia aguantar-se dret.",
+        "transcript": "els seus genoll li feia figa i ja no podia aguantar-se dret"
+    },
+    "quim_202.wav": {
+        "ground": "Els clients semblen esperar-se a la porta, perquè al cap d'un minut d'obrir les persianes metàl·liques ja n'hi ha tres o quatre que ronden al voltant dels mostradors.",
+        "transcript": "els collons semblen esperar-se a la porta perquè el teu minut d'abril les persianes metàl·liques ja n'hi ha tres el quatre terreny de nou voltant del mostradors"
+    },
+    "pere_241.wav": {
+        "ground": "Tampoc és que fóssim amics, però ens coneixíem des de sempre.",
+        "transcript": "tampoc és que fossin amics però no es coneixíem des de sempre"
+    },
+    "emma_016.wav": {
+        "ground": "I de sobte, a l'ombra d'un pinar dorment, una branca s'estremia.",
+        "transcript": "i de sobte a l'ombra d'un pinadorment una branca s'estremia"
+    },
+    "lluc_122.wav": {
+        "ground": "La noia duia un vestit llis de color verd oliva que deixava tothom bocabadat.",
+        "transcript": "no no hi ha duia un vestit llis de color verd oliva que deixava tothom bocabadat"
+    },
+    "lluc_139.wav": {
+        "ground": "Amb tot el que fas per a mi, te podries extingir, i no descobririen ni rastre del camí.",
+        "transcript": "amb tot el que fas per mi té podria ser extingir i no descobrien ni rastre del camí"
+    },
+    "olga_244.wav": {
+        "ground": "No, no vull cagar-la, som amics. Espero a que ella es mostri receptiva.",
+        "transcript": "no no vull quegar-lo som amics espero que elles mostre receptiva"
+    },
+    "elia_067.wav": {
+        "ground": "No hi havia en tot València tanta aigua clara als ulls de la veïna.",
+        "transcript": "no hi havia en tot valència tanta aigua clara als ulls de la veïna"
+    },
+    "grau_177.wav": {
+        "ground": "L'elf es desploma com un tronc, sense emetre ni un so.",
+        "transcript": "nerf es desploma com un tronc sense emetra en un so"
+    },
+    "emma_133.wav": {
+        "ground": "Va ser en aquest magatzem on les dos enginyeres van desenvolupar el seu algoritme.",
+        "transcript": "va ser en aquest magatzem on les dos enginyeres van desenvolupar el seu algoritme"
+    },
+    "elia_112.wav": {
+        "ground": "Si tornes a parlar-me d'aquesta manera no et passaré més el pebre.",
+        "transcript": "si tornes a parlar-me d'aquesta manera no et passaré més al pebre"
+    },
+    "quim_092.wav": {
+        "ground": "Sobre sa tauleta de nit hi havia dos petits gerros de margarides.",
+        "transcript": "sobre sota europe de nit dels petits gerres de margarides"
+    },
+    "pere_017.wav": {
+        "ground": "Amb una lleugera peresa t'enlaires tan alt que no ho abastes.",
+        "transcript": "amb una lleugera peresa tendlei des de mal que no ho abastes"
+    },
+    "emma_085.wav": {
+        "ground": "Cap pot no pot saber qui pot cabre dins d'una serp riuenca de dos rius germans.",
+        "transcript": "cap pot no pot saber qui pot cabre dins d'una serp riuenca de dos rius germans"
+    },
+    "quim_002.wav": {
+        "ground": "Vaig obrir sa caixa que temps enrere vaig omplir de records des meu germà.",
+        "transcript": "que temps enrere vaig omplir de record si el meu germà"
+    },
+    "elia_338.wav": {
+        "ground": "El veus quan ets dalt les escales.",
+        "transcript": "el veus quan ets dalt de les escales"
+    },
+    "quim_292.wav": {
+        "ground": "Aparto els ulls del paisatge i la ment dels records.",
+        "transcript": "el porto els ulls del paisatge i lament del records"
+    },
+    "quim_315.wav": {
+        "ground": "Sortint del metro, pujant les escales, noto un pes que em cau damunt del cap.",
+        "transcript": "sortim del metro pujau les esqueles no t'un pas que em treu de montbui cap"
+    },
+    "elia_171.wav": {
+        "ground": "Fernández Pompidou era el setè.",
+        "transcript": "fernández pompidou era el setè"
+    },
+    "lluc_126.wav": {
+        "ground": "Calen més pinces per a estendre el llençol del llit de matrimoni.",
+        "transcript": "solen més pinces però estendre el llençol del llit de matrimoni"
+    },
+    "quim_407.wav": {
+        "ground": "Ha viscut deu anys d'amor i de vida?",
+        "transcript": "ha viscut deu any de molt de vida"
+    },
+    "elia_263.wav": {
+        "ground": "Parlava coquetejant, dient coses que m'escandalitzaven.",
+        "transcript": "parlava cucatejant dient coses que m'escandalitzaven"
+    },
+    "elia_059.wav": {
+        "ground": "Les set persones rescatades van agrair emfàticament la perseverança dels serveis d'emergència.",
+        "transcript": "les set persones rescatades van agrair amb fàticament la perseverança del serveis d'emergència"
+    },
+    "gina_260.wav": {
+        "ground": "Doncs són per això, per tirar gent a la piscina i que no puguen nedar, però és que si no nedes, t'ofegaràs!",
+        "transcript": "doncs som per això per tirar gent a la piscina i que no puguen nadar però és que si no n'hedes ofegaràs"
+    },
+    "emma_064.wav": {
+        "ground": "L'edifici que va dissenyar l'arquitecte era especialment alt i estret.",
+        "transcript": "l'edifici que va dissenyar arquitecte era especialment alt i estret"
+    },
+    "grau_049_2.wav": {
+        "ground": "El que vulguis ho pots agafar tu mateix, i si tens set et porto aigua.",
+        "transcript": "el que vulguis ho pots agafar tu mateix i si tens set et portu aigua"
+    },
+    "elia_107.wav": {
+        "ground": "Set servents servits i barbuts proposen polzes esperpèntics amb polls de postres.",
+        "transcript": "set serven servits i barbuts proposen polses esperpèntics amb polls de postres"
+    },
+    "lluc_253.wav": {
+        "ground": "Ens trobem en un estadi desconegut.",
+        "transcript": "ens trobem en només a dir més conegut"
+    },
+    "quim_304.wav": {
+        "ground": "La perspectiva d'acabar en mans del dolents no sembla que els preocupi en absolut.",
+        "transcript": "la constructiva de gavà un banda de dolents no s'embuig dels precopinat salut"
+    },
+    "lluc_053.wav": {
+        "ground": "No és estrany que el banc de sang necessite donacions diàries.",
+        "transcript": "no s'estreny que el bon ve sony necessita donacions diaris"
+    },
+    "emma_070.wav": {
+        "ground": "Un pallasso vestit de beix i amb lo nas vermell bufa una bombolla xica.",
+        "transcript": "un pallasso vestit de beix i amb nones vermell bufa una bombolla xica"
+    },
+    "gina_134.wav": {
+        "ground": "Va començar a saltar de felicitat per tota l'habitació com si fora un mico.",
+        "transcript": "va començar a saltar de felicitat per tota l'habitació com si fóra un mico"
+    },
+    "elia_118.wav": {
+        "ground": "Em sento la gola preparada per si voleu que els homes cantem la cançó de la dama, el príncep i el rei.",
+        "transcript": "amb sento la gola preparada per si voleu que els homes cantem la cançó de la dama al príncep i el rei"
+    },
+    "quim_387.wav": {
+        "ground": "Arribo al tram més difícil, la paret ja no és vertical, és més que vertical; és un desplom.",
+        "transcript": "el rivol tram més difícil la paret en els vertical és més que vertical és un dels plom"
+    },
+    "grau_129_2.wav": {
+        "ground": "Mentre seia, la dona col·locava la seva jaqueta de pell doblegada sobre els genolls.",
+        "transcript": "mentre sella la dóna col·locava la seva jaqueta de pell doblegada sobre el genolls"
+    },
+    "quim_106.wav": {
+        "ground": "No pot esser possible que encara no t'hagis tret es carnet de conduir, gamarús!",
+        "transcript": "no pot ser possible que encara no tegistret els cap més de conduir números"
+    },
+    "grau_187_2.wav": {
+        "ground": "Per l'horitzó es va començar a veure una espurna de llum d'un to vermellós.",
+        "transcript": "per l'horitzó es va començar a veure una espurna de llum d'un to vermellós"
+    },
+    "quim_394.wav": {
+        "ground": "El bar és una multitud de goles d'home, que es mouen en vertical d'una manera gairebé rítmica. Les goles deixen anar un soroll que en el fons no sento, però que sé desagradable.",
+        "transcript": "el bar és una multitud de colors d'home que es mouen en vertical d'una manera gairebé rítmica es gol de se me un soroll que en el font m'assemble però que ser desagradable"
+    },
+    "elia_350.wav": {
+        "ground": "La Natàlia em va deixar, i vaig quedar destrossat.",
+        "transcript": "la natàlia em va deixar i vaig quedar destrossat"
+    },
+    "pere_270.wav": {
+        "ground": "Sense adonar-se'n, va anar avançant, posseït per l'eufòria de la llibertat.",
+        "transcript": "sinsa d'anar-se va anar avançant posseït per l'ofori de la llibertat"
+    },
+    "elia_297.wav": {
+        "ground": "T'has quedat amb cada detall de la meva roba i de la meva pell. No m'estranyaria gens que t'ho haguessis apuntat en aquesta llibreta que duus a sobre.",
+        "transcript": "tasca de tancada detall de la meva roba i de la meva pell no m'estranyaria a gens que trobesis apuntat en aquesta llibreta que dus a sobre"
+    },
+    "elia_082.wav": {
+        "ground": "Amb veles i vents a l'esquena despullada i amb una dolça metzina a la piscina.",
+        "transcript": "amb veles i vens a l'esquena despullada i amb una dolça metzina la piscina"
+    },
+    "elia_053.wav": {
+        "ground": "No és estrany que el banc de sang necessiti donacions diàries.",
+        "transcript": "no és extra en que el banc de sang necessiti donacions diàries"
+    },
+    "emma_020.wav": {
+        "ground": "Vinc de nou amb les mans buides; no trobo res del que tinc.",
+        "transcript": "vinc de nou amb les mans buides no trobo res del que tinc"
+    },
+    "elia_235.wav": {
+        "ground": "Ell ens respon que els seus avis tenen un pis molt bonic ple de figuretes de lladró.",
+        "transcript": "ell en respon que els seus avis tenen un pis molt únic ple de i figuretes a lladró"
+    },
+    "emma_106.wav": {
+        "ground": "No pot ser possible que encara no t'haigues tret lo carnet de conduir, gamarús!",
+        "transcript": "no pot ser possible que encara no tallestre lo carnet de conduir gamarús"
+    },
+    "quim_376.wav": {
+        "ground": "Tu ja has deixat de parlar pel mòbil, però tens una expressió estranya a la cara que no sé acabar d'interpretar, però que no em fa gens de bona espina.",
+        "transcript": "josep de parlar pel mòbil però tens una explosió estranya la cara que no seu cap a din interpretar però que no em facin de bon espina"
+    },
+    "quim_398.wav": {
+        "ground": "M'ho ha donat tot i, com sovint passa, s'ha quedat sense res.",
+        "transcript": "mòdonat tot i quan sovint passes ha quedat sense res"
+    },
+    "olga_009.wav": {
+        "ground": "M'ho sembla a jo o aquell és es turista que allotjam?",
+        "transcript": "mos sembla això ho que elles és turista que allotja"
+    },
+    "emma_023.wav": {
+        "ground": "Sent un desig incontrolable de marxar d'aquí i no tornar mai més.",
+        "transcript": "cent un desig controlable de marxar d'aquí i no tornà mai més"
+    },
+    "gina_108.wav": {
+        "ground": "Encara que no t'ho cregues, Aitana Bonmatí guanyarà la Pilota d'or.",
+        "transcript": "encara que no et ho cregues ai tant a bon matí guanyarà la pilota d'or"
+    },
+    "elia_009.wav": {
+        "ground": "M'ho sembla a mi o aquell és el turista que allotgem?",
+        "transcript": "m'ho sembla a mi ho a que és el turista que allotjam"
+    },
+    "emma_109.wav": {
+        "ground": "I vosaltres quin dia considereu que és la meitat de la setmana, lo dimecres o el dijous?",
+        "transcript": "i vosaltres quin dia considereu que és la meitat de la setmana o dimecres o dijous"
+    },
+    "olga_078_2.wav": {
+        "ground": "Fes-los uns bons manyacs en es abductors perquè no tengui tants de cruiximents després d'entrenar.",
+        "transcript": "és l'ús uns bons manyacs de néts abductors perquè no tingui temps de creixements després d'entrenar"
+    },
+    "elia_324.wav": {
+        "ground": "Durant els dos primers dies passegem per la ciutat amb tota la família, però després tots tenen encàrrecs per fer i l'única que ens acompanya és l'àvia.",
+        "transcript": "durant els dos primers dies passegen per la ciutat amb tota la família però després tots tenen encàrrecs per fer i l'única que ens acompanya és l'àvia"
+    },
+    "gina_131.wav": {
+        "ground": "Una lleugera calvície causada pel pas del temps li proporcionava un misteriós aire.",
+        "transcript": "una llicera que el vícia causar pel pas del temps li proporcionava un misteriosa aire"
+    },
+    "lluc_006.wav": {
+        "ground": "Una pinteta d'or sobre el coixí.",
+        "transcript": "una pintura d'or sobre el coixí"
+    },
+    "gina_276.wav": {
+        "ground": "El peix més evolucionat té tres espines i un parell d'escames.",
+        "transcript": "el prisme és evolucionat de tres espines i un parell d'escames"
+    },
+    "lluc_186.wav": {
+        "ground": "El dia que vaig fer els cinquanta ningú em va felicitar: la família, les ex i els amics s'han cansat de que els demane diners.",
+        "transcript": "el dia que vaig fer els cinquanta ningú en va felicitar la família més cecs i els amics s'han cansat de qui els demana diners"
+    },
+    "elia_201.wav": {
+        "ground": "Sembla com si un vent molt fort bufés de dreta a esquerra.",
+        "transcript": "sembla com si un vent molt fort o fes de dret a esquerra"
+    },
+    "quim_214.wav": {
+        "ground": "L'endemà al matí trucà, i tartamudejant va arribar a demanar si em podia convidar a sopar.",
+        "transcript": "l'endemà un matí trucar i tarda mudat ja amb arribar demanar si impugui convida a sopa"
+    },
+    "gina_027.wav": {
+        "ground": "Quan la vaig tornar a veure semblava que havia envellit deu anys.",
+        "transcript": "quan la va es tornar a veure semblava que havíem visit de guanys"
+    },
+    "quim_284.wav": {
+        "ground": "Els únics que ho sentien de veritat eren en Damià i en Marc, i aquest últim més que ningú. Havia perdut al seu millor amic, al confident i a la font d'ingressos més fiable.",
+        "transcript": "els únics que el sentien veritat eren endemia i emmarck i aquesta últim més que ningú havia perdut el seu millor amic el confident i la font dels ingressos més fiable"
+    },
+    "elia_311.wav": {
+        "ground": "Tinc trenta sis anys, sóc una dona imperfecte que se sent bé en la seva pell.",
+        "transcript": "tinc trenta-sis anys sóc una dona imperfecta que s'assemblea en la seva pell"
+    },
+    "grau_139.wav": {
+        "ground": "Amb tot el que fas per mi, et podries extingir, i no descobririen ni rastre del camí.",
+        "transcript": "com tot el que fas per mi et podries extingir i no descobririen ni rastre del camí"
+    },
+    "grau_144.wav": {
+        "ground": "Me'n recordo amb exactitud de tot el que fèiem i sé que tu també ho tens gravat.",
+        "transcript": "recordo amb exactitud de tot el que feien i sé que tu també ho tens gravat"
+    },
+    "grau_043.wav": {
+        "ground": "Tenia raó i em vas dir que no, que no en tenia ni idea, amb una arrogància horrible.",
+        "transcript": "temia raó i amb bàstic que no que no en tenia ni idea amb una rugància horrible"
+    },
+    "emma_300.wav": {
+        "ground": "Llavors he anat tirant pel carrer on visc fins que he arribat a la botiga on fan fotos. M'he fet fer unes quantes fotografies de carnet, que ara que comença el curs se'n necessiten moltes.",
+        "transcript": "llavors he anat tirant pel carrer on visc fins que ha arribat a la botiga on fan fotos m'he fet fer unes quantes fotografies de carnet i ara que començà el curs sa necessiten moltes"
+    },
+    "quim_189.wav": {
+        "ground": "Obcecada i egoista, ell havia pensat en deixar-la. Sospesat a la balança, però, no l'hi convenia.",
+        "transcript": "optikada de goigta ell havia pensat en deixar-la després a la balança però no li convenia"
+    },
+    "emma_227.wav": {
+        "ground": "Quan s'hi va apropar fou quan el vaig veure.",
+        "transcript": "quan s'hi va propà fou quan el vaig veure"
+    },
+    "olga_146.wav": {
+        "ground": "Poc a poc se va anar fent més gros i tot d'una te va explotar a sa cara.",
+        "transcript": "poco poc se van a fer més gros i tot d'una te va explotació cara"
+    },
+    "elia_221.wav": {
+        "ground": "Veus amigues, ànimes conegudes d'altres etapes, d'altres nivells m'esperen, em criden.",
+        "transcript": "amb veus amigues ànimes conegudes altres etapes d'altres nivells m'esperen amb criden"
+    },
+    "elia_348.wav": {
+        "ground": "Quan sentim el so de la màquina engegant i els crits del revisor, correm a instal·lar-nos de nou als nostres quatre seients per tal de continuar el viatge tranquil·lament.",
+        "transcript": "quan sentim el so de la màquina en gegany als crits dels revisorem instal·lar-nos de nou els nostres quatre sai i ens per tal de continuar el viatge tranquil·lament"
+    },
+    "olga_262.wav": {
+        "ground": "Esparverada, em preguntava on havia anat a parar.",
+        "transcript": "es preverada on preguntava una vienat operar"
+    },
+    "quim_188.wav": {
+        "ground": "El que sí sé és que, si algú de nosaltres procrea cosa quasi impossible, perquè som autòmats, se'ns pren el fill, el qual dipositen a les granges i tot torna a començar.",
+        "transcript": "autosí fer és que si alguden els altres procrea a quasi cas impossible perquè som automats s'inspiren el fill el qual dipositen a les granges i tota la començar"
+    },
+    "emma_158.wav": {
+        "ground": "M'inclino a suposar que els fragments anònims de la història han estat escrits per dones.",
+        "transcript": "m'inclino el suposà que els fragments anònims de la història han estat escrits per dones"
+    },
+    "quim_327.wav": {
+        "ground": "Apago el piti al ferro de la barana i el llenço cap a baix, però no em quedo per veure si l'encerto.",
+        "transcript": "ferro de la barana i el llança cap a baix però no em queda per veure si l'encerta"
+    },
+    "pere_127.wav": {
+        "ground": "Escarxofat a la cadira hi havia un home esperant lo seu torn.",
+        "transcript": "mascarpone la cabina hi havia un home espero en el seu torn"
+    },
+    "gina_110.wav": {
+        "ground": "L'espai prehilbertià és un espai vectorial on hi ha una forma hermètica positiva no degradada.",
+        "transcript": "les paper i el berdià és un espai vectorial on hi ha una forma hermètica positiva no degradada"
+    },
+    "elia_038.wav": {
+        "ground": "L'altre dia ens vam enganxar a l'ermot que tant llueixes.",
+        "transcript": "l'altra havia ens vam enganxar l'armot que tan llueixes"
+    },
+    "grau_003_2.wav": {
+        "ground": "Passejàvem ara pels estrets carrers que tants cops havíem recorregut feia anys.",
+        "transcript": "passejava mare pels estrés que risc que tants cops havien recorregut feia anys"
+    },
+    "emma_314.wav": {
+        "ground": "Vaig apropar-me, tot mirant la catedral què s'alça majestuosa cap al cel.",
+        "transcript": "vaig apropar-me tot mirant-me catedral que s'alça majestuosa cap al cel"
+    },
+    "elia_162.wav": {
+        "ground": "Això diuen alguns autors. Segons cert filòsof jueu, com que el pensament europeu és una síntesi de la Grècia antiga i del llenguatge bíblic, resulta que és intrínsecament hipòcrita, fals.",
+        "transcript": "això diuen alguns autors segons ser filó subjueu com que el pensament europeu és una síntesi de la grècia antiga i del llenguatge bíblic resulta que és intrínsecament hipòcrita fals"
+    },
+    "pere_009.wav": {
+        "ground": "M'ho sembla a mi o aquell és lo turista que allotgem?",
+        "transcript": "mos sembla a mi ho aquells roturista aquell jutgem"
+    },
+    "emma_290.wav": {
+        "ground": "Les manetes de dos dits fermament tancades al voltant de la branca.",
+        "transcript": "les manetes de dos dits fermament tancades al voltant de la branca"
+    },
+    "olga_263.wav": {
+        "ground": "He tastat altres cultures i altres costums.",
+        "transcript": "ha estat altres cultures i altres costums"
+    },
+    "quim_069.wav": {
+        "ground": "Està fent-ne una cançó perquè no saps com dibuixar-ho.",
+        "transcript": ""
+    },
+    "pere_156.wav": {
+        "ground": "Me vaig demanar si la nostra complicitat no era aquesta mena d’ineptitud per al tedi.",
+        "transcript": "m'hi vaig demanar si la nostra complicitat no era aquesta mentidut per al tevi"
+    },
+    "olga_209_2.wav": {
+        "ground": "No m'agrada sentir com el cantant agafa aire a les cançons. No m'agrada que als bars em posin el tovalló sota el tall de pastís o l'entrepà.",
+        "transcript": "no m'agrada sentir com el cantant agafa aire descansons; no m'agrada que els bars amb possin al tovalló sota el tall de pastís a l'entrepà"
+    },
+    "gina_095.wav": {
+        "ground": "L'avi Tonet era molt catalanòfil i se sentia orgullós de la seua terra.",
+        "transcript": "nabito net era molt catalanòfil i se sentia orgullós de la seua terra"
+    },
+    "grau_272.wav": {
+        "ground": "L'olor m'ofega, el ca em mira, el seu ullal sobre el llavi inferior, la orella escapçada i els ulls guerxos em fan perdre aquell control il·lusori.",
+        "transcript": "plomo fera el camp mira el seu ull al sobre el lleva inferior no hauria encapçada i els ulls gerços en fan perdre d'aquell controlinusori"
+    },
+    "olga_123.wav": {
+        "ground": "S'argument d'aquells polítics xerraires no va convèncer absolutament a ningú.",
+        "transcript": "s'arguments d'aquests polítics xerraires no va convèncer absolutament ningú"
+    },
+    "elia_225.wav": {
+        "ground": "Jo vaig respondre que mai havia conegut res clar que determinés la possible causa del trastorn de l'Èlia.",
+        "transcript": "jo vaig respondre que mai havia conegut res clar que determinés la possible causa del trastorn de l'èlia"
+    },
+    "olga_145.wav": {
+        "ground": "Me va manar que agafés aquella clau i que obrís una porteta.",
+        "transcript": "vam anar que pesa aquella clau i cobrits d'una porta"
+    },
+    "olga_254.wav": {
+        "ground": "Bé doncs, va arribar un dia que el pare es va morir.",
+        "transcript": "doncs va arribar un dia que el pare es va morir"
+    },
+    "emma_191.wav": {
+        "ground": "Em demanava, no sense ironia, si també podria regatejar com en altres llocs del país, esmentant que ens trobaven en temporada baixa.",
+        "transcript": "em demanava no sense ironia si també podia regatejar com en altres llocs del país esmentant que ens trobaven en temporada baixa"
+    },
+    "quim_323.wav": {
+        "ground": "La pregunta d'en Santi trenca els seus pensaments. Altre cop ho ha fet, ha fugit de l'escena real per anar-se'n a la del costat, o a la de més enllà.",
+        "transcript": "la pregunta d'ençà en té trenca el seu pensaments altre cop ho ha fet ha fugit de l'escena real per anar-se anava del costat més enllà"
+    },
+    "olga_191.wav": {
+        "ground": "Els ulls se li seguien hipnotitzant mirant-lo.",
+        "transcript": "els ulls se li seguien imnotitzant mirant-lo"
+    },
+    "olga_078.wav": {
+        "ground": "Fes-los uns bons manyacs en es abductors perquè no tengui tants de cruiximents després d'entrenar.",
+        "transcript": "fes-los uns bons banyats en els doctors perquè no tingui tants de cruiximents després d'entrenador"
+    },
+    "lluc_045.wav": {
+        "ground": "Lleida és petita i el més habitual serà trobar-nos, no hi ha gaires bars on deixar-se caure.",
+        "transcript": "trides petita i el més habituals no trobar-nos no hi ha gaires bars on deixar-se caure"
+    },
+    "emma_111.wav": {
+        "ground": "No me vinguis amb històries que ja ens coneixem.",
+        "transcript": "no me vingues amb històries que ja ens coneixem"
+    },
+    "elia_283.wav": {
+        "ground": "El van sotmetre a tota classe de preguntes, arribant a atabalar-lo.",
+        "transcript": "el van sotmetre a tota classe de preguntes arribant atabalar-lo"
+    },
+    "quim_380.wav": {
+        "ground": "El senyor Manel viu amb la seva dona.",
+        "transcript": "el senyor manel viu l'oceva dona"
+    },
+    "elia_087.wav": {
+        "ground": "El pet nasal és un fenomen estrany i mediàticament silenciat que mereix més difusió.",
+        "transcript": "el ped no s'ha és un fenomen estrany mediàticament silenciat que mereix més difusió"
+    },
+    "olga_162.wav": {
+        "ground": "Això diuen alguns autors. Segons cert filòsof jueu, com que el pensament europeu és una síntesi de la Grècia antiga i del llenguatge bíblic, resulta que és intrínsecament hipòcrita, fals.",
+        "transcript": "això diuen alguns autors sou un cert filòsof jueu com que el pensament europeu és una síntesi de la gràcia antiga i del llenguatge bíblic resulta que és intrínsecament hipòcrita fals"
+    },
+    "olga_243_2.wav": {
+        "ground": "Has de seguir uns criteris, de proporció i regularitat, a estones fins i tot diria que de simetria. I és clar, també que tinguin els elements clau que els identifiquin.",
+        "transcript": "has de seguir uns criteris que proporció irregularitat estones fins i tot diria que de simetria i és clar també que tinguin els elements clau que els identifiquin"
+    },
+    "elia_219.wav": {
+        "ground": "Deixà de banda el món de les tortugues marines.",
+        "transcript": "deixà de banda el món de les tortugues marines"
+    },
+    "grau_064_2.wav": {
+        "ground": "L'edifici que va dissenyar l'arquitecte era especialment alt i estret.",
+        "transcript": "l'edifici que va dissenyar l'arquitecte era especialment alt i estret"
+    },
+    "pere_080.wav": {
+        "ground": "Tants regles trencats sobre la taula de pissarra són sinònim crític de malaurança.",
+        "transcript": "regles trencats sobre la taula de pissarra són sinònim crític de malaurant-se"
+    },
+    "grau_018.wav": {
+        "ground": "Cau com neu la pluja damunt seu, i neixen flors al seu voltant.",
+        "transcript": "còlicu meu la pluja damunt seu i més se'n flors al seu voltant"
+    },
+    "pere_108.wav": {
+        "ground": "Encara que no t'ho creguis, l'Aitana Bonmatí guanyarà la Pilota d'or.",
+        "transcript": "encara que no t'ho cregues la hitanava un matí guanyarà la pilota d'or"
+    },
+    "quim_097.wav": {
+        "ground": "La va mirar amb una profunda mirada de menyspreu i decepció que no va poder amagar.",
+        "transcript": "normal mira amb una profunda mirada de menyspreu i recepció que no va por demanar"
+    },
+    "gina_239.wav": {
+        "ground": "Després, van pujar al pis d'ella i van fer l'amor dos cops més, un per la nit i un altre al matí següent.",
+        "transcript": "després van pujar al pis d'ella i van fer la mort dos cops més un per la nit i un altre al matí següent"
+    },
+    "olga_130.wav": {
+        "ground": "He baixat ses escales i creuat es passadís a tot drap per recollir es paquet.",
+        "transcript": "dibuixat s'escales i acrobotes passadís a tot drap per recol·lis poquet"
+    },
+    "emma_331.wav": {
+        "ground": "Ella se'ls mira un per un, són de tots els gustos i colors que coneix!",
+        "transcript": "ella se'ls mira un per un som de tots els gustos i colors que coneix"
+    },
+    "olga_167.wav": {
+        "ground": "Dissabte passat, l'etnògraf va aconsellar-los que continuessin amb la festa tan esnob que estaven preparant.",
+        "transcript": "dissabte passat de etnògraf va consellar-los que continuessin en la festa tantes nom que estaven preparant"
+    },
+    "emma_163.wav": {
+        "ground": "Anem a Lanzarote... A Lanzarote? A la costa de Lanzarote.",
+        "transcript": "anem a l'amfarote a l'enfarote a la costa de lanzarote"
+    },
+    "pere_190.wav": {
+        "ground": "Hem pujat al mateix vagó, i sense fer-ho expressament, hem acabat asseguts l'un davant de l'altre.",
+        "transcript": "em pujat a la mateix begur i sense fer expressament i m'ha acabat a seguits l'un de banda l'altre"
+    },
+    "grau_046.wav": {
+        "ground": "Deixo d'estar confortable quan m'arriba el so d'aquell accent que gastes.",
+        "transcript": "deixo d'estar confortable quan m'arriba al so de qui accent que gastes"
+    },
+    "grau_305.wav": {
+        "ground": "I darrere les seves passes, ni un sol aplaudiment.",
+        "transcript": "i darrere les seves passes ni un sol aplaudiment"
+    },
+    "pere_169.wav": {
+        "ground": "Engega el bolígraf amb el polze, i fa un gargot per a veure si pinta.",
+        "transcript": "engega el bolígraf amb el polze i fa un gargot per a veure si pinta"
+    },
+    "elia_032.wav": {
+        "ground": "L'amo de son carabassa diu que en sap molt de fer llet d'ametlles.",
+        "transcript": "l'amo de son carabassa diu que en sap molt de fillet d'ametlles"
+    },
+    "olga_218.wav": {
+        "ground": "Ella va sortir a arreglar-se el maquillatge.",
+        "transcript": "ella va sortir regular-se el maquillatge"
+    },
+    "elia_025.wav": {
+        "ground": "El meu veí del cinquè és un especialista en literatura nòrdica.",
+        "transcript": "el meu veí del cinquè és una especialista en literatura nòrdica"
+    },
+    "elia_085.wav": {
+        "ground": "Cap pot no pot saber qui pot cabre dins d'una serp riuenca de dos rius germans.",
+        "transcript": "que pot no pot saber qui pot cabra dins una ser riuenca de dos rius germans"
+    },
+    "lluc_140.wav": {
+        "ground": "Tin! Agafa la clau i obri la porta del carreró, corre!",
+        "transcript": "agafa la clou i obrint la porta del carreró corre"
+    },
+    "quim_366.wav": {
+        "ground": "Als vespres s'estava llargues estones asseguda a la porxada, prop del cobert de les eines, tot contemplant com es ponia el sol que deixava, de nou, la casa sota un cel de focs.",
+        "transcript": "pots estava allargas estones en segura de porxada prop del cobert de les eines però compte amb plan com es ponia el sol que deixava de nou la casa sort d'un sol de focs"
+    },
+    "grau_157_2.wav": {
+        "ground": "Havia pronunciat la paraula prohibida, deixant clar que el seu to el treia de polleguera.",
+        "transcript": "havia pronunciat la paraula prohibida deixant clar que el seu autor el treia de polleguera"
+    },
+    "olga_292.wav": {
+        "ground": "Torna a sentir els nervis i la por per com l'acolliran.",
+        "transcript": "torna a sentir els nervis i la por per com la colliran"
+    },
+    "gina_155.wav": {
+        "ground": "És clar, si me diuen que òbriga una porta, jo l'òbric, que no se creguen que soc un covard.",
+        "transcript": "és clar si me diuen cobriga una porta i un obric que no se creguen que sóc un covard"
+    },
+    "pere_186.wav": {
+        "ground": "Et recordo estrenyent-me fort, mentre llegies les estupideses que et redactava a les hores de classe.",
+        "transcript": "recordes teniem-me fort mentre llegir les estupideses que et redactava les hores de classe"
+    },
+    "elia_388.wav": {
+        "ground": "Ha vingut fa un moment la veïna de dalt, dient que la camisa era del noi que està amb ella.",
+        "transcript": "ha vingut fa un moment la veïna de dalt dient que la camisa la del noi que es fa amb ella"
+    },
+    "olga_087.wav": {
+        "ground": "Es pet nasal és un fenomen estrany i mediàticament silenciat que mereix més difusió.",
+        "transcript": "es pot basales un fenomen estrany immediaticament silenciat com a és més difusió"
+    },
+    "emma_278.wav": {
+        "ground": "Unes pestanyes llargues paraven la rosada als seus ullets blaus.",
+        "transcript": "unes pestanyes llargues paraven la rosada els seus ullets blaus"
+    },
+    "grau_298.wav": {
+        "ground": "Una mostra de la total inutilitat del progrés contra la barbàrie.",
+        "transcript": "una mostra de la tuta inutilitat del progrés controlar herbària"
+    },
+    "quim_313.wav": {
+        "ground": "-.",
+        "transcript": ""
+    },
+    "quim_068.wav": {
+        "ground": "Es seu genoll li feia figa i ja no podia aguantar-se dret.",
+        "transcript": "els seus homes li feia filla i ja no podia comprar-se dret"
+    },
+    "elia_075.wav": {
+        "ground": "L'altre dimarts vaig portar-li un croissant de xocolata amb nous de macadàmia al germà del Joan.",
+        "transcript": "l'altre dimarts vaig portar-li un corres en de xocolata amb nous de macadàmia al germà del joan"
+    },
+    "olga_219.wav": {
+        "ground": "El metro va ple: és hora punta.",
+        "transcript": "metrobable és hora punta"
+    },
+    "pere_243.wav": {
+        "ground": "No penso baixar d'aquest tren fins que em retorne de nou a casa.",
+        "transcript": "no penso baixar d'aquest tren fins que em retorna de nou a casa"
+    },
+    "elia_246.wav": {
+        "ground": "Amb aquests objectes gravats a la nostra primera memòria, vàrem emprendre el viatge.",
+        "transcript": "amb aquests objectes gravats en la nostra primera memòria vàrem emprendre el viatge"
+    },
+    "elia_161.wav": {
+        "ground": "A quina edat, vostè i el seu germà van ser adoptats per la família Álvarez?",
+        "transcript": "a quina edat busseir els seus armaven s'adoptats per la família alvarez"
+    },
+    "elia_279.wav": {
+        "ground": "A casa creien que aprendre a nedar era una frivolitat, que era cosa de rics.",
+        "transcript": "a casa creien que aprendre nadar era una frivolitat que era cosa de rics"
+    },
+    "emma_258.wav": {
+        "ground": "Fins a l'últim moment em trauràs de polleguera!",
+        "transcript": "fins a l'últim moment en trauràs de polleguera"
+    },
+    "pere_089.wav": {
+        "ground": "Havíem fet ja mig jorn de travessa quan les casetes de Betlem s'albiraren a les ninetes dels nostres ulls.",
+        "transcript": "el vi un fetge migjorn i travessa quan és casit és evident servirarem els límites dels nostres ulls"
+    },
+    "pere_082.wav": {
+        "ground": "Amb veles i vents a l'esquena despullada i amb una dolça metzina a la piscina.",
+        "transcript": "amb eles i vents l'esquena despullada i amb una dolça metzina la piscina"
+    },
+    "elia_064.wav": {
+        "ground": "L'edifici que va dissenyar l'arquitecte era especialment alt i estret.",
+        "transcript": "l'edifici que va dissenyar l'arquitecte era especialment alt i estret"
+    },
+    "grau_153_2.wav": {
+        "ground": "Fuig d'aquí, et dic! O vols que et parteixi en dos?",
+        "transcript": "fuig d'aquí en vic o busquen parteixen dos"
+    },
+    "gina_218.wav": {
+        "ground": "Ha caigut a la taula una gota que penjava del seu nas.",
+        "transcript": "ha caigut a la taula una gota que penjava del seu nas"
+    },
+    "quim_184.wav": {
+        "ground": "Si aconseguiu un autògraf de l'exlíder d'aquest grup de rock en mig d'aquell guirigall, us prometo que us donaré dues entrades pel concert que vulgueu.",
+        "transcript": "si coincidiu un autògraf de les líder d'aquest grup de roca enmig d'aquest us promotorment medús entrades pel concert que vulgueu"
+    },
+    "elia_047.wav": {
+        "ground": "No se m'acut què contestar-li, és massa tard per concentrar-me.",
+        "transcript": "no se m'acut que contestar-li és massa tard per concentrar-me"
+    },
+    "elia_267.wav": {
+        "ground": "Estic a punt de sortir per la porta quan sento soroll de corredisses al meu darrera.",
+        "transcript": "estic a punt de sortir per la porta quan sent-ho soroll de corredisses al meu darrere"
+    },
+    "quim_310.wav": {
+        "ground": "No m'agraden els ulls clars, encara que amb ell he fet una excepció.",
+        "transcript": "no m'agraden els ulls encara que amb ell he fet una excepció"
+    },
+    "grau_195.wav": {
+        "ground": "Per què guardaves tots aquells objectes?, eren restes de llars anònimes.",
+        "transcript": "por qué guarda l'escuts d'aquells objectes i ben restes de llars anònimes"
+    },
+    "pere_187.wav": {
+        "ground": "Abans que decidim res, l'ombra s'aixeca i trontolla cap a nosaltres.",
+        "transcript": "abans que decidim res l'ombre s'aixeca i trontolla cap a nosaltres"
+    },
+    "grau_163_2.wav": {
+        "ground": "Anem a Lanzarote... A Lanzarote? A la costa de Lanzarote.",
+        "transcript": "anem a l'enferrute en el ferrocar a la costa de l'enferrute"
+    },
+    "grau_302.wav": {
+        "ground": "La seva relació fou declarada oberta i lliure de lligams ara fa uns mesos, al moment més àlgid, rient sobre l'estora després de fer l'amor.",
+        "transcript": "la seva relació fou declara de oberta i lliure a lligams serà fons mesos el moment més àlgid rien sobre les túra després de fer l'amo"
+    },
+    "quim_203.wav": {
+        "ground": "Ahir, al veure't al bosc amagat, vaig pensar que també fugies. Per a estalviar temps, explicacions i no posar-nos en perill, et vàrem estabornir.",
+        "transcript": "ai el burro que el bosc que mallat vaig pensar que també fugiestalviar atents explicacions i no posar-nos en perill vàrem estar molt bé"
+    },
+    "lluc_217.wav": {
+        "ground": "Intenta escollir sempre el paràmetre que més l'ha captivat, el que ha fet que es decideixi a treure la llibreta atrotinada de la butxaca, i a destrossar-la un xic més.",
+        "transcript": "impremta escollir sempre el programetre que més la captivat el que ha fet que es decideixi a treure la llibreta a trotineta de la butxaca hi ha destrossar-la un xic més"
+    },
+    "grau_155_2.wav": {
+        "ground": "És clar, si em diuen que obri una porta, jo l'obro, que no es creguin que soc un covard.",
+        "transcript": "és clar si em diuen que obrir una porta jo noro que no es creguin que sóc un cobert"
+    },
+    "pere_213.wav": {
+        "ground": "Bec, i així potser demà no recordo res, i crec que encara sóc jove i sé gaudir de la vida.",
+        "transcript": "vic i així pot ser demano recorda res i crec que encara sóc jove i ser gaudir de la vida"
+    },
+    "gina_132.wav": {
+        "ground": "Marc no podrà carregar un feixuc sac de blat, tan esprimatxat com és.",
+        "transcript": "marc no podrà carregar un filixut sac de blat tant és primatxat com és"
+    },
+    "grau_117_2.wav": {
+        "ground": "Davant de tantes incògnites germanes, el procés en qüestió hauria de ser sotmès a judici.",
+        "transcript": "davant de tantes incògnites germanes al processant qüestió haurà de ser sotmès a judici"
+    },
+    "quim_003.wav": {
+        "ground": "Passejàvem ara pes estrets carrers que tants de cops havíem recorregut feia anys.",
+        "transcript": "el seu jove mare potser es carrers que van de cops havien recordeu feia anys"
+    },
+    "lluc_050.wav": {
+        "ground": "Una vegada vas dir-me Clara amb una 'e' en el final tancada.",
+        "transcript": "una vegada esdirme clara amb una e en el final tancada"
+    },
+    "grau_174_2.wav": {
+        "ground": "Garriga Martínez és la dinovena.",
+        "transcript": "garriga martínez és la dinovena"
+    },
+    "elia_397.wav": {
+        "ground": "Finalment arribo a la meva parada i, una mica decebuda, en baixo.",
+        "transcript": "finalment arribo a la meva parada i una mica decebuda en baixo"
+    },
+    "emma_289.wav": {
+        "ground": "Amb els diners que feia he anat a comprar llavors de flors i ara les estic escampant per la vora de la carretera.",
+        "transcript": "amb els diners que feia he anat a comprar llavors de flors hi han a les estigues campant per la vora de la carretera"
+    },
+    "lluc_022.wav": {
+        "ground": "En veure aquell rostre enorme va experimentar un rebuig immediat.",
+        "transcript": "en viure que il·lustre enorme va experimentar un rebuig immediat"
+    },
+    "olga_251.wav": {
+        "ground": "Els dos homes van congeniar immediatament.",
+        "transcript": "els dos homes van con geníar immediatament"
+    },
+    "elia_260.wav": {
+        "ground": "Els rostolls crepitegen al ser trepitjats.",
+        "transcript": "els rostols crepitegen els set trepitjats"
+    },
+    "quim_176.wav": {
+        "ground": "Igualment, també pots comprar-te un barnús del fòrum, un bolígraf del fòrum, o un coixí molt suau, ple de poliestiré extruït, del fòrum.",
+        "transcript": "woman també vols comprat un bon ús del fòrum on volígrad del fòrum on cosí molt suau ple de paulstruït del fòrum"
+    },
+    "pere_223.wav": {
+        "ground": "Tu et queixaves de l'aire fred, però jo ja estic començant a suar.",
+        "transcript": "tot que saps de l'aire fred però jo ja estic començant a suar"
+    },
+    "elia_277.wav": {
+        "ground": "Li dic que m'ha escopit al cabell d'una forma no premeditada però igualment injusta i que em deixi anar, que li vull trencar la cara.",
+        "transcript": "li dic que mas copit el cabell d'una forma no premeditada però igualment injusta i que em deixa anar que li vull trencar la cara"
+    },
+    "olga_005.wav": {
+        "ground": "Setze exercicis d'un jutge.",
+        "transcript": "setze exercicis d'un jutge"
+    },
+    "elia_344.wav": {
+        "ground": "Una corrent d'aire va encerclar-me i em vaig sentir dins un núvol, aïllada de la resta dels mortals.",
+        "transcript": "una corrent d'aire avançar clarma i em vaig sentir dins un núvol aïllada de la resta dels mortals"
+    },
+    "quim_016.wav": {
+        "ground": "I de sobte, a s'ombra d'un pinar dorment, una branca s'estremia.",
+        "transcript": "filosofte és ombra d'un pinadorment una branca s'estremia"
+    },
+    "grau_105_2.wav": {
+        "ground": "No deixis per demà el rentat de parabrises dels tractors de Puigpadrines.",
+        "transcript": "no deixis per demà el rentat de parabrises dels tractors de puigpedrines"
+    },
+    "lluc_095.wav": {
+        "ground": "L'avi Tonet era molt catalanòfil i se sentia orgullós de la seua terra.",
+        "transcript": "l'hàbitat era molt catalanòfil i se sentia orgullós de la seua terra"
+    },
+    "lluc_046.wav": {
+        "ground": "Deixe d'estar confortable quan m'arriba el so d'aquell accent que gastes.",
+        "transcript": "peix tard confortable quan arriben sol de que hi accent que hostes"
+    },
+    "emma_285.wav": {
+        "ground": "Però sí que em giro i, des de dalt les escales del metro, li crido que de què va i que se'n vagi a cagar, a la merda i a prendre pel cul.",
+        "transcript": "però sí que em giro i des de dalt les escales del metro li crido que de què va i que se'n vagi a cagar a la merda i aprendre pel cul"
+    },
+    "lluc_043.wav": {
+        "ground": "Tenia raó i me vas dir que no, que no en tenia ni idea, amb una arrogància horrible.",
+        "transcript": "tenia raó i amb els dir que no que no entenia ni idea; amb una rugància o riure"
+    },
+    "quim_247.wav": {
+        "ground": "Va començar tot com un joc?",
+        "transcript": "va començar tot com un joc"
+    },
+    "gina_273.wav": {
+        "ground": "Se li sacseja l'instint.",
+        "transcript": "se li sacseja l'instint"
+    },
+    "lluc_219.wav": {
+        "ground": "I ara es trobava en aquell racó, solitària, sense que ningú li digués res.",
+        "transcript": "hi ha dos trobava en aquí racó solitària sense que ningú li digués res"
+    },
+    "grau_131.wav": {
+        "ground": "Una lleugera calvície causada pel pas del temps li proporcionava un misteriós aire.",
+        "transcript": "una lleugera que el vici que usava pel pas del temps li proporcionava un misteriosa aire"
+    },
+    "lluc_160.wav": {
+        "ground": "I arribe a les zones inesperades del meu cervell, a coses noves que no existixen ni sé per a què servixen.",
+        "transcript": "hi arriben les zones inesperades del meu cervell a cossos noves que no existixen ni sempre serveixen"
+    },
+    "emma_060.wav": {
+        "ground": "La meua germana s'ha descuidat de descongelar el pollastre i ara no tenim sopar.",
+        "transcript": "la meua germana s'ha descuidat descongelar el pollastre i era no tenim sopar"
+    },
+    "elia_271.wav": {
+        "ground": "Es va deixar caure al nou seient com qui estrena una nova vida, i parlà com qui plora el seu primer gemec.",
+        "transcript": "es va deixar caure al nou seient com qui estrena una nova vida i parlar com qui plora el seu primer gemec"
+    },
+    "quim_369.wav": {
+        "ground": "Obro els calaixos de la còmoda, trobo les seves coses i oloro el seu aroma, encara present a la seva roba.",
+        "transcript": "pobres que o eixos de la còmode però volgut fer unes coses i olor el seu aroma encara presenta la seva roba"
+    },
+    "olga_272.wav": {
+        "ground": "Era un avançat al seu temps, al meu fins i tot. Ha calgut fer-me gran per creure entendre'l.",
+        "transcript": "era un avançat el seu temps el meu fins i tot ha calgut fer-me gran per creure entendre'l"
+    },
+    "emma_090.wav": {
+        "ground": "Desconèixer què passa al meu voltant me genera molta angoixa.",
+        "transcript": "vis conèixer que va passar al meu voltant met generar molta angoixa"
+    },
+    "emma_198.wav": {
+        "ground": "Si és que es pot dir que existeixo, o ja es pot començar a dubtar entre aspectes més complexos sobre fins a quin punt jo sóc jo, i no sóc ella.",
+        "transcript": "si és que es pot dir que existeixo puges pot començar adoptar entre aspectes més complexos sobre fins a quin punt jo soc jo o no sé que ella"
+    },
+    "elia_028.wav": {
+        "ground": "Jura solemnement que ell no va vendre les fotografies a la premsa.",
+        "transcript": "jura solemnament que ell no va vendre les fotografies a la premsa"
+    },
+    "elia_262.wav": {
+        "ground": "Aquell mirall em recordava alguna cosa.",
+        "transcript": "aquell mirai em recordava alguna cosa"
+    },
+    "olga_052.wav": {
+        "ground": "Quan va submergir-se va veure peixos de tots colors.",
+        "transcript": "com va submergir-se valor peixos de colors"
+    },
+    "pere_143.wav": {
+        "ground": "Lo meu padrí sempre me deia que com més són, més s'embullen.",
+        "transcript": "padrí sempre me vella que com més són més embollen"
+    },
+    "grau_136_2.wav": {
+        "ground": "Jo només vull deixar d'estar espantada per si li queda més mal per fer encara.",
+        "transcript": "jo només vull deixar d'estar espantada per si li queda més mal per fer encara"
+    },
+    "quim_330.wav": {
+        "ground": "Això xocava de ple amb l'aprenentatge que he dit que era necessari per evolucionar ràpidament.",
+        "transcript": "acabo de plom l'aprenentatge que he dit era necessari prevul·lusionar ràpidament"
+    },
+    "elia_218.wav": {
+        "ground": "Xiuxiueja per compartir les riqueses amb les seves amigues, les estrelles.",
+        "transcript": "xiueja per compartir la riquesa amb les seves amigues les estrelles"
+    },
+    "emma_142.wav": {
+        "ground": "Tu tingues clar com és la veu que faig, perquè quan la sentis sàpiga que et giraràs.",
+        "transcript": "tu tingues clar com és la veu que faig perquè quan la sentis sàpia aquest giraràs"
+    },
+    "elia_363.wav": {
+        "ground": "A les onze he quedat amb una noia que diu que l'haig d'acompanyar al Zara, i haig d'anar a la plaça Catalunya. Haig d'anar a sota del metro, a la plaçeta aquella.",
+        "transcript": "a les onze quedat amb una noia que diu que il·lets d'acompanyar alfara i en a la plaça catalunya aids d'anar a sota del metro a la placeta que ella"
+    },
+    "grau_087.wav": {
+        "ground": "El pet nasal és un fenomen estrany i mediàticament silenciat que mereix més difusió.",
+        "transcript": "el pit nasal és un fenomen estrany immediaticament silenciat que mereix més difusió"
+    },
+    "emma_104.wav": {
+        "ground": "Lo Cesc i l'Ermesinda aniran a buscar mon oncle per cantar-li una cançó.",
+        "transcript": "no s'escrier més inda aniran a buscar monocle per cantar-li una cançó"
+    },
+    "lluc_227.wav": {
+        "ground": "I és que, hi ha algunes coses, per les quals no cal saber idiomes.",
+        "transcript": "i és que hi ha algunes coses per les quals no cal saber ni idiomes"
+    },
+    "grau_204.wav": {
+        "ground": "Jo també vaig somriure i li vaig donar la mà com si fos de debò un home.",
+        "transcript": "juntament vaig somriure i li vaig donar la mà com si fos de debò un home"
+    },
+    "gina_256.wav": {
+        "ground": "Li acaricia les espatlles amb les mans encara ensabonades, baixa pels seus braços nus, arriba fins als seus dits i s'embolica amb ells.",
+        "transcript": "les espatlles amb les mans encara en segonades baixa pels seus braços nus arriba fins als seus dit i simbolic amb ells"
+    },
+    "pere_076.wav": {
+        "ground": "Per la nit un crit monstruós i tètric vol prendre'm los llençols.",
+        "transcript": "per la nit un crit monstruositètric molt prendre amb les llençols"
+    },
+    "gina_018.wav": {
+        "ground": "Cau com neu la pluja damunt seu, i naixen flors al seu voltant.",
+        "transcript": "com una pluja damunt seu i naixen flors al seu voltant"
+    },
+    "gina_017.wav": {
+        "ground": "Amb una lleugera peresa t'enlaires tan alt que no ho abastes.",
+        "transcript": "amb una llotja era peresa de nàires tan alt que no abastes"
+    },
+    "lluc_226.wav": {
+        "ground": "I darrere les seues passes, ni un sol aplaudiment.",
+        "transcript": "les seues passes ni un sol aplaudiment"
+    },
+    "lluc_062.wav": {
+        "ground": "Les tres joves revolucionàries van enganxar cartells publicitaris a tots els fanals que van trobar.",
+        "transcript": "les tres joves revolucionàries vam enganxar cartells publicitaris a tots els fanals que van trobar"
+    },
+    "grau_295.wav": {
+        "ground": "Passem tot un tros ple de farigoles.",
+        "transcript": "passem tot un tros ple de farigoles"
+    },
+    "quim_381.wav": {
+        "ground": "Demà tindré l'honor d'entrevistar al fill petit de cal sabater, el senyor Ernest Sorribes.",
+        "transcript": "tomàtindre l'ona d'entrevistal fill petit del calmater; el senyor enmig s'arribes"
+    },
+    "quim_049.wav": {
+        "ground": "Lo que vulguis ho pots agafar tu mateix, i si tens set te duc aigua.",
+        "transcript": "vulguis ho pots agafar tu mateix i si tens set produc d'aigua"
+    },
+    "lluc_106.wav": {
+        "ground": "No pot ser possible que encara no t'hages tret el carnet de conduir, gamarús!",
+        "transcript": "no pot ser possible que encara no tots els tret el carnet de conduir com arús"
+    },
+    "emma_132.wav": {
+        "ground": "Lo Marc no podrà carregar un feixuc sac de blat, tan esprimatxat com és.",
+        "transcript": "l'omarg no podrà carregar un feixucsac de blat tant és prometxat com és"
+    },
+    "quim_201.wav": {
+        "ground": "Així va començar la gran partida de dominó.",
+        "transcript": "així va començar la gran partida de domino"
+    },
+    "quim_228.wav": {
+        "ground": "Sense extensió, sense pretensió, nosaltres som la frontera de la compressió profana.",
+        "transcript": "se'n sustenció sense protecció les altres són de frontera de la comprensió profana"
+    },
+    "grau_072.wav": {
+        "ground": "Cap més obstrucció sota un pretext pseudocientífic es permetrà durant aquesta setmana.",
+        "transcript": "cap més obstrucció sota un partit pseudocientífic es permetrà durant aquesta setmana"
+    },
+    "quim_123.wav": {
+        "ground": "S'argument d'aquells polítics xerraires no va convèncer a absolutament ningú.",
+        "transcript": "s'argumenta i polític serraires no va convèncer absolutament a ningú"
+    },
+    "pere_112.wav": {
+        "ground": "Si tornes a parlar-me d'aquesta manera no et passaré més lo pebre.",
+        "transcript": "si tornes a parlar-ne d'aquesta manera no et passaré més no pedra"
+    },
+    "olga_082.wav": {
+        "ground": "Amb veles i vents a s'esquena despullada i amb una dolça metzina a sa piscina.",
+        "transcript": "quan boles i vens a s'esquena despullada i amb una dolça metzina sabitzina"
+    },
+    "olga_247.wav": {
+        "ground": "La Roser hi va cada setmana, o bé dissabte o bé diumenge, per tal que vegin el nen, nineta dels seus ulls.",
+        "transcript": "les reserves setmana o bé dissabte o bé diumenge per tal que vagin el nen i mètode dels seus ulls"
+    },
+    "lluc_274.wav": {
+        "ground": "I m'adormo abrasat al seu jersei, el de llana que guarda millor la seva olor.",
+        "transcript": "així m'adormà abraçat el seu jersey el llama que guarda millor la seva honor"
+    },
+    "olga_212.wav": {
+        "ground": "I és aleshores quan començo a sentir un mareig incontrolable.",
+        "transcript": "qui és aleshores quan comença a sentir un mereixin controlable"
+    },
+    "olga_245.wav": {
+        "ground": "Ell està amb la mirada fixa a un plat amb formatge incrustat, fregant i maleint el moment que han decidit sopar pasta amb tomata i formatge.",
+        "transcript": "ell està amb la mirada fixa o un plat de formatge incrustat pregant i maleït el moment que han decidit sopar bastant tomàtic i formatge"
+    },
+    "grau_141_2.wav": {
+        "ground": "Les coses a voltes ens surten rodones.",
+        "transcript": "les coses a voltes en surten rodones"
+    },
+    "quim_186.wav": {
+        "ground": "Jo vaig respondre que mai havia conegut res clar que determinés la possible causa del trastorn de l'Èlia.",
+        "transcript": "jo vaig respondre i que mai havia conegut rasc clar que determiners la possible que els altres tomba l'àudio"
+    },
+    "elia_428.wav": {
+        "ground": "Els parisencs es fan quatre petons al presentar-se, dos a cada galta.",
+        "transcript": "els parisencs es fan quatre patons al presentar-se dos a cada galta"
+    },
+    "lluc_124.wav": {
+        "ground": "Va haver de demanar ajuda per a aixecar aquella pesada caixa.",
+        "transcript": "ajuda però així cara aquella pesava caixa"
+    },
+    "grau_100.wav": {
+        "ground": "Una espessa boira es va estendre per la plana de Lleida a primera hora de dimarts.",
+        "transcript": "una espessa boira es va estendre per la plena a lleida a primera hora a dimarts"
+    },
+    "grau_231.wav": {
+        "ground": "Els reis i les reines anàvem proveïts de senyorials incrustacions i elegants entapissats: fustes nobles i càlides, pell dolça i clara, ambientadors amb brises suaus i vents llunyans.",
+        "transcript": "els risc i la reina s'anaven proveïts de senyorial s'incrustacions i elegants en tapissets fustes nobles i càlides pe i dolça i clara ambientadors amb brises suaus i vents llunyans"
+    },
+    "elia_189.wav": {
+        "ground": "Present!, contesto cridant. Bé!, repetim sense dubtar.",
+        "transcript": "present contesto cridant bé repetim sense adoptar"
+    },
+    "grau_036.wav": {
+        "ground": "Des de l'any passat que la mar blava és plena de ràbia.",
+        "transcript": "des de l'any passat que la mar blava és plena de ràbia"
+    },
+    "lluc_102.wav": {
+        "ground": "Si te cantara l'amor de mon cor, nineta meua, les roselles plorarien.",
+        "transcript": "si té cantara la mort de moncor ni me cameua les roselles"
     }
 }

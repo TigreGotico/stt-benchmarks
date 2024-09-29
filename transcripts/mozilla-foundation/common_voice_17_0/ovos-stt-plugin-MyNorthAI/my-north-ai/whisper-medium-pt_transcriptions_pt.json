@@ -966,5 +966,49 @@
     "pt_test_0/common_voice_pt_23978655.mp3": {
         "ground": "Zuila Nunes da Silva",
         "transcript": ""
+    },
+    "pt_test_0/common_voice_pt_23978656.mp3": {
+        "ground": "Me xingaram de puta.",
+        "transcript": "Meu chingado de puta."
+    },
+    "pt_test_0/common_voice_pt_39576511.mp3": {
+        "ground": "Almirante da Armada, Comodoro, Primeiro-Subsargento, Segundo-Subsargento, Instruendo",
+        "transcript": "Almirante da Armada, comodoro, primeiro subsargento, segundo subsargento, instruendo."
+    },
+    "pt_test_0/common_voice_pt_39576588.mp3": {
+        "ground": "Partnership envolve parcerias de negócios.",
+        "transcript": "Partnership envolve parcerias de negócios."
+    },
+    "pt_test_0/common_voice_pt_27055924.mp3": {
+        "ground": "É necessário monitorar muito, porque há um risco de deslizamentos de terra.",
+        "transcript": "É necessário monitorar muito porque há um risco de deslizamentos de terra."
+    },
+    "pt_test_0/common_voice_pt_27055926.mp3": {
+        "ground": "Em segundo lugar, um estudo estratégico das empresas deve ser realizado.",
+        "transcript": "Em segundo lugar, um estudo estratégico das empresas deve ser realizado."
+    },
+    "pt_test_0/common_voice_pt_36941888.mp3": {
+        "ground": "cumprimento provisório da sentença ou esteja pendente arresto sobre bem do devedor",
+        "transcript": "Cumprimento provisório da sentença ou esteja pendente a resto sobre bem do devedor."
+    },
+    "pt_test_0/common_voice_pt_36941889.mp3": {
+        "ground": "devidamente",
+        "transcript": "Devidamente."
+    },
+    "pt_test_0/common_voice_pt_36466720.mp3": {
+        "ground": "Aurenilda Freitas de Albuquerque",
+        "transcript": "Aurenilda Freitas de Albuquerque."
+    },
+    "pt_test_0/common_voice_pt_36466722.mp3": {
+        "ground": "Quando a mãe dorme, um sinal que quer casar com a filha.",
+        "transcript": "Quando a mãe dorme, um sinal que quer casar com a filha."
+    },
+    "pt_test_0/common_voice_pt_37777709.mp3": {
+        "ground": "Ele pensou em se vingar",
+        "transcript": "Ele pensou em se vingar."
+    },
+    "pt_test_0/common_voice_pt_37777710.mp3": {
+        "ground": "Ele é paranoico, ela também é paranoica",
+        "transcript": "Ele é paranóico, ela também é paranóica."
     }
 }

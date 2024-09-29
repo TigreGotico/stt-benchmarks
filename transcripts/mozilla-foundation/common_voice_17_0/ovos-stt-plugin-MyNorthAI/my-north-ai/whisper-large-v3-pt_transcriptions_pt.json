@@ -258,5 +258,13 @@
     "pt_test_0/common_voice_pt_23600723.mp3": {
         "ground": "Três mulheres? em traje casual? se encontram ao ar livre.",
         "transcript": "Três mulheres em traje casual se encontram ao ar livre."
+    },
+    "pt_test_0/common_voice_pt_38130970.mp3": {
+        "ground": "Developer, Beta",
+        "transcript": "Developer beta."
+    },
+    "pt_test_0/common_voice_pt_39562783.mp3": {
+        "ground": "Precisamos otimizar nossas consultas SQL para melhor desempenho.",
+        "transcript": "Precisamos otimizar nossas consultas SQL para melhor desempenho."
     }
 }
