@@ -1,0 +1,10 @@
+{
+    "zip://en-GB~PAY_BILL/60268fc4dc3604f481bcb89c.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I want to pay a bill and I know I want to know how can I use my credit card to do so",
+        "transcript": "i want to pay a bill and i know i want to know how can i use my credit card to do so"
+    },
+    "zip://en-GB~PAY_BILL/60268fd7c7abb7f832138d5d.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hello I'd like to make a payment on my credit card please",
+        "transcript": "hello i'd like to make payment on my credit cards leave"
+    }
+}

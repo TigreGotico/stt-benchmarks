@@ -1,0 +1,50 @@
+{
+    "81fb93f00868eed6d4e128e77973e73f.wav": {
+        "ground": "salvar a informação a qual é fornecida pelo tiago nacarato nesta canção",
+        "transcript": "Salvar a informação a qual é fornecida pelo Tiago Nacarato nesta canção."
+    },
+    "c516543961008213407034aac688d5e6.wav": {
+        "ground": "fala me sobre o meu dia",
+        "transcript": "Fala me sobre o meu dia."
+    },
+    "14f4b5ef3614ef4e16c395ac88c7df60.wav": {
+        "ground": "reserve para mim um bilhete de comboio para lisboa",
+        "transcript": "Reserve para mim um bilhete de convéio para Lisboa."
+    },
+    "0551e51376088fb80062b11e0a4fd93b.wav": {
+        "ground": "quais são as novidades sobre a corrida",
+        "transcript": "Quais são as novidades sobre a corrida?"
+    },
+    "c916d6d4c2b8d5503a724945d6ef4a5c.wav": {
+        "ground": "quero ouvir a minha playlist reproduz agora",
+        "transcript": "Quero ver a minha playlist, reproduza agora."
+    },
+    "f696a8fb70c32be66bcb2170427f36f3.wav": {
+        "ground": "criar uma nova lista de",
+        "transcript": "Criar uma nova lista de."
+    },
+    "d584ec8f682f356cebf7a0c2a71f8618.wav": {
+        "ground": "diminuir as luzes",
+        "transcript": "Diminuir as luzes."
+    },
+    "f1f4071a20dc888f89dede4cd35b3104.wav": {
+        "ground": "quem vai estar presente na reunião esta sexta-feira",
+        "transcript": "Quem vai estar presente na reunião esta sexta feira?"
+    },
+    "410dfe937f87a0d2309c497c947551c2.wav": {
+        "ground": "diz qual é o estado da minha memória disponível",
+        "transcript": "O estado da minha mora disponível."
+    },
+    "a35d9b2d03c6efeb29c600dee495751a.wav": {
+        "ground": "diga-me a distância entre o sol e a lua",
+        "transcript": "Diga me a distância entre o sol e a lua."
+    },
+    "d4313144e0814bdcacbf671bd516847a.wav": {
+        "ground": "podes contar me uma boa anedota",
+        "transcript": "Podes contar me uma boa andota."
+    },
+    "212af40058ef94711772a94449e81399.wav": {
+        "ground": "lembrar de marcar uma reunião com os jogadores amanhã à noite pelas sete",
+        "transcript": "Lembrar de marcar uma reunião com os jogadores amanhã à noite pelas sete."
+    }
+}

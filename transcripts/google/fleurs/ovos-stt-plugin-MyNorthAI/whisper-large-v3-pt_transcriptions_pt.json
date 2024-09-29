@@ -1,0 +1,10 @@
+{
+    "test/10047022047800689031.wav": {
+        "ground": "construída pelos egípcios no século 3 a.c. a grande pirâmide é uma das muitas grandes estruturas de pirâmide construídas para honrar faraós mortos",
+        "transcript": "Construída pelos egípcios no século iii antes de cristo a grande pirâmide é uma das muitas grandes estruturas da pirâmide construídas para honrar faraós mortos."
+    },
+    "test/115117054376696254.wav": {
+        "ground": "outros assuntos na agenda em bali incluem salvar as florestas remanescentes do mundo e compartilhar tecnologias para auxiliar as nações em desenvolvimento a crescer de maneiras menos poluentes",
+        "transcript": "Outros assuntos na agenda em Bali incluem salvar as florestas remanescentes do mundo e compartilhar tecnologias para auxiliar as nações em desenvolvimento a crescer de maneiras menos poluentes."
+    }
+}

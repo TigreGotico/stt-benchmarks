@@ -1,0 +1,10 @@
+{
+    "zip://pt-PT~HIGH_VALUE_PAYMENT/response_27.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Bom dia Estou a fazer um pagamento um bocadinho grande e estou a dizer que eu tenho que aceitar uma mensagem SMS por ainda não sei muito bem como é que eu uso Pode me explicar",
+        "transcript": "balia e estudando a fazer um pagamento em boccaingrade e estou aá esta a dizer que tenho decitar uma mensagem a sem mes para ainda não sair muito bem como que o uso pode nos explicar"
+    },
+    "zip://pt-PT~CASH_DEPOSIT/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Bom dia estou a ligar porque precisava de informações sobre como é que eu posso depositar dinheiro na minha conta",
+        "transcript": "mandieto ao ligar por precisava de informações sobre como é propósito e depositar dinheiro de namiccols"
+    }
+}
