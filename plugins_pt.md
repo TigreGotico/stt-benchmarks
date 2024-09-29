@@ -18,11 +18,11 @@
 |-|-|-|-|
 | MultiLingualSpeechRecognition_MLS-pt | 0.0954 | 0.1031 | 0.1281 |
 | multilingual_librispeech | 0.1301 | 0.1021 | 0.1379 |
-| Speech-MASSIVE | 0.1349 | 0.1787 | 0.2126 |
+| Speech-MASSIVE | 0.1349 | 0.1787 | 0.2083 |
 | common_voice_17_0 | 0.1801 | 0.1871 | 0.3112 |
 | mTEDx-ptbr | 0.1829 | 0.1971 | 0.2753 |
 | fleurs | 0.1892 | 0.1978 | 0.1513 |
-| PTBRSpeechRecognition_CORAA | 0.1963 | 0.2422 | 0.3149 |
+| PTBRSpeechRecognition_CORAA | 0.1963 | 0.2393 | 0.3149 |
 | cv_mls_psfb_zero_synthetic | 0.2819 | 0.2888 | 0.3159 |
 | common_voice_pt_pt | 0.5397 | 0.6444 | 0.9177 |
 
@@ -33,7 +33,7 @@
 | fleurs | 0.3003 | 0.13 | 0.1707 | 0.223 |
 | common_voice_17_0 | 0.3747 | 0.2439 | 0.1821 | N/A |
 | MultiLingualSpeechRecognition_MLS-pt | 0.426 | 0.2316 | 0.2674 | 0.4242 |
-| multilingual_librispeech | 0.4477 | 0.2175 | 0.2685 | 0.3768 |
+| multilingual_librispeech | 0.4477 | 0.2335 | 0.2685 | 0.3768 |
 | mTEDx-ptbr | 0.4594 | 0.1976 | 0.2503 | N/A |
 | Speech-MASSIVE | 0.5214 | 0.175 | 0.2155 | N/A |
 | PTBRSpeechRecognition_CORAA | 0.6249 | 0.4194 | 0.3223 | N/A |
@@ -58,15 +58,15 @@
 # WER: ovos-stt-plugin-mms
 |dataset/model|mms-1b-all|wav2vec2-large-mms-1b-por|
 |-|-|-|
-| multilingual_librispeech | 0.229 | 0.1229 |
-| fleurs | 0.2459 | 0.1125 |
+| multilingual_librispeech | 0.229 | 0.124 |
+| fleurs | 0.2459 | 0.1121 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2544 | 0.1176 |
-| common_voice_17_0 | 0.3556 | 0.3092 |
-| Speech-MASSIVE | 0.3808 | 0.2615 |
+| common_voice_17_0 | 0.3556 | 0.2271 |
+| Speech-MASSIVE | 0.3808 | 0.2495 |
 | mTEDx-ptbr | 0.4361 | 0.3656 |
 | PTBRSpeechRecognition_CORAA | 0.4877 | 0.3788 |
 | cv_mls_psfb_zero_synthetic | 0.6499 | 0.6187 |
-| common_voice_pt_pt | 0.9627 | 0.6726 |
+| common_voice_pt_pt | 0.9627 | 0.6857 |
 
 
 # WER: ovos-stt-plugin-whisper

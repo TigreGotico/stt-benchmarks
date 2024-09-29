@@ -6526,5 +6526,909 @@
     "pt_test_0/common_voice_pt_36370777.mp3": {
         "ground": "Alto Longá",
         "transcript": "autolangá"
+    },
+    "pt_test_0/common_voice_pt_20639948.mp3": {
+        "ground": "Fortalecer a promoção da melhoria da iluminação",
+        "transcript": "fortalecer a promoção da melhoria da iluminação"
+    },
+    "pt_test_0/common_voice_pt_20696541.mp3": {
+        "ground": "O uso que corresponde a esses espaços se torna um sótão.",
+        "transcript": "o úsocoaresponde esse espaço se tornam sótom"
+    },
+    "pt_test_0/common_voice_pt_20639950.mp3": {
+        "ground": "Não foi estranho.",
+        "transcript": "não foi estranho"
+    },
+    "pt_test_0/common_voice_pt_27023221.mp3": {
+        "ground": "Era domingo.",
+        "transcript": "era domingo"
+    },
+    "pt_test_0/common_voice_pt_27767662.mp3": {
+        "ground": "Vou agradecer-lhe a esmola que me fez, logo que possa sair.",
+        "transcript": "vou agradecerlhe a esmola que me fez logo do que possa sair"
+    },
+    "pt_test_0/common_voice_pt_27020257.mp3": {
+        "ground": "Malacacheta",
+        "transcript": "malacacheta"
+    },
+    "pt_test_0/common_voice_pt_32800090.mp3": {
+        "ground": "Na juventude, eles têm lágrimas sem dor, na era da dor sem lágrimas.",
+        "transcript": "na juventudi ele está em lágrimas sem dor na era da dor sem lágrimas"
+    },
+    "pt_test_0/common_voice_pt_32284703.mp3": {
+        "ground": "Eu entendo",
+        "transcript": "eu entendo"
+    },
+    "pt_test_0/common_voice_pt_27020261.mp3": {
+        "ground": "Esta é provavelmente uma das versões mais recentes do teste antes de seu lançamento.",
+        "transcript": "esta é provavelmente uma atevensãr mais recente do terte antes de seu lançamento"
+    },
+    "pt_test_0/common_voice_pt_36468880.mp3": {
+        "ground": "Os olhos são o primeiro lugar do amor.",
+        "transcript": "os olhos são prmeiro lugaroabo"
+    },
+    "pt_test_0/common_voice_pt_27066136.mp3": {
+        "ground": "Estou acostumado com isso.",
+        "transcript": "estou acostumado com isso"
+    },
+    "pt_test_0/common_voice_pt_20696542.mp3": {
+        "ground": "A cada dia que passava?, o coração do menino ficava cada vez mais silencioso.",
+        "transcript": "a cada dia que paçava o coração do menino ficava cada vez mais silencioso"
+    },
+    "pt_test_0/common_voice_pt_20462313.mp3": {
+        "ground": "Alison não pôde deixar de sentir orgulho por sua criação.",
+        "transcript": "a lição não pode deixar de sentir orgulho por sua criação"
+    },
+    "pt_test_0/common_voice_pt_23334150.mp3": {
+        "ground": "Mandra, com medo e frio, mais há apoio.",
+        "transcript": "mandra com medo e frio mas a apoio"
+    },
+    "pt_test_0/common_voice_pt_35924465.mp3": {
+        "ground": "Santo Antônio do Tauá",
+        "transcript": "santo antônio do tauar"
+    },
+    "pt_test_0/common_voice_pt_37293424.mp3": {
+        "ground": "Moisés, monoteístas, judaica, cristã, islâmica",
+        "transcript": "moisés monoteístas judaicas cristã islâmica"
+    },
+    "pt_test_0/common_voice_pt_36468876.mp3": {
+        "ground": "Não é novidade você cuspir no prato em que comeu",
+        "transcript": "nãoé novinade você cospinaoprafico meu"
+    },
+    "pt_test_0/common_voice_pt_27034317.mp3": {
+        "ground": "É tudo que sei.",
+        "transcript": "é tudo que sei"
+    },
+    "pt_test_0/common_voice_pt_27031295.mp3": {
+        "ground": "simples tipos de dados abstratos",
+        "transcript": "simples tipos de dados abstratos"
+    },
+    "pt_test_0/common_voice_pt_35873921.mp3": {
+        "ground": "Todo senhor, toda honra.",
+        "transcript": "todo senhor toda honra"
+    },
+    "pt_test_0/common_voice_pt_27130830.mp3": {
+        "ground": "E eles também nos levam a um colapso social.",
+        "transcript": "e eles também nos levam a um colapso social"
+    },
+    "pt_test_0/common_voice_pt_35873918.mp3": {
+        "ground": "Obras Escolhidas em três tomos",
+        "transcript": "obras escolhidas em três tomos"
+    },
+    "pt_test_0/common_voice_pt_36887122.mp3": {
+        "ground": "apuração",
+        "transcript": "acuraçon"
+    },
+    "pt_test_0/common_voice_pt_36370780.mp3": {
+        "ground": "Eu não sei de nada.",
+        "transcript": "eu não sei de nada"
+    },
+    "pt_test_0/common_voice_pt_36855325.mp3": {
+        "ground": "recairá",
+        "transcript": "rceirá"
+    },
+    "pt_test_0/common_voice_pt_27767660.mp3": {
+        "ground": "Ele entrara naquela casa como se fosse sua propriedade.",
+        "transcript": "ele entrará naquela casa como se fosse sua propriedade"
+    },
+    "pt_test_0/common_voice_pt_36855324.mp3": {
+        "ground": "deformação, finitas, finitos, contorno, hidrostática, hidrodinâmica, massa volúmica, viscosidade, reológicas",
+        "transcript": "deformação finitas finitos contorno hidrostática hidrodinâmica massa volúmica viscosidades riológicas"
+    },
+    "pt_test_0/common_voice_pt_27767663.mp3": {
+        "ground": "Pelo menos por agora.",
+        "transcript": "pelo menos por agora"
+    },
+    "pt_test_0/common_voice_pt_21367546.mp3": {
+        "ground": "Não envolve política",
+        "transcript": "não envolve política"
+    },
+    "pt_test_0/common_voice_pt_21469413.mp3": {
+        "ground": "Há um grupo de adolescentes indisciplinados brincando em seu jardim.",
+        "transcript": "há um grupo de adolescentes indisciplinados brincando em seu jardim"
+    },
+    "pt_test_0/common_voice_pt_36477470.mp3": {
+        "ground": "Charifa Santos da Silva",
+        "transcript": "charifa santos da silva"
+    },
+    "pt_test_0/common_voice_pt_19778554.mp3": {
+        "ground": "As pessoas ficam do lado de fora vendo motocicletas dirigir por uma estrada.",
+        "transcript": "as pessoas ficam ao lado de fora vendo motociclistas dirigida por uma estrada"
+    },
+    "pt_test_0/common_voice_pt_27028267.mp3": {
+        "ground": "Caso o licitante não aumente o limite mencionado, será pontuado com zero pontos.",
+        "transcript": "caso o licitante não aumente o limite mencionado será pontuado com zero pontos"
+    },
+    "pt_test_0/common_voice_pt_31506792.mp3": {
+        "ground": "As ações planejadas querem equilibrar a radialidade marcada da rede existente.",
+        "transcript": "reversões planegadas querem equilibrar a radialidade marcada da rede existente"
+    },
+    "pt_test_0/common_voice_pt_36468868.mp3": {
+        "ground": "Sua mão em sua dor de cabeça esconde um buraco no estômago.",
+        "transcript": "sua mão em sua do de cabeça esconde um buraco no estômago"
+    },
+    "pt_test_0/common_voice_pt_27767661.mp3": {
+        "ground": "O desconhecido declarou chamar-se Fortunato Gomes da Silveira.",
+        "transcript": "o desconhecido declarou chamarse fortunato gomes da silveira"
+    },
+    "pt_test_0/common_voice_pt_33487374.mp3": {
+        "ground": "Muqui",
+        "transcript": "monqui"
+    },
+    "pt_test_0/common_voice_pt_30664721.mp3": {
+        "ground": "Nova Venécia",
+        "transcript": "nova venêcia"
+    },
+    "pt_test_0/common_voice_pt_19273360.mp3": {
+        "ground": "Precisamos nos apressar.",
+        "transcript": "precisamos nos apressar"
+    },
+    "pt_test_0/common_voice_pt_24018551.mp3": {
+        "ground": "Bento Bernardino dos Reis",
+        "transcript": "pendo pernarantinho dos reis"
+    },
+    "pt_test_0/common_voice_pt_32800092.mp3": {
+        "ground": "Deus, como é tudo!",
+        "transcript": "deus como é tudo"
+    },
+    "pt_test_0/common_voice_pt_27642573.mp3": {
+        "ground": "Você soa",
+        "transcript": "você soa"
+    },
+    "pt_test_0/common_voice_pt_21367545.mp3": {
+        "ground": "Eu esperava que eles voltassem logo, mas agora estou realmente começando a me preocupar.",
+        "transcript": "eu esperava que eles voltassem logo mas agora estou realmente começando a me preocupar"
+    },
+    "pt_test_0/common_voice_pt_26933944.mp3": {
+        "ground": "O extraterrestre Bilu nos orientou a buscar conhecimento",
+        "transcript": "o extaterreste piru nos orientou a buscar conhecimento"
+    },
+    "pt_test_0/common_voice_pt_27130829.mp3": {
+        "ground": "A sede eletrônica passa a ser o mecanismo de consulta dessas entidades.",
+        "transcript": "a sede eletrônica passa ser o mecanismo de consulta dessas entidades"
+    },
+    "pt_test_0/common_voice_pt_27096142.mp3": {
+        "ground": "A boa notícia é um travesseiro macio.",
+        "transcript": "a boa notícia é um travesseiro nacio"
+    },
+    "pt_test_0/common_voice_pt_27024191.mp3": {
+        "ground": "Ele detém a direção geral do Instituto da Juventude de Valência.",
+        "transcript": "ele detém a direção geral do instituto da juventude de valência"
+    },
+    "pt_test_0/common_voice_pt_27061310.mp3": {
+        "ground": "Vovô está de férias",
+        "transcript": "vobo está de férias"
+    },
+    "pt_test_0/common_voice_pt_24018548.mp3": {
+        "ground": "Audicelio Pires de Souza",
+        "transcript": "aude cedio pírios de souza"
+    },
+    "pt_test_0/common_voice_pt_36477471.mp3": {
+        "ground": "O egoísmo tem medo de si mesmo.",
+        "transcript": "o egoísmo tem medo de si mesmo"
+    },
+    "pt_test_0/common_voice_pt_20462311.mp3": {
+        "ground": "Quais filmes animados estão sendo exibidos nas proximidades",
+        "transcript": "quais filmes animados estão sendo exibidos nas possibilidades"
+    },
+    "pt_test_0/common_voice_pt_36461354.mp3": {
+        "ground": "Eu tenho que saber disso.",
+        "transcript": "eu tenho que saber disso"
+    },
+    "pt_test_0/common_voice_pt_35836691.mp3": {
+        "ground": "Luta de Classes e Luta Política",
+        "transcript": "luta de classes e luta política"
+    },
+    "pt_test_0/common_voice_pt_21367547.mp3": {
+        "ground": "Então ela pegou as duas mãos dele na dela e começou a orar baixinho.",
+        "transcript": "então ela pegou as duas mãos dele na dela e começou a orar baixinho"
+    },
+    "pt_test_0/common_voice_pt_21367544.mp3": {
+        "ground": "Não diga isso de novo.",
+        "transcript": "não diga isso de novo"
+    },
+    "pt_test_0/common_voice_pt_19778552.mp3": {
+        "ground": "Você não gostaria de matar ninguém.",
+        "transcript": "você não gostaria de matar ninguém"
+    },
+    "pt_test_0/common_voice_pt_27086150.mp3": {
+        "ground": "Você precisa dançar ao som que eles tocam.",
+        "transcript": "você precisa dansar ao som que eles tocam"
+    },
+    "pt_test_0/common_voice_pt_27029304.mp3": {
+        "ground": "Quando o vinho chega à mesa, os segredos desaparecem.",
+        "transcript": "quando o vinho chegar à mesa os segredos desaparecem"
+    },
+    "pt_test_0/common_voice_pt_20660002.mp3": {
+        "ground": "O parlamento escocês contém políticos.",
+        "transcript": "o parlamento escocês contém políticos"
+    },
+    "pt_test_0/common_voice_pt_21299847.mp3": {
+        "ground": "Há também um bilhete geral de metrô",
+        "transcript": "há também um bilhete geral de metro"
+    },
+    "pt_test_0/common_voice_pt_24018549.mp3": {
+        "ground": "Carla Mara Souza Hanan",
+        "transcript": "carlamara souza ana"
+    },
+    "pt_test_0/common_voice_pt_24790718.mp3": {
+        "ground": "Melissa e Pedro Henrique",
+        "transcript": "meliça e pedro henrique"
+    },
+    "pt_test_0/common_voice_pt_24790720.mp3": {
+        "ground": "Bruno Josias Lopes dos Reis",
+        "transcript": "bruno josias lopes dos reis"
+    },
+    "pt_test_0/common_voice_pt_36370787.mp3": {
+        "ground": "Primeiro voarei e você será como eu.",
+        "transcript": "primeiro voarei e você será como eu"
+    },
+    "pt_test_0/common_voice_pt_20437169.mp3": {
+        "ground": "O WiFi da escola dela tem uma quantidade ridícula de sites bloqueados.",
+        "transcript": "o wifi da escola dela tem uma quantidade ridícula de sites bloqueados"
+    },
+    "pt_test_0/common_voice_pt_27642577.mp3": {
+        "ground": "Entidades que possuem um Centro de Informações para Jovens vinculado à Rede.",
+        "transcript": "entidades que possuem um centro de informações para jovens vinculado à rede"
+    },
+    "pt_test_0/common_voice_pt_27058762.mp3": {
+        "ground": "Se fosse no sábado ou feriado, o evento seria realizado no próximo dia útil.",
+        "transcript": "se fosse no sábado fereado o evento seria realizado no próximo dia útil"
+    },
+    "pt_test_0/common_voice_pt_35907522.mp3": {
+        "ground": "Ele acabou de sair do ovo e acredita-se que seja um touro.",
+        "transcript": "ele acabou de sair do ovo e acreditase que seja um toro"
+    },
+    "pt_test_0/common_voice_pt_36466187.mp3": {
+        "ground": "Tom hanks lendo um livro na tomada de náufrago.",
+        "transcript": "tonrinx lendo um livro na tomada de náufrago"
+    },
+    "pt_test_0/common_voice_pt_35907447.mp3": {
+        "ground": "Dois mil e treze estabelecem a natureza bienal dos prêmios.",
+        "transcript": "domilt estabelece a natureza bienal dos prêmios"
+    },
+    "pt_test_0/common_voice_pt_36462048.mp3": {
+        "ground": "Se você não está registrado, você precisará se registrar como um novo usuário.",
+        "transcript": "se você não está registrado você precisará se registrar como um novo usuário"
+    },
+    "pt_test_0/common_voice_pt_20017608.mp3": {
+        "ground": "Uma criança nova que joga com seus trens do brinquedo.",
+        "transcript": "uma criança nova que joga com seus trens do brinquedo"
+    },
+    "pt_test_0/common_voice_pt_27086146.mp3": {
+        "ground": "A noite do jantar, a lua cheia deve ser.",
+        "transcript": "à noite do jantar a lua cheia deve ser"
+    },
+    "pt_test_0/common_voice_pt_35836690.mp3": {
+        "ground": "a solução consensual dos conflitos.",
+        "transcript": "a solução consensual dos conflitos"
+    },
+    "pt_test_0/common_voice_pt_27095347.mp3": {
+        "ground": "Achei um diário do meu pai por acidente.",
+        "transcript": "acidele do meu pai por acidente"
+    },
+    "pt_test_0/common_voice_pt_20660001.mp3": {
+        "ground": "Um caminhão de reboque veio para limpar os destroços.",
+        "transcript": "um caminhão de reboque veio para limpar os destroços"
+    },
+    "pt_test_0/common_voice_pt_27029303.mp3": {
+        "ground": "Onde há música, não pode haver maldade.",
+        "transcript": "onde a música não pode haver maldade"
+    },
+    "pt_test_0/common_voice_pt_34944091.mp3": {
+        "ground": "Mandaguaçu",
+        "transcript": "mãodágua çul"
+    },
+    "pt_test_0/common_voice_pt_30026727.mp3": {
+        "ground": "Conteúdo?",
+        "transcript": "conteúdo"
+    },
+    "pt_test_0/common_voice_pt_26358274.mp3": {
+        "ground": "Terminamos hoje a primeira fase.",
+        "transcript": "terminamos hoje a primeira fase"
+    },
+    "pt_test_0/common_voice_pt_19648427.mp3": {
+        "ground": "Uma menina pendura de cabeça para baixo em um balanço em um parque",
+        "transcript": "uma menina pendura de cabeça para baixo em um balanço em um parque"
+    },
+    "pt_test_0/common_voice_pt_23334148.mp3": {
+        "ground": "Tempo de leitura na livraria",
+        "transcript": "tenco de leitura na libraria"
+    },
+    "pt_test_0/common_voice_pt_27024268.mp3": {
+        "ground": "É mais difícil enganar os peixes do que as mulheres.",
+        "transcript": "é mais difícil enganar os peixes do que as mulheres"
+    },
+    "pt_test_0/common_voice_pt_20104660.mp3": {
+        "ground": "Como foi a comida lá?",
+        "transcript": "como foi a comida lá"
+    },
+    "pt_test_0/common_voice_pt_27020255.mp3": {
+        "ground": "Claro.",
+        "transcript": "claro"
+    },
+    "pt_test_0/common_voice_pt_30748414.mp3": {
+        "ground": "de afirmar uma nova personalidade larga aos grandes espaços da matéria vazia.",
+        "transcript": "di afirmar uma nova personalidade larga aos grandes paços de matéria vazeia"
+    },
+    "pt_test_0/common_voice_pt_34975096.mp3": {
+        "ground": "Altinópolis",
+        "transcript": "autinópolis"
+    },
+    "pt_test_0/common_voice_pt_34975100.mp3": {
+        "ground": "Indiavaí",
+        "transcript": "indiavaí"
+    },
+    "pt_test_0/common_voice_pt_35907491.mp3": {
+        "ground": "Canhoba",
+        "transcript": "canhoba"
+    },
+    "pt_test_0/common_voice_pt_27020260.mp3": {
+        "ground": "Quando íamos nadar ao meio-dia, tínhamos água, mas não era suficiente.",
+        "transcript": "quando íamos nadar ao meio dia tínhamos água mas não era suficiente"
+    },
+    "pt_test_0/common_voice_pt_20462312.mp3": {
+        "ground": "E a areia e o cascalho tinham sido lançados violentamente em todas as direções.",
+        "transcript": "a areia e o cascalho tinham sido lançados violentamente em todas as direções"
+    },
+    "pt_test_0/common_voice_pt_19648425.mp3": {
+        "ground": "Cavaleiro da bicicleta pulando obstáculos.",
+        "transcript": "avaleido da bicicleta culando obstáculos"
+    },
+    "pt_test_0/common_voice_pt_25835363.mp3": {
+        "ground": "Pobre menino!",
+        "transcript": "pobre menino"
+    },
+    "pt_test_0/common_voice_pt_31506789.mp3": {
+        "ground": "Itaubal",
+        "transcript": "itaubau"
+    },
+    "pt_test_0/common_voice_pt_26933940.mp3": {
+        "ground": "Talvez muito",
+        "transcript": "talvez muito"
+    },
+    "pt_test_0/common_voice_pt_26358275.mp3": {
+        "ground": "Um dia",
+        "transcript": "um dia"
+    },
+    "pt_test_0/common_voice_pt_21299848.mp3": {
+        "ground": "Caminhou três quilômetros até chegar",
+        "transcript": "caminhum três qilômetros até chegar"
+    },
+    "pt_test_0/common_voice_pt_36466190.mp3": {
+        "ground": "Você sabe quem eu sou?",
+        "transcript": "você sabe quem eu sou"
+    },
+    "pt_test_0/common_voice_pt_25835371.mp3": {
+        "ground": "O caminho íngreme é doloroso para os nossos pés.",
+        "transcript": "o caminho íngreme é doloroso para os nossos pés"
+    },
+    "pt_test_0/common_voice_pt_19648424.mp3": {
+        "ground": "Ele não pôde evitar.",
+        "transcript": "ela não hoje evitar"
+    },
+    "pt_test_0/common_voice_pt_25835365.mp3": {
+        "ground": "Teste o desempenho, experimentando processos criativos.",
+        "transcript": "teste o desempenho experimentando processos creativos"
+    },
+    "pt_test_0/common_voice_pt_31506788.mp3": {
+        "ground": "Malhada de Pedras",
+        "transcript": "malhada de pedra"
+    },
+    "pt_test_0/common_voice_pt_27086152.mp3": {
+        "ground": "Quantos anos tens?",
+        "transcript": "quantos anos tens"
+    },
+    "pt_test_0/common_voice_pt_35125364.mp3": {
+        "ground": "A produção da mais-valia relativa",
+        "transcript": "a produção da mais valia relativa"
+    },
+    "pt_test_0/common_voice_pt_21299844.mp3": {
+        "ground": "Não espere até que o jogo seja chamado por causa da escuridão!",
+        "transcript": "não espera até que o jogo seja chamado por causa da escuridão"
+    },
+    "pt_test_0/common_voice_pt_27130827.mp3": {
+        "ground": "Cerqueira César",
+        "transcript": "cerqueira césar"
+    },
+    "pt_test_0/common_voice_pt_35286754.mp3": {
+        "ground": "um inelutável dilema se apresenta aos socialistas russos que as defendem",
+        "transcript": "um imelutável dilema se apresenta aos socialistas vusos que as defendem"
+    },
+    "pt_test_0/common_voice_pt_28452430.mp3": {
+        "ground": "Porto Alegre",
+        "transcript": "purto alegre"
+    },
+    "pt_test_0/common_voice_pt_26358273.mp3": {
+        "ground": "Como se dá o parentesco?",
+        "transcript": "como se dá o parentesco"
+    },
+    "pt_test_0/common_voice_pt_35873920.mp3": {
+        "ground": "Nós não sabemos",
+        "transcript": "nós não sabemos"
+    },
+    "pt_test_0/common_voice_pt_28452428.mp3": {
+        "ground": "São José do Belmonte",
+        "transcript": "são josé do belmonte"
+    },
+    "pt_test_0/common_voice_pt_19959812.mp3": {
+        "ground": "Três homens estão na praia? totalmente vestidos.",
+        "transcript": "três homens estão na praia totalmente vestidos"
+    },
+    "pt_test_0/common_voice_pt_21299845.mp3": {
+        "ground": "Uma banda de três homens executa.",
+        "transcript": "uma banda de três homens dezecuta"
+    },
+    "pt_test_0/common_voice_pt_27023227.mp3": {
+        "ground": "Os alemães costumam frequentar as saunas nus, assim como os japoneses",
+        "transcript": "os alemães costumam frequentar as saudas nos assim como os japoneses"
+    },
+    "pt_test_0/common_voice_pt_27024317.mp3": {
+        "ground": "Para ser um comerciante, você precisa de uma família.",
+        "transcript": "ora seu comeco eso esse preciso de uma família"
+    },
+    "pt_test_0/common_voice_pt_21549126.mp3": {
+        "ground": "\"Não estamos com pressa?\" respondeu o chefe.",
+        "transcript": "não estamos com pressa respondeu o chefe"
+    },
+    "pt_test_0/common_voice_pt_19959810.mp3": {
+        "ground": "Na indicação do testador, a tentativa será concluída.",
+        "transcript": "na indicação do testador a tentativa será concluída"
+    },
+    "pt_test_0/common_voice_pt_34975098.mp3": {
+        "ground": "A riqueza é um servo sábio, um mestre estúpido.",
+        "transcript": "a riqueza é um servo sábio um mestre estúpido"
+    },
+    "pt_test_0/common_voice_pt_19639049.mp3": {
+        "ground": "Alguns japoneses desfrutam de shows de fogos de artifício em uma rua local",
+        "transcript": "alguns japoneses desfrutam deixoos de fox artifício em uma rua local"
+    },
+    "pt_test_0/common_voice_pt_23334147.mp3": {
+        "ground": "Para você",
+        "transcript": "para você"
+    },
+    "pt_test_0/common_voice_pt_27025770.mp3": {
+        "ground": "Eu preferia falar galês.",
+        "transcript": "eu preferia falar galez"
+    },
+    "pt_test_0/common_voice_pt_24813595.mp3": {
+        "ground": "Agatha e Enrico",
+        "transcript": "agatarium rico"
+    },
+    "pt_test_0/common_voice_pt_21549123.mp3": {
+        "ground": "sei sim é zero um dois três quatro cinco seis sete oito nove dez",
+        "transcript": "se cim é zero um dois três quatro cinco se sete oito nove dez"
+    },
+    "pt_test_0/common_voice_pt_36855322.mp3": {
+        "ground": "procurador-geral, sucumbência, vencida, decorrentes, súmula, extrato, resumo, compêndio, reiteradas, exaradas, versando",
+        "transcript": "procurador geral sucumbência vencida decorrentes súmula estrato resumo compêndio reiteradas izeradas versando"
+    },
+    "pt_test_0/common_voice_pt_21469411.mp3": {
+        "ground": "Leanne se juntou a um coro para que todos pudessem ouvir sua voz sublime.",
+        "transcript": "lian se juntou a um coro para que todos pudessem ouvir sua voz sublime"
+    },
+    "pt_test_0/common_voice_pt_36467710.mp3": {
+        "ground": "Antônia Saraiva de Moura",
+        "transcript": "antônia saraiva de moura"
+    },
+    "pt_test_0/common_voice_pt_19959809.mp3": {
+        "ground": "É comum os usuários confundirem software livre com software livre.",
+        "transcript": "é comun os usuários confundirem software livre com software livre"
+    },
+    "pt_test_0/common_voice_pt_19778553.mp3": {
+        "ground": "Família reunida em uma casa desfrutando de companhia",
+        "transcript": "família reunida em uma casa desfrotando de companhia"
+    },
+    "pt_test_0/common_voice_pt_20462310.mp3": {
+        "ground": "Fogão é mais quente do que eu pensava.",
+        "transcript": "fogão é mais quente do que eou pensava"
+    },
+    "pt_test_0/common_voice_pt_19959811.mp3": {
+        "ground": "Um rastreador vibrante caminha por uma trilha panorâmica.",
+        "transcript": "um rastreador vibrante caminha por uma trilha panorâmica"
+    },
+    "pt_test_0/common_voice_pt_28537186.mp3": {
+        "ground": "São João do Piauí",
+        "transcript": "são joão do piauí"
+    },
+    "pt_test_0/common_voice_pt_32800093.mp3": {
+        "ground": "Cujas obras são ínfimas demonstrações de afeto",
+        "transcript": "cujas obras são ínfimas demonstrações de afeto"
+    },
+    "pt_test_0/common_voice_pt_38239003.mp3": {
+        "ground": "currículo",
+        "transcript": "currículo"
+    },
+    "pt_test_0/common_voice_pt_20777992.mp3": {
+        "ground": "Um cão nada no lago.",
+        "transcript": "um cão nada no lago"
+    },
+    "pt_test_0/common_voice_pt_35125363.mp3": {
+        "ground": "Foi bacana, o episódio. Cada personagem doido...",
+        "transcript": "foi bacana o episódio cada personagem doido"
+    },
+    "pt_test_0/common_voice_pt_26952979.mp3": {
+        "ground": "Mas o carro não foi danificado.",
+        "transcript": "mas o carro não foi denificado"
+    },
+    "pt_test_0/common_voice_pt_28452427.mp3": {
+        "ground": "O dragão soprou um jato de fogo de nove metros de comprimento.",
+        "transcript": "o dragão soprou um jato de fogo de nove metros de comprimento"
+    },
+    "pt_test_0/common_voice_pt_20437170.mp3": {
+        "ground": "Embora esta tarefa possa parecer simples, na prática é muito mais complicada.",
+        "transcript": "embora esta tarefa possa parecer simples na prática é muito mais complicada"
+    },
+    "pt_test_0/common_voice_pt_33487373.mp3": {
+        "ground": "Altair",
+        "transcript": "altair"
+    },
+    "pt_test_0/common_voice_pt_27930242.mp3": {
+        "ground": "a triste senhora mal podia crer na minha extinção",
+        "transcript": "a triste senhora mal podia crer na minha extinção"
+    },
+    "pt_test_0/common_voice_pt_38239002.mp3": {
+        "ground": "adoção",
+        "transcript": "adoção"
+    },
+    "pt_test_0/common_voice_pt_36466191.mp3": {
+        "ground": "É bem verdade.",
+        "transcript": "é bem verdade"
+    },
+    "pt_test_0/common_voice_pt_26933943.mp3": {
+        "ground": "Nós viemos de Caudiel.",
+        "transcript": "nós vemos de caudiel"
+    },
+    "pt_test_0/common_voice_pt_20777995.mp3": {
+        "ground": "Eu apreciaria se você pudesse criar uma tabela concisa.",
+        "transcript": "eu apreciaro isto você desse criar uma tabela concisa"
+    },
+    "pt_test_0/common_voice_pt_28452429.mp3": {
+        "ground": "Cilea Geraldo da Silva",
+        "transcript": "cileia geraldo da silva"
+    },
+    "pt_test_0/common_voice_pt_38239004.mp3": {
+        "ground": "acetóxi, acrilo, acilo, acetilo, hélio, berílio, boro, carbono, flúor, neônio, magnésio, argônio, potássio",
+        "transcript": "acetoxi acrilo acilo acetilo eleo berilho boro carbono flur neônio magnésio agônio potácio"
+    },
+    "pt_test_0/common_voice_pt_19555556.mp3": {
+        "ground": "um cachorro corre pela grama.",
+        "transcript": "um cachorro corre pela grama"
+    },
+    "pt_test_0/common_voice_pt_19648428.mp3": {
+        "ground": "Vou mandar alguns e-mails para minha família.",
+        "transcript": "vou mandar alguns e meios para minha família"
+    },
+    "pt_test_0/common_voice_pt_37616551.mp3": {
+        "ground": "designar",
+        "transcript": "designar"
+    },
+    "pt_test_0/common_voice_pt_19778551.mp3": {
+        "ground": "Mais cedo ou mais tarde, eles descobrirão como ler esses hieróglifos.",
+        "transcript": "mas sedo ou mais tare eles descobriram como le esses el grofecos"
+    },
+    "pt_test_0/common_voice_pt_36466188.mp3": {
+        "ground": "Verifique o diabetes encontrado",
+        "transcript": "verifique o diabetes encontrado"
+    },
+    "pt_test_0/common_voice_pt_36467711.mp3": {
+        "ground": "Uma mulher salta pela praia.",
+        "transcript": "uma mulher salta pela praia"
+    },
+    "pt_test_0/common_voice_pt_27930239.mp3": {
+        "ground": "representantes do movimento de mulheres",
+        "transcript": "representantes do movimento de mulheres"
+    },
+    "pt_test_0/common_voice_pt_28537187.mp3": {
+        "ground": "Eles até tiveram que avisar a polícia.",
+        "transcript": "eles até tiveram que aviser a polícia"
+    },
+    "pt_test_0/common_voice_pt_37145545.mp3": {
+        "ground": "velar",
+        "transcript": "velar"
+    },
+    "pt_test_0/common_voice_pt_36757383.mp3": {
+        "ground": "Gritando de dentro da tenda",
+        "transcript": "gritando de dentro da tenda"
+    },
+    "pt_test_0/common_voice_pt_31241554.mp3": {
+        "ground": "Evitem aglomerações, festas e eventos desnecessários",
+        "transcript": "evite aglumerações festas e eventos desnecessários"
+    },
+    "pt_test_0/common_voice_pt_19639050.mp3": {
+        "ground": "Algumas pessoas estão examinando vinhos em uma mesa.",
+        "transcript": "algumas pessoas estão examinando vinhos em uma mesa"
+    },
+    "pt_test_0/common_voice_pt_22612924.mp3": {
+        "ground": "Hey",
+        "transcript": "he"
+    },
+    "pt_test_0/common_voice_pt_33321720.mp3": {
+        "ground": "Vila Lângaro",
+        "transcript": "bile langor"
+    },
+    "pt_test_0/common_voice_pt_31241556.mp3": {
+        "ground": "Novo Itacolomi",
+        "transcript": "novo italcolan"
+    },
+    "pt_test_0/common_voice_pt_27024862.mp3": {
+        "ground": "O parágrafo inicial assustou os leitores.",
+        "transcript": "o parágrafo inicial assustou os leitores"
+    },
+    "pt_test_0/common_voice_pt_35836697.mp3": {
+        "ground": "Nova Palma",
+        "transcript": "nova palma"
+    },
+    "pt_test_0/common_voice_pt_31241555.mp3": {
+        "ground": "Jordânia",
+        "transcript": "jordânia"
+    },
+    "pt_test_0/common_voice_pt_24790717.mp3": {
+        "ground": "Estância",
+        "transcript": "estância"
+    },
+    "pt_test_0/common_voice_pt_31241557.mp3": {
+        "ground": "Cândido Mota",
+        "transcript": "cândido mota"
+    },
+    "pt_test_0/common_voice_pt_23957373.mp3": {
+        "ground": "Cintia Valdez Ribeiro",
+        "transcript": "sinte a voldes e ribeiro"
+    },
+    "pt_test_0/common_voice_pt_35815279.mp3": {
+        "ground": "desmascaramento",
+        "transcript": "desmascaramento"
+    },
+    "pt_test_0/common_voice_pt_25186926.mp3": {
+        "ground": "Camily, Railan, Nicolly, Stephany e Yure",
+        "transcript": "camile hailan micoli stefane e uri"
+    },
+    "pt_test_0/common_voice_pt_24790719.mp3": {
+        "ground": "São licenças de produtos da Microsoft",
+        "transcript": "são licenças de produtos da microsoft"
+    },
+    "pt_test_0/common_voice_pt_20655700.mp3": {
+        "ground": "O bombeiro não conseguiu resgatar o rapaz.",
+        "transcript": "o bombeiro não conseguiu resgatar o rapaz"
+    },
+    "pt_test_0/common_voice_pt_26135556.mp3": {
+        "ground": "Demerval Lobão",
+        "transcript": "demerbal lobao"
+    },
+    "pt_test_0/common_voice_pt_27025771.mp3": {
+        "ground": "Adicione o ovo batido e deixe-o novamente por um tempo.",
+        "transcript": "adicione o oro batido e deixe o novamente por um tempo"
+    },
+    "pt_test_0/common_voice_pt_27094114.mp3": {
+        "ground": "Onde fica a garagem mais próxima?",
+        "transcript": "ante o fica garagem mais próximo"
+    },
+    "pt_test_0/common_voice_pt_36107152.mp3": {
+        "ground": "Quem for a Viena, solte a barriga.",
+        "transcript": "quem for viena solte a barriga"
+    },
+    "pt_test_0/common_voice_pt_36462049.mp3": {
+        "ground": "Zuleide da Silva Nogueira",
+        "transcript": "zulet da silva nogueira"
+    },
+    "pt_test_0/common_voice_pt_27930241.mp3": {
+        "ground": "É necessário explicitar em que consiste a reformulação.",
+        "transcript": "é necessário explicitar em que consiste a reformulação"
+    },
+    "pt_test_0/common_voice_pt_26739474.mp3": {
+        "ground": "Este é o modelo no qual, acima de tudo, a humanidade inovou e avançou.",
+        "transcript": "este é o modelo no qual acima de tudo a humanidade inovou e avançou"
+    },
+    "pt_test_0/common_voice_pt_25064759.mp3": {
+        "ground": "Pacajus",
+        "transcript": "bacajus"
+    },
+    "pt_test_0/common_voice_pt_37242076.mp3": {
+        "ground": "Vivian Mendes",
+        "transcript": "liliabende"
+    },
+    "pt_test_0/common_voice_pt_27723071.mp3": {
+        "ground": "quem sabe se algum dia eles vão saber o que lhes aconteceu",
+        "transcript": "quem sabe se algum dia eles vão saber o que lhes já conteceu"
+    },
+    "pt_test_0/common_voice_pt_35815281.mp3": {
+        "ground": "se enquadrar na hipótese",
+        "transcript": "se enquadrar na hipótese"
+    },
+    "pt_test_0/common_voice_pt_27930240.mp3": {
+        "ground": "Este endereço está correto?",
+        "transcript": "este enderece está correto"
+    },
+    "pt_test_0/common_voice_pt_35125367.mp3": {
+        "ground": "Os dois pólos da expressão de valor: forma-valor relativa e forma de equivalente",
+        "transcript": "os dois polos da expressão de valor forma valor relativa e forma de equivalente"
+    },
+    "pt_test_0/common_voice_pt_31506790.mp3": {
+        "ground": "Eu o vi, seja em casa.",
+        "transcript": "eu ovi seija em casa"
+    },
+    "pt_test_0/common_voice_pt_19639043.mp3": {
+        "ground": "A expressão facial autêntica do ator estava convencendo o júri.",
+        "transcript": "a expressão facial autêntica do dotor estava convencendo em jure"
+    },
+    "pt_test_0/common_voice_pt_27037744.mp3": {
+        "ground": "Quem está jogando?",
+        "transcript": "quem está jogando"
+    },
+    "pt_test_0/common_voice_pt_27029305.mp3": {
+        "ground": "Desculpe.",
+        "transcript": "desculpe"
+    },
+    "pt_test_0/common_voice_pt_36757382.mp3": {
+        "ground": "Antenor Angelo Batista",
+        "transcript": "anteanor angelo batista"
+    },
+    "pt_test_0/common_voice_pt_36467713.mp3": {
+        "ground": "É normal taxar produtos importados para estimular o consumo interno.",
+        "transcript": "é normal taxhar produtos importados para estimular o consumo interno"
+    },
+    "pt_test_0/common_voice_pt_37616567.mp3": {
+        "ground": "retroativo",
+        "transcript": "retroativo"
+    },
+    "pt_test_0/common_voice_pt_28452671.mp3": {
+        "ground": "Não há nenhum senso de honra deixado neste país?",
+        "transcript": "não há nenhum senso de honra deixado nesse país"
+    },
+    "pt_test_0/common_voice_pt_37616550.mp3": {
+        "ground": "A propriedade intelectual atrasa o desenvolvimento tecnológico",
+        "transcript": "a propriedade intelectual atraza o desenvolvimento tecnológico"
+    },
+    "pt_test_0/common_voice_pt_27025776.mp3": {
+        "ground": "O corvo faminto não se importa com o espantalho.",
+        "transcript": "o corvo famento não se importa com o espantalho"
+    },
+    "pt_test_0/common_voice_pt_20660003.mp3": {
+        "ground": "A ação ainda é suave",
+        "transcript": "a ação ainda é suave"
+    },
+    "pt_test_0/common_voice_pt_20104659.mp3": {
+        "ground": "Seus olhos são maiores que sua barriga.",
+        "transcript": "seus olhos são maiores que sua barriga"
+    },
+    "pt_test_0/common_voice_pt_27025946.mp3": {
+        "ground": "Mas já era tarde demais.",
+        "transcript": "mas jera tarde demais"
+    },
+    "pt_test_0/common_voice_pt_36462046.mp3": {
+        "ground": "Há um monte de garotos da escola lá agora.",
+        "transcript": "há um monte de garotos da escola lá agora"
+    },
+    "pt_test_0/common_voice_pt_27037742.mp3": {
+        "ground": "Quando o galgo é esperado, a lebre salta.",
+        "transcript": "quando o galgo é esperado a lebre salta"
+    },
+    "pt_test_0/common_voice_pt_36188218.mp3": {
+        "ground": "Machadinho",
+        "transcript": "machadinho"
+    },
+    "pt_test_0/common_voice_pt_28452670.mp3": {
+        "ground": "Uma cerca corta o terreno da esquina.",
+        "transcript": "uma cerca corta o terreno da esquina"
+    },
+    "pt_test_0/common_voice_pt_35836695.mp3": {
+        "ground": "O Fetichismo da Mercadoria e o Seu Segredo",
+        "transcript": "o feticismo da mercadoria e o seu segredo"
+    },
+    "pt_test_0/common_voice_pt_20777989.mp3": {
+        "ground": "Eles estão se aproximando de você!",
+        "transcript": "eles estão se aproximando de você"
+    },
+    "pt_test_0/common_voice_pt_36467712.mp3": {
+        "ground": "O meu pai voltará da Alemanha em pouco tempo.",
+        "transcript": "o meu pai voltará da alemanha em pouco tempo"
+    },
+    "pt_test_0/common_voice_pt_26358277.mp3": {
+        "ground": "Os homens estão tentando, mas raramente enriquecem.",
+        "transcript": "os homens estão tentando mas raramente enriquecem"
+    },
+    "pt_test_0/common_voice_pt_30619476.mp3": {
+        "ground": "O que aconteceu aqui?",
+        "transcript": "o que aconteceu a que"
+    },
+    "pt_test_0/common_voice_pt_27025949.mp3": {
+        "ground": "Este livreto contém boas orientações para quem está buscando iluminar-se",
+        "transcript": "este livreto contém boas orientações para quem está buscando iluminarse"
+    },
+    "pt_test_0/common_voice_pt_37242073.mp3": {
+        "ground": "nitroso, nitrila, isonitrila, sulfuradas, tiol, tioéter, dissulfeto, sulfóxido, sulfona, sulfonato",
+        "transcript": "mitroso nitrila isanitrila suforadas tiol tioleter disufeto sufóxido sufona sufonato"
+    },
+    "pt_test_0/common_voice_pt_20017614.mp3": {
+        "ground": "Eu peguei um número e encontrei meu lugar.",
+        "transcript": "eu peguei um número e encontrei meu lugar"
+    },
+    "pt_test_0/common_voice_pt_20288364.mp3": {
+        "ground": "Um macho está andando na rua.",
+        "transcript": "um macho está andando na rua"
+    },
+    "pt_test_0/common_voice_pt_28537185.mp3": {
+        "ground": "São João das Duas Pontes",
+        "transcript": "são joão das duas pontes"
+    },
+    "pt_test_0/common_voice_pt_21549124.mp3": {
+        "ground": "Uma cebola por dia mantém todos longe.",
+        "transcript": "uma cebola por dia mantem todos longe"
+    },
+    "pt_test_0/common_voice_pt_37616560.mp3": {
+        "ground": "infringir",
+        "transcript": "infringir"
+    },
+    "pt_test_0/common_voice_pt_27723072.mp3": {
+        "ground": "Deixe o mundo sorrir um pouco mais",
+        "transcript": "deixa o mundo sorrir um pouco mais"
+    },
+    "pt_test_0/common_voice_pt_27024866.mp3": {
+        "ground": "Estes sistemas serão cegos, isto é, não estarão conectados ao sistema de esgotos.",
+        "transcript": "estes sistema serão cegos isto é não estarão conectados ao sistema de esgotos"
+    },
+    "pt_test_0/common_voice_pt_20017611.mp3": {
+        "ground": "Muito dinheiro.",
+        "transcript": "muito dinheiro"
+    },
+    "pt_test_0/common_voice_pt_20655702.mp3": {
+        "ground": "Descer as montanhas e subir as cabines.",
+        "transcript": "descer as montanhas e subir as cabines"
+    },
+    "pt_test_0/common_voice_pt_25064760.mp3": {
+        "ground": "Nunca me disseram nada disso.",
+        "transcript": "nunca me disseram nada disso"
+    },
+    "pt_test_0/common_voice_pt_28537184.mp3": {
+        "ground": "Por isso, simplesmente estruturo minha lista em torno de minhas motivações e situações.",
+        "transcript": "por isso simplesmente estruturo minha lista em torno de minhas motivações e situações"
+    },
+    "pt_test_0/common_voice_pt_20660000.mp3": {
+        "ground": "O chão da casa é pesado",
+        "transcript": "o chão da casa é pesado"
+    },
+    "pt_test_0/common_voice_pt_20404915.mp3": {
+        "ground": "Meu gato tem um nariz castanho, muitas vezes molhado e brilhante.",
+        "transcript": "meu gato tem u nariz castano muitas vezes molhado e brilhante"
+    },
+    "pt_test_0/common_voice_pt_36996487.mp3": {
+        "ground": "goto, inteligível, executável, fortran, visual basic, praticabilidade, aninhada, sub-rotina, hierarquicamente",
+        "transcript": "goto inteligível ou executável for transvisual bez que pratcibilidade alinhada sub rutina hierarquicamente"
+    },
+    "pt_test_0/common_voice_pt_36757385.mp3": {
+        "ground": "Raios dessa aurora forte são como beijos de mãe",
+        "transcript": "raios dessa aurora forte são como beijos de mãe"
+    },
+    "pt_test_0/common_voice_pt_25183669.mp3": {
+        "ground": "A camisa das minhas costas.",
+        "transcript": "a camisa das minhas costas"
+    },
+    "pt_test_0/common_voice_pt_23341619.mp3": {
+        "ground": "Voltando ao campo fora do Ano Novo Chinês",
+        "transcript": "voltando ao campo fora do ano novo chinês"
+    },
+    "pt_test_0/common_voice_pt_26135560.mp3": {
+        "ground": "Abaíra",
+        "transcript": "abaira"
     }
 }

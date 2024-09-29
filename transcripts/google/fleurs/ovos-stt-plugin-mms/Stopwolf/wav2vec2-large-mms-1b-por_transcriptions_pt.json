@@ -2318,5 +2318,73 @@
     "test/4304630259425899603.wav": {
         "ground": "entre 22h e 23h mdt os detentos causaram um incêndio na prisão",
         "transcript": "entre vd h  vt hr midt os detentos causaram um incêndio na prisão"
+    },
+    "test/3532426817010231673.wav": {
+        "ground": "atualmente as pessoas escrevem mensagens por meio de telas de computador e não precisam chegar perto de um apontador",
+        "transcript": "atualmente as pessoas escrevem mensagens por meio de telas de computador e não precisam chegar perto de um apontador"
+    },
+    "test/3982201751940046913.wav": {
+        "ground": "através dos anos 60 brzezinski trabalhou para john f kennedy e seu assessor e depois para a administração lyndon b johnson",
+        "transcript": "através dos anos st britenski trabalhou para jon af cenedy e seu assessor e depois para a administração lindon ban johnson"
+    },
+    "test/3995159429786124326.wav": {
+        "ground": "embora isto muitas vezes seja apenas um estereótipo inadequado a melhor maneira de se dar bem em paris ainda é o bom comportamento agir como alguém que seja bien élevé bem-educado. isso facilitará consideravelmente a viagem",
+        "transcript": "embora isto muitas vezes seja apenas um stereótipo inadequado a melhor maneira de se dar bem em paris ainda é o bom comportamento agir como alguém que seja binlv bem educado isso facilitará consideravelmente a viagem"
+    },
+    "test/3957461466990127186.wav": {
+        "ground": "várias tvs grandes foram instaladas em diversos lugares de roma para que o povo pudesse assistir à cerimônia",
+        "transcript": "várias tevês grandes foram instaladas em diversos lugares de roma para que o povo pudesse assistir à cerimônia"
+    },
+    "test/4153474702359945016.wav": {
+        "ground": "se você já viu o filme a lenda do tesouro perdido você pode achar que um mapa do tesouro foi desenhado na parte de trás da declaração de independência",
+        "transcript": "se você já vi o filme à lenda do tesouro perdido você pode achar que o mapa do tesouro foi desenhado na parte detrás da declaração da independência"
+    },
+    "test/4314941997870427058.wav": {
+        "ground": "não é de fato somente experimentação um experimento é um teste usado para eliminar uma das possíveis hipóteses ou mais fazer perguntas fazer observações também guia uma pesquisa científica",
+        "transcript": "não é de fato somente experimentação um experimento é um teste usado para eliminar uma das possíveis hipóteses ou mais fazer perguntas fazer observações também guia uma pesquisa científica"
+    },
+    "test/450336051448597505.wav": {
+        "ground": "o platô de gizé ou a necrópole de gizé no vale dos mortos egípcio conta com diversas pirâmides dentre as quais a grande pirâmide é a de maior tamanho diversas tumbas pequenas diversos templos e a grande esfinge",
+        "transcript": "o plateau de jisé ou a necrópoli de jisé no vale dos mortos egípcio conta com diversos pirâmides dentre as quais a grande pirâmide é a de maior tamanho diversas tumbas pequenas diversos templos e a grande esfinge"
+    },
+    "test/3795366852433798517.wav": {
+        "ground": "o trabalho feito foi em sua maior parte teórico mas o programa foi escrito para simular observações feitas pela galáxia de sagitário",
+        "transcript": "o trabalho feito foi em sua maior parte teórico mas o programa foi escrito para singular observações feitas pela galáxia etsargitária"
+    },
+    "test/406179526511027338.wav": {
+        "ground": "a cidade contrasta fortemente com o resto do país porque tem um toque mais árabe do que africano",
+        "transcript": "a cidade contrasta fortemente com o resto do país porque tem um toque mais árabe do que africano"
+    },
+    "test/3580765501780502138.wav": {
+        "ground": "as cenas são exibidas nas pirâmides e diferentes pirâmides ficam iluminadas",
+        "transcript": "as cenas são exibidas nas pirâmidos e diferentes pirâmides ficam iluminadas"
+    },
+    "test/4667841354784642196.wav": {
+        "ground": "correntes de retorno são o refluxo da água das ondas na praia voltando ao mar geralmente em um recife ou área similar",
+        "transcript": "correntes de retorno são o refluxo da água das ondas na praia voltando ao mar geralmente em um recife ou área similar"
+    },
+    "test/4155001763901645965.wav": {
+        "ground": "alcateias de leões agem de forma similar a grupos de lobos ou cães animais surpreendentemente similares a leões mas não a outros grandes felinos em comportamento e também muito mortais às suas presas",
+        "transcript": "alcateias de leões agem de forma similar a grupo de lobos ou cães animais surpreendentemente similares a leões mas não a outros grandes felinos em comportamento e também muito mortais às suas presas"
+    },
+    "test/433379300344930470.wav": {
+        "ground": "em ilhas remotas é pouco provável que cartões de crédito sejam aceitos embora moedas britânicas e americanas possam ser recebidas por favor informe-se com os proprietários com antecedência para saber qual é o método de pagamento que eles aceitam",
+        "transcript": "em ilhas remotas é pouco provável que cartões de créditos sejam aceitos embora moedas britânicas e americanas possam ser recebidas por favor informese com os proprietários com antecedência para saber qual é o método de pagamento que eles aceitam"
+    },
+    "test/4255426317022586516.wav": {
+        "ground": "é uma das principais atrações da áfrica do sul e é considerado o estandarte dos parques nacionais da áfrica do sul sanparks",
+        "transcript": "é uma das principais atrações da áfrica do sul e é considerado o estandarte dos parques nacionais da áfrica do sul san parks"
+    },
+    "test/4804091262623440172.wav": {
+        "ground": "a interrupção do sono é um processo que consiste em acordar propositalmente durante o período normal do sono e adormecer logo depois 10–60 minutos",
+        "transcript": "a interrupção do sono é um processo que consiste em acordar propositalmente durante o período normal do sono e adormecer logo depois de st minutos"
+    },
+    "test/3415020465240627970.wav": {
+        "ground": "a groenlândia teve sua colonização de maneira esparsa nas sagas nórdicas dizem que erik o vermelho foi exilado da islândia por assassinato e ao viajar para o oeste achou a groenlândia e lhe deu esse nome",
+        "transcript": "a groenlândia teve sua colonização de maneira esparsa nas sagas nórdicas dizem que erik o vermelho foi exilado da islândia por um assassinato e ao viajar para oeste achou a groenlândia e lhe deu esse nome"
+    },
+    "test/4484171724159462470.wav": {
+        "ground": "muhammad estava profundamente interessado em assuntos além da vida mundana. ele costumava frequentar uma caverna que ficou conhecida como hira ' na montanha de noor luz para contemplação",
+        "transcript": "mohammad estava profundamente interessado em assuntos além da vida mundana ele costumava frequentar uma caverna que ficou conhecido como rira na montanha de nhur luz para contemplação"
     }
 }
