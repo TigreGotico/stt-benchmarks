@@ -7,6 +7,12 @@ from ovos_utils.parse import fuzzy_match, MatchStrategy
 PATH = "/home/miro/.local/share/transcripts"
 
 
+def get_sim(ground, sents):
+    s = sum([fuzzy_match(t, t2, MatchStrategy.DAMERAU_LEVENSHTEIN_SIMILARITY)
+             for t, t2 in zip(ground, sents)]) / len(sents)
+    return s
+
+
 LANG2DATASET = {
     "pt": [f"{PATH}/mozilla-foundation/common_voice_17_0",
            f"{PATH}/google/fleurs",
@@ -162,23 +168,30 @@ def per_plugin_markdown(scores):
 
 
 def plugin_ranking_markdown(data):
-    mkdown = "|Plugin|Model|WER|Damerau Similarity|Score|\n"
-    mkdown += "|-----|-----|---|------------------|-----|\n"
+    mkdown = "|Plugin|Model|WER<br>(all samples)| WER<br>(average across datasets) | Damerau Similarity | Score |\n"
+    mkdown += "|-----|-----|--------------------|----------------------------------|--------------------|-------|\n"
     rows = []
     for plugin in data:
         for model in data[plugin]:
             ground = []
             sents = []
+            wers = []
+
             for _, dataset in data[plugin][model].items():
                 ground += [s[0] for s in dataset]
                 sents += [s[1] for s in dataset]
+                wers.append(wer([s[0] for s in dataset],
+                                [s[1] for s in dataset]))
 
-            w = wer(ground, sents)
-            s = sum([fuzzy_match(t, t2, MatchStrategy.DAMERAU_LEVENSHTEIN_SIMILARITY)
-                          for t, t2 in zip(ground, sents)]) / len(sents)
-            score = (1 - w) * s * 100
+            avg_w = sum(wers) / len(wers)
 
-            line = f"| {plugin} | {model} | {round(w, 4)} | {round(s, 4)} | {round(score, 4)} |"
+            total_w = wer(ground, sents)
+            s = get_sim(ground, sents)
+
+            werc = 1 - (total_w + avg_w) / 2
+            score = werc * s * 100
+
+            line = f"| {plugin} | {model} | {round(total_w, 4)} | {round(avg_w, 4)} | {round(s, 4)} | {round(score, 4)} |"
 
             rows.append((line, score))
 
