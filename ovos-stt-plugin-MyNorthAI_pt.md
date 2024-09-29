@@ -10,4 +10,4 @@
 | fleurs | 0.1892 | 0.1978 | 0.1513 |
 | PTBRSpeechRecognition_CORAA | 0.1963 | N/A | 0.3149 |
 | cv_mls_psfb_zero_synthetic | 0.2819 | 0.2888 | 0.3159 |
-| common_voice_pt_pt | 0.5274 | 0.6444 | 0.9177 |
+| common_voice_pt_pt | 0.5297 | 0.6444 | 0.9177 |

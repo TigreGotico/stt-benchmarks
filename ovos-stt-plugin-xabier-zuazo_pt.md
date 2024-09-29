@@ -4,10 +4,10 @@
 |-|-|-|-|-|
 | fleurs | 0.3003 | 0.13 | 0.1707 | 0.223 |
 | common_voice_17_0 | 0.3747 | 0.2439 | 0.1821 | N/A |
-| MultiLingualSpeechRecognition_MLS-pt | 0.426 | N/A | 0.2674 | 0.4242 |
+| MultiLingualSpeechRecognition_MLS-pt | 0.426 | 0.2409 | 0.2674 | 0.4242 |
 | multilingual_librispeech | 0.4477 | 0.2175 | 0.2685 | 0.3768 |
-| mTEDx-ptbr | 0.4594 | N/A | 0.2503 | N/A |
+| mTEDx-ptbr | 0.4594 | 0.1947 | 0.2503 | N/A |
 | Speech-MASSIVE | 0.5214 | 0.175 | 0.2155 | N/A |
 | PTBRSpeechRecognition_CORAA | 0.6249 | 0.4194 | 0.3223 | N/A |
-| cv_mls_psfb_zero_synthetic | 0.8153 | N/A | 0.4358 | N/A |
+| cv_mls_psfb_zero_synthetic | 0.8153 | 0.3627 | 0.4358 | N/A |
 | common_voice_pt_pt | 2.8104 | 0.8615 | 1.2372 | N/A |
