@@ -770,5 +770,53 @@
     "zip://glf_09334_01464904859.wav::https://openslr.org/resources/77/gl_es_female.zip": {
         "ground": "Cal é a canción máis famosa de Katy Perry",
         "transcript": "Cal é a canción máis famosa de Katy Perry?"
+    },
+    "zip://glf_02484_00278335028.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A Serra dos Ancares separa Galicia de Castela e León",
+        "transcript": "A serra dos Ancares separa Galicia de Castel e León."
+    },
+    "zip://glf_00610_00913056659.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Honda é unha empresa automobilística xaponesa con sona no noso país",
+        "transcript": "Onda é unha empresa automobilística xaponesa con sona no noso país."
+    },
+    "zip://glf_02436_00167328167.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Case todo o mundo coñece a Miguel de Lira como Currás",
+        "transcript": "Case todo o mundo coñece a Miguel de Lira como currás."
+    },
+    "zip://glf_07060_01077257768.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "San Petersburgo é o escenario para algunhas das obras máis famosas da literatura universal",
+        "transcript": "San Petersburgo é o escenario para algunhas das obras máis famosas da literatura universal."
+    },
+    "zip://glf_09799_02095227913.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A San Andrés de Teixido vai de morto o que non foi de vivo",
+        "transcript": "A San Andrés de Teixido vai de morto que non foi de vivo."
+    },
+    "zip://glf_07060_02100697271.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Á tripulación do Apolo once adicóuselles unha lúa no canto dunha estrela no Paseo da Fama de Hollywood",
+        "transcript": "Á tripulación do Apolo once adicóuselles unha lúa no canto dunha estrela no paseo da fama de Hollywood."
+    },
+    "zip://glf_04766_00917864418.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "O grupo Planeta deixou de editar en España a revista de moda Grazia",
+        "transcript": "O Grupo Planeta deixou de editar en España a revista de moda e gracia."
+    },
+    "zip://glf_01208_01858747116.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "O voo a Madrid sae do Aeroporto internacional O’Hare_1 ás cinco e media da tarde",
+        "transcript": "O voo a Madrid sae do Aeroporto Internacional lugar ás cinco e media da tarde."
+    },
+    "zip://glf_08886_01893033567.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "O Grupo Caamaño fai moitos proxectos para montar as tendas de Zara",
+        "transcript": "O grupo caamaño fai moitos proxectos para montar as tendas de Zara."
+    },
+    "zip://glf_06136_01331557035.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "O carneiro ao espeto que preparan en Moraña é moi saboroso",
+        "transcript": "O carneiro ó espeto que preparan en moraña é moi saboroso."
+    },
+    "zip://glf_08784_00580375594.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A divisa de Camboxa é o riel pero en moitos establecementos tamén se acepta o dólar estadounidense",
+        "transcript": "A divisa de Camboxa é o riel pero en moitos establecementos tamén se acepta o dólar estadounidense."
+    },
+    "zip://glf_08784_01562525073.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A roupa Burberry é moi cara pero o resultado adoita ser bo",
+        "transcript": "A roupa berberi é moi cara, pero o resultado adoita ser bo."
     }
 }

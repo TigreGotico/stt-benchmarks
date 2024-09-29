@@ -726,5 +726,53 @@
     "zip://glf_03397_01076139419.wav::https://openslr.org/resources/77/gl_es_female.zip": {
         "ground": "Achégate a Cabana de Bergantiños para ver o dolmen de Dombate",
         "transcript": "Achega tacabana de Bergantiños para ver o dolmen de Dombate."
+    },
+    "zip://glf_07060_01890645426.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "EGANET é unha asociación de empresas galegas que desenvolven software e servizos TIC",
+        "transcript": "É gane e teu unha asociación de empresas galegas que desenvolven software e servizio estica."
+    },
+    "zip://glf_06136_00191338628.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Fan moitas fotos ao carón da estatua de Álvaro Cunqueiro en Mondoñedo",
+        "transcript": "Fan moitas fotos ocaron da estatu á de Álvaro cun queiron mundoñedo."
+    },
+    "zip://glf_03397_01118224040.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Axiña chegarei aos trinta anos teño vinte e oito",
+        "transcript": "Axiña chegaré os trinta anos, teño vinte oito."
+    },
+    "zip://glf_03034_00912421107.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A deseñadora americana Kate Spade faleceu en xuño dO 2018",
+        "transcript": "A deseñadora americana que aite espeid faleceu en xuño do dous mil dazohoito."
+    },
+    "zip://glf_06136_00612780873.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Solar PTS tamén fai deseño de paneis solares",
+        "transcript": "Solar P T S tamén fai deseño de paneis solares."
+    },
+    "zip://glf_07505_00037465974.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "De cativo bebiamos a gasosa que facían na fábrica de Los 15 Hermanos",
+        "transcript": "De cativo viviamos a gasosa que facían na fábrica de nos quince irmáns."
+    },
+    "zip://glf_06592_01651899910.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Alguén sabe o número de fillos que ten Xulio Iglesias",
+        "transcript": "Alguén sabe o número de fillos que teen Xuliglesias?"
+    },
+    "zip://glf_01523_00674012506.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Visita o Pazo de Mariñán do século dezaoito no concello de Bergondo",
+        "transcript": "Visita o pazo de Mariñán do Securo deza oito no concello de Bergondo."
+    },
+    "zip://glf_09697_01789938540.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Luís Mariñas estivo moitos anos facendo telexornais",
+        "transcript": "Luís mariñas estivo moitos anos facendo telexornais."
+    },
+    "zip://glf_01208_00006369234.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A Ponte dos Santos cruza a ría de Ribadeo para unir Galicia con Asturias",
+        "transcript": "A ponte dos santos cruz da ría de Ribadeo para Unis galicia con Asturias."
+    },
+    "zip://glf_07505_00171591619.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Lefties só ten tendas en catro países",
+        "transcript": "Lefitis só ten tendas en catro países."
+    },
+    "zip://glf_02436_01734204966.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A marca Dell adoita ter promocións moi boas de ordenadores",
+        "transcript": "A marca del adoita ter promocións moi boas de ordenadores."
     }
 }
