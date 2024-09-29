@@ -2286,5 +2286,37 @@
     "test/338460385873568124.wav": {
         "ground": "oliver sacks em seu artigo o discurso do presidente indicou como as pessoas que são incapazes de entender a fala por causa de dano cerebral são apesar disso capazes de avaliar sinceridade com precisão",
         "transcript": "oliver sexs em seu artigo o discurso do presidente indicou como as pessoas que são incapazes de entender a fala por causa de dano cerebral são apesar disso capazes de avaliar sinceridade com precisão"
+    },
+    "test/3494596425251226375.wav": {
+        "ground": "mulheres é recomendável que todas as viajantes digam que são casadas independentemente do atual status marital",
+        "transcript": "mulheres é recomendável que todas as viajantes digam que são casadas independente do atual estatus marital"
+    },
+    "test/3537576417695099756.wav": {
+        "ground": "embora estivesse trabalhando no hospital liggins começou a investigar partos prematuros em seu tempo livre",
+        "transcript": "embora estivesse trabalhando no hospital lingins começou a investigar partes prematuros em seu tempo livre"
+    },
+    "test/3484712067237464347.wav": {
+        "ground": "elas são quase todas praias arenosas com nado seguro e muitas têm sombras provenientes das árvores pohutukawa",
+        "transcript": "elas são quase todas praias arenosas com nado seguro e muitas têm sombras provenientes das árvores porotucawa"
+    },
+    "test/384287065627663195.wav": {
+        "ground": "as outras nomeações incluem melhor filme diretor fotografia figurino melhor montagem trilha sonora original design de produção edição de som mixagem de som e roteiro original",
+        "transcript": "as outras nomeações incluem melhor filme diretor fotografia figurino melhor montagem trilha sonora original designe de produção edição de som mixagem de som e roteiro original"
+    },
+    "test/3394035870161154936.wav": {
+        "ground": "a correlação entre patologia cerebral e comportamental embasa os cientistas em suas pesquisas",
+        "transcript": "a correlação entre patologia cerebral e comportamental em base os cientistas em suas pesquisas"
+    },
+    "test/3392761775497347791.wav": {
+        "ground": "os 25 ataques de dunlap que ainda existem são as cópias mais velhas sobreviventes do documento a cópia original feita à mão não sobreviveu",
+        "transcript": "os vc ataques de don lap que ainda existem são as cópias mais velhas sobreviventes do documento a cópia original feita à mão não sobreviveu"
+    },
+    "test/3558691997948667456.wav": {
+        "ground": "ao norte e facilmente acessível está a romântica e fascinante cidade de sintra que ficou famosa entre os estrangeiros após um relato exuberante de seus esplendores feito por lorde byron",
+        "transcript": "ao norte e facilmente acessível está romântica e fascinante cidade de cintra que ficou famoso entre os estrangeiros após um relato exuberante de seus esplendores feito por lord byron"
+    },
+    "test/4304630259425899603.wav": {
+        "ground": "entre 22h e 23h mdt os detentos causaram um incêndio na prisão",
+        "transcript": "entre vd h  vt hr midt os detentos causaram um incêndio na prisão"
     }
 }

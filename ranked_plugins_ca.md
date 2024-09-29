@@ -1,6 +1,6 @@
 |Plugin|Model|WER|Damerau Similarity|Score|
 |-----|-----|---|------------------|-----|
-| ovos-stt-plugin-project-aina-whisper | whisper-large-v3-ca-3catparla | 0.1026 | 0.9681 | 86.8793 |
+| ovos-stt-plugin-project-aina-whisper | whisper-large-v3-ca-3catparla | 0.1037 | 0.9674 | 86.7094 |
 | ovos-stt-plugin-xabier-zuazo | whisper-medium-ca | 0.1072 | 0.9607 | 85.7684 |
 | ovos-stt-plugin-citrinet | stt-ca-citrinet-512 | 0.1683 | 0.9374 | 77.9605 |
 | ovos-stt-plugin-whisper | whisper-medium | 0.164 | 0.9298 | 77.7357 |
