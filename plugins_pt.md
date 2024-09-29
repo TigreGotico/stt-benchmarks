@@ -16,7 +16,7 @@
 # WER: ovos-stt-plugin-MyNorthAI
 |dataset/model|whisper-large-v3-pt|whisper-medium-pt|whisper-small-pt|
 |-|-|-|-|
-| MultiLingualSpeechRecognition_MLS-pt | 0.1023 | N/A | 0.1281 |
+| MultiLingualSpeechRecognition_MLS-pt | 0.0954 | N/A | 0.1281 |
 | multilingual_librispeech | 0.1301 | 0.1021 | 0.1379 |
 | Speech-MASSIVE | 0.1349 | 0.1787 | N/A |
 | common_voice_17_0 | 0.1801 | 0.1897 | 0.3112 |
@@ -24,7 +24,7 @@
 | fleurs | 0.1892 | 0.1978 | 0.1513 |
 | PTBRSpeechRecognition_CORAA | 0.1963 | N/A | 0.3149 |
 | cv_mls_psfb_zero_synthetic | 0.2819 | 0.2888 | 0.3159 |
-| common_voice_pt_pt | 0.5297 | 0.6444 | 0.9177 |
+| common_voice_pt_pt | 0.5397 | 0.6444 | 0.9177 |
 
 
 # WER: ovos-stt-plugin-xabier-zuazo
@@ -32,26 +32,26 @@
 |-|-|-|-|-|
 | fleurs | 0.3003 | 0.13 | 0.1707 | 0.223 |
 | common_voice_17_0 | 0.3747 | 0.2439 | 0.1821 | N/A |
-| MultiLingualSpeechRecognition_MLS-pt | 0.426 | 0.2409 | 0.2674 | 0.4242 |
+| MultiLingualSpeechRecognition_MLS-pt | 0.426 | 0.2316 | 0.2674 | 0.4242 |
 | multilingual_librispeech | 0.4477 | 0.2175 | 0.2685 | 0.3768 |
-| mTEDx-ptbr | 0.4594 | 0.1947 | 0.2503 | N/A |
+| mTEDx-ptbr | 0.4594 | 0.1976 | 0.2503 | N/A |
 | Speech-MASSIVE | 0.5214 | 0.175 | 0.2155 | N/A |
 | PTBRSpeechRecognition_CORAA | 0.6249 | 0.4194 | 0.3223 | N/A |
-| cv_mls_psfb_zero_synthetic | 0.8153 | 0.3627 | 0.4358 | N/A |
+| cv_mls_psfb_zero_synthetic | 0.8153 | 0.3873 | 0.4358 | N/A |
 | common_voice_pt_pt | 2.8104 | 0.8615 | 1.2372 | N/A |
 
 
 # WER: ovos-stt-plugin-chromium
 |dataset/model|chromium|
 |-|-|
-| Speech-MASSIVE | 0.13 |
-| fleurs | 0.1644 |
-| common_voice_17_0 | 0.2666 |
+| Speech-MASSIVE | 0.1291 |
+| fleurs | 0.1637 |
+| common_voice_17_0 | 0.2664 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2908 |
-| multilingual_librispeech | 0.2973 |
+| multilingual_librispeech | 0.2961 |
 | PTBRSpeechRecognition_CORAA | 0.4072 |
-| mTEDx-ptbr | 0.445 |
-| cv_mls_psfb_zero_synthetic | 0.6098 |
+| mTEDx-ptbr | 0.443 |
+| cv_mls_psfb_zero_synthetic | 0.6056 |
 | common_voice_pt_pt | 0.9828 |
 
 
