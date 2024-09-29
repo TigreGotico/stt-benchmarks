@@ -450,5 +450,485 @@
     "20H2Dsplit_144.wav": {
         "ground": "Que eu reparei quando comecei a trabalhar. Disse: OK, isto está mau. Mas disse ao meu pai, cerca de uma semana depois de ter começado a trabalhar. Só as empresas pequenas, se tiverem se tiverem uma boa gestão e se tiverem juizinho é que se vão safar. A queda vai começar pelas empresas grandes.",
         "transcript": "Eu reparei quando começou a trabalhar ok está mal mas disse ao meu pai sei que uma semana depois ter começado a trabalhar só as empresas pequenas Se tiverem Se tiverem uma voz tão e estivemos vizinho é que se com safar a cada vai começar pelas empresas"
+    },
+    "20H2Dsplit_157.wav": {
+        "ground": "É muito longe. São não são bem cem, mas são quase cem. Eu perco uma hora, pela auto estrada, só da de lá da obra até Braga. E depois acontece E depois ainda ir para Barcelos, também. Acontece como, às vezes na auto estrada, vê se aqueles carros comerciais assim, quando quando acontece isso já se sabe que são de empresas.",
+        "transcript": "eu perco uma hora pela auto-estrada só de lado a obra Até Braga e depois liguei para Barcelos Mas eu também acontece como às vezes não auto-estradas a ser aqueles carros comerciais assim quando acontece isso a saco som de empresa"
+    },
+    "21H2Dsplit_3.wav": {
+        "ground": "Era praticamente dois minutos a andar para a escola de Sim. de São Lázaro. Ou seja, subia a rua, passava a passadeira e estava na escola. Era praticamente isto. Mas, por exemplo, se pudesse escolher outra cidade para morar, gostaria? Se calhar consigo me ver a viver no Porto. Mas, fora disso não consigo.",
+        "transcript": "era praticamente 2 minutos Ah para a escola de São Lázaro seja assobiar à rua passava à passadeira e tava na escala era praticamente isto mas depois não se pudesse escolher outra cidade para morar gostaria de Se calhar consigo me ver a viver no Porto mas fora disso se não consigo"
+    },
+    "21H2Dsplit_10.wav": {
+        "ground": "Mas eles acabam por causar um bocado o pânico na cidade toda. Não é só onde eles Hum, hum. vivem. Prin principalmente eles onde vivem tentam de alguma maneira comportar se melhor para garantir que não tenham problemas ali. Mas, eu estou a ser um bocado Isso é estranho. generalista, não quer dizer que sejam todos Claro. as pessoas. Mas, normalmente onde.",
+        "transcript": "mas eles acabam por causa que ele dar um bocado o Pânico na cidade toda Não é só um deles principalmente eles Onde vivem tentam alguma maneira comportar-se melhor para garantir que não tem um problema as Olim mas eu tou assim um bocado Generalista não quer dizer que sejam todos as pessoas mas normalmente estão de"
+    },
+    "21H2Dsplit_21.wav": {
+        "ground": "Era mais numa de tentar acalmar e dizer: Oh, pá, não tenho nada. Olha, gostava de te dar Hum, hum. Numa de quase usar o dialeto que eles costumam usar. É: Ó mano, ó mano, desculpa lá, mas não tenho. Está difícil. A maior parte das vezes eles abordam por cigarros e eu também não fumo ele: Ó pá, não fumo, sabes como é e o caralho. E ele: Ah, fazes bem. Depois eles acabam É. também por entrar um bocado na brincadeira.",
+        "transcript": "era mais número de tentar com mais ó pá não tem nada Olha gostava de te dar numa de quase usar o direito que eles que vão usar é o mano Ó mano desculpa lá mas não tá ainda tá difícil o meu quarto às vezes eles adoram por cigarros ele também não fumo ele rapaz no fundo sabes que mais o caralho Fazes bem depois eles se acabam também por entrar no carro na"
+    },
+    "21H2Dsplit_33.wav": {
+        "ground": "Não faço ideia. Não, acho que os meus tios tinham um bares e discotecas aqui em Braga Hum, hum. há muitos anos atrás e, se não me engano, o meu pai ao vir a Braga e a sair cá e não sei quê acabou por Hum, hum. por conhecer a minha mãe. Mas por acaso não foi uma daquelas histórias românticas.",
+        "transcript": "os meus tinham bares e discotecas aqui em Braga há muitos anos atrás isso não me engano no meu pai ouvir a Braga e a sair de casa que acabou por reconhecer a minha mãe mas por acaso não foi uma daquelas histórias"
+    },
+    "21H2Dsplit_37.wav": {
+        "ground": "Amadureci o suficiente para ver que não é Hum, hum. preciso estar sempre a implicar com ele para Claro. para conseguir ter o que quero dele ou ou ele portar se bem. Mas, regra geral é ele é bom menino então? Nos tempos de hoje? É. É um bom rapaz. Não, é um bom rapaz e e, de alguma maneira, disciplinado,.",
+        "transcript": "associar para ver que não é preciso estar sempre a implicar com ele para conseguir ter o que quero dele ou ele portanto ele leva um menino Então não sei português é um rapaz não é um bom rapaz dá uma maneira disci"
+    },
+    "21H2Dsplit_67.wav": {
+        "ground": "Nas diciplinas de Física e de Matematica, Hum, hum. mas eles nas disciplinas que, de facto, importavam para o curso que programação ou eletrónica Hum, hum. eles destacavam se. Porque para eles era mais fácil, porque já tinham tido como base naquilo. Hum, hum. Inclusive alguns tiveram equivalências em que ficaram com cadeiras.",
+        "transcript": "nasci poemas de física e de matemática mas eles nas disciplinas de facto que importavam para o curso que programação ou eletrónica e ele destacaram-se porque para eles eram mais fácil porque já tinha um tiro como base naquilo impossível alguns estiveram equivalências Em que canal com"
+    },
+    "21H2Dsplit_71.wav": {
+        "ground": "Hoje em dia é só o estatuto, porque não não reflete conhecimento. Antigamente, Exato. um mestre era uma pessoa acima da média. Pronto, hoje em dia Estavas a Hum, hum. falar em vinte e um, vinte e dois, pessoas com licenciatura a trabalhar. Há pessoas assim, que essa situação ainda nos deixa mais, de alguma maneira, revoltados, pelo facto de eu estar tantos anos na universidade.",
+        "transcript": "hoje em dia são os estatuto porque não no reflete conhecimento praticamente um mestre é uma pessoa acima da média pronto hoje em dia tavas a falar em 2122 pessoas com licenciatura a trabalhar há pessoas assim que essa situação ainda me deseja mais de alguma maneira resultados pelo facto estar tantos anos na univers"
+    },
+    "21H2Dsplit_75.wav": {
+        "ground": "Ah, sim sim. Para já mantém se esse pensamento. Se calhar daqui Hum, hum. a dez anos ninguém se vai lembrar que existia Bolonha. E as Certo. pessoas vão estar no mesmo nível. Eu tenho o curso de Comunicação Social, por exemplo, foi é um daqueles cursos que também que ficou a meio e passou a mestrado separado. Hum, hum. Uma pessoa que tenha licenciatura cinco anos, outra de.",
+        "transcript": "Ah sim Sim para já mandei se esse pensamento Se calhar daqui a 10 anos ninguém se vai lembrar que existia o Bolonha e as pessoas vão estar no mesmo eu tenho o curso de comunicação social por exemplo que foi onde aqueles consigo também ficou a meio e passou a mostrar separado uma pessoa que tem o sensor de 5"
+    },
+    "21H2Dsplit_86.wav": {
+        "ground": "O ensino é um bocado mais fácil de entrar na Hum, hum. universidade. Sem querer ser discriminista discriminatório, que aquela universidade que é fraca ou aquela, não. Foi das pessoas que eu via acabarem à Hum, hum. noite que acabaram por ir para para esse, para esse tipo Para esses sítios. de politécnicos ou universidades assim do interior. Hum, hum. Mas eles seguiram então quase todos para a área das ciências?",
+        "transcript": "o ensino é um bocado mais fácil de entrar na universidade no sem querer ser discriminação O que é aquela universidade quer falar com aquela né Eu fui das pessoas que eu vi a Acabarem à noite queria acabaram por ir para preço para esse tipo de politécnicos ou universidades assim do interior mas a seguir ao Então quase todos os pais das"
+    },
+    "21H2Dsplit_95.wav": {
+        "ground": "Hum, hum. a fazerem Eles não tiveram dificuldade em arranjar trabalho, mas Hum, hum. na área porque a nossa área é muito abrangente. Que pode dar para eletrónicas, para telecomunicações, comunicações, software, programação, ou seja,.",
+        "transcript": "fazer e eles não tiveram dificuldade arranjar trabalho mas na área porque a nossa área é muito abrangente que pode dar para eletrónica para telecomunicações comunicações software programação"
+    },
+    "21H2Dsplit_110.wav": {
+        "ground": "Hum chama. Sei. Que vão aparecendo propostas. Há mais dois ou três que também dá para Hum, hum. para procurar. Estive há pouco tempo a ver no portal Eures Eures. É assim qualquer coisa, agora também não me lembro. Que é para Port para fora de Portugal. Hum, hum. Também já já me passou pela cabeça de de trabalhar para fora. Porque para estar a ganhar seiscentos euros, se calhar, não é o ideal.",
+        "transcript": "Como é que se chama propostas Há mais dois ou três que também dá para procurar tive há pouco tempo para ver no portal e euros e qualquer coisa agora também não me lembro que é para fora de Portugal também já me passou pela cabeça de trabalhar para fora para trabalhar 600 € se calhar não é o"
+    },
+    "21H2Dsplit_115.wav": {
+        "ground": "E temos que estar a pedir à família e Claro. Por isso a Europa, acima de tudo. Se bem que não há em na Europa a falarem a nossa língua, por isso, não há grande vantagem a nível linguístico, mas inglês Mas uma língua aprende se facilmente. Também acho que sim. Eu acredito que quando uma pessoa quer, que de facto aprende. Claro. E Se bem que eu tenho imensas pessoas.",
+        "transcript": "Ei temos que chegar a pedir à família por isso Europa acima de tudo sem que não há na Europa a falar em a nossa língua por isso não há grande vantagem A nível linguístico mas em inglês também acho que sim eu acredito que quando uma pessoa quer que de facto da prenda só que eu tenho essas pessoas"
+    },
+    "21H2Dsplit_125.wav": {
+        "ground": "Como é que pode? É muito duro. Exato. Tipo, todos os dias têm que ser praxados, horas livres têm que ser praxados. Depois, saem comunicados a dizer que os alunos estão a tirar más notas no primeiro ano. Hum, hum. Normal, porque nem nem tempo têm. Claro que as pessoas que os praxam dizem que a culpa não é deles, Hum, hum. porque eles: Ah, quase nunca estão nas praxes. Sim, se for se fores a ver as tardes que eles têm livres e as tardes que estão nas praxes, se calhar,.",
+        "transcript": "Como é que te posso todos os dias tem que separar as horas livres tem que ser para chatos depois só em comunicado a dizer que os alunos estão a tirar mais notas no 1º ano normal nem nem nem nem nem nem tempo tenho Claro que as pessoas que os prashant dizem que a culpa não é deles porque eles Ai quase nunca tou Nespresso sim se for se fodeu Star que eles têm ali ver se sabes que estou na praça se"
+    },
+    "21H2Dsplit_143.wav": {
+        "ground": "Dormir de manhã, ir para a praia à tarde, beber, dormir Acho que era mais ou menos isto. Para Espírito da Queima das Fitas. Eh, sim. Do Enterro da Gata, eu prefiro Sim. chamar lhe Enterro da Gata. assim. Era. É. Porque eu adoro Pouca gente Nos últimos anos não, porque uma pessoa depois também começa a ficar mais velho e.",
+        "transcript": "vamos dormir de manhã e para a praia à tarde beber dormir acho que era mais ou menos isto Queima das Fitas do enterro da gata era é porque eu adoro-te pouca gente e os últimos anos não que uma pessoa Pois também começa a ficar mais"
+    },
+    "21H2Dsplit_150.wav": {
+        "ground": "Não é férias. Aquilo é trabalho forçado, mas Hum, hum. divertimento. Ou divertimento forçado. Pronto. Mas dá assim para respirar um bocadinho a meio do semestre. O que já é já é muito bom. É. De facto, o segundo semestre é fantástico, por causa do Enterro, do das Queimas dos outros sítios, da Gata na Praia, o bom tempo. O segundo semestre é,.",
+        "transcript": "Não há férias aquilo é trabalho forçado mas divertimento pode divertimento forçado Pronto mas assim para recuperar um bocadinho o meio de semestre o que já é que é muito bom é fantásticos por causa do enterro das queimas dos outros sítios da Gata na Praia o bom tempo juntos mais"
+    },
+    "21H2Dsplit_161.wav": {
+        "ground": "Hum, hum. a ao Bom Jesus em cinco minutos. Assim como para o outro lado da cidade. De facto nisso, São fantásticas. as estradas em Braga temos algumas vias rápidas a passar em alguns sítios Hum, hum. para chegar a a certas a certas zonas é mesmo rápido. Sabe, eu por acaso, eu eu não conduzo, mas a ideia que eu tenho é que as estradas aqui em Braga são uma tremenda confusão. Porque, para ir de um ponto ao outro, é preciso ir dar uma volta enorme.",
+        "transcript": "em 5 minutos assim como para o outro lado da cidade facto nisto estradas em Braga Temos algumas devias cá teres a passarem algum cheats para chegar a certas as setas zonas é a mesma marca Eu por acaso eu não conduzo mas a ideia que eu tenho é que se traz aqui em Braga sou uma tremenda confusão queres peido um ponto ao outro é preciso dar uma volta"
+    },
+    "22H3Asplit_4.wav": {
+        "ground": "Parece me que sim. O colégio Dom Diogo de Sousa. Hum. Ah, deve ser. Era é colégio Dom Diogo de Sousa. Andam todos por aí mais ou menos. Mas os seus filhos não Não estão nenhuns na universidade nem coisa nenhuma. Mas os no caso dos seus filhos, por que é que eles não seguiram? Por que é que eles não continuaram a estudar os seus filhos?",
+        "transcript": "parece-me que sim a Colégio João Diogo de Sousa amo todos por aí mas os seus filhos porque é que eles não saíram Porque é que eles não continuaram a estudar os seus"
+    },
+    "22H3Asplit_16.wav": {
+        "ground": "Mas foi por alguma doença? Que a minha falecida mãe faleceu? Sim. Isso é que Não sabe? Tinha treze anos. Lembra me lembra me. Ela ainda devia ser nova. Era nova, muito nova e cheia de Eu lembra me lembra me de uma coisa nos cabelos dela, palavra de honra. Davam lhe até aqui abaixo.",
+        "transcript": ""
+    },
+    "22H3Asplit_60.wav": {
+        "ground": "Do que o Zé. do que o Zé, exato. E tenho outro na França. E o que o Suíça está o que está na Suiça está a fazer o quê? Está a trabalhar em quê? Está a trabalhar a a pasteleiro e coisa. Também aquilo não tem emprego certo. Aquilo também está mau na Mas ele fez Suíça. família lá? Tem tem tem tem A mulher é de lá ou é de cá?",
+        "transcript": "Exato E tenho outro na França e o que eu Suíça tá o que tá na Suíça tá a fazer o quê tá a trabalhar pasteleiro e coisa também é que não tem Emprego Certo aquilo também está mal mas não tens família lá a mulher é igual"
+    },
+    "22H3Asplit_111.wav": {
+        "ground": "Que obrigam as crianças. Hum, hum. Pronto. E eu estou a dizer e nesses casos a mulher pode engravidar do violador. Certo? Está a perceber o que eu estou a dizer? Pois, pois. Pode engravidar a mulher e ela não quer o filho porque é de uma pessoa que que se calhar não que não conhece, que a obrigou Pois, exato exato exato. uma pessoa que Pronto. E quer tirar o filho. Concorda aí?",
+        "transcript": "eu tou a dizer em esses casos a mulher pode engravidar de violador certo tá a perceber pode engravidar a mulher e ela não quer o filho porque é uma pessoa que se calhar não que não conhece que abrigou não sou de pronto pronto"
+    },
+    "22H3Asplit_135.wav": {
+        "ground": "É. É o Não é? Já em estado terminal, que eu digo. está a sofrer. Está a sofrer e faz sofrer. Pois. Mas isso é Quando for que seja Deus que que lhe deia dê a morte. Não é ma ma ma matá la por para não sofrer, não. OK. Então não concorda com.",
+        "transcript": "não é já está a terminar tá a sofrer e faz foder quando for que seja Deus cruzei à morte não é mata-la Então não Concor"
+    },
+    "22H3Asplit_146.wav": {
+        "ground": "Não? está bem. Já agora sabe Deus. Naquela altura Agora, tirando um coisinha, um frangozinho ao domingo ou coisa se a gente comer em casa. Um frango estu estufado que é o que fica mais barato é o frango. O resto carnes e coisa não. Não. Então diga lá o que é que sabe fazer.",
+        "transcript": "espada que é o que fica mais barato é o frango o resto que carnes e coisa Não eu não diga lá o que é que sabe"
+    },
+    "25H3Bsplit_8.wav": {
+        "ground": "Mas isto está a acontecer por todo lado. então a cortar, a levar pancada é sempre o mais pequeno. É normal, neste momento é normal. E como é que era a freguesia antigamente? Mudou muito? Oh, sim mudou, ui, eu conheci a desde que comecei a a movimentar me, foi onde eu comecei a caminhar,.",
+        "transcript": "Então me acordar a levar pancada É sempre o mais pequeno É normal neste momento é normal e como é que era a freguesia antigamente mudou muito Ah sei muda a luz eu conhecia desde que comecei a movimentar não foi ele comecei a cama"
+    },
+    "25H3Bsplit_11.wav": {
+        "ground": "Mas no que respeita a haver mais À população. população ou menos? Ui, isso para aí dobrou ou triplicou, não isso não tenha dúvida disso. Como há algumas freguesias que se queixam que hou houve muita gente que saiu. Bem, esta freguesia embora não tenha evoluído tanto como outras aqui da redondeza,.",
+        "transcript": "mas nunca respeita a ver mais população ao menos ou isso praia dobrou outra explicou não esse não tenho dúvida disso que mal algumas freguesias que se queixam houve muita gente que saiu bem esta freguesia é embora não tenha evoluído tanto como outras aqui da redondeza"
+    },
+    "25H3Bsplit_20.wav": {
+        "ground": "Dum filho que era PSP, aqui um filho da freguesia, que o pai também vivia nesta freguesia, e entrou na cidade descalço e o filho autuou o pai por entar na cidade descalço. A moral era Era engraçado. era um bocado baixa, mas mas qui quis mostrar serviço, que.",
+        "transcript": "Dom filho que era PSP aqui o filho da Freguesia que o pai também vivia nesta Freguesia entrou na cidade das calças e o filho ao teu ao pai por entrar na cidade descalço moral era um bocado baixa mas que quis mostrar serviço"
+    },
+    "25H3Bsplit_22.wav": {
+        "ground": "Foi um pouco isso. diferenças. Acho que foi um pouco isso. Enquanto hoje se per eles perdoam tudo às escondidas. Hoje faz se tudo e acho que é como dantes, havendo luvas leva se tudo e ainda hoje, anda tudo atrás das luvas. É normal.",
+        "transcript": "acho que foi um pouco isso enquanto hoje ele perdeu onde tu vais escondida Pois faz tudo e acho que é que mudanças havendo luvas leva todo e ainda hoje anda tudo atrás das luvas"
+    },
+    "25H3Bsplit_51.wav": {
+        "ground": "Eu também não, eu só falo pelo que ouço. Porque somos de de todos que estão em crise somos o os que temos feito tido mais medidas e continuamos igual. É que um tipo agora faz um orçamento Eu tenho aí um orçamento para fazer uma obra e já acho o orçamento caro e depois no fim do orçamento diz assim: Para além,.",
+        "transcript": "também não em São Paulo porque eu sou porque soma de todos que estão em crise somos que temos feito tive mais medidas e continuamos igual é que o tempo agora faça um orçamento que eu tenho em orçamento para fazer uma obra e já deixo o orçamento do carro ele põe no fim do orçamento e assim para"
+    },
+    "25H3Bsplit_61.wav": {
+        "ground": "Ah. voltou a ser outra rapariga, a outra tentativa outra rapariga, outra tentativa, sempre saiu rapaz e parou. Diz ela: Agora mais não. Conseguiu o rapaz, pronto. Não, os nossos objetivos foram concretizados. a Fernanda que foi atrás do rapaz e tive seis raparigas. Meu Deus.",
+        "transcript": "voltou a ser outra rapariga outra Tentativa outra rapariga outra Tentativa sempre sai um rapaz e parou diz ela agora mais não Eu consegui o rapaz do Frango não os nossos objetivos sobre concretizados Isso é o meu irmão"
+    },
+    "25H3Bsplit_65.wav": {
+        "ground": "Que seria a mulher ideal e foi assim o nosso o nosso Foi desde muito pequeninos. a nossa amizade começou daí, ou o nosso amor, se pode chamar assim, não é? Ou se deve chamar assim. Há quanto tempo é que estão casados? Há quarenta e a caminho de quarenta e quatro.",
+        "transcript": "gostaria a mulher ideal E foi assim o nosso senhor a nossa amizade com o seu daí ou o nosso amor se pode chamar assim não é Ou se deve chamar assim mas quanto tempo é que tão casado há 40 caminho de 44"
+    },
+    "25H3Bsplit_84.wav": {
+        "ground": "A aquisição de bens para que entendiam que a felicidade era juntar só bens com bens, não era não era o gostarem um do outro, era um pouco isso. Mas eu acho que Mas isso hoje acho que perdeu de de perdeu um pouco, pelo menos da minha parte perdeu, que eu nunca pus isso em causa às minhas filhas.",
+        "transcript": "a aquisição de bens para quem tem aí pela felicidade era juntar só vens com peixe não era não era o gostar em um do outro era um pouco isso mas eu acho que Mas isso hoje Acho que perdeu de perder um pouco pelo menos da minha parte perdeu que eu nunca pus isso em causa às minhas"
+    },
+    "25H3Bsplit_85.wav": {
+        "ground": "Mas E disse sempre e disse acho que de vez em quando ainda aparece. sempre: Cada uma que case com quem gostar. Ou se é que consegue isso, deve juntar se com quem gostar, não é sob pressão. Eu uma o rapaz é o mais novo e uma altura havia aí um indivíduo que entendia que tinha uma filha para ele, que seria o anel.",
+        "transcript": "inicia sempre Eu disse sempre cada uma casa com quem gostar ou ser consegue Isso deve juntar-se com quem gostar não é sobre pressão é uma o rapaz é o mais novo e uma altura havia aí um indivíduo que ainda ali a que tinha uma filha para ele que Seriam"
+    },
+    "25H3Bsplit_99.wav": {
+        "ground": "E quer ver as coincidências? Essa filha mais velha foi a que casou com esse homem de Valongo e juntou se ela portanto ela começou a trabalhar e foi trabalhar numa casa de de de informática, que era era na Xerox,.",
+        "transcript": "e quero ver as Coincidências essa filha mais velha foi casou com esse homem de Valongo e juntou-se ela portanto ela começou a trabalhar e foi trabalhar numa casa de de informática na xero"
+    },
+    "25H3Bsplit_113.wav": {
+        "ground": "Hoje, a neta que temos aqui vinha satisfeita, que tinha tirado O que é que ela disse? Que tinha tirado um excelente, que a professora lhe disse que foi a melhor? Era em problemas, não era? Em matemárica? Sim, em matemática. Há quem Se for boa a matemática já é um bom princípio, que nem toda gente gosta matemática.",
+        "transcript": "Rua janeta que temos aqui vinha satisfeita que tinha Tirando o que é que ela disse que tinha tirado uma excelente que a professora lhe disse que foi a melhor era em problemas não era de matemática"
+    },
+    "25H3Bsplit_116.wav": {
+        "ground": "Não funcionam. E hoje já não é a época da tabuada. Pois é. Mas é que nós tínhamos tínhanos que a saber, era da da do dois até à do nove ou do Hoje um até ao dez. hoje nem tabuada, nem rios, nem nada. Nós era rios, era serras,.",
+        "transcript": "não funciona E hoje não é época da tabuada Pois é isso é que nós tínhamos queria saber Era da da do 2 até à do 9 ou dou uma até ao 10 tabuada nem Rios nem nada nossa era Rios era"
+    },
+    "25H3Bsplit_125.wav": {
+        "ground": "Agora o Sado, por exemplo, nem sei, não tenho ideia nenhuma. Que ele que passa junto a Setúbal Também não se pode lembrar de tudo. O Vouga acho que também é também é português. Enfim. Mas mas já não me lembro, que isso já vai é muito ano. Mas, antigamente, quando trabalhava.",
+        "transcript": "agora o Sado por exemplo nem sei não sei ler nenhuma O que é o que passa junto à Setúbal também não se pode lembrar de tudo o Vouga acho que até amanhã até amanhã é português mas antigamente quando trabalha"
+    },
+    "25H3Bsplit_126.wav": {
+        "ground": "Quando era mais novo, em que é tra em que é que trabalhava? Era na agricultura? Trabalhei sempre nisto, no que ainda hoje trabalho. Mas o que fazia em concreto? De maneiras maneiras diferentes. O que fazia? Era sachola nas mãos, sachar milho, cavar terra, sei lá, com outros processos. Hoje não hoje já nem nem se usam, não é? Porque hoje evoluímos,.",
+        "transcript": "quando era mais novo em que em que é que trabalhava era na agricultura de trabalho mas o que fazia maneiras maneiras diferentes o que fazia era se chama nas mãos fecha a milho cava terra Sei lá com outros processos hoje não hoje já nem nem se usa não é porque hoje evol"
+    },
+    "25H3Bsplit_128.wav": {
+        "ground": "Ao fim desenganchavam se os animais do arado, enganchavam se nas grades, lá se ia amaciar a terra, pô la em condições de pôr as sementes. Hoje não, hoje pega se no trator, vira se a terra, acaba se de de virar com o trator, deita se os adubos, pega se na outra vez no trator com a grade,.",
+        "transcript": "ao fim desinchar os animais do Arado encaixar pessoas graves vai ser amaciar a terra qual em condições de pôr as sementes Pois não hoje pega-se no trator Vira essa terra acaba-se a virar contra atora deita suja de ovos pega-se outra vez no trator com ag"
+    },
+    "25H3Bsplit_143.wav": {
+        "ground": "Se se pode chamar. Mas vai mais para o interior há riqueza de terras ali. Sim. Aquela Eu acho que cada parte tem tem a sua vertente, cada uma tem está mais direcionada para alguma Nós estamos coisa. Ali no centro de de Mirandela, de Mirandela para para Vila Flor, por ali, é uma terra muito.",
+        "transcript": "Eu acho que cada parte tem a sua vertente Cada uma tem que tá mais direcionado para alguma coisa não sabes é ali no centro de de Mirandela de Mirandela para para Vila Flor para ali a uma terra muito"
+    },
+    "25H3Bsplit_144.wav": {
+        "ground": "Rochosa, xistosa, uma pedra xisto, uma pedra uma um terreno impermeável, que as águas não penetram. Mas subimos mais para cima, para o lado do Mogadouro, já se vê ali terras que são uma riqueza e em termos de cultivo muito muito diferentes.",
+        "transcript": "a rochosa chistosa um ao pé de Xisto uma pedra uma um terreno impermeável que as águas no panela mas subimos mais para cima para o lado de Mogadouro já subiram em terras que são uma riqueza e em termos de cultivo muito difer"
+    },
+    "25H3Bsplit_158.wav": {
+        "ground": "Aquela picada de Guileje Gadamael Porto. E dali chegou à altura da de nós ser devolvidos aqui à metrópole, depois passados daí a cerca de vinte e um meses ou à volta de vinte e dois meses, que eu dei no Ultramar. Isto foi de sessenta e seis a sessenta e oito.",
+        "transcript": "aquela picada de Imagine Gabriel Porto e da lei chegou a altura da de não ser devolvidos aqui a metrópole depois passados da Cerca de 21 meses ou à volta de 22 meses que ele dei no Ultramar Isto foi de 66 a 6"
+    },
+    "25H3Bsplit_159.wav": {
+        "ground": "Decerto vocês ainda não eram nascidas até. Não. Ai eram, por onde andavam ainda. Eu nasci em noventa. Pois é. Ui, sessenta. Pois é. E na altura como é que era? O senhor, por exemplo, cozinhava na altura? Como é Não, andei sempre.",
+        "transcript": "Já te posso ajudar não eram a cidadão Ai era para mandar vir eu nasci 90 Ui 60 e na altura Como é que era o senhor por exemplo cozinhava na altura Como é que tinhas Cruzeiro anda"
+    },
+    "25H3Bsplit_165.wav": {
+        "ground": "Que não é o nosso caso aqui, que ela onde eu andasse a trabalhar, ela também tinha de ir, porque senão eu ficava coxo, eu não podia muitas vezes não podia andar se ela não tivesse. Por exemplo, se eu for sulfatar, vou com aqueles aparelhos às costas, se não tivesse quem me deitasse a água dentro, eu não podia andar, A vida foi complicada, a nossa vida não foi fácil, a nossa.",
+        "transcript": "não é o nosso caso aqui que ela deu a andar só trabalhar ela também tinha de porque senão eu ficava coxa eu não podia muitas vezes não podia andar senão ela não tivesse por exemplo se eu fosse levantar o que eu aquelas aparelhos às costas Se não tivesse que me deitar sangue água dentro eu não podia andar e a vida foi complicada a nossa vida não foi fácil"
+    },
+    "25H3Bsplit_166.wav": {
+        "ground": "Vida foi muito dura. Não é, nunca é. A vida de A vida não ainda hoje não é fácil para ninguém, mas no tempo que nós arrancámos para para a vida, a nossa vida não foi nada, nada fácil. Muito complicado. E criar os filhos decentemente, como hoje se criam, nós não conseguíanos conseguíamos criá los.",
+        "transcript": "a vida não ainda hoje não é fácil para ninguém mas no tempo que nós arrancamos para a vida a nossa vida não foi nada nada fácil muito complicado e criar os filhos a sentimento como hoje se criam não conseguia eles"
+    },
+    "25H3Bsplit_167.wav": {
+        "ground": "Ou então Pronto. muita coisa havia de ficar por fazer, se tivesse que ser. Eu até suspeito que se fosse hoje a criar os filhos, éramos éranos denunciados, às tantas tínhamos tínhanos aí Não, mas na minha zona eu tenho eu tenho colegas do meu namorado que ajudam os pais efetivamente, eles têm quintas e ainda hoje se vê ao fim de semana eles a andar nos tratores e tudo.",
+        "transcript": "ou então muita coisa ali a ficar por fazer se tivesse crescer e até suspeito que se fosse hoje a criar os filhos eram denunciados Já estás a espinha no dia não mas na minha zona Eu tenho eu tenho colegas do meu namorado que ajudam os pais efetivamente Eles têm quintas e não hoje eu recebi ao fim de semana Os andamos trator"
+    },
+    "25H3Bsplit_173.wav": {
+        "ground": "Nós temos um genro que trabalha aqui com nós, que trabalha aqui com nós entre aspas, que está com nós, agora ele trabalhar aqui pode ajudar alguma coisa, que tem às vezes um vocabulário que aqui a sogra às vezes: Ei, podias ter mais cuidado com a língua. Ei, tendes as filhas ou tens a filha Mas a filha também não usa, nem a mulher usa, nem eu uso.",
+        "transcript": "nós temos o gelo que trabalha aqui com nós trabalha aqui com nós entramos que está com nós agora ele trabalhar aqui pode ajudar alguma coisa que tenha às vezes o um vocabulário para que é só Agra às vezes Ei podias ser mais cuidado com a língua e tem 16 ou tens a filha mas a filha também não usa nem a mulher usa nem"
+    },
+    "26H3Bsplit_12.wav": {
+        "ground": "De me chamarem e de me levarem para lá, não é? Claro. Que bom. Pronto, e foi assim que surgiu a oportunidade, a oportunidade de ir para lá. Aliás, tudo isto tem tem um antecedente. A origem Eu tive uma grande parte da minha família que foi para lá, porque a origem da nossa ida para lá foi um padre da família mais antigo que foi para lá como missionário.",
+        "transcript": "vamos chamar para Laura se tudo isto tem tem um antecedente a origem eu tive uma grande parte da minha família foi para lá porque a origem da nossa saída para lá foi um padre da família mais antigo que foi para lá com miss"
+    },
+    "26H3Bsplit_38.wav": {
+        "ground": "Não é? Varandas chamava nos nós as tais varandas colonias, não é? Da casa Hum, hum. típica Sei. E aquilo depois foi se transformando, não é? Entrou lá depois, pronto, aquilo foi desenvolvendo. E muito em especial com o início do do terrorismo as autoridades daqui viraram se um bocadinho mais para lá. E foi que, pronto, começou a ir mais gente para lá e os.",
+        "transcript": "as Varandas coloniais não é na casa típica e aquilo depois foi se transformando não é entrou lá depois pronto para quem foi desenvolvendo e muito em especial com o início do do terrorismo as autoridades aqui viraram um bocadinho mais para lá e foi que pronto começou a ir mais gente"
+    },
+    "26H3Bsplit_39.wav": {
+        "ground": "Próprios militares que foram para lá começaram se a fixar lá. Hum, hum. E aquilo começou a desenvolver muito. Quer dizer, o terrorismo foi dar um incremento muito grande àquilo, não é? Quer dizer, a guerra por um certo lado Guerra que eu acho Hum, hum. que é um mito. Aquilo não não foi guerra, não é? Eu vivi eu fiz quatro anos de tropa lá, vivi num meio onde havia terrorismo,.",
+        "transcript": "fixar lá e Aquilo começou a desenvolver muito quer dizer o terrorismo foi dar o incremento muito grande àquilo Como é que será a guerra por um sapato guerra que eu acho que eu meto aquilo não foi Guerra né Eu fiz 4 anos para o para lá Vivi no meio da viatura"
+    },
+    "26H3Bsplit_62.wav": {
+        "ground": "Era gente que vinha de das das das terras mais atrasadas e tinha a hipótese de singrar na na tropa Hum, hum. e agarrava se. E pronto, singrava. Só que não tinha era uma formação, De base. digamos, de base para saber ocupar os lugares depois de de comando. E então e havia, às vezes havia um bocado de choque. Porque era, às vezes, na.",
+        "transcript": "era a gente que vinha de Das terras mais atrasadas e tinha a hipótese Cinderela na na tropa e agarrava assim pronto sem grava só que não tinha era uma formação digamos de base para saber ocupar os lugares depois de comando e então e a viagem um cachorro porque às vezes"
+    },
+    "26H3Bsplit_66.wav": {
+        "ground": "Era fácil encontrar trabalho lá? Era fácil, era fácil. E desde que a gente se dedicasse, pronto. E eu e eu precisamente, como aos catorze anos eu foi para o Porto, foi trabalhar, deixei de estudar. Eu depois lá comecei a estudar à noite. Portanto, eu Hum, hum. também paralelamente procurei valorizar me, não é? Portanto, para singrar. Isto.",
+        "transcript": "e eu precisamente como aos 14 anos eu fui para o Porto foi trabalhar deixei de estudar eu depois lá comecei a estudar à noite portanto eu também parallele mente procurei valorizar-me né portanto para CIN"
+    },
+    "26H3Bsplit_97.wav": {
+        "ground": "Hum, hum. É É senhoras e cavalheiros também. Sim. É é os lavores é que é mais as senhoras, não é? A pintura dá mais para os dá mais para senhoras e cavalheiros. Portanto, são as atividades que nós temos aqui na Hum, hum. na associação. E têm muitos sócios? Nós sócios temos cerca de seiscentos seiscentos sócios. Imensos. A frequentar, a frequentar as atividades.",
+        "transcript": "atividades que nós temos aqui na na associação e tem muito sócios Nós somos temos cerca de 600 600 sócios a frequentar a frequentar as ativa"
+    },
+    "26H3Bsplit_107.wav": {
+        "ground": "Ah. O boletim oficial corresponde aqui ao Diário da República. Hum, hum. E, portanto, em setenta e cinco, como viemos para cá, houve a integração dos funcionários públicos. Mas, para isso, a nomeação dela tinha que ter saído lá No boletim. da nova atividade. E como não saiu, não lhe deram a integração aqui. Que chatice. E depois, entretanto, como eu tinha quatro filhos,.",
+        "transcript": "o último oficial corresponde aqui ao Diário da república e portanto tem 75 movemos para cá houve a integração dos funcionários públicos mas preço a nomeação dela ela tinha que ter saí de lá da nova atividade e que não saiu não lhe deram integração aqui e depois entretanto também como eu tinha quatro filhos"
+    },
+    "26H3Bsplit_115.wav": {
+        "ground": "Hum, hum. vai vai doseando vai doseando as coisas. Também sai de vez em quando. Pronto, mas eu quis trazê la para aqui, mas, digamos, não é bem o estilo dela. E elas tem está na sua forma de ser e vive a à à Hum, hum sua maneira, não é? Ela não se interessou por nenhuma atividade daqui? Não. Não Nem pelos lavores? Não, ela podia ter vindo realmente para os lavores, porque ela tem jeito para isso.",
+        "transcript": "vai dizendo as coisas também saio de vez em quando Pronto mas eu quis trazê-la para aqui mas digamos não é bem o estilo dela e ela está na sua forma de ser e vive à sua maneira né Ela não se interessar por nenhuma atividade daqui não não repete não ela podia ter vindo Ramos porque ela tem"
+    },
+    "26H3Bsplit_121.wav": {
+        "ground": "Vieram Hum, hum. assim. Ela também era natural aqui de Braga antes de ir para Angola? Não, ela era do Bombarral. Bombarral? É, do Bombarral, é. Ela é precisamente de uma zona diferente da minha. Hum, hum. É. Mas então porque é que optaram vir para Braga e não para o Bombarral depois? Eu inicialmente Portanto, eu estive aqui um ano desempregado quando vim de Angola. Depois, inscrevi me para ser integrado como bancário. Nós.",
+        "transcript": "vieram assim ela tem era natural aqui de Braga mas então porque é que optaram de ir para Braga e não para o Bombarral e o inicialmente pronto eu estive aqui Human desempregado quando ainda Angola depois inscrevi-me para ser integrado como bancário"
+    },
+    "26H3Bsplit_133.wav": {
+        "ground": "Hum, hum. E depois de acordo com os meus irmãos e com os meus pais, que o meu disse que, pronto, não queria arranjar conflito com os outros filhos, dar me a mim o terreno, pronto, e arranjar conflito com o outros filhos. Hum, hum. Mas isso foi conversado com os meus irmãos. Perdão. E, portanto, o meu pai deu me esse bocado de terreno. Eu fiz o projetozinho.",
+        "transcript": "e depois de acordo com os meus irmãos e com os meus pais com meu pai disse que pronto Não queria arranjar conflito com os outros filhos dava-me o terreno pronto e arranja Conflito dos outros filhos mas isso foi conversado com os meus irmãos Perdão e portanto o meu pai deu uma socado de terreno eu fiz o projeto"
+    },
+    "26H3Bsplit_143.wav": {
+        "ground": "É uma escola também, não é? É uma escola, é uma escola. Isto segundo o meu entender, não é? Claro. Isto segundo o meu entender. Mas acha que procurou então educar os seus filhos da mesma forma que os seus pais o educaram a si? Sim. Eu consegui educar os meus filhos da mesma forma. E é curioso que eu tive alguns conflitos com a minha com a minha com a minha mulher.",
+        "transcript": "Sim eu consegui do Carlos meus filhos da mesma forma e é curioso que eu tive alguns conflitos com a minha com a minha com a"
+    },
+    "26H3Bsplit_146.wav": {
+        "ground": "Ora eu Claro. não tinha condições para lhe dar roupa de marca. Mas eles preferiam não ter roupa ou quando tinham alguma tinham que ter de marca. Ora, eu vestia me eu normalmente ia aos saldos, e e eu nun nunca pareci mal Hum, hum. no no ambiente onde trabalhei. E vestia me de saldos. Dos saldos.",
+        "transcript": "Olha eu não tinha condições para lhe dar roupa de marca mas eles Preferia não ter roupa ou quando tinha alguma tinham que teve marca Ora eu vestir-me eu normalmente e aos saldos e diga que eu não nunca aparecia mal no ambiente onde trabalhei e vestir-me de saldos dos"
+    },
+    "26H3Bsplit_148.wav": {
+        "ground": "Hum, hum. E a minha mulher às vezes puxava um bocadinho para o lado deles. E e às vezes chegava a haver um bocadinho de conflito em casa por causa, por causa disso. Hum, hum. Pronto, era um conflito que se ultrapassava, mas havia ali um senão sempre que Claro. Pronto, que porque haviam formas de ver diferentes. Porque eu precisamente procurava educá los da forma que tinha sido educado.",
+        "transcript": "e a minha mulher às vezes puxava um bocadinho para o lado deles e ganhar vezes chegava a ver um bocadinho de conflito em casa por causa por causa disso É pronto era um conflito que se ultrapassava mas havia ali uma senão sempre que claro pronto que Porque haviam formas de ver diferentes porque eu precisamente procurar veio do Caos da forma que tinha sido"
+    },
+    "26H3Bsplit_157.wav": {
+        "ground": "Hum, hum. de três anos, porque ele fazia fazia ia fazendo uma cadeira cada ano, não passava daquilo, não é? Portanto, ele ele não Ele estava em que curso? passou do Ele ele estava na É não é EP. É é da coisa do fun É ligado à economia, mas para o funcionalismo público.",
+        "transcript": "funcionalismo"
+    },
+    "26H3Bsplit_158.wav": {
+        "ground": "Hum, hum. Era Não é Economia. Não me estou a lembrar do nome. Eu sei qual é o curso, mas agora não não me estou a Admistração É é, portanto, é é ligado Pública. Administração Pública, exato. É isso. Era Administração Pública. Portanto ele não passou do se não chegou a concluir o segundo ano. Hum, hum. Depois começou a trabalhar aí com uns arquitetos na construção civil, a fazer projetos, e assim, e com os engenheiros.",
+        "transcript": "depois começou a trabalhar aí com os arquitetos na construção civil a fazer projetos e assim e com os engen"
+    },
+    "26H3Bsplit_159.wav": {
+        "ground": "E eles aconselharam no a ele ir fazer um curso profissional ali à Maia. Que há uma escola profissional que é Hum, hum. coordenada pelos pelos empreiteiros. Era para ir para topógrafo, depois não houve oportunidade para ir para topógrafo, depois foi para para o curso de condutor de obras. Foi um curso que gostou, singrou e hoje é um profissional.",
+        "transcript": "E eles aconselharam não ele ia fazer um curso profissional e a Maia que é uma escola profissional que é coordenada por os empreiteiros era para ir para topógrafo depois de uma boa personagem depois foi para o curso de condutor de obras foi o curso que gostou Síndrome e hoje é um profission"
+    },
+    "26H3Bsplit_170.wav": {
+        "ground": "A cidade como era pequena a parte rural, digamos, Hum, hum. sobrepunha se um bocadinho à parte citadina, Hum, hum. não é? Portanto, e depois, digamos, a a parte rural acabava por ter também um bocadinho de influência na parte citadina, não é? Porque, as as próprias pessoas que viviam na cidade uma grande parte delas eram originárias da parte.",
+        "transcript": "a cidade não era pequena A parte rural digamos sobre punha-se um bocadinho à parte citadina não é portanto e depois digamos a parte do rural Acabava por tudo mesmo quando influência na parte de cima né porque as próprias pessoas que viviam na cidade de uma grande parte delas eram originárias da parte"
+    },
+    "27H3Bsplit_12.wav": {
+        "ground": "Ao ser adquirido, a própria dona ofereceu dez por cento do valor, abateu dez por cento do valor de da venda desse desse terreno para ajudar nas obras. A própria dona. E e, no no que diz respeito à ao tanque público,.",
+        "transcript": "posso ser adquirido a propria dona ofereceu 10% do valor o a bateu a 10% do valor de da venda desse desse terreno para ajudar nas obras para o Pedro homem no que devo respeitam a tanque"
+    },
+    "27H3Bsplit_20.wav": {
+        "ground": "Meter mais um mais uma pessoa, porque é meu amigo, porque é meu parente, porque isto, por aquilo. É quase como no no governo, não é? É há sempre aquele apadrinhamento de dar uma ajudinha a um que não tem trabalho, mas mas ta aí está estão estão se a prejudicar o Estado, não é?",
+        "transcript": "não tem lá mais uma mais uma pessoa porque é meu amigo porque é Meu parente porque isto por aquilo É quase como no governo não é Há sempre aquela padrinho a mente de darão uma ajudinha a uma que não tenho trabalho mas aí tá tão tão a ser prejudicaram o"
+    },
+    "27H3Bsplit_24.wav": {
+        "ground": "Depois estas urbanizações que se fizeram, e o crescimento, não é? implica que depois há sempre um suborno disto ou daquilo, há E, pronto, é os interesses particulares. É que que prevalecem sobre o resto. Há muita gente que diz que depois o presidente ia dar mais atenção a uma do que a outra.",
+        "transcript": "esta as urbanizações que se fizeram o crescimento não é implica que depois há sempre um suborno disto ou daquilo há e eles interesse particulares que prevalecem sobre há muita gente que diz que depois o presidente é da nossa atenção Uma"
+    },
+    "27H3Bsplit_31.wav": {
+        "ground": "Se eu desde que me conheço sempre houve crise. Desde menino que eu trabalho. Oito Aos oito anos, o meu pai trabalhava aqui no Bom Jesus. Era cozinheiro e o que ganhava não chegava para alimentar a família.",
+        "transcript": "eu desde que me conheces sempre eu Cristo desde menino que eu trabalho oito ou às 8:00 o meu pai trabalhava aqui no Bom Jesus era cozinheiro e o que ganhava não chegava para alimentar a"
+    },
+    "27H3Bsplit_33.wav": {
+        "ground": "Já não tinhamos direito a nada, a subsídios nenhuns. Portanto, eu, nas minhas férias de escola, ia trabalhar para os hóteis, como manderete, se assim de pode chamar. Estava na na portaria, não é? Ia fazer os recadinhos aos hóspedes,.",
+        "transcript": "já não tínhamos direito a nada eu subsídio de reuniões Portanto eu nas minhas férias de escola e a trabalhar para os hotéis como lembrete aos"
+    },
+    "27H3Bsplit_42.wav": {
+        "ground": "Dois ou três meses depois começei a andar de autocarro. Já vinha um vencimentozinho. Comecei por ganhar cento e cinquenta escudos, No no Porque eu antes trabalhei numa farmácia, Hum, hum. três, mas aí só foi três meses. Portanto, aí três mezinhos, cento e cinquenta, depois o outro ofereceu me.",
+        "transcript": "ou 3 meses depois comecei a andar de autocarro já tinha um vencimento aí comecei por ganhar 150 escudos no no porque eu antes trabalhei numa numa farmácia Mas isso só foi 3 meses portanto aí três moinhos 150 depois o outro off"
+    },
+    "27H3Bsplit_55.wav": {
+        "ground": "E sem prejudicar os trabalhadores e pouparem na na nas despesas do Estado. Por exemplo, acabarem com renovação de frotas e e pegarem nos nas veículos que apren de alta cilindrada que apreendem a tranficantes e não sei que mais,.",
+        "transcript": "e sem prejudicar os trabalhadores e Poupar em nos nas despesas do estado por exemplo Acabarem com renovação de frotas e pegarem nos nas veículos que é da alta a cilindrada que é prémio traficantes e não sei"
+    },
+    "27H3Bsplit_56.wav": {
+        "ground": "Criarem leis para poderem usufruir dessas viaturas para o Estado, para serviços de Estado. em vez de estarem a renovar frotas e e e quem diz isso outras despesas. Outras formas exageradas que eles têm. E as reformas também, porque porque eu tra.",
+        "transcript": "criar em inglês para poder usufruir dessas viaturas para o estado para serviços do estado em viagem estarem a renovar frotas e e quem diz isso outras suspensas formas is a zeradas que eles têm e reformas também porque porque ele"
+    },
+    "27H3Bsplit_84.wav": {
+        "ground": "Acha que hoje em dia a educação está mais liberal? Eles deixam os filhos mais ao abandono, como se costuma dizer. Eu acho que sim. O que se diz é que os paizinhos até dão dão lhes dinheiro para os para os para os Não, é que hoje em dia crianças com doze anos já vão à discoteca, o que é esquisito. Sim, olhe, o o eu também nesse aspeto.",
+        "transcript": "Eu acho que sim o que se diz é que os paizinhos até dão de olhos dinheiro para os para os para os não é coisa um dia crianças com 12 anos levam à discoteca ou queres esquisito Olha eu também nessa"
+    },
+    "27H3Bsplit_95.wav": {
+        "ground": "Uma vez diz que foi presseguida perseguida por um indivíduo, entrou dentro de um café e arranjou logo dois ou três para para para Para ir com ela. protegê la.. Pois, mas, na altura, eles eles pas passavam por esse por essas peripécias, brincavam na rua. Sim. E hoje em dia acho que as crianças passam é o tempo à frente do computador É, computador. Não É, é.",
+        "transcript": "computador"
+    },
+    "27H3Bsplit_101.wav": {
+        "ground": "E gosta muito dos animais ou foi por opção sua ou foi por opção da sua mulher? Ó, foi por opção dela, mas eu eu toda a minha vida tive animais, lá quando estava com os meus pais. Tive tivemos sempre cães, gatos, galinhas, porcos, cabras, Já estava habituado. era tudo. E tem alguma história engraçada com algum deles que possa contar?",
+        "transcript": "e gosta muito dos animais ou foi profissão sua foi para Opção na sua mulher Tondela toda a minha vida com os meus pais tive Se tivermos sempre cães gatos galinhas porcos cabras é tudo e tem alguma história engraçada com algum deles que possa"
+    },
+    "27H3Bsplit_111.wav": {
+        "ground": "Daqui de nossa casa, ia fugia para um vizinho que tinha galinhas. Nós, naquela altura, não tinhamos, não é? Ele ia para as galinhas do vizinho e só vinha ao final do dia, dormia aqui dentro da garagem como se fosse um cão de Como se fosse um cão ou isso. de estimação. Mudando agora um bocado de assunto. O que é que acha de.",
+        "transcript": "daqui da nossa casa eu podia Pon vizinho que tinha galinhas não fica Elton não tínhamos não é ele ia para as galinhas do vizinho e só vim ao final do dia cocó dormir aqui dentro da garagem como se fosse como fazer um cão de estimação mudando agora um bocado de assunto o que é que acha"
+    },
+    "27H3Bsplit_119.wav": {
+        "ground": "Pois, pois. Renovavam esse que era muito preferível, não é? E é um bom espaço para fazer um estádio porque lá à volta é parque há parques, Hum. há tudo. Era um espaço que se devia ter Eu acho que há tudo um jogo de interesses em em em apostar na construção, não é? Porque há todo depois um ali uma roda de de gente por trás.",
+        "transcript": "renováveis era muito preferida é um bom espaço que lá à volta era um espaço que se devia ter um jogo de interesses em em em apostar na construção não é porque há tudo depois uma ali uma roda de 200 por"
+    },
+    "27H3Bsplit_122.wav": {
+        "ground": "De mais nada. É, é. É isto. Pronto. É uma uma Como hei de dizer é um círculo, não é? de de interesses interesses. Acha que o futebol Anda à volta disso. funciona um pouco como a política? Eu ach acho que sim. acho que sim, mas não não não sou muito informado.",
+        "transcript": "é isto pronto é uma uma umas era um círculo não é de interesses acha que o futebol funciona um pouco má política mas não não são muito informa"
+    },
+    "27H3Bsplit_123.wav": {
+        "ground": "Eu nunca liguei Nunca gosta de futebol. ao futebol Eu, ao futebol ver um futebol ao vivo acho que foi duas vezes na minha vida. Que é muito caro. Parece que não ir ao futebol é muito caro, hoje em dia. Não é que Não é a questão Não é questão Não é questão de ser caro, é que, pronto, nós tivemos que dar sempre prioridade ao trabalho.",
+        "transcript": "eu nunca liguei ao futebol ele ao futebol ver um futebol ao vivo acho que foi duas vezes na minha vida é muito caro não liga o futebol é muito para hoje em dia não é questão de nós tivemos que dar sempre prioridade ao"
+    },
+    "27H3Bsplit_125.wav": {
+        "ground": "Incomodar ninguém. Pedir nada a ninguém. Porque se temos cem, não podemos gastar mais do que esse. Pois. E também não acha que a E crise é um bocado E por causa das pessoas? Isso. Porque eu não sei. Eu acho que as pessoas tem cem Exatamente. Exatamente. I I Iludiram se. e tem que gastar cem. As pessoas iludem se que, se o vizinho tem uma coisa, eu também tenho que ter. E.",
+        "transcript": "porque se temos 100 podemos gastar mais Esquece e também não acha que a crise é um bocado por causa das pessoas porque também eu acho que as pessoas têm senha tem que cantar sem música Sou o vizinho tem uma coisa eu também tenho que ter"
+    },
+    "27H3Bsplit_151.wav": {
+        "ground": "Arrisquei, inclusive, porque, na altura, ele disse me: Já fizeste alguma radiografia, já foste ao médico? Não, não fiz nada disso. Ó pá, é que eu não vou te fazer uma massagem, isso pode ser um Posso pôr te aí numa cadeira de rodas. Sabe o que é que eu lhe disse? Eu teria os meus vinte anos, foi antes de ir para a tropa. Faça isso à minha responsabilidade.",
+        "transcript": "arrisquei inclusiva porque na altura ele disse-me já fizeste algum radiografias Já foste ao médico não fiz nada disso Ó pá É que eu não vou te fazer uma massagem pode ser posso pôr numa cadeira de rodas sabes o que é que eu lhe disse que eu queria os meus 20 anos foi antes de padrão faça isso à minha respon"
+    },
+    "27H3Bsplit_152.wav": {
+        "ground": "Ele: Está bem, eu faço. Era o Mário, massagista do Sporting de Braga. São riscos. Hum? Preferiu. E eu É que pus me bom. e não faltei um dia ao serviço. Agora por ter falado da tropa, como é que foi a tropa para si? Olhe, no tempo, havia guerra, não é?",
+        "transcript": "eu também eu faço era o Mário massagista do Sporting de Braga e não faltei um dia é esse agora por ter falado da tropa como é que foi a tropa para se tempo havia"
+    },
+    "27H3Bsplit_172.wav": {
+        "ground": "Hum, hum. OK. Só, às vezes, por telefone, mas não E na televisão. Eu acho que têm é é aquela a superioridade de de eles é que sabem, eles é que são. E o que eles disserem não se pode, não não não há aquele que contrariar. OK, então. Só só nesse aspeto. OK, muito obrigada. Boa tarde.",
+        "transcript": "superioridade de de eles é que sabem Eles é que são e o que eles disserem não se pode não não aquele que contrariar Ok então Ok muito obrigada boa"
+    },
+    "28H3Csplit_0.wav": {
+        "ground": "Pronto, senhor Jerónimo, diga me lá então há quanto tempo é que vive aqui? Desde que casou. Desde que casei. Desde portanto, deixe me ver. Sessenta Apanhou me de surpresa. Mas assim.",
+        "transcript": "60 tenha uma surpresa Mas"
+    },
+    "28H3Csplit_11.wav": {
+        "ground": "É. Pois. Mas se mas se que tivesse que escolher outra cidade para morar, qual seria? Eu continuaria, se calhar, a escolher Braga. É? Sim. Gosto É Braga que muito de Braga. Gosto muito de Braga. Também gosto, acho pacífico também.",
+        "transcript": "Pois mas que tivesse que escolher outra cidade para morar qual seria eu continuaria Se calhar a escolher Braga gosto muito de Braga Gosto muito também"
+    },
+    "28H3Csplit_13.wav": {
+        "ground": "E vou não vou propriamente para ver a minha terra, vou para contactar a minha família. Sim. Pois, tem lá fa É. E depois também tenho uns clientes que visito, não é? Mas essencialmente para para visitar a família. Hum, hum. Tenho de ir, já não tenho pais, mas tenho de ir todas as semanas àquela casa onde os meus pais viviam.",
+        "transcript": "e vou não vou propriamente para ver a minha terra vou para contactar a minha família mas essencialmente para visitar a família tenho dinheiro já não tenho pais mas tenho o dia de todas as semanas àquela casa dos meus pais"
+    },
+    "28H3Csplit_33.wav": {
+        "ground": "Ela chegou a vir à minha terra. Chegou a vir a com não sei com quem. Chegou a ir à minha casa. A sério? É. Porque eu nunca mais lá fui nem nem nunca mais liguei. Depois que cá cheguei lá Pronto. É nós precisávamos era madrinhas de guerra e muitas miúdas.",
+        "transcript": "Ela chegou a vir a minha terra chover com não sei com quem chover a minha casa a sério nunca mais ninguém depois já cheguei lá pronto vamos ver as madrinhas de guerra entre as"
+    },
+    "28H3Csplit_56.wav": {
+        "ground": "Lá fui fui a Ferreiros onde agora é a Confiauto. Agora por coicidência trabalha lá um filho meu no mesmo Na no mesmo recinto, já não é o prédio, já não é igual, mas é o mesmo recinto. É lá vendedor de automóveis. E O senhor ter lá com o patrão? E eu fui lá ter com o patrão.",
+        "transcript": "Qual foi a Ferreiros onde agora é Confiauto frequência trabalha lá um fim do modelo no mesmo no mesmo recinto já não é o prédio já não é igual mas é o mesmo recente ela a Vendedor de automóveis e só foi ter colocado"
+    },
+    "28H3Csplit_67.wav": {
+        "ground": "Acabei por fazer o contrato na rua do Bolhão no Porto e Que era onde eles tinham a sede. E e fui para lá. São os tais cinco anos? Cinco anos. Inclusivamente, tenho um filho natural de lá. Mas aí aí já tinha filhos? Tinha um. Quando fui para lá já tinha um.",
+        "transcript": "acabei por fazer o contrato na Rua do bolhão No Porto e já não eles tinham acedi e fui para lá se tu estás de 5 anos 5 anos tem o filho natural Olá Mas aí já tinha filhos tinha uma quando fui para lá"
+    },
+    "28H3Csplit_76.wav": {
+        "ground": "Quem não tivesse amigos vivia isolado. Pois. Nós praticamente todos os fins de semana fazíamos um piquenique. Reuniam se. Não. Reuníamos com frequência. Sim, sim. Aquilo as pessoas lá não não precisavam de se conhecer muito. Bastava Por exemplo, há uma uma cantina do mato que é uma um tasco como há por aqui. Sim. Passava um forasteiro qualquer que nem conhecia aquilo,.",
+        "transcript": "quem não tivesse amigos vivem gelado nós praticamente todos os fim de semana fazemos um piquenique com frequência das pessoas muito mas não há uma uma cantina do mate que é uma um tasco com água aqui passaram o festeiro qualquer que nem conhecia"
+    },
+    "28H3Csplit_87.wav": {
+        "ground": "Aquilo andava tudo à solta. Não não havia capoeiros, não havia nada. Aquilo era tudo Mas vocês todos viviam assim bem lá? Sim, sim. Vivíamos todos mais ou menos bem. E assim a nível de segurança? Nunca tivemos problema, na zona onde eu estava nunca tivemos problema nenhum. Cheguei a ir a Agora o nosso problema principal ali era a saúde.",
+        "transcript": ""
+    },
+    "28H3Csplit_92.wav": {
+        "ground": "Que eu lá estive em dois patrões. Estive no primeiro e era de seis em seis anos é que tínhamos a chamada graciosa. Era eram seis meses de férias. Ai que bom. E depois depois tivemos Portanto, eram férias acumuladas, ficava lá tudo dentro. Mas depois eu nesse patrão estive estive lá um ano e tal,.",
+        "transcript": "chamada Graciosa que era eram 6 meses de férias e depois depois tivemos verdadeiro férias acumuladas Ficava tudo dentro mas depois eu nesse patrão Estive estive lá um ano"
+    },
+    "28H3Csplit_94.wav": {
+        "ground": "Hum, hum. Entretanto um dia estava a fazer um pagamento, chegou me lá um tal de Morenguina, que eles lá os pretos põe apelidos a toda a gente. E o Morenguina era o mecânico, o mecânico de outra plantação fazer me o convite se eu queria se eu queria ir para caixa de lá da empresa porque o caixa de lá tinha saído. E eu.",
+        "transcript": "mecânico ou mecânica outra Plantação fazer-me convites Eu queria ser eu queria ir para caixa de nada da empresa porque o caixa de lá tinha saída e eu"
+    },
+    "28H3Csplit_107.wav": {
+        "ground": "Exato. porque como no ano seguinte eu ganhava portanto, tinha direito às férias estava a ver se as aproveitava. Exato. E para vir para cá. Para vir para cá. E o Comprou as passagens? Com comprei as passagens para o para os três.",
+        "transcript": "Como anular o seguinte Eu apanhava a portanto tinha direito às férias eu estava a ver se as aproveitada e para vir para cá para vir para cá o Compras as passagens comprei as passagens para os"
+    },
+    "28H3Csplit_131.wav": {
+        "ground": "Se estivéssemos ali com fados e guitarradas lamentavamo nos um bocado, mas daí por um bocado começava outra vez. A sério? É. Quando nós estávamos ali Amanhã amanhã toca nos a nós. Vamos gozando enquanto podemos. É. A vida é assim. Estávamos ali éramos carne para canhão. Nós fomos, e não sabíamos se vínhamos. E, pronto. Olha, felizmente tive a sorte de vir eu e outros.",
+        "transcript": "eu"
+    },
+    "28H3Csplit_141.wav": {
+        "ground": "Ah. É. Portanto, o que nós chamamos mesmo em seguros, Ah. assoalhadas são são os quartos e a sala. Ah. É. Tem cozinha e a casa de banho. É diferente. Pois, exatamente. Depois tem tem cozinha e tem casa de banho só que nessa casa a casa de banho a gente tinha de apanhar um bocado de ar fresco.",
+        "transcript": "é portanto o que Nós chamamos mesmo em seguros Açoriana são os quartos e a sala da cozinha à casa de banho exatamente em cozinha e da casa de banho só que nessa casa a casa de banho a gente tinha de apanhar um bocado"
+    },
+    "28H3Csplit_143.wav": {
+        "ground": "Sim. Eu sou Então, tinham que dormir Nós nós nós não fomos cinco, nós fomos nove. Ah, agora é que estão cinco. Mas morreram. Não, mo morreram quatro em pequeninos. Ah. É. Porque nesse tempo era era Em pequeninos bebés mesmo? Bebés já não eram bem bebés. Crianças. Um mo morreu com meio ano foi a mais pequena.",
+        "transcript": "Sim eu sou bonito nós nós nós nós nós nós não fogo 5 Nós somos 9 pequeninos nesse tempo era pequeninos bebés mesmo os bebés já não eram bem mais pequena"
+    },
+    "28H3Csplit_144.wav": {
+        "ground": "De resto, os outros morreram ali na ordem dos três Ai que horror. três anitos, quatro. Sabe que havia o hábito lá em muitas pessoas nesse tempo de antes de ir ao médico iam à bruxa. É. E.",
+        "transcript": "o resto do Euromilhões ali na ordem dos três três amigos 4 sabia sabia que havia o hábito lá é muitas pessoas Nesse tempo de antes de ir ao médico e uma bruxa"
+    },
+    "28H3Csplit_151.wav": {
+        "ground": "Depois vi chegar a minha a minha avó, vi chegar uma minha tia e não sei quê e pronto não sabia o que é que estava a passar. E aquela gente estava ali para se despedir de mim praticamente. E essa minha tia trazia me um cartucho assim grande e digo assim: O que é isso? E ela: É um rato.",
+        "transcript": "depois de vir chegar a minha a minha avó deixar-me a minha tia não sei que não sabia o que é que estava a passar e aquela gente estava ali para se despedir de mim praticamente e a se a minha tia trazer um cartucho 5 grande e eu se o que é isso ela é um Rat"
+    },
+    "28H3Csplit_155.wav": {
+        "ground": "Foi, para mim, foi o vinagre Não foi o feijão, foi o vinagre que me salvou. Está a ver? Está a ver? E cá ando, olhe. O médico a dizer já que Disse: Levem no que ele não vos deve chegar a casa. Nem nem nem medicado vim. Ai, mas já viu as pessoas mas as pessoas Essa coisa de ele dizer do ser enterrado em Guimarães e não sei quê.",
+        "transcript": "foi para mim foi o vinagre e o não foi o feijão foi o vinagre no Salvador é uma médica dizia Já que estás a casa Helena dedicado bem já vi umas as pessoas essa coisa dele dizer de ser enterrado em Guimarães"
+    },
+    "28H3Csplit_156.wav": {
+        "ground": "Era. Falar assim já a dá lo por morto. Era assim era. Era exatamente. Não havia Lembro me de uma vez ir a um médico também e lembro me de ele de ele estar Tinha aqui criei aqui uma Não sei se está a ver aqui uma manchazita? Cri portanto, criei ali uma.",
+        "transcript": "queria Portanto queria ali uma"
+    },
+    "29H3Csplit_1.wav": {
+        "ground": "Por partilhar convosco. Queria começar por perguntar então há quanto tempo é que vive aqui? Em Fraião? Sim. Há vinte e dois anos. Hum, hum. E gosta de viver aqui? Gosto. O que é que acha que há de mais positivo nesta freguesia? Pá, quer dizer, é um bocadinho difícil para mim, portanto, porque eu vamos partir temos um pressuposto.",
+        "transcript": "22 anos e gostas para mim"
+    },
+    "29H3Csplit_25.wav": {
+        "ground": "Um um centro de convívio, um centro de convívio. Que não se encontra em nenhum ponto do cen dos dos centros das cidade. Talvez, se houvesse mais transportes à noite os jovens se estivessem mais dispostos a vir para o centro. Quer dizer, mas hoje, a Isabel sabe melhor até do que eu que.",
+        "transcript": "um centro de convívio no centro convívio que não se encontra em nenhum ponto do centro dos centros da cidade Talvez se houvesse mais transportes à noite os jovens se tivesse mais disposto e para o centro quer dizer as duas a Isabel sabe melhor até que eu de que"
+    },
+    "29H3Csplit_37.wav": {
+        "ground": "Grandes, enormes, quase do daquele de aparelho. Pronto, uns maiores, mais pequenos, tal,. E hoje vemos a tecnologia foi é tão revolucionária, não é? Foi uma revolução tão grande em tecnologia que hoje pequenos coisas, relógios, isto, aquilo. Hum, hum. A revolução, portanto, agora o eu não.",
+        "transcript": "a revolução agora"
+    },
+    "29H3Csplit_109.wav": {
+        "ground": "O senhor pode explicar me, então, o que é que é Rotary? Olhe, Rotary é um é um clube de serviços. Hum, hum. Dirigido a profissionais líderes. Quer dizer, só pode só deve estar em Rotary e tal só deve e o Rotary não se entra por adesão. Hum, hum. O Rotary entra se por convite.",
+        "transcript": "O senhor pode explicar-me Então o que é que é Rotary Olha Water é um clube de serviços dirigido a profissionais líderes Só pode só deve estar em rota e dá só deve e o halter no centro por adesão o halter entra-se por"
+    },
+    "29H3Csplit_118.wav": {
+        "ground": "Ideais. Projetos. E, como sabe, o grande projeto de neste momento, é que não foi na altura do fundador, porque não não não foi isso, que só mais tarde é que apareceu. Que foi o combate à poliomielite Hum, hum. na grande parte de África, não é? Sim.",
+        "transcript": "Quiaios projetos a começar o grande projeto da neste momento é que não foi na altura do fundador Porque não não é não foi isso que sou mais tarde que apareceu que foi o combate à Paulinha Elite uma grande parte da África né"
+    },
+    "29H3Csplit_150.wav": {
+        "ground": "Exato. Devia ser cinquenta cinquenta. Cinquenta cinquenta. Acho que devia ser, quer dizer. Não é? É, mas a verdade é que, ainda assim, os homens, eu acho que em alguns aspetos têm de trabalhar muito menos que as mulheres Mas eu penso eu eu não sei se também será só culpa dos homens, será também culpa de algumas mulheres. Hum. Como assim? De que não se saberem impor. Hum, hum.",
+        "transcript": ""
+    },
+    "29H3Csplit_153.wav": {
+        "ground": "Hum, hum. Mudando um bocadinho de assunto. Acha que em Lisboa se fala da mesma forma que em Braga? Do que o mesmo dialeto? Sim, a forma de falar. Não é um pouco diferente, um pouco diferente. Eu conheço bem Lisboa, também. Hum, hum. Já lá trabalhei. E há uma pronúncia então, a nossa pronúncia do norte é muito bem é muito diferente da.",
+        "transcript": "levanta um bocadinho de assunto acha que em Lisboa se fala da mesma forma que em Braga o mesmo dia light é uma pronúncia pronuncia do norte é muito bem Tem muito diferente"
+    },
+    "29H3Csplit_167.wav": {
+        "ground": "Hum, hum. Isso é que é engajar. Quer dizer Isto é a mesma coisa o engajar tem que ser entre duas pessoas, o mínimo. Hum, hum. Não é? Não posso só eu, sozinho, engajar. Hum, hum. Tem que ser, não é? Em inglês, engage pode ser só uma pessoa. Pode? Pode. Aquela Pronto, quer dizer pessoa fazer parte de alguma coisa. Neste caso, viver aquilo.",
+        "transcript": ""
+    },
+    "30H3Csplit_1.wav": {
+        "ground": "Olhe, há muitas coisas há muitas coisas. Desde o aspeto cultural, o aspeto desportivo que não podia falhar, não é? Pois eu sei que gosta É essencialmente isso. E os maiores problemas.",
+        "transcript": "Olha vamos as coisas há muitas coisas desde o aspecto cultural o aspecto Desportivo de que me podia falhar Não é mas eu sei que gostaste e os maiores problema"
+    },
+    "30H3Csplit_35.wav": {
+        "ground": "Que não é perto. Não é propriamente perto, não. E gostou gostou de alguma dessas terras? Qual foi a que gostou mais? Olhe, a gente não não tinha muito tempo para para conhecer porque a instrução era pronto no tempo da instrução tínhamos o o tempo livre, mas estávamos sempre à espera do fim de semana que era.",
+        "transcript": "Olha a gente não tinha muito tempo para para conhecer porque a instrução é no tempo de instrução o trampolim mas estamos sempre à espera do fim de semana"
+    },
+    "30H3Csplit_41.wav": {
+        "ground": "É bom, não é? Vocês fazerem Olhe, isto é assim, é bom é bom fazer se fazer se esses encontros só que eu só vim vim a saber que se faziam esses encontros trinta anos depois. A sério? Imagine. Trinta anos que se fizeram encontros sem eu saber porque, isto é assim, a unidade Eu fui daqui.",
+        "transcript": "vinha saber que se faziam essas encontros 30 anos depois Imagino 30 anos que se fizeram enquanto sem eu saber porque já assim a unidade eu fui daqui"
+    },
+    "30H3Csplit_51.wav": {
+        "ground": "Está a ver? Pois. Eu já tinha vindo da guerra em setenta e um, os convívios começaram se a fazer em setenta e cinco pela primeira vez. Portanto, há há trinta e três anos mais ou menos que eu não tinha contactos nenhuns com ninguém. Eu fui à aventura sem saber quem é que ia encontrar, quem é que ia lá estar, se ia conhecer alguém, se não ia.",
+        "transcript": "eu já tinha vindo da guerra em 71 os convives começaram-se a fazerem 75 pela primeira vez há 33 anos mais ou menos que eu não tinha contacto nenhumas com ninguém e eu fui à aventura sem saber quem é que encontrar quem é que ela está-se a conhecer alguém se no"
+    },
+    "30H3Csplit_62.wav": {
+        "ground": "Tinha estado comigo na na guerra, também de de cá. Que só eu só sabia que ele se chamava Ferreira. Era o nome na altura, isto é há trinta e cinco anos. Quantos Ferreiras não devia haver para aí, não? Mas Ferreira da Golegã que estivessem na tropa naquela altura Na tropa. E por acaso perguntei logo a um a um indivíduo que era de lá.",
+        "transcript": "tinha estado comigo na guerra que a mãe de cá que sobe Eu só sabia que ele chamava Ferreira na autoestrada 35 anos quantos 5 € para aí às porreira da Golegã que tivesse na tropa naquela altura e por acaso perguntei logo Um indivíduo que era de lá"
+    },
+    "30H3Csplit_80.wav": {
+        "ground": "Accionou uma mina antipessoal, pronto, prontos foi a perna dele e a do condutor. É assim. Mas e mas e o senhor o senhor mesmo já te já sofreu alguma experiência assim? Não. Eu eu nunca tive Escaramuças sim, isso isso várias. Isso foi foi várias vezes, troca de tiros e.",
+        "transcript": "acionar uma não tipo pessoal prontos foi a perna Adélia do condutor já sofreu algum experiência buscar a moça Sim isso várias vezes foi várias vezes troca de tiros e"
+    },
+    "30H3Csplit_87.wav": {
+        "ground": "Se calhar não. Como é como é que diria que os seus pais o educaram? Eu eu Eles eram muito rigídos consigo? Eram muito rigídos consigo na altura? Não. Não? Não não. Não não não tenho muito muita queixa desse desse coisa. Eu acho que que.",
+        "transcript": "se calhar não como é que poderia que os seus pais a educaram Eles era muito rígidos para você era muito rígidos consigo na altura não não não não tenho muito muita caixa dessa dessa coisa eu acho que"
+    },
+    "30H3Csplit_97.wav": {
+        "ground": "Coisa. Havia os tais bailaricozitos que a gente organizava e havia um cineminha de vez em quando. Para mim, havia mais vezes, não é? Para para para as Pois. Ah, eu ia lhe perguntar isso. Então, sente que as suas irmãs foram mais presas do que Ah. Sim sim sim sim. Sem dúvida sem dúvida. Os seus pais se calhar eram assim consigo porque era rapaz, não é? Mas Pois. Pois. Embora embora não não gostassem muito também, não é?",
+        "transcript": ""
+    },
+    "30H3Csplit_99.wav": {
+        "ground": "É. Eu nasci ali, morei ali até Portanto, o transporte era se tinha de vir às onze subia se a As suas perninhas. subia subia Infelizmente, hoje já não já não conseguia fazer uma das quatro viagens que eu fazia diariamente. Acredito.",
+        "transcript": "eu nasci ali Moreia ali até portanto o transporte sabia perceber infelizmente hoje já não já não conseguia fazer uma das quatro viagens que eu fazia diariamente"
+    },
+    "30H3Csplit_110.wav": {
+        "ground": "Nem sei os números nem nada. Ao sábado de manhã vou comprar o jornal vou conferir vou conferir o os boletins que que tenho da terça e e do sábado Sim. porque de terça e de sexta. Confiro no sábado e jogo logo para a semana seguinte. Graças a Deus sai me sempre nada.",
+        "transcript": "nem sei os números nem nada É ao sábado de manhã vou comprar o jornal vou conferir Vou conferir o os botins que tenho da testa e do sábado testa e de sexta confirmo no sábado e já um colo para a semana seguinte graças a Deus sai-me sempre"
+    },
+    "30H3Csplit_112.wav": {
+        "ground": "Qual é a sua parte favorita, a sua divisão favorita da casa? É a sala de estar onde tenho a televisão. É a sala. Para ver os joguinhos de futebol, não é? Claro. E então? Olhe, gostava muito de ter uma casa onde pudesse fazer um pombal, não é? Punha A sério? É. Onde pusesse fazer um um pombal com as devidas condições para.",
+        "transcript": "Qual é a sua parte favorita a sua divisão favorito de futebol não é E então olha gostava muito de ter uma casa onde pudesse fazer um pombal a sério com as devidas condições"
+    },
+    "30H3Csplit_119.wav": {
+        "ground": "Atraem, não é? Ou é ao contrário Acho que é forças opostas. Forças opostas é que se É é. atraem, as forças as forças do mesmo sentido repelem se, não é? Repelem se. Exato, exato. Então E se calhar a Carolina é a força do mesmo sentido que eu. A sério? É. E estamos sempre Os senhores chocam? É. a pegar. É. Mas mas gosto ela gosta.",
+        "transcript": "atraem não é ao contrário as forças menos sentido no peles exato tinha sótão"
     }
 }

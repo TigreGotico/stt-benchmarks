@@ -2266,5 +2266,537 @@
     "ced3e0294fbeff61a37fa1e9abb908fd.wav": {
         "ground": "diz me como ir para bali sem ser de avião com a opção mais barata o tempo não importa tenho duzentos dias para viajar e só euros para gastar",
         "transcript": "diz-me comer para Bali sem ser de avião com a opção mais barata o tempo na importa tem dedos intestinos para viajar e sobe a responder está"
+    },
+    "51e2ba1e4d8c2596aceb1ceb1776380d.wav": {
+        "ground": "o meu calendário diz que estou livre a um de abril de dois mil e dezassete",
+        "transcript": "o meu calendário diz que estou livre a 1 de abril de 2017"
+    },
+    "976ef4c02bed5f2e18e5e519dba16e75.wav": {
+        "ground": "qual é o nome do vocalista desta banda",
+        "transcript": "Qual é o nome do vocalista desta banda"
+    },
+    "17cb068ed9cdaead2e6885e333c113f6.wav": {
+        "ground": "remover artigo três",
+        "transcript": "remover artigo 3"
+    },
+    "9c66aea55599d3b3d64815db2866d49a.wav": {
+        "ground": "verificar emails de joana silva",
+        "transcript": "verificar e-mails de Joana Silva"
+    },
+    "ff8eeac1613b7b2fa90dd0a7b5574f9c.wav": {
+        "ground": "nova notificação para a reunião em duas horas",
+        "transcript": "nova notificação para a reunião em 2 horas"
+    },
+    "0c5ce158f0f559c4a9638b46ef255ba4.wav": {
+        "ground": "alguns david bowie",
+        "transcript": "alguns David Bowie"
+    },
+    "9047d934dbd53b025e96212a5aaccde2.wav": {
+        "ground": "muda as luzes do meu quarto para que eu posso ter um bom descanso",
+        "transcript": "muda as luzes do meu quarto para que eu posso ter um bom descanso"
+    },
+    "8fbf116096d93f812ecc097f6a866c23.wav": {
+        "ground": "ensina-me a cozinhar",
+        "transcript": "ensina-me a cozinhar"
+    },
+    "8395dabd5d31fff5771013e056cf0a93.wav": {
+        "ground": "enviar o email para joão",
+        "transcript": "enviar o e-mail para o João"
+    },
+    "7de2711f6cff6f207081f819adff13b6.wav": {
+        "ground": "relógio despertador",
+        "transcript": "Relógio despertador"
+    },
+    "4fe423bad794c1eb703070e0b1aa4745.wav": {
+        "ground": "apagar o meu próximo evento no calendário",
+        "transcript": "apagar o meu próximo evento no calendário"
+    },
+    "37e98e339d97ae473d3dd91f4fb61bac.wav": {
+        "ground": "toca música dos delfins",
+        "transcript": "toca música dos Delfins"
+    },
+    "68972e65d9511677c9511b9805ed1319.wav": {
+        "ground": "há quanto tempo é que a princesa kate está grávida",
+        "transcript": "Há quanto tempo é que a princesa Kate está grávida"
+    },
+    "8f5c5cad59273555533ec39600ec10d8.wav": {
+        "ground": "iniciar rádio",
+        "transcript": "Iniciar rádio"
+    },
+    "defec81e69fb17e60bb1b803d07bec51.wav": {
+        "ground": "compra-me um bilhete de comboio para portimão",
+        "transcript": "compra-me um bilhete de comboio para Portimão"
+    },
+    "01053e927d0f962aa07d318928c522a3.wav": {
+        "ground": "pode desligar meu candeeiro de mesa",
+        "transcript": "Podes desligar o meu candeeiro de mesa"
+    },
+    "dce9a3d09f1298a3dc5dde950fa2767a.wav": {
+        "ground": "ingrediente necessários da mercearia",
+        "transcript": "ingrediente necessários da mercearia"
+    },
+    "8b11475deb96cc63d8f14867f4fd5374.wav": {
+        "ground": "há algum novo vídeo no youtube do destak",
+        "transcript": "há algum novo vídeo no YouTube do destaque"
+    },
+    "354e75aa90d5ca2a1c7c5e69301d0c66.wav": {
+        "ground": "diz me o nome do artista",
+        "transcript": "diz-me o nome do artista"
+    },
+    "f08f58d9a58ee265b50d7cddea49866d.wav": {
+        "ground": "lembrar-me de ir buscar a roupa à lavandaria na próxima segunda-feira",
+        "transcript": "lembrar-me de ir buscar a roupa à lavandaria na próxima segunda-feira"
+    },
+    "cf03c27e77dad811c209727e2c9ac81d.wav": {
+        "ground": "oi olly qual a definição para passivo",
+        "transcript": "Oi ali Qual a definição para passivo"
+    },
+    "ba11e5bedeaf10146c4c6e3fc6c94690.wav": {
+        "ground": "que dia é o dia vinte e dois de maio",
+        "transcript": "que dia é o dia 22 de maio"
+    },
+    "fdf6050f5589e0164eef1807f31c9107.wav": {
+        "ground": "toca a minha playlist do ginásio",
+        "transcript": "toca a minha playlist do ginásio"
+    },
+    "36de8a8e6976ec4d26803ba04c362b67.wav": {
+        "ground": "dezasseis horas",
+        "transcript": "16:00"
+    },
+    "559945552bd6f3ae65ae064e88e8e071.wav": {
+        "ground": "últimas notícias do facebook",
+        "transcript": "últimas notícias do Facebook"
+    },
+    "a40402b24fff6044af777f96ede87cac.wav": {
+        "ground": "abre a minha música",
+        "transcript": "abre a minha música"
+    },
+    "78706bd78cb4f860ac4f2f988b93efd9.wav": {
+        "ground": "foi criado um alarme para acordar-me pela manhã",
+        "transcript": "foi criado um alarme para acordar-me pela manhã"
+    },
+    "1451d054ff6f13363dd3733a627da870.wav": {
+        "ground": "vamos apanhar um táxi",
+        "transcript": "Vamos apanhar um táxi"
+    },
+    "6668179b7b71dfe97c130ee5e6636c07.wav": {
+        "ground": "o que preciso saber acerca do show",
+        "transcript": "o que preciso saber acerca do chão"
+    },
+    "c193aa517e95c5b46a159e2ec4a38f6d.wav": {
+        "ground": "está sombrio aqui",
+        "transcript": "está Sombrio aqui"
+    },
+    "8aa6411f8e919c1134c0194e7dd6600c.wav": {
+        "ground": "encontra a definição de mundo no dicionário",
+        "transcript": "encontra a definição de mundo no dicionário"
+    },
+    "b7a8310c48af09c39eaee6a28cbd149e.wav": {
+        "ground": "volta a ler o que coloquei na minha lista de tarefas esta semana",
+        "transcript": "volta a ler o que coloquei na minha lista de tarefas esta semana"
+    },
+    "950acbe56df22080fc03f80d288d86bd.wav": {
+        "ground": "quero as notícias sobre os prémios da academia",
+        "transcript": "quero as notícias sobre os prémios da academia"
+    },
+    "8a8f7ae2cebf95c86eff66d8d4d277a7.wav": {
+        "ground": "lê-me as noticias de hoje",
+        "transcript": "lê-me as notícias de hoje"
+    },
+    "86f140bb5585aa6a80203547a2c48cad.wav": {
+        "ground": "abrir email",
+        "transcript": "abrir e-mail"
+    },
+    "cf837efc0acf7a7e7f843e5aab9bed39.wav": {
+        "ground": "mais sobre o concerto na avenida dos aliados",
+        "transcript": "mais sobre o concerto na Avenida dos Aliados"
+    },
+    "3883314eac7b00bcdfcbae88e09fe34f.wav": {
+        "ground": "quem é a esposa de aníbal",
+        "transcript": "Quem é a esposa de Aníbal"
+    },
+    "b917004ea589e542109e7bc3c30c0c33.wav": {
+        "ground": "preciso de um táxi amanhã às oito da manhã",
+        "transcript": "preciso de um táxi amanhã às 8:00 da manhã"
+    },
+    "87ba86ba4c04039af36639aead7e81cf.wav": {
+        "ground": "encontrar receita para frango guisado",
+        "transcript": "encontrar receita para frango guisado"
+    },
+    "4e039a99b5fdc99ae712d3326d9dc284.wav": {
+        "ground": "enviar email à minha mãe",
+        "transcript": "enviar e-mail à minha mãe"
+    },
+    "59c5b0e4d722fbebca19e604305a2c8f.wav": {
+        "ground": "dê-me actualizações sobre o furacão",
+        "transcript": "Thammy Atualizações sobre o furacão"
+    },
+    "a37ebcf0336ecd0699f26a98e658c297.wav": {
+        "ground": "olly agendar a minha consulta médica para sexta feira às duas da tarde",
+        "transcript": "Holy Agendar a minha consulta médica para sexta-feira às 2:00 da tarde"
+    },
+    "44619bb977b674820929a1c2692e0386.wav": {
+        "ground": "por favor remover este artigo da lista",
+        "transcript": "por favor remover este artigo da lista"
+    },
+    "c858b9a3385da5928e767c2950c66bae.wav": {
+        "ground": "que filmes estão em cartaz no cinema ideal",
+        "transcript": "Que filmes estão em cartaz no cinema ideal"
+    },
+    "f35eeaabb93b5e901684f8df6f5c0110.wav": {
+        "ground": "em que ano esta música foi criada",
+        "transcript": "Em que ano esta música foi criada"
+    },
+    "04b7f916458f6863fc1279c2a8ce9eaa.wav": {
+        "ground": "quando dom joão sexto nasceu",
+        "transcript": "Quando Dom João Vide nasceu"
+    },
+    "68c2d0479939cd37fa3bd9e9d6e69eb1.wav": {
+        "ground": "digam-me quem enviou ontem o e-mail sobre o chefe",
+        "transcript": "diga-me quem enviou ontem o e-mail sobre a chave"
+    },
+    "bd14e239d1f2999362adce14da3d6033.wav": {
+        "ground": "por favor procurar por eventos na minha localização",
+        "transcript": "por favor procurar por eventos na minha localização"
+    },
+    "74715fef42b07b82bcfbc742fedf76a4.wav": {
+        "ground": "o maior animal",
+        "transcript": "o maior animal"
+    },
+    "d17c50a15c27ca0493e860df8f3a9c6e.wav": {
+        "ground": "marca uma reunião com a célia",
+        "transcript": "Marca uma reunião com a Célia"
+    },
+    "8a4b8f4aa7b7dc60e9a0de77358e3152.wav": {
+        "ground": "diz-me o número do serviço de táxis local",
+        "transcript": "diz-me o número do serviço de táxis local"
+    },
+    "949438b4816ef6b03b531f0673f5800d.wav": {
+        "ground": "vamos jogar aos milionários",
+        "transcript": "Vamos jogar aos milionários"
+    },
+    "278c67df21c40fb3aecfe3a2c8d803bd.wav": {
+        "ground": "enviar uma resposta ao meu último email",
+        "transcript": "enviar uma resposta ao meu último e-mail"
+    },
+    "681d8813309b968f050911ae30912180.wav": {
+        "ground": "por favor diz-me a hora do alarme da manhã nos dias úteis",
+        "transcript": "por favor diz-me a hora do alarme de manhã nos dias úteis"
+    },
+    "0ce4a8bf895d7785aff07ba00a778dd0.wav": {
+        "ground": "quanto tráfego costuma ter fátima leiria",
+        "transcript": "quanto tráfego costuma ter Fátima Leiria"
+    },
+    "fa7e24927db785114eb6197b5b96a41d.wav": {
+        "ground": "vai estar agradável na praia na sexta-feira",
+        "transcript": "vai estar agradável na praia na sexta-feira"
+    },
+    "866a3a26456a4122bfa408aca18816c4.wav": {
+        "ground": "quais são as últimas notícias da síria",
+        "transcript": "Quais são as últimas notícias da"
+    },
+    "1722bd189ad6a37748d8b462a3bf411a.wav": {
+        "ground": "posso ver as minhas listas de trabalho",
+        "transcript": "posso ver as minhas listas de trabalho"
+    },
+    "1fcad16c1cf8df5469eb1e1b43ba2712.wav": {
+        "ground": "há algum evento a começar no meu calendário",
+        "transcript": "há algum evento a começar no meu calendário"
+    },
+    "666e5a36403c5c78177ac0de7a5c491d.wav": {
+        "ground": "em que cenário usarias a palavra inconveniência",
+        "transcript": "em que cenário usarias a palavra inconveniência"
+    },
+    "41a07a1d38f1da229a51c24b939e0cdf.wav": {
+        "ground": "remover a lista de músicas de santana",
+        "transcript": "remover a lista de músicas de Santana"
+    },
+    "56beecfc6fa9b07e1bb6487f84725801.wav": {
+        "ground": "obter notícias da b. b. c.",
+        "transcript": "obter notícias da BBC"
+    },
+    "504e4d5b3cabc1288a3d83615c4b5fa9.wav": {
+        "ground": "lembrar-me de",
+        "transcript": "lembrar-me de"
+    },
+    "a024de94435e1623a4256568884e4048.wav": {
+        "ground": "quem é o presidente da polônia",
+        "transcript": "Quem é o presidente da Polónia"
+    },
+    "cd347ef6fe5061923f812d286dc0cf65.wav": {
+        "ground": "mostrar as notícias da r. t. p. ao vico",
+        "transcript": "mostrar as notícias da RTP ao vivo"
+    },
+    "0e2ad7a05832bd480e500c7c2d33ed82.wav": {
+        "ground": "o meu jogo de golfe vai ser molhado",
+        "transcript": "próximo jogo do Barcelona"
+    },
+    "f1e3cb1dcb6cdbcab95b0a0a2554123c.wav": {
+        "ground": "reorganize essa lista",
+        "transcript": "reorganize essa lista"
+    },
+    "0ff63a26de4453df040f4d6f1bd23e0d.wav": {
+        "ground": "vamos fazer uma pausa cinco minutos",
+        "transcript": "Vamos fazer uma pausa 5 minutos"
+    },
+    "bc172f7a4d309ed9111bb55f42dad3ff.wav": {
+        "ground": "posso saber a data de hoje",
+        "transcript": "Posso saber a data de hoje"
+    },
+    "0e542d28c697e305b09232a9710ade91.wav": {
+        "ground": "iniciar a limpeza",
+        "transcript": "iniciar a limpeza"
+    },
+    "fcb5e27607c88c3ba1e0a8368fa82321.wav": {
+        "ground": "continua a reproduzir o ensaio sobre a cegueira",
+        "transcript": "continua a reproduzir o ensaio sobre a cegueira"
+    },
+    "3bc3c9eb85371d6efb9dd04ed4bb8a33.wav": {
+        "ground": "fale-me sobre o jardim de luz solar",
+        "transcript": "fala-me sobre o jardim de luxuar"
+    },
+    "25fce5540ad0e8e61e62a1853de63e26.wav": {
+        "ground": "passa para o próximo episódio",
+        "transcript": "passa para o próximo episódio"
+    },
+    "a261c65aacb5049468c907bf5d867985.wav": {
+        "ground": "comércio internacional e mercado de negócios",
+        "transcript": "comércio internacional e Mercado de negóci"
+    },
+    "7b7f4ac246b810899576d22a36e7b717.wav": {
+        "ground": "existe algum programa para amanhã à noite",
+        "transcript": "Existe algum programa para amanhã à noite"
+    },
+    "18ab21a430af9611ad02855b239d25c6.wav": {
+        "ground": "pede comida takeaway",
+        "transcript": "pede comida take-away"
+    },
+    "47e5810cc837dbc78fe7f3d883cfd9a6.wav": {
+        "ground": "qual é o caminho que tem menos trânsito hoje",
+        "transcript": "Qual é o caminho que tem menos trânsito hoje"
+    },
+    "97c4ff9bf2f79bc1ed76c7dcc3a89744.wav": {
+        "ground": "pode exibir os videos para cozinhar comida italiana",
+        "transcript": "podes vir os vídeos para cozinhar comida italiana"
+    },
+    "b2c1de3a81168e7f81d9d57214cf5958.wav": {
+        "ground": "o que se passa",
+        "transcript": "o que se passa"
+    },
+    "09f80f8503c12c1067d20704a33bcdf1.wav": {
+        "ground": "abra a galeria poste o nome do vídeo",
+        "transcript": "Abre a galeria posta o nome do vídeo"
+    },
+    "60cc1c362c43763e0d94eed1dd64d1a5.wav": {
+        "ground": "toca rap por favor",
+        "transcript": "toca rap por favor"
+    },
+    "90f666394cffe67adc3b1fb80dc3ec58.wav": {
+        "ground": "define um alarme para as seis da manhã",
+        "transcript": "Defina um alarme para as 6:00 da manhã"
+    },
+    "cacc1ba1e6da4c1c85e1093ef1264257.wav": {
+        "ground": "qual é a agenda para o próximo concerto da maggie rogers",
+        "transcript": "Qual é a agenda para o próximo concerto da Mega Rogers"
+    },
+    "94b017b4d11afa3287628683ba0166ba.wav": {
+        "ground": "sintoniza em noventa e nove ponto cinco f. m.",
+        "transcript": "sintoniza a 99,5 fm"
+    },
+    "c46053d0d36a2bb13008da9394d04598.wav": {
+        "ground": "vai haver alguma neve para a próxima semana",
+        "transcript": "vai haver alguma neve para a próxima semana"
+    },
+    "c203b998fde87322dade3a694d52ff05.wav": {
+        "ground": "diz me uma lista de reprodução",
+        "transcript": "diz-me uma lista de reprodução"
+    },
+    "91f10c162c68f2b8eaa65a8f8cade291.wav": {
+        "ground": "quando é o próximo trem para moscavide",
+        "transcript": "Quando é o próximo trem para Moscavide"
+    },
+    "df970fe160efb1508b2b27b8a96e8c50.wav": {
+        "ground": "por favor lembra me uma hora antes da reunião que eu tenho amanhã de manhã",
+        "transcript": "por favor lembra-me uma hora antes da reunião que eu tenho amanhã de manhã"
+    },
+    "2e411cf6973e85ca3595cad7b9ce11c1.wav": {
+        "ground": "diga-me qual a taxa de câmbio para dez dólares em euro",
+        "transcript": "diga-me Qual a taxa de câmbio para 10 dólares em euro"
+    },
+    "1d874aeb774218e8709d556edb2ec621.wav": {
+        "ground": "toca as minhas músicas mais ouvidas",
+        "transcript": "Toca as minhas músicas mais ouvidas"
+    },
+    "32ab8f4c21b7772c601e42551be2f4dc.wav": {
+        "ground": "pedir uma refeição de um bom restaurante",
+        "transcript": "pedir uma refeição de um bom restaurante"
+    },
+    "8749c346d9ad310e7a35a521e628909c.wav": {
+        "ground": "por quanto tempo asso peitos de frango",
+        "transcript": "Por quanto tempo há suspeitos de frango"
+    },
+    "9550a9f398ab39f2a84f8a64c2ffc170.wav": {
+        "ground": "chama um uber para minha casa",
+        "transcript": "chama um Uber para minha casa"
+    },
+    "f6fb5b74101ba16d11e0ceb9daeccb59.wav": {
+        "ground": "qual tal um bom jogo de xadrez",
+        "transcript": "está um bom jogo de xandria"
+    },
+    "10b13666286124bfbe19b86b9e6ab5de.wav": {
+        "ground": "alexa está a acontecer algo de errado no teu mundo",
+        "transcript": "Alexa está a acontecer algo errado no teu mundo"
+    },
+    "713208f3880763a0d77cc539a191129f.wav": {
+        "ground": "rádio meo sudoeste",
+        "transcript": "Rádio MEO Sudoeste"
+    },
+    "6d158e73502a147ddf0a258138147a86.wav": {
+        "ground": "resolve problema de matemática",
+        "transcript": "resolve o problema de matemática"
+    },
+    "8241f7c6a1433f1e1339f03ccba3d653.wav": {
+        "ground": "qual será a temperatura de hoje em portugal",
+        "transcript": "Qual será a temperatura de hoje em Portugal"
+    },
+    "063f12d3a5c6d56c43b8cfd92f846cc6.wav": {
+        "ground": "diz me a coisa mais estranha que está acontecer hoje no mundo",
+        "transcript": "diz uma coisa mais estranha que está a acontecer hoje no mundo"
+    },
+    "f26e4f62aef31cd1f8976ab8eb18cdce.wav": {
+        "ground": "quando é a próxima turnê",
+        "transcript": "Quando é a próxima torneira"
+    },
+    "d8efc066593b8c11d4b965f4db385240.wav": {
+        "ground": "você tem qualquer notícia dos novos provedores",
+        "transcript": "você tem qualquer notícia dos novos provedores"
+    },
+    "564305121b353b7ca0ee30a20adf9301.wav": {
+        "ground": "faz uma lista de reprodução com todas as músicas do eminem e toca-a em modo aleatório",
+        "transcript": "Faz uma lista de reprodução com todas as músicas do Eminem e toca em modo aleatório"
+    },
+    "c5adde3ec4fe7c631dbaea2c04ca1fa9.wav": {
+        "ground": "olly vou precisar de usar luvas hoje",
+        "transcript": "Oi vou precisar de usar luvas hoje"
+    },
+    "a6baa297e9eea75b5bf2988abc301970.wav": {
+        "ground": "desligar as luzes",
+        "transcript": "desligar as luzes"
+    },
+    "fb4ac4dd55b293884acd20d1c40bee95.wav": {
+        "ground": "ouve esta música",
+        "transcript": "Ouve esta música"
+    },
+    "e2e6cac4b6522b3c9c58116ed0584c54.wav": {
+        "ground": "diz-me quais são os meus próximos eventos",
+        "transcript": "diz-me Quais são os meus próximos eventos"
+    },
+    "a74313eb385282c0efa7734b9921b418.wav": {
+        "ground": "que horas são em zimbábue",
+        "transcript": "Que horas são em Zimbabwe"
+    },
+    "fac8c3acc4f259383f79d7fd50a80e77.wav": {
+        "ground": "marcar reunião com josé a dez de março",
+        "transcript": "marcar reunião com José A10 de março"
+    },
+    "2c9fce44947db32d00468129166f96bd.wav": {
+        "ground": "olly tenho uma marcação na próxima semana",
+        "transcript": "óleo Tenho uma marcação na próxima semana"
+    },
+    "499fd41898ddccbf9ea1722aa48fd5a5.wav": {
+        "ground": "programar um alarme para as seis da manhã",
+        "transcript": "programar um alarme para as 6:00 da manhã"
+    },
+    "b440e5b4a6a6f6bca75d057add1c12c4.wav": {
+        "ground": "alexa ligar o aspirador de pó",
+        "transcript": "Alexa ligar o aspirador de pó"
+    },
+    "ea4f7fa1f34a049967f67a9f1e2ab019.wav": {
+        "ground": "aumentar intensidade de todas as luzes da sala",
+        "transcript": "aumentar a intensidade das luzes da sala"
+    },
+    "b6442d7313f9dece9b1a7a9550482db5.wav": {
+        "ground": "criar um compromisso para o joão amanhã",
+        "transcript": "criar um compromisso para o João amanhã"
+    },
+    "82341bedc67f4b7b370bb0bf554e4869.wav": {
+        "ground": "pausa o audiolivro",
+        "transcript": "pausa O Audiolivro"
+    },
+    "d1302c463846dccfa4cf7902f3800434.wav": {
+        "ground": "qual será a temperatura la fora amanhã",
+        "transcript": "Qual será a temperatura lá fora amanhã"
+    },
+    "2f1c1a429211f4ffb3011b924472de50.wav": {
+        "ground": "criar um lembrete para pedido de visto nesta quinta-feira",
+        "transcript": "Criar um lembrete para pedir de visto nesta quinta-feira"
+    },
+    "3f62c963f547b9feba6e30bf6f94154f.wav": {
+        "ground": "abrir a lista dos meus contactos",
+        "transcript": "abrir a lista dos meus contactos"
+    },
+    "6c3b4871c18ee007ffa4b722e363b80e.wav": {
+        "ground": "toca uma playlist romântica",
+        "transcript": "toca uma playlist romântica"
+    },
+    "9eb1591bef0b2e4a2f00ab5c746a9b9b.wav": {
+        "ground": "mostrar várias plantas na terra",
+        "transcript": "mostrar Várias plantas na terra"
+    },
+    "d37589937211d4eda066bfef9df9e395.wav": {
+        "ground": "reporta as definições do alarme",
+        "transcript": "reporta as definições do alarme"
+    },
+    "bdbb55e046781280230b3be045499af3.wav": {
+        "ground": "mostra como cozinhar uma receita",
+        "transcript": "mostra como cozinhar uma receita"
+    },
+    "5a9dcc2acd143f36cd11728f27c66c48.wav": {
+        "ground": "podes colocar-te sem som por um pouco por favor",
+        "transcript": "podes colocar sem som pompom por favor"
+    },
+    "44b5ba5601157c1ef1d72bdc2fb91367.wav": {
+        "ground": "qual é o nome desta música",
+        "transcript": "Qual é o nome desta música"
+    },
+    "6dc6dee002781c8641ec35e2783175ad.wav": {
+        "ground": "reserve um táxi",
+        "transcript": "fazer um táxi"
+    },
+    "e9233b12bad570638bd060465ac2d3c9.wav": {
+        "ground": "existem alguns problemas de transito",
+        "transcript": "existem alguns problemas de trânsito"
+    },
+    "d4dfc2d016d10d1351a01c8ae2328445.wav": {
+        "ground": "podes dizer a palavra desmonetização",
+        "transcript": "podes dizer a palavra das monetização"
+    },
+    "74d4274c016d779d658b7569f39a8872.wav": {
+        "ground": "o que inclui a lista",
+        "transcript": "o que inclui a lista"
+    },
+    "a1d05acb8bc6df022adc76835bda2b27.wav": {
+        "ground": "encontr uma lista de todas as músicas da kate perry e coloque todas sem o modo aleatório",
+        "transcript": "encontra uma lista de todas as músicas da Katy Perry e coloque todas sem o modo aleatório"
+    },
+    "b1309d53e4e7ec46d2da9379641bea06.wav": {
+        "ground": "ligar notificações para todas as notícias do mercado de acções",
+        "transcript": "Ligar notificações para todas as notícias do Mercado de ações"
+    },
+    "6557102a0cd80cfe413cb98f51feafac.wav": {
+        "ground": "tocar adele",
+        "transcript": "Tocar Adele"
+    },
+    "99c32b93d8c8cb372e8e6e08527076e3.wav": {
+        "ground": "ok google como está o tempo",
+        "transcript": "Ok Google como está o tempo"
+    },
+    "4ab96daa3f5d8ef5a25655696efbc3ae.wav": {
+        "ground": "reserva o meu táxi mais próximo disponível",
+        "transcript": "reserva o meu táxi mais próximo disponível"
+    },
+    "c9677ef602b2367a9755f8fbdab52e15.wav": {
+        "ground": "em que dia calha o dia dezasseis de abril",
+        "transcript": "Em que dia calha o dia 16 de abril"
     }
 }

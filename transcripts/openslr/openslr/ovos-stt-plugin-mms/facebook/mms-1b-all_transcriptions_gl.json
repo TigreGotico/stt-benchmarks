@@ -158,5 +158,65 @@
     "zip://glf_01208_02015052264.wav::https://openslr.org/resources/77/gl_es_female.zip": {
         "ground": "Compañía de tranvías da Coruña é a principal compañía de transporte público da cidade",
         "transcript": "compaia de tranvias da coruna e a principal compaia de transporte publico da cidade"
+    },
+    "zip://glf_06136_01633539161.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Fixéronlle a encarga das pezas da ventá a Stac",
+        "transcript": "fixeronlla en carga das piezas da venta stak"
+    },
+    "zip://glf_01523_01071617915.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Conta a lenda que un dragón habitaba o Pico Sacro situado no municipio de Boqueixón",
+        "transcript": "conta lenda que un dragon habitaba o pico sacro situado no municipio de vocation"
+    },
+    "zip://glf_09334_00896457143.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "O Mississippi é un dos principais ríos que percorren o estado de Missouri",
+        "transcript": "o misissipi e un dos principais rios que percorren o estado de missuri"
+    },
+    "zip://glf_05328_01657347138.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "De Uxía din que canta coma os xílgaros",
+        "transcript": "diusa din que canta como silgaros"
+    },
+    "zip://glf_09799_02095227913.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A San Andrés de Teixido vai de morto o que non foi de vivo",
+        "transcript": "a san andres de teixido vai de morto o que non foi de vivo"
+    },
+    "zip://glf_04415_01593453742.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Os mellores futbolistas do planeta reuniranse en Cardiff para disputarse o trofeo máis importante de Europa",
+        "transcript": "os meyores futbolistas do planeta reuniranse en cardif para disputarse o trofeo mais importante de europa"
+    },
+    "zip://glf_05223_00431179892.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Foron ver a estatua que lle fixeron a Castelao en Rianxo que é onde naceu",
+        "transcript": "foron bela estatua que lle fixeron a castelau en rianxo que onde naceu"
+    },
+    "zip://glf_07049_00815996878.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Non houbo un vicepresidente da Xunta por dous partidos distintos agás Xosé Luís Barreiro Rivas",
+        "transcript": "non houbo un vicepresidente da xunta por dous partidos distintos agaxose luis barreiro ribas"
+    },
+    "zip://glf_07060_00954806068.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Pepe Solla é un cociñeiro galego de recoñecido prestixio",
+        "transcript": "pepe sole un cocineiru galego de reconecido prestixio"
+    },
+    "zip://glf_05223_01352786101.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A cantautora canadense Carly Rae Jepsen deuse a coñecer en dous mil sete",
+        "transcript": "a cantaautora canadense carly rai jebsen deuse a conecer en ds"
+    },
+    "zip://glf_08886_00052766543.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "O Concello de Dodro impulsa a creación literaria a través dun certame de poesía anual",
+        "transcript": "o concello de dodro impulsa a creacion literaria traves dun certame de poesia anual"
+    },
+    "zip://glf_07060_01467962048.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Desde o ano mil novecentos sesenta e sete A Cañiza celebra cada quince de agosto a súa Feira do Xamón",
+        "transcript": "desdo ano  acaneza celebra cada q de agosto a su afeira do shamon"
+    },
+    "zip://glf_04766_01486092102.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "Se pasas por Gomesende recoméndoche que visites o santuario do Val",
+        "transcript": "se pasas por gomesende recomendoche que visite lo santuario do bal"
+    },
+    "zip://glf_07973_00804805673.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "A franquía Dunkin' Donuts é líder na venda de café",
+        "transcript": "a franquicia dankin donuts e lider na venda de cafe"
+    },
+    "zip://glf_02436_00802905197.wav::https://openslr.org/resources/77/gl_es_female.zip": {
+        "ground": "En dous mil once achouse en Castrelo do Val unha estela gravada da Idade do Bronce",
+        "transcript": "en d achouse en castrelo do val unha estela grabada da idade do bronce"
     }
 }

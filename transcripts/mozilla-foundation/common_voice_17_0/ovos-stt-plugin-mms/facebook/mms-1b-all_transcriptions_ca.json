@@ -54,5 +54,377 @@
     "ca_test_0/common_voice_ca_30742785.mp3": {
         "ground": "Va treure dos àlbums més, amb influència del grup de base cèltica Cunla.",
         "transcript": "va treure dos albums mes amb influencia del grup de base celtica cunla"
+    },
+    "ca_test_0/common_voice_ca_37925252.mp3": {
+        "ground": "També va compondre per orquestra, grups de cambra, cor i veu solista.",
+        "transcript": "tambe va compondre per orquestre grups de cambra cor i veu solista"
+    },
+    "ca_test_0/common_voice_ca_38560896.mp3": {
+        "ground": "En recordança de.",
+        "transcript": "en recordant-se de"
+    },
+    "ca_test_0/common_voice_ca_30816659.mp3": {
+        "ground": "Tots els meus amics són grecs.",
+        "transcript": "tots els meus amics son grecs"
+    },
+    "ca_test_0/common_voice_ca_30810072.mp3": {
+        "ground": "S'accedeix a Khor Kalba per tres camins.",
+        "transcript": "s'accedeix a cork calva per tres camins"
+    },
+    "ca_test_0/common_voice_ca_34365482.mp3": {
+        "ground": "Relatiu a les roques volcàniques vora la mar Bàltica.",
+        "transcript": "relatiu a les roques volcaniques vora la mar baltica"
+    },
+    "ca_test_0/common_voice_ca_30806616.mp3": {
+        "ground": "Hem de castigar només qui incompleix la llei o també els altres malfactors?",
+        "transcript": "hem de castigar nomes qui n compleis la llei o tambe els altres mal factors"
+    },
+    "ca_test_0/common_voice_ca_30816697.mp3": {
+        "ground": "Quan tindrà acabat l'entrenament?",
+        "transcript": "quan tindra acabat l'entrenament"
+    },
+    "ca_test_0/common_voice_ca_34479465.mp3": {
+        "ground": "Vaig a la plaça de John F. Kennedy.",
+        "transcript": "batga la placa de john eper kennedy"
+    },
+    "ca_test_0/common_voice_ca_31027097.mp3": {
+        "ground": "Què venen al passatge de Guillem Abiell número quaranta-u?",
+        "transcript": "que venen al passatge de guillem aviell numero quaranta-u"
+    },
+    "ca_test_0/common_voice_ca_36867092.mp3": {
+        "ground": "Va ser una pionera en defensar el paper de les dones a la ciència.",
+        "transcript": "va ser una pionera en defensar el paper de les dones a la ciencia"
+    },
+    "ca_test_0/common_voice_ca_30816689.mp3": {
+        "ground": "Si no tinc res, les ones que ara venen, digueu-me, què voldran?",
+        "transcript": "si no tinc res les zona escara venen digueu- que voldra"
+    },
+    "ca_test_0/common_voice_ca_37837615.mp3": {
+        "ground": "Ventre afamat no té consciència.",
+        "transcript": "ventre o fomat no te consciencia"
+    },
+    "ca_test_0/common_voice_ca_30742820.mp3": {
+        "ground": "La idea era bona, però l'organització fou desastrosa.",
+        "transcript": "la idea era bona pero la organitzaci fou desastrosa"
+    },
+    "ca_test_0/common_voice_ca_30858222.mp3": {
+        "ground": "De debò fes el que et dic i qui dia passa any empeny.",
+        "transcript": "de debo f es al que et dic i qui dia passa an lempeny"
+    },
+    "ca_test_0/common_voice_ca_30796691.mp3": {
+        "ground": "Com ho puc fer per anar al Far d'Empordà demà passat?",
+        "transcript": "com ho puc fer per anar al fart d'enporta dema passat"
+    },
+    "ca_test_0/common_voice_ca_19034690.mp3": {
+        "ground": "Supervisa l'emissió de les resolucions de concessió de l'habitació.",
+        "transcript": "supervisa la missio de la resoucions da concessio de l'aditacio"
+    },
+    "ca_test_0/common_voice_ca_30874842.mp3": {
+        "ground": "La governació de Diala a Iraq té el mateix nom que el riu.",
+        "transcript": "la governaci de diala iraq te el mateix nom que el riu"
+    },
+    "ca_test_0/common_voice_ca_34519107.mp3": {
+        "ground": "El nou d'octubre na Gal·la i en Bernat volen anar al metge.",
+        "transcript": "el nou d'octubre nagala i en bernot volen anar al mitge"
+    },
+    "ca_test_0/common_voice_ca_38178260.mp3": {
+        "ground": "Divendres na Damià i na Mireia volen anar a Manacor.",
+        "transcript": "livendres nadamia i namirella volen anar a monaco"
+    },
+    "ca_test_0/common_voice_ca_36956844.mp3": {
+        "ground": "Els mascles han d'haver estat convenientment castrats.",
+        "transcript": "els mascles han d'haver estat convenientment castrats"
+    },
+    "ca_test_0/common_voice_ca_38104590.mp3": {
+        "ground": "Demà passat en Guerau irà a la Torre de Cabdella.",
+        "transcript": "dema passat en garau ira a la torre de capdella"
+    },
+    "ca_test_0/common_voice_ca_38573887.mp3": {
+        "ground": "Va ser dirigit per Ricard Reguant.",
+        "transcript": "va ser dirigit per ricard reuant"
+    },
+    "ca_test_0/common_voice_ca_37631517.mp3": {
+        "ground": "Un grup de motociclistes condueixen al voltant d'un aparcament",
+        "transcript": "un grup de motociclistes condueixen al voltant d'un aparcament"
+    },
+    "ca_test_0/common_voice_ca_38017274.mp3": {
+        "ground": "Les branques altes d'un arbre.",
+        "transcript": "les branques altes d'un abre"
+    },
+    "ca_test_0/common_voice_ca_30858278.mp3": {
+        "ground": "dissabte he d'anar a la Pobla de Massaluca amb autobús.",
+        "transcript": "desapte he d'anar a la pobla de massaluca amb autobus"
+    },
+    "ca_test_0/common_voice_ca_30977039.mp3": {
+        "ground": "Compreu fetge, aigua amb gas, caldo de verdures i mortadel·la",
+        "transcript": "compreu fetge aigua amb gas cal dodar verdures i mortadela"
+    },
+    "ca_test_0/common_voice_ca_38574121.mp3": {
+        "ground": "La dona de Daniel va concebre.",
+        "transcript": "la dona de daniele va concebre"
+    },
+    "ca_test_0/common_voice_ca_31318900.mp3": {
+        "ground": "Allà resten petits fragments de murs, alguns d'ells amb argamassa.",
+        "transcript": "alla resten petits fragments de murs alguns d'ells amb argamasa"
+    },
+    "ca_test_0/common_voice_ca_32425720.mp3": {
+        "ground": "Per Cap d'Any en Cesc vol anar a Alins.",
+        "transcript": "per cap d'any ansesc vol anar a alins"
+    },
+    "ca_test_0/common_voice_ca_38641168.mp3": {
+        "ground": "Aquesta forma de parlar posteriorment va considerar-se totalment apropiada per als oficials militars.",
+        "transcript": "aquesta forma de parlar posteriorment va considerar-se totalment apropiada per als oficials militars"
+    },
+    "ca_test_0/common_voice_ca_37778388.mp3": {
+        "ground": "Morí a Ginebra a conseqüència de l'alzheimer que patia.",
+        "transcript": "mori a ginebra a consequencia de l'alzaimer capetia"
+    },
+    "ca_test_0/common_voice_ca_38214647.mp3": {
+        "ground": "Aquella època van establir-se molts estanys piscícoles per tot el sud de Bohèmia.",
+        "transcript": "aquella epoca van establir-se molts estants pisicules per tot el sud de bohemia"
+    },
+    "ca_test_0/common_voice_ca_37588523.mp3": {
+        "ground": "Per cantar i per ballar, hom no pot malpensar.",
+        "transcript": "per cantar i per baiar hom no pot men pensar"
+    },
+    "ca_test_0/common_voice_ca_30742738.mp3": {
+        "ground": "Quines parades fa l'autobús que va a Vilanova del Vallès?",
+        "transcript": "quines parades fa l'autobus que va a vilanova del balles"
+    },
+    "ca_test_0/common_voice_ca_31445555.mp3": {
+        "ground": "En aquesta prova havien aconseguit el rècord del món en sèries.",
+        "transcript": "en aquesta prova havien aconseguit el record del mon en series"
+    },
+    "ca_test_0/common_voice_ca_31351673.mp3": {
+        "ground": "La planta original es va basar en el model basilical romà.",
+        "transcript": "la planta original es va basar en el model basilical roma"
+    },
+    "ca_test_0/common_voice_ca_31710837.mp3": {
+        "ground": "Per Cap d'Any na Cloè vol anar al teatre.",
+        "transcript": "per cap d'any nacloe vol anar el teatre"
+    },
+    "ca_test_0/common_voice_ca_37345901.mp3": {
+        "ground": "El director era l'hispanoamericà Robert Balser.",
+        "transcript": "el director era l'hispanoamerica robert balser"
+    },
+    "ca_test_0/common_voice_ca_30877426.mp3": {
+        "ground": "\"Escolta el que dic!\", va afirmar Brown, però.",
+        "transcript": "escota el creek va afirmar brown pero"
+    },
+    "ca_test_0/common_voice_ca_38089896.mp3": {
+        "ground": "Llistes de paraules, dos o tres títols de llibres, segurament recomanacions.",
+        "transcript": "llistes de paraules dos o tres titols de llibres segurament recomenacions"
+    },
+    "ca_test_0/common_voice_ca_19041983.mp3": {
+        "ground": "Inspecciona escorxadors i explotacions ramaderes en cas de declaració de malalties.",
+        "transcript": "inspecciona es corxadors i esplotacions remaderes en casa declaraci de malalties"
+    },
+    "ca_test_0/common_voice_ca_30858185.mp3": {
+        "ground": "Un cas relacionat amb Ladd i Company va requerir un llarg arbitratge.",
+        "transcript": "un cas relacionat amb lat i company va requerir un llarg arbitratge"
+    },
+    "ca_test_0/common_voice_ca_37827711.mp3": {
+        "ground": "Quan passa l'autobús pel carrer Enric Bargés?",
+        "transcript": "quan passa l'autobs pel carrer enric barges"
+    },
+    "ca_test_0/common_voice_ca_30819179.mp3": {
+        "ground": "Com ho puc fer per anar a Sant Pol de Mar dimecres?",
+        "transcript": "com ho puc fer per anar a sant pauu de mar dimecres"
+    },
+    "ca_test_0/common_voice_ca_37670087.mp3": {
+        "ground": "Que produeix l'avortament d'una manera patològica.",
+        "transcript": "que produeix l'abortament d'una manera patologica"
+    },
+    "ca_test_0/common_voice_ca_30871246.mp3": {
+        "ground": "També va aparèixer a un episodi de \"Rising Damp\" fent d'estafador, Seymour.",
+        "transcript": "tamb va apareixere a un episodi de rissing dam fent d'estafador saimor"
+    },
+    "ca_test_0/common_voice_ca_30742627.mp3": {
+        "ground": "Com ho puc fer per anar a la plaça de la Central?",
+        "transcript": "com ho puc fer per anar a la placa de la central"
+    },
+    "ca_test_0/common_voice_ca_38181504.mp3": {
+        "ground": "El deu d'agost na Nàdia vol anar a la platja.",
+        "transcript": "el d d'agust nanadia vol anar a la platja"
+    },
+    "ca_test_0/common_voice_ca_30806195.mp3": {
+        "ground": "Neumann està casada amb l'actor danès Paul Hüttel; tenen una filla.",
+        "transcript": "niwman esta casada amb l'actor danes all hutel tenen una filla"
+    },
+    "ca_test_0/common_voice_ca_38026163.mp3": {
+        "ground": "El fartet i el samaruc migren cap a aigües més salines.",
+        "transcript": "el fartat i el samaruc migren cap a aigues metcel lines"
+    },
+    "ca_test_0/common_voice_ca_37574684.mp3": {
+        "ground": "La figa pelada put a arengada.",
+        "transcript": "la figa palada puta arengada"
+    },
+    "ca_test_0/common_voice_ca_36507902.mp3": {
+        "ground": "Una novetat per al museu és una secció d'edat mitjana amb una cabanya reconstruïda amb una llar.",
+        "transcript": "una novetat per al museu es una seccio d'edat mitjana amb una cabanya reconstruida emb unallar"
+    },
+    "ca_test_0/common_voice_ca_30742825.mp3": {
+        "ground": "Retractar algú els seus errors.",
+        "transcript": "retracta algu els seus errors"
+    },
+    "ca_test_0/common_voice_ca_17485470.mp3": {
+        "ground": "El març li demanà uns dies a febrer, per enganyar a sa mare.",
+        "transcript": "al mars li demana uns dies a febrer per enganyar-sa mara"
+    },
+    "ca_test_0/common_voice_ca_37403974.mp3": {
+        "ground": "Els tres absis són iguals llevat de la disposició de les finestres.",
+        "transcript": "els tres absis son iguals llevats de la disposicio de les finestres"
+    },
+    "ca_test_0/common_voice_ca_30825680.mp3": {
+        "ground": "Encara no m'he guanyat les ales.",
+        "transcript": "encara no m'he guanyat les ales"
+    },
+    "ca_test_0/common_voice_ca_37605699.mp3": {
+        "ground": "Cavaller de bragueta.",
+        "transcript": "cavaller de bragueta"
+    },
+    "ca_test_0/common_voice_ca_37945422.mp3": {
+        "ground": "També se n'ha trobat a la República Txeca i a Alemanya.",
+        "transcript": "tambe se n'ha trobat a la republica txeca i alemanya"
+    },
+    "ca_test_0/common_voice_ca_31196305.mp3": {
+        "ground": "Trípoli, la seva capital, es distingia per la seva prosperitat mercantil, marítima i corsària.",
+        "transcript": "eta qera du staler cola dentraridio por eso se reafirma nestra decision"
+    },
+    "ca_test_0/common_voice_ca_38053773.mp3": {
+        "ground": "Les tropes britàniques van actuar immediatament i contundent.",
+        "transcript": "les tropes britaniques van actuar immediatament i contundent"
+    },
+    "ca_test_0/common_voice_ca_30859200.mp3": {
+        "ground": "Hi ha quatre tipus de malalties de Niemann-Pick en dues categories.",
+        "transcript": "hi ha quatre tipus de malalties de neiman pic en dues categories"
+    },
+    "ca_test_0/common_voice_ca_31420168.mp3": {
+        "ground": "Els espectadors van increpar l'àrbitre durant tot el partit.",
+        "transcript": "els espectadors van increpar a l'arbitre durant tot el partit"
+    },
+    "ca_test_0/common_voice_ca_30805717.mp3": {
+        "ground": "No us preocupeu, si us plau.",
+        "transcript": "no os preocupeu si us clau"
+    },
+    "ca_test_0/common_voice_ca_31236140.mp3": {
+        "ground": "S'han d'emplenar amb un material elàstic.",
+        "transcript": "sanden plenam un material elastic"
+    },
+    "ca_test_0/common_voice_ca_31018412.mp3": {
+        "ground": "Nosaltres vivim a Sant Isidre.",
+        "transcript": "nos altra vivim asamisia"
+    },
+    "ca_test_0/common_voice_ca_30929548.mp3": {
+        "ground": "N'he sentit la flaire d'una hora lluny.",
+        "transcript": "n'he sentir la flaira de una hora lluny"
+    },
+    "ca_test_0/common_voice_ca_38094654.mp3": {
+        "ground": "A la nit, tots dos sexes descansen sobre la vegetació.",
+        "transcript": "a la nite tots des seccesss descansentn sobre la vegetation"
+    },
+    "ca_test_0/common_voice_ca_37109346.mp3": {
+        "ground": "La Gran Depressió va afectar molt Bowie, com per tot arreu.",
+        "transcript": "la gran depressio va afectar molt bowi com per tot arreu"
+    },
+    "ca_test_0/common_voice_ca_38061283.mp3": {
+        "ground": "Dimecres en Nico anirà d'excursió.",
+        "transcript": "dimecres en nico a nidar d'excursion"
+    },
+    "ca_test_0/common_voice_ca_31011360.mp3": {
+        "ground": "És la portaveu nacional de la Campanya Internacional per a la Prohibició de les Mines Antipersones.",
+        "transcript": "es la portaveu nacional de la campanya internacional per a la prohibici de les mines antipersones"
+    },
+    "ca_test_0/common_voice_ca_36822300.mp3": {
+        "ground": "El vint-i-tres de maig na Thaís i na Blau aniran a Benidoleig.",
+        "transcript": "el vint-i-tres de maig natais i nablau aniran a venidoleig"
+    },
+    "ca_test_0/common_voice_ca_37633908.mp3": {
+        "ground": "Dema aniré a Oristà",
+        "transcript": "dema anire a orista"
+    },
+    "ca_test_0/common_voice_ca_20227727.mp3": {
+        "ground": "S'hi poden distingir dues cubetes bàsicament similars.",
+        "transcript": "s'hi poden distingir dues cobetes basicament similars"
+    },
+    "ca_test_0/common_voice_ca_31496946.mp3": {
+        "ground": "En Cody va néixer a Whittier, Califòrnia.",
+        "transcript": "an kodi va neixer a winter california"
+    },
+    "ca_test_0/common_voice_ca_17479762.mp3": {
+        "ground": "La confiança en si mateix i la capacitat per a tractar amb coses és madura i poc ansiosa; és flexible i segura.",
+        "transcript": "la confianca en si mateix i la capacitat per a tractar amb coses es madura i poc ansiosa es flexible i segura"
+    },
+    "ca_test_0/common_voice_ca_18362924.mp3": {
+        "ground": "Venim de Llardecans.",
+        "transcript": "venim te llar de cants"
+    },
+    "ca_test_0/common_voice_ca_40119049.mp3": {
+        "ground": "Utilitza tecnologies innovadores per a rehabilitar un edifici pilot ubicat a Lleida.",
+        "transcript": "utilitza tecnologies innovadores per a rehabilitar un edifici pilot ubicat a lleida"
+    },
+    "ca_test_0/common_voice_ca_37853104.mp3": {
+        "ground": "El Concili Vaticà segon no promulgà cap text definitori.",
+        "transcript": "el conselli vatica segon no promulga cap text definitori"
+    },
+    "ca_test_0/common_voice_ca_24026902.mp3": {
+        "ground": "I s'apropa la data d'un important campionat.",
+        "transcript": "i s'apropa la data d'un important campionat"
+    },
+    "ca_test_0/common_voice_ca_30847201.mp3": {
+        "ground": "Quant dura el viatge en autobús fins al Pilar de la Foradada?",
+        "transcript": "quant dura el viatge en autobs fins al pirar de la foradada"
+    },
+    "ca_test_0/common_voice_ca_31338351.mp3": {
+        "ground": "Marià Rodríguez i Vázquez va ser un sindicalista nascut a Barcelona.",
+        "transcript": "maria rodriguez i basqet va ser un sindicalista nascut a barsell"
+    },
+    "ca_test_0/common_voice_ca_30816653.mp3": {
+        "ground": "Aquesta vegada heu pecat de massa crèdul.",
+        "transcript": "aquesta vegada heu pacat de massa credul"
+    },
+    "ca_test_0/common_voice_ca_31089445.mp3": {
+        "ground": "Sobretot si sabia treure'n el profit que calia.",
+        "transcript": "sobretot si s'avia treure en el profit que calia"
+    },
+    "ca_test_0/common_voice_ca_38057674.mp3": {
+        "ground": "Un salt estableix que la pròxima instrucció executada sigui alguna adreça de la memòria.",
+        "transcript": "un salt estableix que la proxima instruccio executada sigui alguna adresa de la memoria"
+    },
+    "ca_test_0/common_voice_ca_23913588.mp3": {
+        "ground": "Firefox",
+        "transcript": "fi fox"
+    },
+    "ca_test_0/common_voice_ca_31550817.mp3": {
+        "ground": "És un tipus de literatura molt d'estil dels goliards i molt estesa per tot Europa.",
+        "transcript": "es un tipus de literatura molt d'estil dels goliards i molt estesa per tota europa"
+    },
+    "ca_test_0/common_voice_ca_31341766.mp3": {
+        "ground": "Al darrere de la casa fortificada s'hi troba la cova de Santa Cristina.",
+        "transcript": "al darrere de la casa fortificada s'hi troba la cova de santa cristina"
+    },
+    "ca_test_0/common_voice_ca_37893151.mp3": {
+        "ground": "Va ser substituïda per la Volta a Bolívia.",
+        "transcript": "va ser substituida per la volta a bolivia"
+    },
+    "ca_test_0/common_voice_ca_37642083.mp3": {
+        "ground": "La tensió entre els camperols conservatius i els obrers socialistes va continuar creixent.",
+        "transcript": "l'atencio entre els camparals conservatius i els obrers socialistes va continuar creixent"
+    },
+    "ca_test_0/common_voice_ca_38636207.mp3": {
+        "ground": "Els Barrufets.",
+        "transcript": "els barrufets"
+    },
+    "ca_test_0/common_voice_ca_36706013.mp3": {
+        "ground": "Ultra això, ha publicat diversos llibres.",
+        "transcript": "oltre aixo ha publicat diversos llibres"
+    },
+    "ca_test_0/common_voice_ca_37385543.mp3": {
+        "ground": "Et presento la gerent.",
+        "transcript": "atpresento la gerent"
+    },
+    "ca_test_0/common_voice_ca_37559368.mp3": {
+        "ground": "La carabassa no embarassa.",
+        "transcript": "la carabassa no embarassa"
     }
 }

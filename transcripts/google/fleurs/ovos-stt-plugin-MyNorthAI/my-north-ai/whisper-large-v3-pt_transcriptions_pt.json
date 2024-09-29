@@ -1,0 +1,14 @@
+{
+    "test/10008174856218516817.wav": {
+        "ground": "segundo informações ele estava na casa dos 20 anos em uma declaração bieber disse que embora eu não estivesse presente nem diretamente envolvido neste trágico incidente meus pensamentos e orações estão com a família da vítima",
+        "transcript": "Segundo informações, ele estava na casa dos vinte anos. Em uma declaração, Bieber disse que, embora eu não estivesse presente nem diretamente envolvido neste trágico incidente, meus pensamentos e orações estão com a família da vítima."
+    },
+    "test/10047022047800689031.wav": {
+        "ground": "construída pelos egípcios no século 3 a.c. a grande pirâmide é uma das muitas grandes estruturas de pirâmide construídas para honrar faraós mortos",
+        "transcript": "Construída pelos egípcios no século iii antes de cristo a grande pirâmide é uma das muitas grandes estruturas da pirâmide construídas para honrar faraós mortos."
+    },
+    "test/10083615766068544069.wav": {
+        "ground": "giancarlo fisichella perdeu o controle do carro e acabou a corrida logo após a largada",
+        "transcript": "Jean Carlos Fiziquela perdeu o controle do carro e acabou a corrida logo após a largada."
+    }
+}
