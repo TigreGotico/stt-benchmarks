@@ -230,5 +230,201 @@
     "ca_test_0/common_voice_ca_37038086.mp3": {
         "ground": "L'excepció són varietats rares de cacau blanc, en què les llavors es mantenen blanques.",
         "transcript": "l'excepció són varietats rares de cacau blanc en què les llavors es mantenen blanques"
+    },
+    "ca_test_0/common_voice_ca_37633908.mp3": {
+        "ground": "Dema aniré a Oristà",
+        "transcript": "demà aniré a oristar"
+    },
+    "ca_test_0/common_voice_ca_31344463.mp3": {
+        "ground": "Els ovaris són part de l'aparell reproductor femení.",
+        "transcript": "els ovaris són part de l'aparell reproductor femení"
+    },
+    "ca_test_0/common_voice_ca_37925252.mp3": {
+        "ground": "També va compondre per orquestra, grups de cambra, cor i veu solista.",
+        "transcript": "també va compondre per orquestra grups de cambra cor i veu solista"
+    },
+    "ca_test_0/common_voice_ca_30877426.mp3": {
+        "ground": "\"Escolta el que dic!\", va afirmar Brown, però.",
+        "transcript": "escolta el que dic va afirmar brown però"
+    },
+    "ca_test_0/common_voice_ca_37588764.mp3": {
+        "ground": "Posar-se a la raó.",
+        "transcript": "posar-se a la raó"
+    },
+    "ca_test_0/common_voice_ca_31373255.mp3": {
+        "ground": "Quin és el camí més curt per anar al carrer de Maspons i Labrós número seixanta-u?",
+        "transcript": "quin és el camí més curt per anar al carrer maspons i llabrós número seixanta-u"
+    },
+    "ca_test_0/common_voice_ca_38178260.mp3": {
+        "ground": "Divendres na Damià i na Mireia volen anar a Manacor.",
+        "transcript": "divendres nadamià i na mireia volen anar a monaco"
+    },
+    "ca_test_0/common_voice_ca_31550817.mp3": {
+        "ground": "És un tipus de literatura molt d'estil dels goliards i molt estesa per tot Europa.",
+        "transcript": "és un tipus de literatura molt d'estil dels goliards i molt estesa per tot europa"
+    },
+    "ca_test_0/common_voice_ca_38017274.mp3": {
+        "ground": "Les branques altes d'un arbre.",
+        "transcript": "les branques altes d'un arbre"
+    },
+    "ca_test_0/common_voice_ca_31420168.mp3": {
+        "ground": "Els espectadors van increpar l'àrbitre durant tot el partit.",
+        "transcript": "els espectadors van increpar a l'àrbitre durant tot el partit"
+    },
+    "ca_test_0/common_voice_ca_37403974.mp3": {
+        "ground": "Els tres absis són iguals llevat de la disposició de les finestres.",
+        "transcript": "els tres absis són iguals llevat de la disposició de les finestres"
+    },
+    "ca_test_0/common_voice_ca_38003720.mp3": {
+        "ground": "Quines parades fa l'autobús que va a l'Albagés?",
+        "transcript": "quines parades fa l'autobús que va a la belges"
+    },
+    "ca_test_0/common_voice_ca_31057417.mp3": {
+        "ground": "A quina hora passa el primer autobús per la Selva de Mar dimarts?",
+        "transcript": "a quina hora passa el primer autobús per la selva de mar dimarts"
+    },
+    "ca_test_0/common_voice_ca_18362924.mp3": {
+        "ground": "Venim de Llardecans.",
+        "transcript": "venim de llardicans"
+    },
+    "ca_test_0/common_voice_ca_31946757.mp3": {
+        "ground": "Dijous en Quintí i na Lara aniran a Benidorm.",
+        "transcript": "dijous en quin dia inhalada aniran a venir d'hora"
+    },
+    "ca_test_0/common_voice_ca_37863419.mp3": {
+        "ground": "Aquesta tònica varia en l'única cantonada visible, on s'observen carreus regulars mitjans i ben escairats.",
+        "transcript": "esta tònica varia en l'única cantonada visible on s'observen carreus regulars mitjans i ben escairats"
+    },
+    "ca_test_0/common_voice_ca_37837615.mp3": {
+        "ground": "Ventre afamat no té consciència.",
+        "transcript": "dentre el format no té consciència"
+    },
+    "ca_test_0/common_voice_ca_40119049.mp3": {
+        "ground": "Utilitza tecnologies innovadores per a rehabilitar un edifici pilot ubicat a Lleida.",
+        "transcript": " Utiliza tecnologies innovadores per a rehabilitar un edifici pilot ubicat a lleida"
+    },
+    "ca_test_0/common_voice_ca_37559368.mp3": {
+        "ground": "La carabassa no embarassa.",
+        "transcript": "la carabassa no embarassa"
+    },
+    "ca_test_0/common_voice_ca_20822641.mp3": {
+        "ground": "El futbol és el segon esport més popular al país per darrere del beisbol.",
+        "transcript": "el futbol és el segon esport més popular al país per darrere del beisbol"
+    },
+    "ca_test_0/common_voice_ca_32425720.mp3": {
+        "ground": "Per Cap d'Any en Cesc vol anar a Alins.",
+        "transcript": "per cap d'any en cesc vol anar a l'ins"
+    },
+    "ca_test_0/common_voice_ca_36507902.mp3": {
+        "ground": "Una novetat per al museu és una secció d'edat mitjana amb una cabanya reconstruïda amb una llar.",
+        "transcript": "una novetat per al museu és una secció d'edat mitjana amb una cabanya reconstruïda amb una llar"
+    },
+    "ca_test_0/common_voice_ca_30806616.mp3": {
+        "ground": "Hem de castigar només qui incompleix la llei o també els altres malfactors?",
+        "transcript": "hem de castigar només qui incompleix la llei o també els altres malfactors"
+    },
+    "ca_test_0/common_voice_ca_37581982.mp3": {
+        "ground": "Boca sense queixals, molí sense mola.",
+        "transcript": "boques sense queixals molí sense mola"
+    },
+    "ca_test_0/common_voice_ca_34365482.mp3": {
+        "ground": "Relatiu a les roques volcàniques vora la mar Bàltica.",
+        "transcript": "relatiu a les roques volcàniques vora la mar bàltica"
+    },
+    "ca_test_0/common_voice_ca_20941397.mp3": {
+        "ground": "Es va llicenciar en Filologia Anglesa i posteriorment es va especialitzar en Crítica literària.",
+        "transcript": "es va llicenciar en filologia anglesa i posteriorment es va especialitzar en crítica literària"
+    },
+    "ca_test_0/common_voice_ca_37764484.mp3": {
+        "ground": "Posteriorment, la unitat va estar desplegada al sector d'Alfambra, situada a l'avantguarda.",
+        "transcript": "posteriorment la unitat va estar desplegada al sector d'alfambra situada a la vanguarda"
+    },
+    "ca_test_0/common_voice_ca_38172638.mp3": {
+        "ground": "No. / —Amorra't al canó.",
+        "transcript": "no amorrat al canó"
+    },
+    "ca_test_0/common_voice_ca_31371274.mp3": {
+        "ground": "Fou ocupada pels vàndals i recuperada pels bizantins.",
+        "transcript": "fou ocupada pels vandals i recuperada pels bizantins"
+    },
+    "ca_test_0/common_voice_ca_38094654.mp3": {
+        "ground": "A la nit, tots dos sexes descansen sobre la vegetació.",
+        "transcript": "a la nit tots dos sexes descansant sobre la vegetació"
+    },
+    "ca_test_0/common_voice_ca_30862305.mp3": {
+        "ground": "Per poder restablir la circulació amb normalitat, la prioritat era la seguretat.",
+        "transcript": "per poder restablir la circulació amb normalitat la prioritat era la seguretat"
+    },
+    "ca_test_0/common_voice_ca_30830073.mp3": {
+        "ground": "Aquí n'esmentem dos.",
+        "transcript": "aquí n'esmentem dos"
+    },
+    "ca_test_0/common_voice_ca_31393801.mp3": {
+        "ground": "Molts homes.",
+        "transcript": "molts homes"
+    },
+    "ca_test_0/common_voice_ca_30927601.mp3": {
+        "ground": "En quin estat de conservació es troben els fòssils?",
+        "transcript": "en quin estat de conservació es troben els fòssils"
+    },
+    "ca_test_0/common_voice_ca_30816653.mp3": {
+        "ground": "Aquesta vegada heu pecat de massa crèdul.",
+        "transcript": "aquesta vegada heu pecat de massa crèdul"
+    },
+    "ca_test_0/common_voice_ca_37917897.mp3": {
+        "ground": "Els pets de monja també són originaris de Barcelona.",
+        "transcript": "els pets de monja també són originaris de barcelona"
+    },
+    "ca_test_0/common_voice_ca_30861445.mp3": {
+        "ground": "Quan les van \"destruir\" fins deixar-les \"a trossos\", l'acte va ser condemnat.",
+        "transcript": "quan les van destruir fins deixar-les a trossos l'acte va ser condemnat"
+    },
+    "ca_test_0/common_voice_ca_31858540.mp3": {
+        "ground": "Si no tingués tants neguits.",
+        "transcript": "si no tingués tants neguits"
+    },
+    "ca_test_0/common_voice_ca_31019561.mp3": {
+        "ground": "L'entrevista es reprodueix al llibre de Lunn \"Memory to Memory\".",
+        "transcript": "l'entrevista es reprodueix al llibre del loon memory to memory"
+    },
+    "ca_test_0/common_voice_ca_38183652.mp3": {
+        "ground": "Va pujar el nivell de vida i va sorgir una classe mitjana.",
+        "transcript": "va pujar el nivell de vida i va sorgir una classe mitjana"
+    },
+    "ca_test_0/common_voice_ca_36956844.mp3": {
+        "ground": "Els mascles han d'haver estat convenientment castrats.",
+        "transcript": "els mascles han d'haver estat convenientment castrats"
+    },
+    "ca_test_0/common_voice_ca_30815399.mp3": {
+        "ground": "La taula estava ferma en la porta inestable.",
+        "transcript": "la taula estava ferma en la porta inestable"
+    },
+    "ca_test_0/common_voice_ca_37583208.mp3": {
+        "ground": "A la clara.",
+        "transcript": "hola claro"
+    },
+    "ca_test_0/common_voice_ca_30894522.mp3": {
+        "ground": "Per a excursions d'un dia també hi ha disponibles atraccions de la regió de Campos Gerais.",
+        "transcript": "per excursions d'un dia també hi ha disponibles atraccions de la regió de campus gerais"
+    },
+    "ca_test_0/common_voice_ca_37789991.mp3": {
+        "ground": "Hauries de ser un idiota per no veure-ho des del principi.",
+        "transcript": "hauries de ser un idiota per no veure-ho des del principi"
+    },
+    "ca_test_0/common_voice_ca_30799560.mp3": {
+        "ground": "Ten la corda amb totes dues mans i no l'amollis per res del món.",
+        "transcript": "tén la corda amb totes dues mans i no la mullis per res del món"
+    },
+    "ca_test_0/common_voice_ca_38425655.mp3": {
+        "ground": "Llavors es podia continuar l'execució, des del punt desitjat.",
+        "transcript": "llavors es podia continuar l'execució des del punt desitjat"
+    },
+    "ca_test_0/common_voice_ca_34487836.mp3": {
+        "ground": "L'objectiu final de les vies és que l'escalador arribi al capdamunt del bloc de roca.",
+        "transcript": "l'objectiu final de les vies és que l'esquelet arriba al capdamunt del bloc de roca"
+    },
+    "ca_test_0/common_voice_ca_38053773.mp3": {
+        "ground": "Les tropes britàniques van actuar immediatament i contundent.",
+        "transcript": "les tropes britàniques van actuar immediatament i contundent"
     }
 }
