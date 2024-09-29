@@ -2,10 +2,10 @@
 # WER: ovos-stt-plugin-mms
 |dataset/model|mms-1b-all|
 |-|-|
-| voxpopuli | 0.0964 |
-| fleurs | 0.1282 |
+| voxpopuli | 0.0963 |
+| fleurs | 0.1327 |
 | Libriheavy-HQ | 0.1655 |
 | peoples_speech | 0.2228 |
 | gigaspeech | 0.241 |
-| common_voice_17_0 | 0.2633 |
+| common_voice_17_0 | 0.2623 |
 | supreme-court-speech | 0.3734 |
