@@ -1,0 +1,46 @@
+{
+    "pt_test_0/common_voice_pt_23825479.mp3": {
+        "ground": "Quatro pessoas estão tocando instrumentos?, incluindo uma mulher vestida de preto tocando uma flauta.",
+        "transcript": "Quatro pessoas estão tocando instrumentos? incluindo uma mulher vestida de preto tocando uma flauta."
+    },
+    "pt_test_0/common_voice_pt_22776534.mp3": {
+        "ground": "Ele trabalha nessa área.",
+        "transcript": "Ele trabalha nessa área."
+    },
+    "pt_test_0/common_voice_pt_35032765.mp3": {
+        "ground": "Aprendendo muito, mestre de nada.",
+        "transcript": "Vai, agora a produção começa! Um a zero pra te aflar!"
+    },
+    "pt_test_0/common_voice_pt_37406298.mp3": {
+        "ground": "Cortaram a cabeça dela e o resto dos membros",
+        "transcript": "Cortaram a cabeça dela e o resto dos membros."
+    },
+    "pt_test_0/common_voice_pt_36470085.mp3": {
+        "ground": "Este facto dificulta a possível divulgação da mensagem valenciana.",
+        "transcript": "Esse facto dificulta a possível divulgação da mensagem valenciana."
+    },
+    "pt_test_0/common_voice_pt_36094300.mp3": {
+        "ground": "Mas foi tudo vão.",
+        "transcript": "Mas foi tudo em vão?"
+    },
+    "pt_test_0/common_voice_pt_37145079.mp3": {
+        "ground": "naloxona, sublingual, pílula, diluentes impróprios, esterilizados, psicossociais, buprenorfina",
+        "transcript": "Naloxona, sublingual, pílula, diluentes impróprias, esterilizados, psicos sociais, buprenorfina"
+    },
+    "pt_test_0/common_voice_pt_39844267.mp3": {
+        "ground": "Isto anda lixado!",
+        "transcript": "Isto anda lixado."
+    },
+    "pt_test_0/common_voice_pt_34082686.mp3": {
+        "ground": "Bolo é uma mentira.",
+        "transcript": "Bolo é uma mentira."
+    },
+    "pt_test_0/common_voice_pt_27283586.mp3": {
+        "ground": "Se esta primeira condição for satisfeita, é sensata, forte e ágil.",
+        "transcript": "Se esta familiar condição for satisfeita, sensata, forte e ágil"
+    },
+    "pt_test_0/common_voice_pt_27156502.mp3": {
+        "ground": "Já é uma sorte que você é poupado de um acidente.",
+        "transcript": "Já é uma sorte você é poupado de um acidente."
+    }
+}

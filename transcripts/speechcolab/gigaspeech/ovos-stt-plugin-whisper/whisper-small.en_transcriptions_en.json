@@ -1,0 +1,886 @@
+{
+    "test_chunks_0000/YOU1000000134_S0000042.wav": {
+        "ground": "ONE OF THEIR STANFORD PROFESSORS USED TO SAY <COMMA> WELL <COMMA> THE DIFFERENCE BETWEEN THE TWO OF THEM WAS THAT SERGEI WOULD JUST BURST INTO MY OFFICE WITHOUT ASKING <PERIOD> LARRY WOULD KNOCK AND THEN BURST IN <PERIOD>",
+        "transcript": " 1."
+    },
+    "test_chunks_0000/YOU1000000117_S0000062.wav": {
+        "ground": "UM ONE OF THOSE THINGS COMES FROM A REFOCUS THAT YOU REALLY NEED TO PROTECT YOU OWN MENTAL HEALTH NEEDS DURING THIS TIME <PERIOD>",
+        "transcript": " 1 of those things comes from a refocus that you really need to protect your own mental health needs during this time."
+    },
+    "test_chunks_0000/YOU1000000153_S0000050.wav": {
+        "ground": "YEAH WE REALLY WANT TO CAPITALIZE ON THE VIEW AND BRING IN AS MUCH NATURAL LIGHT AS POSSIBLE FOR A TINY HOUSE <PERIOD> I THINK IT'S A BIT SMALL <PERIOD> I CAN FEEL EVEN SMALLER IF IT DOESN'T HAVE THAT NATURAL LIGHT <PERIOD> AND THAT JUST MAKES A FEW AREA BRIGHTENED <PERIOD> DOES IT MAKE YOU FEEL SO CLAUSTROPHOBIC I THINK <PERIOD>",
+        "transcript": " Yeah, we really wanted to capitalise on the view and bring in as much natural light as possible for a tiny house. I think if it's small, it can feel even smaller if it doesn't have that natural light and that just makes it feel airy and bright and doesn't make you feel so claustrophobic, I think."
+    },
+    "test_chunks_0000/YOU1000000129_S0000002.wav": {
+        "ground": "IN TODAY'S VIDEO WILL EXPLORE HOW ONE SCOTTISH IMMIGRANT ARMED WITH JUST FIVE YEARS OF SCHOOLING WOULD RISE FROM POVERTY TO THE STATUS OF THE WORLD'S RICHEST MAN <PERIOD>",
+        "transcript": " In today's video, we'll explore how one Scottish immigrant armed with just five years of schooling would rise from poverty to the status of the world's richest man."
+    },
+    "test_chunks_0000/POD1000000036_S0000018.wav": {
+        "ground": "DO YOU THINK THERE'S A CHANCE WE'LL SEE COMPANIES BASICALLY DEFAULTING TO JUST NOT COLLECTING ANY DATA LIKE THIS AH AH AT THE RISK OF IT SOMEHOW BEING REGULATED IN THE FUTURE <QUESTIONMARK>",
+        "transcript": " Do you think there's a chance we'll see companies basically defaulting to just not collecting any data like this at the risk of it somehow being regulated in the future?"
+    },
+    "test_chunks_0000/YOU1000000039_S0000103.wav": {
+        "ground": "ONCE THEY ARRIVED IN CAMP <COMMA> THEY MET UP WITH SCOTT <COMMA> AND THEIR YOUTH HUNTER <COMMA> GRACIE PATE <PERIOD> GRACIE'S THIRTEEN AND HAS TAGGED A FEW DEER BUT NEVER BEEN ABLE TO TAG A TURKEY <PERIOD>",
+        "transcript": " Once they arrived in camp, they met up with Scott and their youth hunter, Gracie Pate. Gracie's 13 and has tagged a few deer, but never been able to tag a turkey."
+    },
+    "test_chunks_0000/YOU1000000147_S0000005.wav": {
+        "ground": "THESE BABIES PROBABLY AREN'T PART OF YOUR TYPICAL FRIDAY NIGHT DINNER <COMMA> THERE ARE MANY VARIETIES OF THIS LEGENDARY DELICACY <COMMA> BUT JUST ONE CAN BE NAMED THE LITERAL KING OF ALL OYSTERS <PERIOD>",
+        "transcript": " These babies probably aren't part of your typical Friday night dinner. There are many varieties of this legendary delicacy, but just one can be named the literal king of all oysters."
+    },
+    "test_chunks_0000/YOU1000000122_S0000081.wav": {
+        "ground": "THAT SAID ASTRONOMY IS FACING A TIDAL WAVE OF DATA <PERIOD>",
+        "transcript": " That said, astronomy is facing a total wave of data."
+    },
+    "test_chunks_0000/POD1000000046_S0001220.wav": {
+        "ground": "YEAH <PERIOD>",
+        "transcript": " Yeah."
+    },
+    "test_chunks_0000/POD1000000019_S0000386.wav": {
+        "ground": "BECAUSE <COMMA> OF COURSE <COMMA> SHE DID <PERIOD> ALSO THE REVIEW WAS FROM NINETEEN SIXTY-NINE <COMMA> SO IT MAKES SO MUCH MORE SENSE <COMMA> KNOWING THAT IT CAME FROM THAT TIME <PERIOD>",
+        "transcript": " because of course she did. Also the review was from 1969 so it makes so much more sense knowing that it came from that time"
+    },
+    "test_chunks_0000/POD1000000030_S0000022.wav": {
+        "ground": "THE PRICE OF THESE SHOES TO US AMATEURS OUT THERE AH <COMMA> IT SEEMS INCREDIBLY HIGH <PERIOD> IS IT SORT OF WHAT YOU WOULD EXPECT FOR A TOP-OF-THE-LINE RUNNING SHOE <QUESTIONMARK>",
+        "transcript": " The price of these shoes to us amateurs out there seems incredibly high. Is it sort of what you would expect for a top-of-the-line running shoe?"
+    },
+    "test_chunks_0000/YOU1000000043_S0000135.wav": {
+        "ground": "SO I HOPE I CAN JUST CANCEL THIS <COMMA> NO I CAN'T <COMMA> GO TO MY OVERLAYS <COMMA> OKAY <COMMA> HERE WE GO <PERIOD>",
+        "transcript": " So I hope I can just cancel this. No, I can't go to my overlays. Okay, here we go."
+    },
+    "test_chunks_0000/YOU1000000102_S0000127.wav": {
+        "ground": "ABOUT VARYING THE AMOUNT OF SPACE BETWEEN DIFFERENT LETTER COMBINATIONS <COMMA> ABOUT WHAT MAKES GREAT TYPOGRAPHY GREAT <PERIOD>",
+        "transcript": " about varying the amount of space between different letter combinations about what makes great typography great."
+    },
+    "test_chunks_0000/YOU1000000037_S0000602.wav": {
+        "ground": "THE GREEN POLISH <PERIOD>",
+        "transcript": " Green polish"
+    },
+    "test_chunks_0000/POD1000000046_S0001219.wav": {
+        "ground": "THIS IS A REALLY BIG DECISION FOR DANE TO MAKE <PERIOD>",
+        "transcript": " This is a really big decision for Dan to make."
+    },
+    "test_chunks_0000/POD1000000042_S0000701.wav": {
+        "ground": "YEAH <PERIOD>",
+        "transcript": " Yeah."
+    },
+    "test_chunks_0000/POD1000000044_S0000192.wav": {
+        "ground": "WELL <COMMA> AH SO I HAVE HAD TO ADVOCATE FOR MYSELF MY ENTIRE LIFE FROM A VERY YOUNG AGE AND NOBODY ADVOCATED FOR ME OR MY BROTHER <PERIOD>",
+        "transcript": " Well, so I have had to advocate for myself my entire life from a very young age and nobody advocated for me or my brother."
+    },
+    "test_chunks_0000/YOU1000000185_S0000069.wav": {
+        "ground": "AND MANUFACTURING NOT JUST FOR THEIR OWN COUNTRY OR THEIR OWN REGION BUT FOR OTHER PLACES IN THE WORLD <PERIOD> AND SO THAT'S WHAT MAKES US OPTIMISTIC IS THE MANY MANY CONVERSATIONS THAT WE'RE HAVING <PERIOD>",
+        "transcript": " and manufacturing not just for their own country or their own region, but for other places in the world. And so that's what makes us optimistic is the many, many conversations that we're having."
+    },
+    "test_chunks_0000/YOU1000000106_S0000053.wav": {
+        "ground": "WHAT WOULD YOU ORDER AT A DRIVE THROUGH <QUESTIONMARK>",
+        "transcript": " What would you order at a drive-thru?"
+    },
+    "test_chunks_0000/POD1000000011_S0000050.wav": {
+        "ground": "AND I WANT YOU GUYS TO HELP ME FILL IN THAT BLANK <PERIOD> WHAT DOES IT MEAN TO PROMOTE THE LOVE OF MATH EARLY ON <QUESTIONMARK>",
+        "transcript": " and I want you guys to help me fill in that blank. What does it mean to promote the love of math early on?"
+    },
+    "test_chunks_0000/YOU1000000105_S0000058.wav": {
+        "ground": "WHICH YOU KNOW HE DIRECTED THIS FILM AND HE DIRECTED ALL OF YOU KNOW OBVIOUSLY THE MUSICAL MOMENTS IN THE FILM <PERIOD>",
+        "transcript": " But you know, he directed this film, and he directed all of, you know, obviously the musical moments in the film."
+    },
+    "test_chunks_0000/YOU1000000164_S0000116.wav": {
+        "ground": "A GRIM FORESHADOWING OF THE MAJOR CONFLICT BREWING BETWEEN GENETICALLY ENHANCED PRIMATES AND HUMAN POPULATION DECIMATED BY THE SIMIAN FLU VIRUS <PERIOD>",
+        "transcript": " A grim foreshadowing of the major conflict, brewing between genetically enhanced primates and a human population decimated by the Simeon flu virus."
+    },
+    "test_chunks_0000/YOU1000000119_S0000029.wav": {
+        "ground": "WE CAN ALL AGREE THAT THE ADVENT OF THE INTERNET AND THE WORLD WIDE WEB HAS TRANSFORMED EVERY ASPECT OF OUR LIVES FROM STOCK MARKETS TO STREET CORNER FOOD TRUCKS <PERIOD>",
+        "transcript": " We can all agree that the advent of the internet and the world wide web has transformed every aspect of our lives from stock markets to street corner food trucks."
+    },
+    "test_chunks_0000/POD1000000046_S0000816.wav": {
+        "ground": "THAT'S NOT WHAT I CARE ABOUT OKAY I DON'T CARE ABOUT YOU GUYS HAVING A GOOD TIME THAT NIGHT <PERIOD>",
+        "transcript": " That's not what I care about. I don't care about you guys having a good time that night."
+    },
+    "test_chunks_0000/YOU1000000109_S0000004.wav": {
+        "ground": "RONALDO <PERIOD>",
+        "transcript": " Ronaldo"
+    },
+    "test_chunks_0000/YOU1000000037_S0000548.wav": {
+        "ground": "I MEAN I SHOWED YOU A SHORT CLIP AND YOU MAY HAVE SEEN ABOUT HALF OF THEM <PERIOD>",
+        "transcript": " I mean, I showed you a short clip and you may have seen about half of them."
+    },
+    "test_chunks_0000/YOU1000000144_S0000025.wav": {
+        "ground": "OH MY GOD <EXCLAMATIONPOINT>",
+        "transcript": " OH MY GOD"
+    },
+    "test_chunks_0000/YOU1000000117_S0000018.wav": {
+        "ground": "THEY REALLY SUGGEST THAT A LOT OF OUR RELATIONSHIP'S SUCCESS HAS TO TO WITH OUR EXPECTATIONS <PERIOD>",
+        "transcript": " They really suggest that a lot of our relationship success has to do with our expectations."
+    },
+    "test_chunks_0000/YOU1000000043_S0000143.wav": {
+        "ground": "IT'S NOT GONNA BE A SUPER PROFITABLE LONG TERM BUSINESS <COMMA> BUT IT COULD DEFINITELY MAKE YOU SOME QUICK CASH WITH THIS <PERIOD>",
+        "transcript": " It's not going to be a super profitable long-term business, but it could definitely make you some quick cash with this."
+    },
+    "test_chunks_0000/YOU1000000109_S0000093.wav": {
+        "ground": "HAS REDEEMED HIMSELF IN STYLE <PERIOD>",
+        "transcript": " has redeemed himself in style"
+    },
+    "test_chunks_0000/POD1000000045_S0000299.wav": {
+        "ground": "AND SO THEY TOOK ALL THESE FORMER SLAVES AND CHILDREN AND PUT THEM IN THESE TRAINING SCHOOLS TO BASICALLY KILL THE ZOMBIES THAT'S THEIR NEW JOB <PERIOD>",
+        "transcript": " And so they took all these former slaves and children and put them in these training schools to basically kill the zombies. That's their new job."
+    },
+    "test_chunks_0000/POD1000000019_S0000018.wav": {
+        "ground": "SELL MORE COPIES <PERIOD> EVEN IF YOU MANAGE TO DO THAT <COMMA> IT'S ONLY A MATTER OF TIME UNTIL YOU PUT OUT A SONG THAT ONLY GOES TO NUMBER TWO OR NUMBER FIVE <PERIOD>",
+        "transcript": " Sell more copies. Even if you manage to do that, it's only a matter of time until you put out a song that only goes to number 2 or number 5."
+    },
+    "test_chunks_0000/YOU1000000112_S0000104.wav": {
+        "ground": "DID HE TRIP HIM <QUESTIONMARK>",
+        "transcript": " Did he trip him?"
+    },
+    "test_chunks_0000/POD1000000045_S0000076.wav": {
+        "ground": "OH MY GOSH WE'RE GONNA MAKE IT THROUGH THIS TOGETHER <PERIOD> BUT I MEAN IT'S DOLLY SINGING BUT ALSO SHE HAS A GOSPEL CHOIR BACKING HER UP IT IS SO GOOD <PERIOD>",
+        "transcript": " Oh my gosh, we're gonna make it through this together, but I mean, it's Dolly singing, but also she has a gospel choir backing her up. It is so good."
+    },
+    "test_chunks_0000/POD1000000013_S0000017.wav": {
+        "ground": "I CAME FROM VERY RELIGIOUS BACKGROUND <COMMA> WHERE VALUES WERE VERY IMPORTANT <PERIOD>",
+        "transcript": " I came from a very religious background where values were very important."
+    },
+    "test_chunks_0000/YOU1000000162_S0000033.wav": {
+        "ground": "SO EFFECTIVENESS OF THESE EARBUDS <PERIOD> IT HAS TO BE HAVE TO IN CORRELATION TO THIS PARTICULAR DEVICE <PERIOD>",
+        "transcript": " So the effectiveness of either of these earbuds has to be in correlation to this particular device."
+    },
+    "test_chunks_0000/YOU1000000103_S0000179.wav": {
+        "ground": "EXPERTS SAY PATIENTS SHOULD ADVOCATE FOR THEMSELVES AND ASK THEIR PRIMARY CARE DOCTORS IF IT'S RIGHT FOR THEM <PERIOD>",
+        "transcript": " Experts say patients should advocate for themselves and ask their primary care doctors if it's right for them."
+    },
+    "test_chunks_0000/POD1000000043_S0000060.wav": {
+        "ground": "MATH <COMMA> SCIENCE <PERIOD>",
+        "transcript": " Math Science"
+    },
+    "test_chunks_0000/YOU1000000155_S0000057.wav": {
+        "ground": "MINUS THE REPAIR COST SO EXAMPLE IF A HOLE WOULD SELL FOR THREE HUNDRED GRAND ALL FIXED UP AND THE PROPERTY NEEDED FIFTY GRAND WORTH OF WORK TO GET THERE <PERIOD>",
+        "transcript": " minus the repair cost. So, example, if a hole would sell for 300 grand, all fixed up, and the property needed a 50 grand worth of work to get there,"
+    },
+    "test_chunks_0000/POD1000000019_S0000132.wav": {
+        "ground": "HERE <COMMA> ON JEANNIE'S SIDE <COMMA> SHE WANTS TO LISTEN TO HARPER VALLEY P T A BEFORE SHE AGREES TO ANYTHING <PERIOD> HER MANAGER <COMMA> PAUL PERRY <COMMA> THINKS SHE'S CRAZY FOR NOT GETTING ON BOARD <COMMA> SIGHT UNSEEN <COMMA> BUT HE BRINGS HER A TAPE <PERIOD> SHE DOESN'T LIKE THE SONG <PERIOD>",
+        "transcript": " Here on Genie's side, she wants to listen to Harper Valley PTA before she agrees to anything. Her manager Paul Perry thinks she's crazy for not getting on board, sight unseen, but he brings her a tape. She doesn't like the song."
+    },
+    "test_chunks_0000/YOU1000000037_S0000576.wav": {
+        "ground": "I'M SERIOUS I MEAN RIVER WHY PHYSICS <PERIOD> I'LL TELL YOU WHERE SHE IS <PERIOD>",
+        "transcript": " I'm serious, I mean, Riverwife is... I'll tell you where she is."
+    },
+    "test_chunks_0000/YOU1000000127_S0000023.wav": {
+        "ground": "AND THE COVID NINETEEN PANDEMIC COULD SOON DRIVE AN ANOTHER FORTY MILLION PEOPLE IN SUB-SAHARAN AFRICA INTO EXTREME POVERTY <PERIOD>",
+        "transcript": " And the COVID-19 pandemic could soon drive another 40 million people in Sub-Saharan Africa into extreme poverty."
+    },
+    "test_chunks_0000/YOU1000000033_S0000201.wav": {
+        "ground": "AND THAT'S SOMEWHAT NEW <PERIOD> YOU KNOW WHAT I MEAN <PERIOD> WE WE'VE ALWAYS DONE THAT OVERSEAS IN DIFFERENT PLACES <COMMA> BUT I THINK HERE IN THE STATES <COMMA> YOU YOU HAVE DONE IT MORE THAN THE REST OF US <COMMA> BUT IT SEEMS LIKE THE DOORS ARE KIND OF THROWN WIDE OPEN <COMMA> BECAUSE THEY ARE RECOGNIZING IT <PERIOD>",
+        "transcript": " and"
+    },
+    "test_chunks_0000/YOU1000000134_S0000195.wav": {
+        "ground": "THE ULTIMATE BIG BROTHER WAS ABOUT TO PUT THEIR DON'T BE EVIL PHILOSOPHY TO THE TEST <PERIOD>",
+        "transcript": " The Ultimate Big Brother was about to put their Don't Be Evil philosophy to the test."
+    },
+    "test_chunks_0000/YOU1000000116_S0000036.wav": {
+        "ground": "DO YOU REGULATE OR DEREGULATE HOW DOES THAT AFFECT THE OVERALL PROACTIVITY WHEN YOU DO THESE SO ITS POLICY <PERIOD>",
+        "transcript": " How does that affect the overall productivity when you do these?"
+    },
+    "test_chunks_0000/YOU1000000169_S0000188.wav": {
+        "ground": "THEY'RE BEING TRAINED TO DETECT THE EARLY WARNING SIGNALS FOR SEVERE ALLERGIC REACTIONS <COMMA> EPILEPTIC FITS AND NARCOLEPSY <PERIOD>",
+        "transcript": " They're being trained to detect the early warning signals for severe allergic reactions, epileptic fits and narcolepsy."
+    },
+    "test_chunks_0000/POD1000000021_S0000226.wav": {
+        "ground": "LET'S SAY GOOD BYE TO ME AND HELLO TO WE <PERIOD>",
+        "transcript": " Let's say goodbye to me and hello to we."
+    },
+    "test_chunks_0000/POD1000000040_S0000854.wav": {
+        "ground": "BUT WE'VE I HAVEN'T SEEN HOW MANY BOOTS <PERIOD>",
+        "transcript": " But I obviously don't have any boots."
+    },
+    "test_chunks_0000/YOU1000000160_S0000094.wav": {
+        "ground": "ETHER WAY WE'RE ALL EXCITED FOR THE NEXT GENERATION OF GAMING <PERIOD>",
+        "transcript": " Either way, we're all excited for the next generation of gaming."
+    },
+    "test_chunks_0000/YOU1000000043_S0000101.wav": {
+        "ground": "BUT THIS BUCKET IS AUTOMATICALLY FILLED BY STORIES FROM YOUR CONTENT STREAMS WHEN YOU SET THOSE UP AS WELL <PERIOD>",
+        "transcript": " but this bucket is automatically filled by stories from your content streams when you set those up as well."
+    },
+    "test_chunks_0000/YOU1000000157_S0000037.wav": {
+        "ground": "WHAT TIME OF DAY WAS IT <PERIOD>",
+        "transcript": " What time of day was it?"
+    },
+    "test_chunks_0000/YOU1000000144_S0000071.wav": {
+        "ground": "SORRY TO SAY THAT WE'RE MELT <PERIOD> WELL <COMMA> ANOTHER GRENADE <COMMA> PLEASE <PERIOD> FOR THE LOVE OF GOD <COMMA> SOMETHING THEY CAN STOP <PERIOD>",
+        "transcript": " As long as they're winning Raul well, another grenade please for the love of god somebody may get stopped"
+    },
+    "test_chunks_0000/YOU1000000165_S0000008.wav": {
+        "ground": "FOLLOWING A ROUGHLY FIVE YEAR STRETCH IN THE LATE NINETIES AND EARLY TWO THOUSANDS <COMMA> THAT SAW ROBERT DOWNEY JUNIOR LOST TO ADDICTION <PERIOD> HE GOT CLEAN AND BEGAN REBUILDING HIS CAREER <PERIOD>",
+        "transcript": " Following a roughly five year stretch in the late 90s and early 2000s that saw Robert Downey Jr. lost to addiction, he got clean and began rebuilding his career."
+    },
+    "test_chunks_0000/YOU1000000136_S0000146.wav": {
+        "ground": "YEAH SO BUT THERE IS AN ICE BIT OF CROCKERY THAT ISN'T IT LOOKS LIKE THEY LIVE PRETTY WELL <PERIOD>",
+        "transcript": " Yeah. So, I mean, it's a nice bit of crockery that, isn't it? It looks like they live pretty well."
+    },
+    "test_chunks_0000/YOU1000000121_S0000061.wav": {
+        "ground": "LET'S ADD ARMS <COMMA> RIGHT LEG RIGHT ARM <COMMA> LEFT LEG LEFT ARM <PERIOD>",
+        "transcript": " Let's add arms. Right leg, right arm. Left leg, left arm."
+    },
+    "test_chunks_0000/YOU1000000124_S0000125.wav": {
+        "ground": "AMONG WE GOT A BIGGER COMPUTER AND MORE DATA IT WORKED <COMMA> NOW THERE IS IN TECHNICAL THINGS TOO BUT IT WAS MAINLY THE INCREASING COMPUTER SPEED AND DATA SIZE THAT MATTER <PERIOD>",
+        "transcript": " and when we got a bigger computer and more data, it worked. Now there are some technical things too, but it was mainly the increasing computer speed and data size that mattered."
+    },
+    "test_chunks_0000/POD1000000039_S0000161.wav": {
+        "ground": "COMPLETE DISRESPECT FOR WHAT THEY WERE GIVEN THESE WERE FANCY CLOTHES GIVEN TO THE PLAYERS BY A PROUD U S SOCCER FEDERATION BACKING MORE OPTIMISTIC DAYS <PERIOD>",
+        "transcript": " These were fancy clothes given to the players by a proud US Soccer Federation back in more optimistic days."
+    },
+    "test_chunks_0000/POD1000000046_S0000805.wav": {
+        "ground": "SOMEBODY'S FUCKING BORING YOU'RE JUST LIKE AH MAN AND <PERIOD>",
+        "transcript": " Somebody's fucking boring you're just like, oh man and"
+    },
+    "test_chunks_0000/POD1000000005_S0000148.wav": {
+        "ground": "THAT'S LUDOVICA CESAREO <PERIOD> SHE'S A MARKETING PROFESSOR AT LEHIGH UNIVERSITY <PERIOD>",
+        "transcript": " That's Ludovica Cesario. She's a marketing professor at Lehigh University."
+    },
+    "test_chunks_0000/YOU1000000111_S0000124.wav": {
+        "ground": "LET'S GO TO DORIS <PERIOD>",
+        "transcript": " Let's go to Doris"
+    },
+    "test_chunks_0000/YOU1000000134_S0000053.wav": {
+        "ground": "IT WAS A EUREKA MOMENT THAT WOULD CHANGE THE SO-CALLED INFORMATION AGE <PERIOD>",
+        "transcript": " It was a eureka moment that would change the so-called information age."
+    },
+    "test_chunks_0000/YOU1000000150_S0000090.wav": {
+        "ground": "ENJOY THIS VIDEO PLEASE LIKE IT COMMENTS ON IT AND SHARE IT <PERIOD> ALSO CLICK ON OUR LOGO TO SUBSCRIBE TO THIS CHANNEL <PERIOD> AND IF YOU CLICK ON THE BOTTOM RIGHT HAND CORNER YOU CAN ACTUALLY WATCH MORE OF OUR CONTENT <PERIOD> MEANWHILE CLICK OVER TO THE RIGHT TO GO TO OUR DEALS PAGE TO SEE HOW MUCH MONEY YOU CAN SAVE ON A NEW CAR <PERIOD>",
+        "transcript": " If you enjoyed this video, please like it, comment on it and share it. Also, click on our logo to subscribe to this channel. And if you click on the bottom right hand corner, you can actually watch more of our content. Meanwhile, click over to the right to go to our deals page to see how much money you can save on a new car."
+    },
+    "test_chunks_0000/YOU1000000043_S0000048.wav": {
+        "ground": "NOW IN THIS COURSE I TEACH YOU EXACTLY HOW I MAKE BETWEEN TWO-HUNDRED AND FIVE-HUNDRED DOLLARS A DAY <COMMA> EVERY SINGLE DAY <COMMA> WITH AFFILIATE MARKETING <PERIOD>",
+        "transcript": " Now in this course I teach you exactly how I make between $200 and $500 a day every single day with affiliate marketing"
+    },
+    "test_chunks_0000/YOU1000000102_S0000172.wav": {
+        "ground": "AND LAUREEN AND I HAVE A WONDERFUL FAMILY TOGETHER <PERIOD>",
+        "transcript": " and Lorraine and I have a wonderful family together."
+    },
+    "test_chunks_0000/YOU1000000134_S0000130.wav": {
+        "ground": "BUSINESSES BIG AND SMALL COULD TAKE CONTROL OF THEIR ADVERTISING DOLLARS BY PURCHASING ADS KEY TO CERTAIN WORDS <PERIOD>",
+        "transcript": " Businesses big and small could take control of their advertising dollars by purchasing ads key to certain words."
+    },
+    "test_chunks_0000/POD1000000040_S0000412.wav": {
+        "ground": "AND COLORADO RIGHT YOUTA DIDN'T LOCKDOWN IN THE IN THE WAY THAT COLORADO DID AND THEY HAVE HALF THE NUMBERS OF WHAT COLORADO <PERIOD>",
+        "transcript": " Colorado"
+    },
+    "test_chunks_0000/POD1000000039_S0000025.wav": {
+        "ground": "WHAT DID I DO TO PISS OFF STEVE SAMPSON WHAT DID I SAY TO PISS OFF STEVE SAMPSON TO HAVE A PERSONAL THING AGAINST ME TO NOT EVEN CONSIDER ME AS A PLAYER TO BE ON THE STARTING ELEVEN <PERIOD>",
+        "transcript": " What did I do to piss off Steve Sampson? What did I say to piss off Steve Sampson? To have a personal thing against me? To not even consider me as a player? To be on the starting 11?"
+    },
+    "test_chunks_0000/POD1000000012_S0000321.wav": {
+        "ground": "SO THE IDEA HERE IS REMOVE OPPORTUNITIES FOR FRUSTRATION <COMMA> RIGHT <QUESTIONMARK> SO MAYBE WHEN THEY'RE WORKING ON THEIR HOMEWORK <COMMA> YOU KEEP THE VIDEO GAMES OUT OF SIGHT <PERIOD>",
+        "transcript": " Remove opportunities for frustration."
+    },
+    "test_chunks_0000/POD1000000042_S0000400.wav": {
+        "ground": "LITTLE BIT WE'LL SEE THAT YOU KNOW <PERIOD>",
+        "transcript": " Let me know in the comments below."
+    },
+    "test_chunks_0000/YOU1000000149_S0000011.wav": {
+        "ground": "AND MY ACNE WENT AWAY <PERIOD>",
+        "transcript": " And my acne went away."
+    },
+    "test_chunks_0000/POD1000000012_S0000237.wav": {
+        "ground": "AND IT'S IMPORTANT TO MAKE IT A HABIT <PERIOD>",
+        "transcript": " and it's important to make it a habit."
+    },
+    "test_chunks_0000/YOU1000000142_S0000065.wav": {
+        "ground": "SOMEBODY GONNA GET A HURT REAL BAD <EXCLAMATIONPOINT>",
+        "transcript": " Somebody gonna get a hurt real bad!"
+    },
+    "test_chunks_0000/POD1000000043_S0000038.wav": {
+        "ground": "IT'S JUST NICE TO SEE A GROUP OF PEOPLE CHEERING SCIENCE AND NOT TRYING TO BURN SCIENTISTS AT THE STAKE <PERIOD>",
+        "transcript": " It's just nice to see a group of people cheering science and not trying to burn scientists at the stake."
+    },
+    "test_chunks_0001/POD1000000015_S0000264.wav": {
+        "ground": "THANK YOU FOR LISTENING TO RADIO OMBUDSMAN <PERIOD> WE WOULD LOVE TO KNOW WHAT YOU THINK <COMMA> SO PLEASE LEAVE A REVIEW OR COMMENT <PERIOD>",
+        "transcript": " Thank you for listening to Radio Onwardsman. We would love to know what you think, so please leave a review or comment."
+    },
+    "test_chunks_0001/YOU1000000169_S0000086.wav": {
+        "ground": "ALADDIN AND FEATHER LOOK LIKE A SOLID COUPLE <PERIOD>",
+        "transcript": " Aladdin and Feather look like a solid couple."
+    },
+    "test_chunks_0001/YOU1000000108_S0000062.wav": {
+        "ground": "YEAH <PERIOD>",
+        "transcript": " Yeah."
+    },
+    "test_chunks_0001/YOU1000000154_S0000089.wav": {
+        "ground": "SO FIRE PIT <PERIOD> WE KNOW THAT YOU ARE A BIG FAN OF FIRE PITS AND THEY ARE EVERY SINGLE OF YOUR PROPERTIES I REMEMBER <PERIOD>",
+        "transcript": " So fire pit, we know that you are a big fan of fire pits and they are in every single one of your properties as a member."
+    },
+    "test_chunks_0001/POD1000000016_S0000133.wav": {
+        "ground": "AND SO THE COLONISTS GATHER <COMMA> AND THEY TRY TO FIGURE OUT THE LANGUAGE THAT THEY ARE GONNA CREATE IN THE FOUNDING DOCUMENT THAT WE <COMMA> OF COURSE <COMMA> COME TO KNOW AS THE CONSTITUTION <PERIOD> BUT NOW THEY HAVE A PROBLEM <PERIOD>",
+        "transcript": " And so the colonists gather and they try to figure out the language that they're going to create in the founding document that we of course come to know as the Constitution. But now they have a problem."
+    },
+    "test_chunks_0001/YOU1000000165_S0000171.wav": {
+        "ground": "YOU HAD A CAREER DAD <COMMA> BEFORE THE THIRD COMIC BOOK MOVIE <COMMA> BEFORE PEOPLE STARTED TO FORGET WHO WAS INSIDE THAT BIRD COSTUME <PERIOD>",
+        "transcript": " You had a career dad before the third comic book movie. Before people started to forget who was inside that bird costume."
+    },
+    "test_chunks_0001/POD1000000028_S0000156.wav": {
+        "ground": "WE'VE FELT WATCHED ALL THE TIME <PERIOD>",
+        "transcript": " We fail to watch all the time."
+    },
+    "test_chunks_0001/POD1000000046_S0000706.wav": {
+        "ground": "DO YOU WANT US TO ASK HER HERE TODAY <QUESTIONMARK> LIKE <PERIOD> FORGET THE YOUTUBE OR SHADOW BAN ON YOUTUBE BUT THIS AUDIO GOES OUT TO LIKE THREE POINT EIGHT MILLION PEOPLE SO LIKE YEAH WE CAN MAKE IT HAPPEN <PERIOD>",
+        "transcript": " Do you want us to ask her here today? Like, forget the YouTube or Shadowband on YouTube, but this audio goes out to like 3.8 million people, so like, yeah, I mean, we can make this happen."
+    },
+    "test_chunks_0001/YOU1000000149_S0000082.wav": {
+        "ground": "BUT TODAY'S A GOOD DAY <COMMA> SO GLAD THAT YOU'RE HERE WITH ME <COMMA> WE'RE BRONZING NOW <PERIOD>",
+        "transcript": " But today's a good day, so I'm glad that you're here with me. We're bronzing now."
+    },
+    "test_chunks_0001/YOU1000000136_S0000398.wav": {
+        "ground": "IT'S NOT JUST HIM HE'S GOT AT LEAST THREE OTHER COLLEAGUES WHO WERE IN THIS CONSPIRACY IF YOU LIKE WITH HIM THE GERMANS HAD A A SABOTAGE PLAN WHICH THEY'VE GOT TO PUT IN PLACE IF THERE WAS INDEED AN ALLIED LANDING AND THEY'VE GOT A QUITE AN ELABORATE PLAN HERE FOR SHOOTING THEIR OWN OFFICES <PERIOD>",
+        "transcript": " It's not just him. He's got at least three other colleagues who are in this conspiracy, if you like, with him. The Germans had a sabotage plan which they've got to put in place if there was indeed an Allied landing. And they've got quite an elaborate plan here for shooting their own officers."
+    },
+    "test_chunks_0001/YOU1000000139_S0000015.wav": {
+        "ground": "I COULD IMMEDIATELY UNDERSTAND THAT HE DIDN'T BELIEVE HE COULD DEFEND THIS POSITION AND THAT'S EVERYTHING IT'S ABOUT YOUR CONFIDENCE THAT YOU CAN EITHER WIN OR DEFEND AND THAT WILL MAKES ALL THE DIFFERENCE FOR THE OUTCOME OF THE GAME <PERIOD>",
+        "transcript": " I could immediately understand that he didn't believe he could defend this position. And that's everything. It's about your confidence that you can either win or defend. And that will make all the difference for the outcome of the game."
+    },
+    "test_chunks_0001/POD1000000012_S0000418.wav": {
+        "ground": "YEAH <PERIOD> MARTIAL ARTS <COMMA> MUSIC <COMMA> YOGA <COMMA> EVEN LEARNING A FOREIGN LANGUAGE <PERIOD>",
+        "transcript": " Yeah, martial arts, music, yoga, even learning a foreign language."
+    },
+    "test_chunks_0001/POD1000000041_S0000489.wav": {
+        "ground": "AH HEY HER MAJESTY LET ME GET A MAIN CRAZY BUT DON'T TRIM THE CLAWS ACTUALLY PUT SOME PUT SOME CLAW STANDS TO THE SHARPEN THAT CLAW <PERIOD> HER MAJESTY ONE TIME FOR YOUR BOY <PERIOD>",
+        "transcript": " Hey Her Majesty, let me get a manklesi but don't trim the claws actually put some put some clock Stands for me sharpen that claw Her Majesty one time for your boy"
+    },
+    "test_chunks_0001/YOU1000000108_S0000146.wav": {
+        "ground": "AND <PERIOD>",
+        "transcript": " and"
+    },
+    "test_chunks_0001/YOU1000000128_S0000074.wav": {
+        "ground": "SO I <COMMA> PLEASE BE PATIENT <PERIOD>",
+        "transcript": " Please be patient."
+    },
+    "test_chunks_0001/YOU1000000117_S0000189.wav": {
+        "ground": "UM LINDSEY ASKS IN YOUR COURSE WE LEARNED ABOUT HOW EXPERIENCES AND NOT THINGS MAKE US HAPPY <PERIOD>",
+        "transcript": " Lindsay asks, in your course we learned about how experiences and not things make us happy."
+    },
+    "test_chunks_0001/YOU1000000120_S0000017.wav": {
+        "ground": "IT'S ACTUALLY A KINGS LANGLEY SCHOOL BAG <PERIOD>",
+        "transcript": " is actually a King Langley school band."
+    },
+    "test_chunks_0001/YOU1000000115_S0000223.wav": {
+        "ground": "SOMEHOW A CONTRACT IS BROKEN IN A WAY THAT REDUCES DEBT <PERIOD> LENDERS WOULD RATHER HAVE A LITTLE OF SOMETHING THAN ALL OF NOTHING <PERIOD>",
+        "transcript": " Somehow, a contract is broken in a way that reduces debt. Lenders would rather have a little of something than all of nothing."
+    },
+    "test_chunks_0001/YOU1000000177_S0000010.wav": {
+        "ground": "OTHER STUDIES HAVE EVEN SHOWN THAT THE RATE OF FAT BEING BURNED WHILE DRINKING CAFFEINE CAN IMPROVE BY TEN PERCENT IN OBESE INDIVIDUALS AND TWENTY-NINE PERCENT IN LEAN INDIVIDUALS <PERIOD>",
+        "transcript": " Other studies have even shown that the rate of fat being burned while drinking caffeine can improve by 10% in obese individuals and 29% in lean individuals."
+    },
+    "test_chunks_0001/YOU1000000169_S0000165.wav": {
+        "ground": "THE DAY I WAS PICKED UP FROM THE HOSPITAL <PERIOD>",
+        "transcript": " The day I was picked up from the hospital."
+    },
+    "test_chunks_0001/YOU1000000158_S0000005.wav": {
+        "ground": "SHE HAS NINE VIOLATIONS <COMMA> NINE RED LIGHTS AND SPEEDING <PERIOD>",
+        "transcript": " She has nine violations, nine red lights and speeding."
+    },
+    "test_chunks_0001/YOU1000000103_S0000144.wav": {
+        "ground": "NOW TO OUR N B C NEWS EXCLUSIVE YOUR FIRST TOUR OF PRESIDENT BIDEN'S NEWLY REVAMPED OVAL OFFICE PETER ALEXANDER TAKES US INSIDE <PERIOD>",
+        "transcript": " Now to our NBC News exclusive, your first tour of President Biden's newly revamped Oval Office. Peter Alexander takes us inside."
+    },
+    "test_chunks_0001/POD1000000045_S0000233.wav": {
+        "ground": "WHEN I WAS JUST RESEARCHING FOR THAT EPISODE WHICH WE HAD TO DO A REALLY QUICK TURNAROUND FROM THAT I LEARNED SO MUCH WAS LIKE OH MY GOSH I HAD NO IDEA ABOUT ANY OF THIS AND <PERIOD>",
+        "transcript": " When i was just researching for that episode which we had to do a really quick turnaround on that i learned so much was like oh my gosh i had no idea about any of this and."
+    },
+    "test_chunks_0001/YOU1000000101_S0000208.wav": {
+        "ground": "HE SENT MONTHLY CHECKS FOR LIFE TO AN EMPLOYEE WAS ILL AND COULDN'T WORK <PERIOD> HE PROVIDES NURSING CARE FOR THE CHILDREN OF MOTHERS WHO WORK IN THE STORES <PERIOD>",
+        "transcript": " He sent monthly checks for life to an employee who was ill and couldn't work. He provides nursing care for the children of mothers who work in the stores."
+    },
+    "test_chunks_0001/POD1000000042_S0000095.wav": {
+        "ground": "AND AND THAT YOUR DUTY TO THE NEXT GENERATION OF MILITARY LEADERS DOMINANT <PERIOD>",
+        "transcript": " And that's your duty to the next generation of military leaders coming in."
+    },
+    "test_chunks_0001/YOU1000000021_S0000066.wav": {
+        "ground": "ZACK AGREES <COMMA> BUT HE'S SWEPT AWAY BEFORE HE CAN ASK FURTHER QUESTIONS <PERIOD> HE'S DELIVERED TO SEPHIROTH <COMMA> WHO'S ALSO HELPING ANGEAL <COMMA> AS THEY FIGHT GENESIS WHOM THEY SUSPECT IS BEING USED BY HOLLANDER TO KILL ANOTHER NOTORIOUS SCIENTIST WITHIN SHINRA <COMMA> HOJO <PERIOD>",
+        "transcript": " Zack agrees, but is swept away before he can ask further questions. He's delivered to Sephiroth, who's also helping Angeal, as they fight Genesis, whom they suspect is being used by Hollander to kill another notorious scientist within Shinra, Hojo."
+    },
+    "test_chunks_0001/POD1000000015_S0000206.wav": {
+        "ground": "AND IT'S SATISFACTORY IN THE SENSE OF <COMMA> I THINK <COMMA> IT IS GOOD THAT THE FUNDING DOESN'T COME FROM GOVERNMENT <PERIOD>",
+        "transcript": " and it's satisfactory in the sense of I think it is good that the funding doesn't come from government."
+    },
+    "test_chunks_0001/YOU1000000141_S0000134.wav": {
+        "ground": "BUT I THOUGHT I WAS BULLET PROOF <COMMA> SOCK <COMMA> GENIUS <PERIOD> SOCK <PERIOD> SOCK <COMMA> HAMPER <COMMA> SOCK <COMMA> HAMPER <PERIOD> ALL WEEK <COMMA> SOCK <COMMA> HAMPER <PERIOD>",
+        "transcript": " But I thought I was bulletproof. Sock. Genius. Sock. Sock. Hamper. Sock. Hamper. All week. Sock. Hamper."
+    },
+    "test_chunks_0001/POD1000000040_S0000775.wav": {
+        "ground": "HUNG WITH US HUNG IN WITH US OVER THIS COVID TIMES GREATLY APPRECIATED <PERIOD> SO ALL THE AH MEN AND WOMEN <COMMA> FIRST RESPONDERS <COMMA> OUR SERVICE AH YEAH MEN AND WOMEN AH HAPPY HOLIDAYS GOD BLESS APPRECIATE YOUR SERVICE AND AH THANKS YOU HAVING ME ON GUYS <PERIOD>",
+        "transcript": " on the"
+    },
+    "test_chunks_0001/POD1000000040_S0000627.wav": {
+        "ground": "YEAH I'D SEEN HIS LAND A COUPLE OF INCHES JUST LIKE WALKING AROUND ON HIS LAND I MEAN THAT'S WHERE YOU KNOW THAT'S THAT'S WHAT I WANT MY KIDS TO DO I GOT TWO TWIN I GOT MY TWIN BOYS WHO ARE JUST ABSOLUTE MANIACS LIKE I WAS WHEN I WAS A KID AND AH <PERIOD>",
+        "transcript": " the"
+    },
+    "test_chunks_0001/POD1000000005_S0000391.wav": {
+        "ground": "THAT'S NOT GETTING TOSSED OUT <PERIOD>",
+        "transcript": " That's not getting tossed out."
+    },
+    "test_chunks_0001/POD1000000043_S0000216.wav": {
+        "ground": "WE NEED THE MODERNA APPROVAL TO COME THROUGH <COMMA> CUZ THAT COULD BE STORED AT MORE REGULAR TEMPERATURES AND THAT WILL I THINK HELP <PERIOD>",
+        "transcript": " We need the Moderna approval to come through because that can be stored at more regular temperatures and that will I think help."
+    },
+    "test_chunks_0001/POD1000000012_S0000171.wav": {
+        "ground": "I DON'T KNOW WHAT YOU'RE TALKING ABOUT <COMMA> CORY <PERIOD>",
+        "transcript": " I didn't know what you were talking about, Cory."
+    },
+    "test_chunks_0001/YOU1000000021_S0000101.wav": {
+        "ground": "AS THEIR MISSION IN MENTIONS NOTHING OF THEIR OLD FRIENDS <COMMA> SEPHIROTH PRIVATELY CONFESSES TO ZACK THAT HE'S SERIOUSLY CONSIDERING LEAVING SHINRA AS WELL <COMMA> DEPENDING ON WHAT HAPPENS IN THIS MISSION <PERIOD>",
+        "transcript": " As their mission in mentions nothing of their old friends, Sephiroth privately confesses to Zach that he's seriously considering leaving Shinra as well, depending on what happens in this mission."
+    },
+    "test_chunks_0001/YOU1000000173_S0000033.wav": {
+        "ground": "AND THE A A V SEVEN IS THE ASSAULT VEHICLE THAT CAN HANDLE BOTH <PERIOD>",
+        "transcript": " And the AAV-7 is the assault vehicle that can handle both."
+    },
+    "test_chunks_0001/POD1000000012_S0000376.wav": {
+        "ground": "AND I'M SO PROUD OF YOU <COMMA> COOKIE MONSTER <PERIOD>",
+        "transcript": " And I'm so proud of you, Cookie Monster."
+    },
+    "test_chunks_0001/POD1000000043_S0000304.wav": {
+        "ground": "BUT LIKE I DON'T SEE AN OPTION BESIDES WINNING THE HOUSE OR HOLDING THE HOUSE IN TWENTY TWENTY-TWO <PERIOD>",
+        "transcript": " But like, I don't see an option besides winning the house or holding the house in 2022."
+    },
+    "test_chunks_0001/YOU1000000163_S0000004.wav": {
+        "ground": "IT CAME WITH THE BEST SPECS YOU CAN GET ON A SMARTWATCH TODAY <PERIOD>",
+        "transcript": " It came with the best specs you could get on a smartwatch today."
+    },
+    "test_chunks_0001/YOU1000000143_S0000056.wav": {
+        "ground": "I READ SO MUCH ABOUT AMERICAN HISTORY THAT I STARTED TO HARBOR WHITE GOAT <PERIOD>",
+        "transcript": " I read so much about American history that I started to harbor white guilt."
+    },
+    "test_chunks_0001/POD1000000012_S0000414.wav": {
+        "ground": "THERE IS A LONG LIST OF THINGS THEY CAN DO THAT WILL HELP <PERIOD>",
+        "transcript": " There is a long list of things they can do that will help."
+    },
+    "test_chunks_0001/YOU1000000160_S0000029.wav": {
+        "ground": "THE PLAYSTATION NOW SERVICE HAS AN AFFORDABLE OPTION OF PLAYERS ARE WILLING TO PAY FOR A WHOLE YEAR UPFRONT <PERIOD>",
+        "transcript": " The PlayStation Now service has an affordable option if players are willing to pay for a whole year up front."
+    },
+    "test_chunks_0001/YOU1000000186_S0000038.wav": {
+        "ground": "RIGHT <PERIOD>",
+        "transcript": " Right."
+    },
+    "test_chunks_0001/YOU1000000169_S0000118.wav": {
+        "ground": "FOR LOLA HERE HOW CLOSE HAS SHE BEEN TO A POLAR BEAR <QUESTIONMARK>",
+        "transcript": " For Lola here, how close has she been to a polar bear?"
+    },
+    "test_chunks_0001/YOU1000000161_S0000053.wav": {
+        "ground": "YOU CAN GO AROUND WITH IT <COMMA> YEAH <PERIOD>",
+        "transcript": " Yeah."
+    },
+    "test_chunks_0001/POD1000000011_S0000184.wav": {
+        "ground": "YEAH <PERIOD>",
+        "transcript": " Yeah"
+    },
+    "test_chunks_0001/YOU1000000173_S0000145.wav": {
+        "ground": "THESE FOUR BY FOUR VEHICLES RUN ON CUMMIN'S DIESEL ENGINES CAPABLE OF OVER FOUR HUNDRED HORSEPOWER IN THE MOST POWERFUL TRIM <PERIOD>",
+        "transcript": " These 4x4 vehicles run on Cummins diesel engines capable of over 400 horsepower in the most powerful trim."
+    },
+    "test_chunks_0001/POD1000000021_S0000160.wav": {
+        "ground": "BUT HE ALSO BUILT BRIDGES AND HOSPITALS AND PAID FOR IT ALL WITH MONEY HE PRIED FREE FROM THE BIG OIL COMPANIES <PERIOD>",
+        "transcript": " But he also built bridges and hospitals, and paid for it all with money he'd pride-free from the big oil companies."
+    },
+    "test_chunks_0001/YOU1000000027_S0000012.wav": {
+        "ground": "SO FOR EXAMPLE <COMMA> I FEEL LAZY AND UNMOTIVATED TODAY <COMMA> BUT I LOVE MYSELF ANYWAY <COMMA> OR I DON'T ALWAYS FEEL PRETTY OR CONFIDENT WHEN I'M IN A SOCIAL SETTING <COMMA> BUT I LOVE MYSELF ANYWAY <PERIOD>",
+        "transcript": " So, for example, I feel lazy and unmotivated today, but I love myself anyway. Or I don't always feel pretty or confident when I'm in a social setting, but I love myself anyway."
+    },
+    "test_chunks_0001/YOU1000000119_S0000072.wav": {
+        "ground": "TO PREVENT THIS TRUST VIOLATION WE NEED TO SEEK THE HELP OF PEOPLE AROUND US <COMMA> LISA <COMMA> ALLISON AND FRANCIS <PERIOD>",
+        "transcript": " To prevent this trust violation, we need to seek the help of people around us, Lisa, Alison and Francis."
+    },
+    "test_chunks_0001/POD1000000021_S0000018.wav": {
+        "ground": "EDWARDS SERVED EIGHT YEARS ON CORRUPTION CHARGES <PERIOD>",
+        "transcript": " nword served eight years on corruption charges."
+    },
+    "test_chunks_0001/POD1000000030_S0000006.wav": {
+        "ground": "WE GOT HOLD OF IAIN HUNTER <COMMA> PROFESSOR OF EXERCISE SCIENCE AT BRIGHAM YOUNG UNIVERSITY <COMMA> AS HE WAS WITH ATHLETES TRAINING AT B Y U'S INDOOR TRACK <PERIOD> HE TOLD US THE SHOES WORK BY COMBINING FOAM IN THE SOLE WITH A CARBON FIBER PLATE <PERIOD>",
+        "transcript": " We got a hold of Ian Hunter, Professor of Exercise Science at Brigham Young University, as he was with some athletes training at BYU's indoor track. He told us the shoes work by combining foam in the sole with a carbon fibre plate."
+    },
+    "test_chunks_0001/YOU1000000126_S0000141.wav": {
+        "ground": "AND I REALLY LIKE THAT EVERYONE IN MY CLASSROOM AH DIGITAL CLASSROOM NOW GETS TO PARTICIPATE <PERIOD>",
+        "transcript": " and I really like that everyone in my classroom, digital classroom, now gets to participate."
+    },
+    "test_chunks_0001/POD1000000013_S0000055.wav": {
+        "ground": "AND HAD TAKEN ON FREEDOM OF INFORMATION <COMMA> WHICH WAS SO EXCITING <PERIOD>",
+        "transcript": " and had taken on freedom of information which was so exciting."
+    },
+    "test_chunks_0001/YOU1000000039_S0000193.wav": {
+        "ground": "WHY <QUESTIONMARK> WHY DIDN'T I JUST POINT THE GUN DOWN THE LOGGING ROAD <QUESTIONMARK> WHEN WE GOT HERE AND I SEEN THEM COMING UP THE ROAD <COMMA> I WAS LIKE <PERIOD>",
+        "transcript": " Why didn't I just point the gun down the logging road? When we got here and I seen him coming up the road I was like"
+    },
+    "test_chunks_0001/YOU1000000007_S0000062.wav": {
+        "ground": "TOP COMMENT AS WELL IN THE DESCRIPTION CLICK ON THERE AND ACTUALLY A MEMBER OF OUR TEAM WILL HELP YOU GET YOUR FIRST WEEK CAMPAIGN COMPLETELY SET UP <PERIOD>",
+        "transcript": " top comment as well as in the description. Click on there and actually a member of our team will help you get your first lead campaign completely set up."
+    },
+    "test_chunks_0001/POD1000000012_S0000023.wav": {
+        "ground": "WHY AND NO <PERIOD> AND WHY ME DO THAT <QUESTIONMARK>",
+        "transcript": " Why? And why didn't you do that?"
+    },
+    "test_chunks_0001/POD1000000028_S0000052.wav": {
+        "ground": "AN UNBELIEVABLE SEVEN PERFECT TENS ALL TOGETHER <PERIOD> AND IN THE INDIVIDUAL ALL AROUND <COMMA> NADIA WON THE GOLD MEDAL <COMMA> A FIRST FOR ROMANIA <PERIOD>",
+        "transcript": " An unbelievable seven perfect tens all together. And in the individual all around, Nadia won the gold medal, a first for Romania."
+    },
+    "test_chunks_0001/POD1000000041_S0000193.wav": {
+        "ground": "IS IT SMALL <QUESTIONMARK>",
+        "transcript": " Is it small?"
+    },
+    "test_chunks_0001/POD1000000044_S0000153.wav": {
+        "ground": "THAT'S WHEN I STARTED QUESTIONING AND STARTED TO REALIZE THAT I WAS COACHED TO BRAINWASHED <PERIOD>",
+        "transcript": " That's when I started questioning and started to realize that I was coached or brainwashed."
+    },
+    "test_chunks_0001/POD1000000043_S0000053.wav": {
+        "ground": "AND I SAW THAT I WAS LIKE OH OH OKAY <COMMA> I AH <COMMA> YOU KNOW YOU WISHING IS NOT GONNA MAKE THAT HAPPEN AND AND WHAT WAS STRIKING TO ME AND SEEING THE TRUCKS <COMMA>",
+        "transcript": " and"
+    },
+    "test_chunks_0001/YOU1000000166_S0000012.wav": {
+        "ground": "GRUMPY YODA <PERIOD> DARTH VADER <PERIOD>",
+        "transcript": " Grandpioda Darth Vader"
+    },
+    "test_chunks_0001/POD1000000042_S0000641.wav": {
+        "ground": "THE THING IS UNLESS THAT HAPPENS BY EXECUTIVE ORDER NOTHING'S GONNA HAPPEN <PERIOD>",
+        "transcript": " Nothing is going to happen unless it happens by executive order."
+    },
+    "test_chunks_0001/YOU1000000134_S0000001.wav": {
+        "ground": "I SAID <COMMA> MISTER GATES <PERIOD> WHAT IS YOUR NIGHTMARE <QUESTIONMARK> AND I THOUGHT HE WOULD SAY APPLE OR NETSCAPE OR ORACLE <PERIOD> AND HE SAID <COMMA> I'LL TELL YOU WHAT I WORRY ABOUT <PERIOD>",
+        "transcript": " I said, Mr. Gates, what is your nightmare? And I thought he would say Apple or Netscape or Oracle. And he said, I'll tell you what I worry about."
+    },
+    "test_chunks_0001/YOU1000000041_S0000014.wav": {
+        "ground": "SO <COMMA> IF YOU'VE ENJOYED THIS VIDEO <COMMA> GIVE IT A BIG THUMBS UP <EXCLAMATIONPOINT> GO SUBSCRIBE <PERIOD> THERE A RED BUTTON THERE <PERIOD> IT SAYS SUBSCRIBE ON IT <PERIOD> GO HIT IT <COMMA> YOU'LL BE SUBSCRIBED <PERIOD> AND DEFINITELY WHACK THAT NOTIFICATION BELL BESIDE IT SO YOU'RE NOTIFIED EVERY TIME THERE'S A NEW VIDEO <PERIOD>",
+        "transcript": " So if you've enjoyed this video, give it a big thumbs up. Go subscribe, there's a red button there, so subscribe on it. Go hit it, give it a subscribe and definitely whack that notification bell beside it so that you're notified every time there's a new video."
+    },
+    "test_chunks_0001/YOU1000000123_S0000087.wav": {
+        "ground": "BUT AH THAT'S A SIGN OF A <COMMA> OF AH <PERIOD>",
+        "transcript": " But that's a sign of"
+    },
+    "test_chunks_0001/YOU1000000117_S0000251.wav": {
+        "ground": "AND YOU KINDA JUST NEED TO BE NICE TO YOURSELF AND STOP FEELING GUILTY <PERIOD>",
+        "transcript": " and you kind of just need to be nice to yourself and stop feeling guilty."
+    },
+    "test_chunks_0001/YOU1000000173_S0000089.wav": {
+        "ground": "NUMBER THIRTEEN <PERIOD> L V S R WRECKER <PERIOD>",
+        "transcript": " Number 13. LVSR Wrecker"
+    },
+    "test_chunks_0001/POD1000000046_S0000063.wav": {
+        "ground": "WE CAN SETTLE IN THE FRONT YARD OR YOU CAN GET FUCKED <PERIOD>",
+        "transcript": " We can settle in the front yard, or you can get fucked."
+    },
+    "test_chunks_0001/YOU1000000144_S0000094.wav": {
+        "ground": "RUN BOOST <PERIOD> SIMPLE TRYING TO INVITE THE SHOT TRYING TO GET INFORMATION BEFORE AND EXPOSING TOO MUCH OF THEMSELVES <PERIOD>",
+        "transcript": " Run Boost, simple, trying to invite a shot, trying to get information before exposing too much of himself."
+    },
+    "test_chunks_0001/YOU1000000136_S0000453.wav": {
+        "ground": "IT'S RATHER RATHER LIKE THE WORDS AT THE CEREMONY OF THE CENOTAPH ISN'T IT YOU KNOW THEY SHALL NOT GROW OLD IT'S A STICK SEEING THE PHOTO BIT YEAH <PERIOD>",
+        "transcript": " It's rather like the words at the ceremony, at the céloteuf, isn't it? You know, they shall not grow old. It sticks in your throat a bit."
+    },
+    "test_chunks_0001/YOU1000000143_S0000048.wav": {
+        "ground": "WHAT'S THE SECOND AMENDMENT <QUESTIONMARK> REALLY LIKE AH <PERIOD>",
+        "transcript": " Once in the second amendment, we're like, awwww"
+    },
+    "test_chunks_0001/YOU1000000005_S0000078.wav": {
+        "ground": "LET ME KNOW HOW YOU'RE USING THIS TRACKING AND HOW IT'S WORKED FOR YOU <COMMA> ALRIGHT <PERIOD> HOPE THIS HELPS YOU OUT <COMMA> I WILL SEE YOU ALL NEXT WORDPRESS WEDNESDAY <PERIOD> PLEASE BE SURE TO LIKE AND SUBSCRIBE <PERIOD> BYE YOU GUYS <PERIOD>",
+        "transcript": " Let me know how you're using this tracking and how it's worked for you. Alright, hope this helps y'all. I will see y'all next WordPress Wednesday. Please be sure to like and subscribe. Bye, you guys."
+    },
+    "test_chunks_0001/YOU1000000131_S0000013.wav": {
+        "ground": "OF WHICH HE ONLY GOT A SMALL FRACTION AS COMMISSIONS <COMMA> BUT STILL IT WAS A HUGE SUCCESS <PERIOD> EVERY BANK IN CLEVELAND WAS BEGGING JOHN TO BORROW MONEY AND HE WAS BARELY EIGHTEEN YEARS OLD <PERIOD> BUT THEN <COMMA> IN EIGHTEEN FIFTY-NINE <PERIOD>",
+        "transcript": " of which he only got a small fraction as commissions, but still it was a huge success. Every bank in Cleveland was begging John to borrow money, and he was barely 18 years old. But then in 1859,"
+    },
+    "test_chunks_0001/YOU1000000101_S0000139.wav": {
+        "ground": "THEY ONLY USE THE TERM INSURANCE TO SELL IT TO THE PEOPLE <PERIOD> AND THEY SAID SOCIAL SECURITY DUES ARE A TAX FOR THE GENERAL USE OF THE GOVERNMENT <PERIOD>",
+        "transcript": " They only use the term insurance to sell it to the people. And they said Social Security dues are a tax for the general use of the government."
+    },
+    "test_chunks_0001/YOU1000000160_S0000091.wav": {
+        "ground": "LET'S JUST SAY THAT CHRISTMAS BREAK TWENTY-TWENTY WILL BE FILLED WITH A WHOLE LOT OF GAMES <PERIOD> WOW <EXCLAMATIONPOINT> WHAT A BATTLE BETWEEN SOME JUGGERNAUTS <PERIOD>",
+        "transcript": " Let's just say that Christmas Break 2020 will be filled with a whole lot of games. Wow, what a battle between some juggernauts!"
+    },
+    "test_chunks_0001/POD1000000021_S0000066.wav": {
+        "ground": "THAT'S FOR SURE <PERIOD> BUT AS SOME PEOPLE SAID <COMMA> IT'S HARD TO BE PROPER AND HAVE A REAL GOOD TIME <PERIOD>",
+        "transcript": " That's for sure. But as some people said, it's hard to be proper and have a real good time."
+    },
+    "test_chunks_0001/YOU1000000037_S0000388.wav": {
+        "ground": "LUMPY DOG LUMPY DOG WARNING PLEASE DON'T LET THE FROGS <PERIOD> THAT IS ALWAYS A GOOD IDEA <PERIOD> LUMPY DOG PLEASE DON'T LOOK AT THE FROGS <PERIOD>",
+        "transcript": " Lumpy Dog Warning Please don't lick the frogs. That is always a good idea. Lumpy Dog Please don't lick the frogs."
+    },
+    "test_chunks_0001/YOU1000000115_S0000237.wav": {
+        "ground": "GOVERNMENTS NATURALLY RAISE TAXES ON THE WEALTHY WHICH FACILITATES A REDISTRIBUTION OF WEALTH IN THE ECONOMY FROM THE HAVES TO THE HAVE-NOTS <PERIOD>",
+        "transcript": " governments naturally raise taxes on the wealthy which facilitates a redistribution of wealth in the economy from the haves to the have-nots."
+    },
+    "test_chunks_0001/YOU1000000039_S0000075.wav": {
+        "ground": "BUT THROUGH PATTERNING AND EXPERIENCE <COMMA> I WAS FULLY CONFIDENT SHE'D TAKE THAT TOM DOWN <PERIOD>",
+        "transcript": " But through patterning and experience, I was fully confident she'd take that tom down."
+    },
+    "test_chunks_0001/YOU1000000161_S0000131.wav": {
+        "ground": "OLYMPICS <PERIOD>",
+        "transcript": " Olympics"
+    },
+    "test_chunks_0001/YOU1000000164_S0000065.wav": {
+        "ground": "NEARLY SEVEN HUNDRED AND SEVENTY-FIVE MILLION IN BOX OFFICE RECEIPTS LATER <PERIOD>",
+        "transcript": " Nearly 775 million inbox Office receipts later"
+    },
+    "test_chunks_0001/POD1000000040_S0000717.wav": {
+        "ground": "GO AHEAD MAN <PERIOD>",
+        "transcript": " Go ahead man."
+    },
+    "test_chunks_0001/YOU1000000135_S0000075.wav": {
+        "ground": "SO REGARDLESS OF THE STRUGGLES ELON MIGHT BE FACING TODAY <COMMA> IT'S WORTH KNOWING THAT TEN YEARS AGO HE OVERCAME THE IMPOSSIBLE <PERIOD>",
+        "transcript": " So regardless of the struggles Elon might be facing today, it's worth knowing that 10 years ago, he overcame the impossible."
+    },
+    "test_chunks_0001/YOU1000000043_S0000040.wav": {
+        "ground": "NOW WITH FACEBOOK RETARGETING YOU HAVE THE CHANCE TO RECAPTURE THOSE PEOPLE <COMMA> GET THEM ONTO YOUR EMAIL LIST OR AH GET THEM TO BUY A PRODUCT FROM YOU AND THIS WILL DEFINITELY DOUBLE YOUR RESULTS <PERIOD>",
+        "transcript": " Facebook retargeting, you have the chance to recapture those people, get them onto your email list or get them to buy a product from you. And this will definitely double your results."
+    },
+    "test_chunks_0001/POD1000000042_S0000165.wav": {
+        "ground": "AH THE PUBLICANS ARE ARE ARE ARE LIKE LAIN IN WAIT BUT THEY GOT SOME THEY ARE JUST THEY JUST EERIE FEELING BUT MY WHOLE TAKE AWAY FROM THIS AS ONE PEOPLE NEED TO BE JUST SO LESS POLARIZED <PERIOD>",
+        "transcript": " The Republicans are like laying in wait, but they've got some. There's just this eerie feeling. But my whole takeaway from this is one, people need to be just so less polarized."
+    },
+    "test_chunks_0001/YOU1000000005_S0000073.wav": {
+        "ground": "SO AS YOU CAN SEE <COMMA> YOU CAN RESOURCE THAT FREE GOOGLE TOOL <COMMA> CREATE THOSE LITTLE EXTENSIONS ON TO YOUR REGULAR DOMAIN LINK <PERIOD>",
+        "transcript": " So as you can see, you can resource that free Google tool, create those little extensions onto your regular domain link"
+    },
+    "test_chunks_0001/YOU1000000126_S0000118.wav": {
+        "ground": "THIS DROVE IN ONLINE EDUCATION HAS BEEN A LONG TERM TREND BUT ONLY ACCELERATED BY COVID <PERIOD>",
+        "transcript": " This growth in online education has been a long-term trend, but only accelerated by COVID."
+    },
+    "test_chunks_0001/POD1000000041_S0000184.wav": {
+        "ground": "I KNOW RIGHT <PERIOD>",
+        "transcript": " I know right?"
+    },
+    "test_chunks_0001/YOU1000000102_S0000093.wav": {
+        "ground": "SO WHY'D I DROP OUT <QUESTIONMARK>",
+        "transcript": " So why'd I drop out?"
+    },
+    "test_chunks_0001/POD1000000046_S0000087.wav": {
+        "ground": "WHAT I WAS GONNA DO I WAS GONNA BRING MY PHONE PUT IT ON UM VOICE MEMO YEAH AND HAVE THE ENTIRE CONVERSATION WITH JAKE AND DIANE AND POSSIBLY AL THE MANAGER <PERIOD>",
+        "transcript": " was"
+    },
+    "test_chunks_0001/POD1000000044_S0000373.wav": {
+        "ground": "BUT OF COURSE <COMMA> THERE IS MORE <PERIOD>",
+        "transcript": " But of course there's more."
+    },
+    "test_chunks_0001/YOU1000000124_S0000148.wav": {
+        "ground": "AND THE THING IS DID <COMMA> BY TWO THOUSAND AND FIFTEEN THE ERROR RATE ON ENGINEERING WAS SEVENTY-FIVE PERCENT <COMMA> WHICH IS ABOUT THE HUMAN ERROR RIGHT AND NOW IT'S DOWN TO THREE PERCENT <PERIOD> YOU CAN SEE THE CREDIBILITY THERE <PERIOD>",
+        "transcript": " And the thing is, by 2015 the error rate on the internet was down to 5%, which is about the human error rate. And now it's down to 3%. It's incredibly different."
+    },
+    "test_chunks_0001/POD1000000045_S0000372.wav": {
+        "ground": "THERE'S A HUGE WRITING CONFERENCE IN DALLAS FORT WORTH CALLED D F W CON IT'S A BIG WRITING CONFERENCE AND <PERIOD>",
+        "transcript": " There's a huge writing conference in Dallas Fort Worth called DFW con and it's a big writing conference and"
+    },
+    "test_chunks_0001/YOU1000000139_S0000013.wav": {
+        "ground": "THAT WAS THE CRUCIAL MOMENT BECAUSE I COULD LOOK AT HIS EYES I COULD LOOK AT HIS BODY AND HE LOOKED DOOMED <PERIOD>",
+        "transcript": " That was the crucial moment because I could look at his eyes, I could look at his body, and he looked doomed."
+    },
+    "test_chunks_0001/POD1000000040_S0000448.wav": {
+        "ground": "WE'VE BEEN ON THIS SLIPPERY SLOPE FOR A NUMBER OF YEARS NOW PROBABLY TWENTY-FIVE YEARS WHERE AH POLITICAL CORRECTNESS HAS HAS ROBBED OF US OF OUR ABILITY TO LEARN HOW TO DO CONFLICT RESOLUTION PARTICULARLY THE YOUNG AGE <PERIOD>",
+        "transcript": " If we've been on this slippery slope for a number of years now, probably 25 years, where political correctness has robbed of our ability to learn how to do conflict resolution, particularly at a young age,"
+    },
+    "test_chunks_0001/YOU1000000161_S0000059.wav": {
+        "ground": "THIS IS NOT MY FAVORITE JORDAN <PERIOD>",
+        "transcript": " This is not my favorite Jordan."
+    },
+    "test_chunks_0001/YOU1000000101_S0000149.wav": {
+        "ground": "TO BE EXCUSED UPON PRESENTATION OF EVIDENCE THAT HE HAD MADE PROVISION FOR THE NON-EARNING YEARS <PERIOD>",
+        "transcript": " To be excused upon presentation of evidence that he had made provision for the non-earning years?"
+    },
+    "test_chunks_0001/YOU1000000001_S0000067.wav": {
+        "ground": "SO <COMMA> THANKS AGAIN FOR WATCHING PETE'S R V T V WITH RANDY TODAY <PERIOD>",
+        "transcript": " Thanks again for watching Pizza RV TV with Randy today."
+    },
+    "test_chunks_0001/YOU1000000144_S0000076.wav": {
+        "ground": "OH MY GOD <PERIOD>",
+        "transcript": " Oh my god"
+    },
+    "test_chunks_0001/YOU1000000124_S0000021.wav": {
+        "ground": "THAT'S WHY WE START AND THAT'S WHAT ALMOST EVERYBODY KNOW HAPPENING <PERIOD>",
+        "transcript": " That's what I was taught. And that's what almost everybody now believes."
+    },
+    "test_chunks_0001/YOU1000000117_S0000195.wav": {
+        "ground": "ALL THE RESEARCH AND PSYCHOLOGY SUGGEST THAT WE CAN HARNESS THESE NEW SITUATIONS TO FORM NEW DIFFERENT HABITS <PERIOD>",
+        "transcript": " All the research in psychology suggests that we can harness these new situations to form new different habits."
+    },
+    "test_chunks_0001/POD1000000005_S0000329.wav": {
+        "ground": "IN ADDITION TO REPORTING ON THE RUNWAYS OF PARIS AND NEW YORK <COMMA> GIVHAN OFTEN WRITES ABOUT WHAT FASHION SAYS ABOUT HOW WE LIVE NOW <PERIOD>",
+        "transcript": " In addition to reporting on the runways of Paris and New York, Givant often writes about what fashion says about how we live now."
+    },
+    "test_chunks_0001/YOU1000000039_S0000061.wav": {
+        "ground": "YEAH <PERIOD> THEY LOOK KIND OF BLUISH <PERIOD>",
+        "transcript": " Yeah, they look kinda bluish."
+    },
+    "test_chunks_0001/YOU1000000136_S0000179.wav": {
+        "ground": "AH SO IT IT MAKES YOU FEEL A LITTLE BIT SICK I SUPPOSE <PERIOD>",
+        "transcript": " So it makes you feel a little bit sick, I suppose."
+    },
+    "test_chunks_0001/YOU1000000117_S0000207.wav": {
+        "ground": "AND SO I THINK BEFORE THOSE EXPERIENCES YOU KNOW <COMMA> GET REALLY CREATIVE <COMMA> AND <COMMA> AND THAT CAN BE WITH YOUR KIDS BUT IT CAN ALSO WITH YOUR SPOUSES <PERIOD>",
+        "transcript": " and so I think for those experiences, you know, get really creative and that can be with your kids, but it can also be with your spouses."
+    },
+    "test_chunks_0001/YOU1000000043_S0000021.wav": {
+        "ground": "AND THEN MODEL YOUR OWN HEADLINES BASED ON THOSE HEADLINES <COMMA> YOU'LL BE ABLE TO TAKE A SHORTCUT AND DO THIS IN JUST MINUTES <PERIOD>",
+        "transcript": " and then model your own headlines based on those headlines you'll be able to take a shortcut and do this in just minutes."
+    },
+    "test_chunks_0001/YOU1000000021_S0000195.wav": {
+        "ground": "EVENTUALLY <COMMA> ENOUGH IS ENOUGH AS HE CANNOT OVERCOME HIS WOUNDS ANYMORE <COMMA> AND AFTER SOME NAMELESS INFANTRY MAN PUTS A FINAL BULLET INTO HIS HEAD <PERIOD>",
+        "transcript": " Eventually, enough is enough as he cannot overcome his wounds anymore, and after some nameless infantryman puts a final bullet into his head,"
+    },
+    "test_chunks_0001/YOU1000000117_S0000075.wav": {
+        "ground": "THERE IS LOTS OF EVIDENCE THAT SPECIFIC KINDS OF MEDITATION PRACTICES CAN REDUCE BURNOUT <COMMA> EVEN IN INCREDIBLY STRESSFUL TIMES <PERIOD>",
+        "transcript": " There's lots of evidence that specific kinds of meditation practices can reduce burnout even in incredibly stressful times."
+    },
+    "test_chunks_0001/YOU1000000108_S0000165.wav": {
+        "ground": "NOT JUST UNCOMFORTABLE BUT LIKE SHOULD I FIRE THIS PERSON <PERIOD>",
+        "transcript": " Not just uncomfortable, but like, should I fire this person?"
+    },
+    "test_chunks_0001/POD1000000043_S0000410.wav": {
+        "ground": "BUT AT THE END OF THE DAY <COMMA> SELECTING A PRESIDENT COMES DOWN TO CONGRESS AND YOU'RE RIGHT LIKE WE'RE GONNA GET A BUNCH OF REPUBLICAN HOUSE MEMBERS WHO OBJECT WHO CARES ABOUT THEM THEY MAY THEY MAY GET RON JOHNSON OR TED CRUZ OR RAND PAUL <PERIOD>",
+        "transcript": " But at the end of the day, selecting a president comes down to Congress and you're right, like we're going to get a bunch of Republican House members who object, who cares about them. They may get Ron Johnson or Ted Cruz or Rand Paul or"
+    },
+    "test_chunks_0001/POD1000000046_S0000931.wav": {
+        "ground": "NO <COMMA> I AH SHIT I WOULD BRING I'M SURE USE OF DRUGS SHOULD LIKE TO DOUBT THAT'D BE A GREAT TIME FOR IT RIGHT THERE THAT'S A PERFECT SPOT FOR <PERIOD>",
+        "transcript": " and"
+    },
+    "test_chunks_0001/YOU1000000116_S0000035.wav": {
+        "ground": "MILLIONS OF ACTORS AND IT OFTEN FOCUSES ON POLICY RELATED QUESTIONS SO DO YOU RAISE OR LOWER TAXES OR WHAT'S GOING TO HAPPEN WHEN YOU RAISE OR LOWER TAXES <PERIOD>",
+        "transcript": " $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00, $1.00"
+    },
+    "test_chunks_0001/YOU1000000037_S0000482.wav": {
+        "ground": "AQUARIUMS MAINTAINED BY ANDY DROPS THE TO COLLAR SUPER CHAT AND SAYS THANK YOU FOR YOUR HELP <PERIOD>",
+        "transcript": " aquariums maintained by Andy drops a $2 super chat and says thank you for your help"
+    },
+    "test_chunks_0001/POD1000000019_S0000351.wav": {
+        "ground": "I WAS AT THE DOCTOR'S OFFICE FOR A CHECKUP WHEN HE TOLD ME HE THOUGHT I WAS PREGNANT <PERIOD> IN ANOTHER MONTH <COMMA> WE'LL KNOW FOR SURE <PERIOD> HE SAID <PERIOD> OKAY END THE QUOTE <PERIOD>",
+        "transcript": " I was at the doctor's office for a checkup when he told me he thought I was pregnant. In another month, we'll know for sure, he said. Okay, and the quote"
+    },
+    "test_chunks_0001/YOU1000000137_S0000353.wav": {
+        "ground": "THERE WAS A FLOURISHING TRADE IN FRESH CORPSES <PERIOD> IT WAS LEGAL IN MANY PLACES AND PUNISHMENT FOR THE CRIME WAS OFTEN DRACONIAN BUT CURIOSITY OFTEN TRIUMPHED OVER FEAR <PERIOD>",
+        "transcript": " There was a flourishing trade in fresh corpses. It was illegal in many places and punishment for this crime was often draconian, but curiosity often triumphed over fear."
+    },
+    "test_chunks_0001/YOU1000000144_S0000134.wav": {
+        "ground": "AND HE'S DONE EXACTLY THAT ON ONE VERSUS FIVE DOWN TO A ONE VERSUS ONE BOMB PLANTED <PERIOD>",
+        "transcript": " 1 vs 5 down to a 1 vs 1 bomb planted"
+    },
+    "test_chunks_0001/YOU1000000117_S0000283.wav": {
+        "ground": "BUT THE OTHER THING IS TO USE WHATEVER WINDFALLS YOU HAVE WHETHER THAT'S EXTRA TIME CAUSE YOU ARE NOT WORKING AS MUCH <PERIOD>",
+        "transcript": " But the other thing is to use whatever windfalls you have, whether that's extra time because you're not working as much."
+    },
+    "test_chunks_0001/YOU1000000159_S0000045.wav": {
+        "ground": "THE POSSIBILITIES FOR INTERACTIONS BETWEEN YOURSELF <COMMA> YOUR ENEMIES <COMMA> AND THE ENVIRONMENT ARE VIRTUALLY LIMITLESS <PERIOD>",
+        "transcript": " The possibilities for interactions between yourself, your enemies, and the environment are virtually limitless."
+    },
+    "test_chunks_0001/YOU1000000112_S0000054.wav": {
+        "ground": "IT'S JONES IT'S JONES GETTING HIT AND GETTING STOPPED IT'S TO THE RIGHT SIDE PORT AND GOAL <PERIOD>",
+        "transcript": " It's Jones. It's Jones getting hit and getting stopped. Here's to the right side, fourth and goal."
+    },
+    "test_chunks_0001/POD1000000046_S0001228.wav": {
+        "ground": "YEAH CAUSE HE HERE'S THE TEAM WITH WHAT I WAS BEING HONEST THESE ARE FRONT ROW TAKES YOU BE IN THE FRONT ROW LIKE I WASN'T <PERIOD>",
+        "transcript": " Yeah, because here's the thing. I was being honest. These are front row takes you'll be in the front row. Like I wasn't"
+    },
+    "test_chunks_0001/YOU1000000045_S0000057.wav": {
+        "ground": "ESPECIALLY <COMMA> YOU KNOW <COMMA> GIVEN THE DIFFICULTIES THAT A LOT OF A LOT OF PEOPLE AROUND THE WORLD FACE RIGHT NOW <PERIOD>",
+        "transcript": " especially given the difficulties that a lot of people around the world face right now."
+    },
+    "test_chunks_0001/YOU1000000162_S0000015.wav": {
+        "ground": "THEY SHOULD JUST BE A BIT MORE SECURE IN THERE CONSIDERING THE WAY THAT THEY ARE DESIGNED <PERIOD>",
+        "transcript": " They should just be a bit more secure in there considering the way that they're designed."
+    },
+    "test_chunks_0001/YOU1000000166_S0000083.wav": {
+        "ground": "AND IT MINIMIZED OUR BALD SKINS EXPOSURE TO THE EXTREMELY HOT GROUND TEMPERATURES IN THOSE AFRICAN DESERTS <PERIOD>",
+        "transcript": " and it minimized our bald skin's exposure to the extremely hot ground temperatures in those African deserts."
+    },
+    "test_chunks_0001/YOU1000000183_S0000056.wav": {
+        "ground": "BUT BILL SAID IT WAS GOOD AND THEY MAKE A LOT OF MONEY <PERIOD>",
+        "transcript": " but bill said it was good in the make a lot of money"
+    },
+    "test_chunks_0001/YOU1000000045_S0000165.wav": {
+        "ground": "OFTEN INCLUDED BEING ACCUSED OF THINGS OR BEING SCRUTINIZED IN A WAY THAT WAS NOT SIMILAR TO THE MEN AROUND THEM <COMMA> TO THEIR MALE COUNTERPARTS <PERIOD>",
+        "transcript": " often included being accused of things or being scrutinized in a way that was not similar to the men around them, to their male counterparts."
+    },
+    "test_chunks_0001/YOU1000000151_S0000007.wav": {
+        "ground": "ALSO WHAT'S WRONG <PERIOD>",
+        "transcript": " Well, so what's wrong?"
+    },
+    "test_chunks_0001/YOU1000000128_S0000232.wav": {
+        "ground": "THE THE MONEY IS NEEDED NOW <PERIOD>",
+        "transcript": " The money is needed now."
+    },
+    "test_chunks_0001/YOU1000000188_S0000040.wav": {
+        "ground": "NUMBER SIX <COMMA> NIGHT WATCH <PERIOD> ARGUABLY THE MOST FAMOUS ARTWORK OF THE RICH MUSEUM IN AMSTERDAM <PERIOD>",
+        "transcript": " Number 6. Night Watch Arguably the most famous artwork of the Rick Museum in Amsterdam,"
+    },
+    "test_chunks_0001/POD1000000019_S0000242.wav": {
+        "ground": "AFTER THAT <COMMA> AUBREY MAYHEW PUT OUT AN ALBUM <COMMA> CONSISTING OF EVERYTHING HE HAD SUNG BY JEANNIE DURING HER TIME WITH LITTLE DARLIN <PERIOD>",
+        "transcript": " After that, Aubrey Mayhew put out an album consisting of everything he had sung by Jeannie during her time with Little Darlan."
+    },
+    "test_chunks_0001/YOU1000000037_S0000097.wav": {
+        "ground": "ALRIGHT THAT GETS US CAUGHT UP FOR A MINUTE <PERIOD> IT IS TEN THIRTY-SEVEN SEVENTY-THREE PEOPLE WATCHING THANK YOU GUYS FOR HANGING OUT MULTI-TANK ADDICTION DROPPING A FIVE DOLLARS SUPER CHAT FOR ME TO BUY ANGELA AND ICE CREAM FROM HIM <PERIOD>",
+        "transcript": " $10.37"
+    },
+    "test_chunks_0001/YOU1000000109_S0000065.wav": {
+        "ground": "WITH A ROOM IN WHICH THE TURN FOR RONALDO MADE ROOM FOR THE SHOT OH OFF THE POST WHAT A STRIKE <PERIOD>",
+        "transcript": " With a room in which to turn for Ronaldo. Made room for the shot! Oh, off the post! What a strike!"
+    },
+    "test_chunks_0001/POD1000000046_S0000002.wav": {
+        "ground": "REVOLUTION <PERIOD>",
+        "transcript": " REBEL NEWSHAAAAAAAN"
+    },
+    "test_chunks_0001/YOU1000000192_S0000139.wav": {
+        "ground": "LITTLE BABY PROTEIN SAUSAGE <PERIOD> THIS ISN'T ON MY SIDE MY SIDE'S HOT <COMMA> HER SIDE'S COLD <PERIOD>",
+        "transcript": " Little baby pretend sausage This isn't on My side's hot Her side's cold"
+    },
+    "test_chunks_0001/POD1000000044_S0000025.wav": {
+        "ground": "PLEASE ENJOY THE UNUSUAL RESPONSIBLY <PERIOD> HENDRICK'S GIN <COMMA> FORTY-FOUR PERCENT ALCOHOL BY VOLUME <COMMA> TWENTY-TWENTY <COMMA> IMPORTED BY WILLIAM GRANT AND SONS INCORPORATED <COMMA> NEW YORK <COMMA> NEW YORK <PERIOD>",
+        "transcript": " Please enjoy the unusual responsibly."
+    },
+    "test_chunks_0001/YOU1000000110_S0000086.wav": {
+        "ground": "THEY COULD DEFEND FOR THE REST OF THE GAME AND JUST CLOSE OUT A GAME TO WIN IT ONE NIGHT WHICH IS EXACTLY WHAT THEY DID <PERIOD>",
+        "transcript": " They could defend for the rest of the game and close out a game to win it one-nil, which is exactly what they did."
+    },
+    "test_chunks_0001/YOU1000000003_S0000146.wav": {
+        "ground": "AND THIS MAKES THE RELEVANT CODE <COMMA> BOTH A LOT SIMPLER AND A LOT FASTER <COMMA> SINCE MANY LIBRARIES OPTIMIZE THE HACK OUT OF MATRIX MULTIPLICATION <PERIOD>",
+        "transcript": " And this makes the relevant code both a lot simpler and a lot faster, since many libraries optimize the heck out of matrix multiplication."
+    },
+    "test_chunks_0001/YOU1000000192_S0000021.wav": {
+        "ground": "YOU CAN DO TO AH HELP HER OUT <PERIOD> CHOOSE ALL HER MATERNITY CLOTHES FOR HER <PERIOD>",
+        "transcript": " you can do to help her out. Choose all her maternity clothes for her."
+    },
+    "test_chunks_0001/POD1000000042_S0000722.wav": {
+        "ground": "MY I I LIKE IT BY THE WAY WE DO REALLY READ THESE AT RANDOM LIKE WHENEVER THEY SHOW UP WE READ THEM LIVE ON AIR AND THAT WE DON'T PRE SCREEN THESE AND I MIKE'S RALLY EARLIER WAS TALKING ABOUT <PERIOD>",
+        "transcript": " my"
+    },
+    "test_chunks_0001/YOU1000000128_S0000230.wav": {
+        "ground": "WE MUST THEREFORE ACCELERATE THE PROCESS <PERIOD>",
+        "transcript": " we must therefore accelerate the process."
+    },
+    "test_chunks_0001/POD1000000046_S0000160.wav": {
+        "ground": "I WILL TIE UP A MOTHERFUCKER AND HAVE THEM COME INSTALL IT BY HANDS LIKE FOR REAL AT HOME DEPOT AND I DON'T EVEN GIVE A SHIT CAUSE THE BEAUTY OF IT IS IN WHAT WE DO FOR A LIVING IS PEOPLE EXPECTED OUT OF ME <PERIOD>",
+        "transcript": " I will tie up a motherfucker and have them come install it by hand. Like, for real. At Home Depot. And I don't even give a shit. Cause the beauty of it is, and what we do for a living, is people would expect it out of me."
+    },
+    "test_chunks_0001/YOU1000000142_S0000089.wav": {
+        "ground": "I'LL PHONE CHILD SERVICES <EXCLAMATIONPOINT>",
+        "transcript": " of phone child services."
+    },
+    "test_chunks_0001/YOU1000000107_S0000145.wav": {
+        "ground": "I CAN <COMMA> I CAN UNDERSTAND YOUR CONFUSION <PERIOD>",
+        "transcript": " I can understand your confusion"
+    },
+    "test_chunks_0001/YOU1000000033_S0000140.wav": {
+        "ground": "AND BUT IT WAS STILL IN MY HEART AND OUT OF THE BLUE DANNY AND I MET EACH OTHER <COMMA> ABRAMOWICZ <COMMA> AH MINISTRIES WERE SO OUR DESIRES AND MINISTRY SO COMMON <COMMA> WE ENDED UP COMBINING TOGETHER <COMMA> CREATING THIS OTHER SHOW <PERIOD> SO THAT HAS EMERGED <PERIOD>",
+        "transcript": " 1"
+    },
+    "test_chunks_0001/POD1000000046_S0000421.wav": {
+        "ground": "I MEAN DAN'S GOT A BETTER BUTT <PERIOD>",
+        "transcript": " I mean Dan's got a better butt."
+    },
+    "test_chunks_0001/YOU1000000183_S0000029.wav": {
+        "ground": "THE DECLINE YESTERDAY IN A SENSE IT LED OFF SOME OF THIS OVERVALUATION THE MARKET WAS EVEN OVERVALUED AT WHERE IT WAS RIGHT AND BY LETTING IT OFF <COMMA> THEN WE GOT BACK TO WHAT WAS REASONABLE <PERIOD>",
+        "transcript": " the decline yesterday in a sense it let off some of this overvaluation the market even overvalued where was right and by letting it off right then we got back to what was reasonable"
+    },
+    "test_chunks_0001/YOU1000000152_S0000020.wav": {
+        "ground": "YOU HAVE A BOAT <PERIOD> LET'S SAY IS WORTH THREE FIFTY <PERIOD> THE FIRST TIME YOU GO INTO THE MEDITERRANEAN THAT BOAT IS WORTH THREE HUNDRED MILLION <PERIOD>",
+        "transcript": " You have a boat that say is worth 350. The first time you go into the Mediterranean, that boat is worth 300 million."
+    },
+    "test_chunks_0001/YOU1000000132_S0000036.wav": {
+        "ground": "ITS PATRIARCH DURING THE SECOND HALF OF THE TWENTIETH CENTURY WAS SIR EVELYN ROTHSCHILD <COMMA> WHO EVEN TODAY IS THE FINANCIAL ADVISOR TO QUEEN ELIZABETH <PERIOD> HE RETIRED FROM LEADERSHIP IN TWO THOUSAND AND THREE <COMMA> PASSING ON THE MANTLE OF PATRIARCH TO DAVID ROTHSCHILD <PERIOD>",
+        "transcript": " Its patriarch during the second half of the 20th century was Sir Evelyn Rothshirt, who even today is the financial advisor to Queen Elizabeth. He retired from leadership in 2003, passing the mantle of patriarch to David Rothshirt."
+    },
+    "test_chunks_0001/YOU1000000188_S0000023.wav": {
+        "ground": "WHICH WAS PAINTED BY EDWARD HOPPER IN NINETEEN FORTY-TWO <COMMA> IN THE OIL PAINTING <COMMA> WE CAN SEE FOUR PEOPLE IN A DINER LATE AT NIGHT <PERIOD>",
+        "transcript": " which was painted by Edward Hopper in 1942. In the oil painting, we can see four people in a diner late at night."
+    }
+}

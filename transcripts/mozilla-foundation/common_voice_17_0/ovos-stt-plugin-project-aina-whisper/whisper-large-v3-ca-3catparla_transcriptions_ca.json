@@ -1,0 +1,66 @@
+{
+    "ca_test_0/common_voice_ca_30800858.mp3": {
+        "ground": "Kaufman va ser també un atleta de pista excepcional.",
+        "transcript": "kaufman va ser també un atleta de pista excepcional"
+    },
+    "ca_test_0/common_voice_ca_30805717.mp3": {
+        "ground": "No us preocupeu, si us plau.",
+        "transcript": "no us preocupeu si us plau"
+    },
+    "ca_test_0/common_voice_ca_19041983.mp3": {
+        "ground": "Inspecciona escorxadors i explotacions ramaderes en cas de declaració de malalties.",
+        "transcript": "inspeccions escorxadors i explotacions ramaderes en cas de declaració de malalties"
+    },
+    "ca_test_0/common_voice_ca_30858278.mp3": {
+        "ground": "dissabte he d'anar a la Pobla de Massaluca amb autobús.",
+        "transcript": "dabte he d'anar al a la pobla de massaluca amb autobús"
+    },
+    "ca_test_0/common_voice_ca_31445555.mp3": {
+        "ground": "En aquesta prova havien aconseguit el rècord del món en sèries.",
+        "transcript": "en aquesta prova havien aconseguit el rècord del món en sèries"
+    },
+    "ca_test_0/common_voice_ca_37670087.mp3": {
+        "ground": "Que produeix l'avortament d'una manera patològica.",
+        "transcript": "que produeix l'avortament d'una manera patològica"
+    },
+    "ca_test_0/common_voice_ca_37642083.mp3": {
+        "ground": "La tensió entre els camperols conservatius i els obrers socialistes va continuar creixent.",
+        "transcript": "la tensió entre els camperols conservatius i els obrers socialistes va continuar creixent"
+    },
+    "ca_test_0/common_voice_ca_38641168.mp3": {
+        "ground": "Aquesta forma de parlar posteriorment va considerar-se totalment apropiada per als oficials militars.",
+        "transcript": "aquesta forma de parlar posteriorment va considerar-se totalment apropiada per als oficials militars"
+    },
+    "ca_test_0/common_voice_ca_30810072.mp3": {
+        "ground": "S'accedeix a Khor Kalba per tres camins.",
+        "transcript": "s'accedeix a corcalba per tres camins"
+    },
+    "ca_test_0/common_voice_ca_37893151.mp3": {
+        "ground": "Va ser substituïda per la Volta a Bolívia.",
+        "transcript": "va ser substituïda per la volta a bolívia"
+    },
+    "ca_test_0/common_voice_ca_31018412.mp3": {
+        "ground": "Nosaltres vivim a Sant Isidre.",
+        "transcript": "nosaltres vivim a sant isidre"
+    },
+    "ca_test_0/common_voice_ca_37827711.mp3": {
+        "ground": "Quan passa l'autobús pel carrer Enric Bargés?",
+        "transcript": "quan passa l'autobús pel carrer enric vergés"
+    },
+    "ca_test_0/common_voice_ca_17479762.mp3": {
+        "ground": "La confiança en si mateix i la capacitat per a tractar amb coses és madura i poc ansiosa; és flexible i segura.",
+        "transcript": "la confiança en si mateix i la capacitat per atractar amb coses és madura i poc ansiosa és flexible i segura"
+    },
+    "ca_test_0/common_voice_ca_30750511.mp3": {
+        "ground": "L'home no m'hauria entès i potser hauria cregut que me'n mofava.",
+        "transcript": "l'home no m'hauria entès i potser hauria cregut que em mamofava"
+    },
+    "ca_test_0/common_voice_ca_37889115.mp3": {
+        "ground": "Els exàmens tindran lloc en horari de matí i tarda.",
+        "transcript": "els exàmens tindran lloc en horari de matí i tard"
+    },
+    "ca_test_0/common_voice_ca_38061283.mp3": {
+        "ground": "Dimecres en Nico anirà d'excursió.",
+        "transcript": "dimecres en nico anirà d'excursió"
+    }
+}
