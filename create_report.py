@@ -14,11 +14,22 @@ def get_sim(ground, sents):
 
 
 LANG2DATASET = {
+    "pt-pt": [f"{PATH}/my-north-ai/common_voice_pt_pt",
+              f"{PATH}/my-north-ai/cv_mls_psfb_zero_synthetic",
+              f"{PATH}/FBK-MT/Speech-MASSIVE"
+              ],
+    "pt-br": [f"{PATH}/google/fleurs",
+              f"{PATH}/PolyAI/minds14",
+              f"{PATH}/dominguesm/mTEDx-ptbr",
+              f"{PATH}/DynamicSuperb/PTBRSpeechRecognition_CORAA",
+              f"{PATH}/DynamicSuperb/MultiLingualSpeechRecognition_MLS-pt",
+              f"{PATH}/facebook/multilingual_librispeech"],
     "pt": [f"{PATH}/mozilla-foundation/common_voice_17_0",
            f"{PATH}/google/fleurs",
-           f"{PATH}/my-north-ai/common_voice_pt_pt",
-           f"{PATH}/my-north-ai/cv_mls_psfb_zero_synthetic",
-           f"{PATH}/FBK-MT/Speech-MASSIVE",
+           f"{PATH}/PolyAI/minds14",
+           f"{PATH}/my-north-ai/common_voice_pt_pt",  # TODO - benchmark for pt-pt
+           f"{PATH}/my-north-ai/cv_mls_psfb_zero_synthetic",  # TODO - benchmark for pt-pt
+           f"{PATH}/FBK-MT/Speech-MASSIVE",  # TODO - benchmark for pt-pt
            f"{PATH}/dominguesm/mTEDx-ptbr",
            f"{PATH}/DynamicSuperb/PTBRSpeechRecognition_CORAA",
            f"{PATH}/DynamicSuperb/MultiLingualSpeechRecognition_MLS-pt",
@@ -32,6 +43,10 @@ LANG2DATASET = {
            f"{PATH}/google/fleurs",
            f"{PATH}/mozilla-foundation/common_voice_17_0"],
     "en": [f"{PATH}/openslr/openslr",
+           f"{PATH}/PolyAI/minds14",
+           f"{PATH}/LIUM/tedlium",
+           f"{PATH}/edinburghcstr/ami",
+           f"{PATH}/edinburghcstr/edacc",  # TODO - benchmark for foreign accent
            f"{PATH}/speechcolab/gigaspeech",
            f"{PATH}/MLCommons/peoples_speech",
            f"{PATH}/facebook/voxpopuli",
@@ -49,8 +64,9 @@ def read_dbs(lang):
         for plugin in os.listdir(path):
             for root, folders, files in os.walk(f"{path}/{plugin}"):
                 for f in files:
-                    if f.endswith(f"_{lang}.json"):
-                        model = f.split(f"_transcriptions_{lang}.json")[0]
+                    l2 = lang.split("-")[0]
+                    if f.endswith(f"_{l2}.json"):
+                        model = f.split(f"_transcriptions_{l2}.json")[0]
 
                         sentences = []
                         transcripts = []
@@ -204,7 +220,7 @@ def plugin_ranking_markdown(data):
 
 if __name__ == "__main__":
 
-    for LANG in ["pt", "en", "ca", "gl"]:
+    for LANG in ["pt-pt", "pt-br", "pt", "en", "ca", "gl"]:
         SCORES, DATA = read_dbs(LANG)
 
         rank = plugin_ranking_markdown(DATA)
