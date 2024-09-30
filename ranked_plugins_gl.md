@@ -1,6 +1,6 @@
 |Plugin|Model|WER<br>(all samples)| WER<br>(average across datasets) | Damerau Similarity | Score |
 |-----|-----|--------------------|----------------------------------|--------------------|-------|
-| ovos-stt-plugin-xabier-zuazo | whisper-large-v3-gl | 0.0789 | 0.0789 | 0.9675 | 89.1099 |
+| ovos-stt-plugin-xabier-zuazo | whisper-large-v3-gl | 0.1129 | 0.1048 | 0.9671 | 86.1854 |
 | ovos-stt-plugin-xabier-zuazo | whisper-medium-gl | 0.129 | 0.1232 | 0.9628 | 84.1442 |
 | ovos-stt-plugin-chromium | chromium | 0.2356 | 0.2299 | 0.9222 | 70.7552 |
 | ovos-stt-plugin-nos | Nos_ASR-wav2vec2-large-xlsr-53-gl-with-lm | 0.3014 | 0.2152 | 0.9243 | 68.5561 |

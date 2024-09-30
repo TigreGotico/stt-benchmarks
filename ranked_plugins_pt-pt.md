@@ -1,7 +1,7 @@
 |Plugin|Model|WER<br>(all samples)| WER<br>(average across datasets) | Damerau Similarity | Score |
 |-----|-----|--------------------|----------------------------------|--------------------|-------|
+| ovos-stt-plugin-MyNorthAI | whisper-large-v3-pt | 0.3183 | 0.3175 | 0.7613 | 51.9288 |
 | ovos-stt-plugin-xabier-zuazo | whisper-large-v3-pt | 0.3699 | 0.3054 | 0.7593 | 50.2908 |
-| ovos-stt-plugin-MyNorthAI | whisper-large-v3-pt | 0.3395 | 0.3183 | 0.7321 | 49.1317 |
 | ovos-stt-plugin-MyNorthAI | whisper-medium-pt | 0.3179 | 0.3544 | 0.7252 | 48.1407 |
 | ovos-stt-plugin-MyNorthAI | whisper-small-pt | 0.3431 | 0.4966 | 0.8131 | 47.1748 |
 | ovos-stt-plugin-xabier-zuazo | whisper-medium-pt | 0.3873 | 0.4746 | 0.7857 | 44.7088 |

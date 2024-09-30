@@ -7,9 +7,9 @@
 | spgispeech | 0.2042 |
 | tedlium | 0.2097 |
 | peoples_speech | 0.2124 |
-| slurp | 0.217 |
+| slurp | 0.2158 |
+| dstc3 | 0.2437 |
 | voxpopuli | 0.2498 |
-| dstc3 | 0.2519 |
 | gigaspeech | 0.258 |
 | common_voice_17_0 | 0.2734 |
 | supreme-court-speech | 0.3217 |
