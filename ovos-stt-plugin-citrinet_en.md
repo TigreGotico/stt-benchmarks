@@ -12,9 +12,7 @@
 | peoples_speech | 0.2215 |
 | common_voice_17_0 | 0.2405 |
 | supreme-court-speech | 0.2883 |
-| dstc3 | 0.3044 |
-| slurp | 0.3696 |
+| slurp | 0.3661 |
 | earnings22 | 0.3705 |
 | ami | 0.4333 |
-| meanwhile | 0.944 |
 | edacc | 0.9979 |

@@ -66,6 +66,8 @@ def read_dbs(lang):
     SCORES = {}
     DATA = {}
     for path in LANG2DATASET[lang]:
+        if not os.path.isdir(path):
+            continue
         for plugin in os.listdir(path):
             for root, folders, files in os.walk(f"{path}/{plugin}"):
                 for f in files:
