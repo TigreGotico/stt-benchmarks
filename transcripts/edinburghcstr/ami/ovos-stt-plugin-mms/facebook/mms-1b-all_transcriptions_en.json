@@ -1,0 +1,86 @@
+{
+    "EN2002a/eval_ami_en2002a_h00_mee073_0019663_0019800.wav": {
+        "ground": "YEAH",
+        "transcript": "p peap"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0122308_0122345.wav": {
+        "ground": "MM-HMM",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0121416_0121534.wav": {
+        "ground": "YEAH WE'RE GONNA MEET UP",
+        "transcript": "g    m r g n  ma r  g"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0035713_0035849.wav": {
+        "ground": "I MEAN WE'RE NOT EVEN THERE YET",
+        "transcript": "arine were not even there"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0087278_0087307.wav": {
+        "ground": "YEAH",
+        "transcript": "ja"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0071598_0071661.wav": {
+        "ground": "YEAH YEAH",
+        "transcript": "je"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0187312_0187486.wav": {
+        "ground": "MM MONDAY AFTERNOON",
+        "transcript": "a wanda agternien"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0028789_0028885.wav": {
+        "ground": "GET TO USE MY PEN",
+        "transcript": "gettin is my pen"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0187025_0187110.wav": {
+        "ground": "YEAH YEAH",
+        "transcript": "maa uia"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0160522_0160577.wav": {
+        "ground": "EVERYTHING",
+        "transcript": "everything"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0085470_0085653.wav": {
+        "ground": "YEAH THAT'S WHAT WE NEED YEAH",
+        "transcript": "ye da so bainey der"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0189592_0189678.wav": {
+        "ground": "THREE'S GOOD THOUGH",
+        "transcript": "friskidta"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0128003_0128125.wav": {
+        "ground": "YEAH",
+        "transcript": "mai pro we"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0002779_0002990.wav": {
+        "ground": "YOU BETTER START",
+        "transcript": "ii bes"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0119394_0119408.wav": {
+        "ground": "HMM",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0159403_0159664.wav": {
+        "ground": "WE CAN ALWAYS DECIDE THEN I MEAN YEAH",
+        "transcript": "we can always decide then amin"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0150042_0150192.wav": {
+        "ground": "YOU SAW IT YEAH",
+        "transcript": "yis loy"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0064658_0064727.wav": {
+        "ground": "YEAH TRUE",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0147125_0147573.wav": {
+        "ground": "WELL OH DEAR",
+        "transcript": "ane  i   e dia"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0185987_0186047.wav": {
+        "ground": "I MEAN",
+        "transcript": "i meen"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0073617_0073677.wav": {
+        "ground": "YEAH",
+        "transcript": "d"
+    }
+}

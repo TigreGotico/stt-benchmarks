@@ -27,9 +27,9 @@ LANG2DATASET = {
     "pt": [f"{PATH}/mozilla-foundation/common_voice_17_0",
            f"{PATH}/google/fleurs",
            f"{PATH}/PolyAI/minds14",
-           f"{PATH}/my-north-ai/common_voice_pt_pt",  # TODO - benchmark for pt-pt
-           f"{PATH}/my-north-ai/cv_mls_psfb_zero_synthetic",  # TODO - benchmark for pt-pt
-           f"{PATH}/FBK-MT/Speech-MASSIVE",  # TODO - benchmark for pt-pt
+           f"{PATH}/my-north-ai/common_voice_pt_pt",  # pt-pt
+           f"{PATH}/my-north-ai/cv_mls_psfb_zero_synthetic",  # pt-pt
+           f"{PATH}/FBK-MT/Speech-MASSIVE",  # pt-pt
            f"{PATH}/dominguesm/mTEDx-ptbr",
            f"{PATH}/DynamicSuperb/PTBRSpeechRecognition_CORAA",
            f"{PATH}/DynamicSuperb/MultiLingualSpeechRecognition_MLS-pt",
@@ -45,6 +45,11 @@ LANG2DATASET = {
     "en": [f"{PATH}/openslr/openslr",
            f"{PATH}/PolyAI/minds14",
            f"{PATH}/LIUM/tedlium",
+           f"{PATH}/kensho/spgispeech",
+           f"{PATH}/distil-whisper/earnings22",
+           f"{PATH}/distil-whisper/meanwhile",
+           f"{PATH}/marcel-gohsen/dstc3",
+           f"{PATH}/marcel-gohsen/slurp",
            f"{PATH}/edinburghcstr/ami",
            f"{PATH}/edinburghcstr/edacc",  # TODO - benchmark for foreign accent
            f"{PATH}/speechcolab/gigaspeech",

@@ -9,7 +9,7 @@
 | ovos-stt-plugin-xabier-zuazo | whisper-small-pt | 0.3143 | 0.3722 | 0.8673 | 56.9599 |
 | ovos-stt-plugin-mms | wav2vec2-large-mms-1b-por | 0.3736 | 0.3199 | 0.8705 | 56.8674 |
 | ovos-stt-plugin-whisper | whisper-medium | 0.3153 | 0.3935 | 0.8546 | 55.176 |
-| ovos-stt-plugin-citrinet | stt_pt_citrinet_512_gamma_0_25 | 0.3604 | 0.4423 | 0.8841 | 52.9299 |
+| ovos-stt-plugin-citrinet | stt_pt_citrinet_512_gamma_0_25 | 0.3604 | 0.4396 | 0.8841 | 53.0466 |
 | ovos-stt-plugin-chromium | chromium | 0.358 | 0.3979 | 0.8323 | 51.7725 |
 | ovos-stt-plugin-mms | mms-1b-all | 0.3981 | 0.4447 | 0.8704 | 50.3624 |
 | ovos-stt-plugin-whisper | whisper-small | 0.461 | 0.6486 | 0.8153 | 36.2969 |

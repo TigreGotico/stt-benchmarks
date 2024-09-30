@@ -6,5 +6,13 @@
     "zip://pt-PT~CASH_DEPOSIT/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
         "ground": "Bom dia estou a ligar porque precisava de informações sobre como é que eu posso depositar dinheiro na minha conta",
         "transcript": "mandieto ao ligar por precisava de informações sobre como é propósito e depositar dinheiro de namiccols"
+    },
+    "zip://pt-PT~CASH_DEPOSIT/response_17.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Como faço para transferir dinheiro para a minha conta",
+        "transcript": "como fse para transferir dinheiro para a minha conta"
+    },
+    "zip://pt-PT~CASH_DEPOSIT/CAc7662a7f6396ecc9e2ddf62c3e6b4e40_0.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "estava interessado em depositar dinheiro na minha conta e em primeiro lugar queria perguntar se era possível se posso visitar e como é que posso transferir dinheiro para a conta ou se tem que ir ao banco Onde posso fazer esse esse propósito se calhar é isso",
+        "transcript": "a estava interessada em depois dar dinhão na minha conta e o primeiro gar su queria permntascer e a pres se posso visitar l como é que posso padar su dinheiro para conta ou se sentir ao banco on eu posso fazer você as suposto se verda isso"
     }
 }
