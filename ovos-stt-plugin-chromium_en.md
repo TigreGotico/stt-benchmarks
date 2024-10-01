@@ -15,4 +15,4 @@
 | supreme-court-speech | 0.3217 |
 | earnings22 | 0.3612 |
 | ami | 0.3888 |
-| edacc | 1.0 |
+| edacc | 0.9933 |

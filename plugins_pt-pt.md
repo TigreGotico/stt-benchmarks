@@ -3,6 +3,8 @@
 |dataset/model|stt_pt_citrinet_512_gamma_0_25|
 |-|-|
 | Speech-MASSIVE | 0.2892 |
+| compare-accents-pt | 0.4428 |
+| locallingua_pt | 0.6355 |
 | cv_mls_psfb_zero_synthetic | 0.7036 |
 | common_voice_pt_pt | 1.0034 |
 
@@ -27,7 +29,10 @@
 |dataset/model|chromium|
 |-|-|
 | Speech-MASSIVE | 0.1291 |
+| compare-accents-pt | 0.3107 |
+| locallingua_pt | 0.3136 |
 | cv_mls_psfb_zero_synthetic | 0.6007 |
+| SpokenPortugueseGeographicalSocialVarieties | 0.6781 |
 | common_voice_pt_pt | 0.9828 |
 
 
@@ -37,6 +42,8 @@
 | Speech-MASSIVE | 0.3808 | 0.2495 |
 | cv_mls_psfb_zero_synthetic | 0.6499 | 0.6187 |
 | common_voice_pt_pt | 0.9627 | 0.6857 |
+| locallingua_pt | N/A | 0.6153 |
+| compare-accents-pt | N/A | 0.246 |
 
 
 # WER: ovos-stt-plugin-whisper

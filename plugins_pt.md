@@ -7,9 +7,11 @@
 | MultiLingualSpeechRecognition_MLS-pt | 0.2551 |
 | multilingual_librispeech | 0.2621 |
 | Speech-MASSIVE | 0.2892 |
+| compare-accents-pt | 0.4428 |
 | mTEDx-ptbr | 0.496 |
 | minds14 | 0.5089 |
 | PTBRSpeechRecognition_CORAA | 0.5666 |
+| locallingua_pt | 0.6355 |
 | cv_mls_psfb_zero_synthetic | 0.7036 |
 | common_voice_pt_pt | 1.0034 |
 
@@ -47,12 +49,16 @@
 |-|-|
 | Speech-MASSIVE | 0.1291 |
 | fleurs | 0.1637 |
+| minds14 | 0.1744 |
 | common_voice_17_0 | 0.2664 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2908 |
 | multilingual_librispeech | 0.2973 |
+| compare-accents-pt | 0.3107 |
+| locallingua_pt | 0.3136 |
 | PTBRSpeechRecognition_CORAA | 0.4072 |
 | mTEDx-ptbr | 0.443 |
 | cv_mls_psfb_zero_synthetic | 0.6007 |
+| SpokenPortugueseGeographicalSocialVarieties | 0.6781 |
 | common_voice_pt_pt | 0.9828 |
 
 
@@ -68,6 +74,8 @@
 | PTBRSpeechRecognition_CORAA | 0.4877 | 0.3788 |
 | cv_mls_psfb_zero_synthetic | 0.6499 | 0.6187 |
 | common_voice_pt_pt | 0.9627 | 0.6857 |
+| locallingua_pt | N/A | 0.6153 |
+| compare-accents-pt | N/A | 0.246 |
 
 
 # WER: ovos-stt-plugin-whisper

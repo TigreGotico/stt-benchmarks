@@ -7,3 +7,4 @@
 | MultiLingualSpeechRecognition_MLS-pt | 0.2544 | 0.1176 |
 | mTEDx-ptbr | 0.4361 | 0.3656 |
 | PTBRSpeechRecognition_CORAA | 0.4877 | 0.3788 |
+| compare-accents-pt | N/A | 0.246 |

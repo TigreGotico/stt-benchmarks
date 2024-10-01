@@ -4,10 +4,14 @@
 |-|-|
 | Speech-MASSIVE | 0.1291 |
 | fleurs | 0.1637 |
+| minds14 | 0.1744 |
 | common_voice_17_0 | 0.2664 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2908 |
 | multilingual_librispeech | 0.2973 |
+| compare-accents-pt | 0.3107 |
+| locallingua_pt | 0.3136 |
 | PTBRSpeechRecognition_CORAA | 0.4072 |
 | mTEDx-ptbr | 0.443 |
 | cv_mls_psfb_zero_synthetic | 0.6007 |
+| SpokenPortugueseGeographicalSocialVarieties | 0.6781 |
 | common_voice_pt_pt | 0.9828 |

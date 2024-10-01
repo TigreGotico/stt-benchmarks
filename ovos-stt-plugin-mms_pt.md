@@ -11,3 +11,5 @@
 | PTBRSpeechRecognition_CORAA | 0.4877 | 0.3788 |
 | cv_mls_psfb_zero_synthetic | 0.6499 | 0.6187 |
 | common_voice_pt_pt | 0.9627 | 0.6857 |
+| locallingua_pt | N/A | 0.6153 |
+| compare-accents-pt | N/A | 0.246 |
