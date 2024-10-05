@@ -1,0 +1,94 @@
+{
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_39.wav": {
+        "ground": "e, portanto m[,], m[,], consegue-se ver da b[,], na borboleta, ah, que tod[,], as asas, as cores, isso tudo?!",
+        "transcript": " e portanto, como que consegue servir da barulheta, das asas, das cores e tudo?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_38.wav": {
+        "ground": "essa solo já não tem mais capacidade de, de, de, de contenção e é arrastado pela água corrente.",
+        "transcript": "Essa solo já não tem mais capacidade de contenção e é arrastada pela água corrente."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_6.wav": {
+        "ground": "primeiro vem a profissão, o emprego, o futuro.",
+        "transcript": "Primeiro vem a profissão, emprego futuro."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_20.wav": {
+        "ground": "por isso que, é mais é, neste momento é com[,], mais como um passatempo do que, é fins, eh, monetários.",
+        "transcript": " por isso que é mais como passar tempo do que fingir uma data."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_29.wav": {
+        "ground": "mas ele é, é, no seu, habitat próprio, não é,",
+        "transcript": "No seu habitat próprio?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_42.wav": {
+        "ground": "portanto, o senhor Lourenço ao coleccionar borboletas, já me disse que aprende também coisas sobre a vida das próprias borboletas [,]",
+        "transcript": "O senhor Loreta ao colecionar baruletas já me disse que a parede também coge a sobra-vida das próprias baruletas."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_9.wav": {
+        "ground": "no entanto, eh, para a mulher o realizar profissionalmente implica uma dupla, tarefa, não é, porque em casa normalmente é a mulher que trabalha, ",
+        "transcript": "No entanto, para a mulher o realizar profissionalmente, implica uma dupla tarefa, porque em casa normalmente a mulher trabalha."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_7.wav": {
+        "ground": "se, de repente, por qualquer motivo, você pegar essas populações de populaçõ[,], de, rurais, portanto, de agricultores e transferi-los para uma zona ecológica que eles não estão habituados, a primeira coisa que eles vão fazer é pôr em prática aquilo que estão habituados a fazer.",
+        "transcript": " se de repente por qualquer motivo você pegar essas populações de populações de rurais, de agricultores, e transferi-los para uma zona ecológica que eles não estão habituados, a primeira coisa que eles vão fazer é pôr em prática aquilo que"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_4.wav": {
+        "ground": "nós sabemos que o ser humano como qualquer outro animal, desde que ultrapasse, a u[,], a u[,], a capacidade de utilização da natureza, essa natureza tem que ficar prejudicada, tem que ficar de[,], depletada, tem, tem que desaparecer, árvores, plantas, frutas, ah, exi[,], depo[,], co[,], surgem os problemas de erosão pelo excesso de passagem de pessoas, de movimentação, basta apenas os pés a baterem no chão para poderem de[,], desagregar terrenos, para poderem, depois, com a acção das chuvas, essas, pequenas, esses caminhos, não é, serem, utilizados, serem, através das chuvas, do movimento das águas que corre, não é, sobre essa superfície lisa, arrastarem terras, e começam a surgir as, as, as ravinas, pequenas ravinas primeiro, depois maiores ravinas se não houver um trabalho contrário.",
+        "transcript": " nós sabemos que o ser humano, como qualquer outro animal, desde que ultrapasse a capacidade de utilização da natureza, essa natureza tem que ficar prejudicada, tem que ficar depletada, tem que desaparecer, árvores, plantas, frutas, que surgem problemas de ilusão pelo excesso de passagem de pessoas, de movimentação, basta apenas os pés a baterem no chão para poderem desagregar terrenos para poderem depois, com a reação das chuvas, esses pequenos, esses caminhos serem utilizados, serem através da chuva do movimento das águas que corre sobre essa superficializa, arrastar em terras e começam a surgir as ravinas, pequenas ravinas primeiro e depois maiores ravinas se não haver um trabalho contrário."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_7.wav": {
+        "ground": "depois tem que vir o resto.",
+        "transcript": " Depois tem que ver o resto."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_33.wav": {
+        "ground": "depois disso as próprias raízes das plantas, das árvores e dos capins têm incapacidade de retenção do solo.",
+        "transcript": "Depois disso, as próprias raízes das plantas, das ares e dos capins têm capacidade de retenção do solo."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_3.wav": {
+        "ground": "admiro-me bastante porque, foram educados nas escolas indonésias mas não perdem assim a sua identidade e o seu orgulho de ser timorense.",
+        "transcript": " que o dinheiro bastava em tempo, porque? Foram educados nas escolas indolentes, mas não perdem assim a sua identidade e o seu orgulho de ser timorentes."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_9.wav": {
+        "ground": "eh, lá dos tempos de, de Ngungunhana, eh, que eram muito, a gente gostava muito de, de, de, de acompanhar essas histórias.",
+        "transcript": " Estar lá dos tempos de uma rodoiada. A gente gostava muito de acompanhar essas histórias."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_16.wav": {
+        "ground": "eh, nã[,], não há, neste momento não há em jo[,], não está em jogo o aspecto, monetário",
+        "transcript": "Neste momento não está em jogo o Aspeto Moratá."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Brasil/Criar Filhos_1.wav": {
+        "ground": "então, que é que o senhor acha dos jovens, por exemplo",
+        "transcript": "Então, o que você acha dos jovens, por exemplo?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_20.wav": {
+        "ground": "mas acho que sim.",
+        "transcript": " Mas acho que sim. Acho que as pessoas"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_18.wav": {
+        "ground": "porque há homens que quando querem fazem as mesmas coisas que uma mulher, em casa.",
+        "transcript": " porque as mamãe quando querem fazem as mesmas coisas com a mulher em casa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_22.wav": {
+        "ground": "e v[,], nota-se de avião quem chega, não é, eh, porquê?",
+        "transcript": " e notas do avião quem chega, né?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_1.wav": {
+        "ground": "eh, doutor João Serôdio, os fluxos migratórios que ultimamente se têm registado, um pouco por toda a África, e também dentro do nosso país teriam provocado graves consequências ao ambiente.",
+        "transcript": "Doutor João Sorodio, os fluxos migratórios que ultimamente têm resistido um pouco por toda a África e também dentro do nosso país, teriam provocado graves consequências ao ambiente."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_10.wav": {
+        "ground": "portanto, já isso, mesmo que não haja excesso de populações, mesmo isso já prejudica a própria natureza.",
+        "transcript": "então se já isso, mesmo que não haja excesso de populações, mesmo isso já prejudica a própria natureza."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_11.wav": {
+        "ground": "agora imagine o que se passa no Rwanda em que são milhões de pessoas que se deslocam e ficam concentradas durante meses no mesma região em que destroem completamente todo o coberto vegetal.",
+        "transcript": " Agora, imagine que se passa no Rwanda, em que são milhões de pessoas que se deslocam e ficam concentradas durante meses no mesmo região, em que destroem completamente todo o coberto vestido."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_12.wav": {
+        "ground": "claro que isso é um cataclismo mesmo.",
+        "transcript": " Claro que isso é um cataclismo mesmo."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_13.wav": {
+        "ground": "eh, doutor João Serôdio, no nosso caso de Angola, com as movimentações constantes de grupos de pessoas, eh, provocadas por situações de guerra, essa questão não se põe também?",
+        "transcript": "Doutor Jonson, não sou caso de Angola com as movimentações constantes de grupos de pessoas provocadas por situações de guerra? Essa questão não se põe também?"
+    }
+}

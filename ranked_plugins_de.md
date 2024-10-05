@@ -1,3 +1,3 @@
 |Plugin|Model|WER<br>(all samples)| WER<br>(average across datasets) | Damerau Similarity | Score |
 |-----|-----|--------------------|----------------------------------|--------------------|-------|
-| ovos-stt-plugin-chromium | chromium | 0.1801 | 0.1783 | 0.9135 | 74.9777 |
+| ovos-stt-plugin-chromium | chromium | 0.168 | 0.1695 | 0.9327 | 77.5316 |

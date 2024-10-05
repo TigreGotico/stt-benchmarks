@@ -790,5 +790,69 @@
     "pt_test_0/common_voice_pt_23733632.mp3": {
         "ground": "Há também vinícolas nas proximidades.",
         "transcript": " Há também vinícolos nas proximidades."
+    },
+    "pt_test_0/common_voice_pt_37145079.mp3": {
+        "ground": "naloxona, sublingual, pílula, diluentes impróprios, esterilizados, psicossociais, buprenorfina",
+        "transcript": " Naloxona, sublingual, pílula, diluentes impróprios, esterilizados, psicossociais, buprenorfina."
+    },
+    "pt_test_0/common_voice_pt_27156502.mp3": {
+        "ground": "Já é uma sorte que você é poupado de um acidente.",
+        "transcript": " já é uma sorte que você é poupado de um acidente"
+    },
+    "pt_test_0/common_voice_pt_39575914.mp3": {
+        "ground": "Augmented Reality (AR) cria experiências imersivas.",
+        "transcript": " Augmented Reality, AR, cria experiências imersivas."
+    },
+    "pt_test_0/common_voice_pt_19484624.mp3": {
+        "ground": "Pedir dinheiro emprestado às pessoas da aldeia",
+        "transcript": " Pedir dinheiro emprestado às pessoas da aldeia."
+    },
+    "pt_test_0/common_voice_pt_27049059.mp3": {
+        "ground": "O peixe, para quem merece.",
+        "transcript": " O beijo para quem merece."
+    },
+    "pt_test_0/common_voice_pt_37990973.mp3": {
+        "ground": "prescrever",
+        "transcript": " Prescrevi."
+    },
+    "pt_test_0/common_voice_pt_19854926.mp3": {
+        "ground": "O mago lançou um feitiço muito poderoso sobre a cidade.",
+        "transcript": " O mago lançou um feitiço muito poderoso na cidade."
+    },
+    "pt_test_0/common_voice_pt_23680556.mp3": {
+        "ground": "Eu devo ser tocado",
+        "transcript": " Eu devo ser tocado."
+    },
+    "pt_test_0/common_voice_pt_27034360.mp3": {
+        "ground": "Mas essas duas palavras nunca serão encontradas em meus pensamentos.",
+        "transcript": " Mas essas duas palavras nunca serão encontradas em meus pensamentos."
+    },
+    "pt_test_0/common_voice_pt_19924965.mp3": {
+        "ground": "Quem teria pensado que um homem poderia mudar tudo.",
+        "transcript": " Quem teria pensado que um homem poderia mudar tudo?"
+    },
+    "pt_test_0/common_voice_pt_30705903.mp3": {
+        "ground": "Eu estava cansado",
+        "transcript": " E eu estava cansado."
+    },
+    "pt_test_0/common_voice_pt_36873191.mp3": {
+        "ground": "negar",
+        "transcript": " Nigga."
+    },
+    "pt_test_0/common_voice_pt_38566983.mp3": {
+        "ground": "Deck de cartas ou cards",
+        "transcript": " Deque de cartas ou cards."
+    },
+    "pt_test_0/common_voice_pt_36374564.mp3": {
+        "ground": "Cláudia Braz da Silva",
+        "transcript": " Cláudia Brás da Silva"
+    },
+    "pt_test_0/common_voice_pt_27809229.mp3": {
+        "ground": "Então ele ofereceu às crianças um ótimo sorvete.",
+        "transcript": " Então ele ofereceu às crianças um ótimo prefeito."
+    },
+    "pt_test_0/common_voice_pt_27809231.mp3": {
+        "ground": "É necessário fornecer, quando formulado, uma avaliação.",
+        "transcript": " É necessário fornecer, quando formulado, uma avaliação."
     }
 }

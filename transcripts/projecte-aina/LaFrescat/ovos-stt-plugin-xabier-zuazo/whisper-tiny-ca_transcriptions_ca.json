@@ -874,5 +874,53 @@
     "grau_203.wav": {
         "ground": "Sense comptar-lo el van deixar sobre la taula.",
         "transcript": "Sense comptar-lo el van deixar sobre la taula."
+    },
+    "lluc_252.wav": {
+        "ground": "Per un instant, tinc la sensació que ningú abans havia dut a terme un acte de tanta importància com el que està fent aquesta nena.",
+        "transcript": "Penernistan tingui la sensació de que ningú avanç havia dut a terme un acte de tanta importància com el que està fent aquesta nena."
+    },
+    "grau_252.wav": {
+        "ground": "Per sort la conversa va ser llarga i em va donar temps de tornar a la meva habitació fent veure que estudiava.",
+        "transcript": "Per sort, la conversa va ser llarga, i em va donar temps d'atornar a la me·litat si ho fem veure que estudiava."
+    },
+    "gina_203.wav": {
+        "ground": "No li negaré que existeixen milers i milers de motius pels quals no llevar-se la vida, però aquesta vida demana un preu a canvi, acceptar les regles avui per avui establertes.",
+        "transcript": "L'Allin encara que existeixen milers similers de motius peix quals no hi ha barcel·labida, però aquesta vida demana un preu al canvi, acceptar les regles avui per a westernertes."
+    },
+    "grau_238.wav": {
+        "ground": "M'alegro que, tal i com em va dir personalment, quedés tan satisfeta amb el sopar i la dutxa.",
+        "transcript": "Malegro què talí com un medi personalment que des de Sant satisfita amb el seu païl a butxa?"
+    },
+    "gina_061.wav": {
+        "ground": "Volen visitar el seu avi a l'hospital, però la seua mare els ha prohibit anar-hi per raons de seguretat.",
+        "transcript": "Volen visitar el seu avió no hospital, però en la seua mare el s'ha prohibit anar-hi per raons de seguretat."
+    },
+    "emma_327.wav": {
+        "ground": "No va voler espantar-los, ja que no sabia del cert què passava, però feia dos dies que no el veia per enlloc.",
+        "transcript": "No ho hauries pantal·los, ja que no s'havia del cert que passava, però feia dos dies que no el veia per al lloc."
+    },
+    "emma_282.wav": {
+        "ground": "Avui faran alguna cosa més que mirar-la?",
+        "transcript": "Avui faran alguna cosa més que mirar-la?"
+    },
+    "emma_077.wav": {
+        "ground": "Coent lo vent rogent que ve del nord de la província de Xin Zho.",
+        "transcript": "Coen, novèn, roigent, que ve del nord de la província de Chinsuó."
+    },
+    "grau_111_2.wav": {
+        "ground": "No em vinguis amb històries que ja ens coneixem.",
+        "transcript": "No em menges amistòries que ja ens coneixem."
+    },
+    "lluc_024.wav": {
+        "ground": "Encara hi havia forts aldarulls que s'havien originat a l'ala sud-est del centre penitenciari.",
+        "transcript": "Encara hi havia força un lalulls que s'havien originat a la lòsula des del centre penitenciari."
+    },
+    "grau_153.wav": {
+        "ground": "Fuig d'aquí, et dic! O vols que et parteixi en dos?",
+        "transcript": "Futs d'aquí a Dic o gos que parteixen dos."
+    },
+    "grau_026_2.wav": {
+        "ground": "La notícia es va fer pública el vint de juny de l'any passat.",
+        "transcript": "La notícia es va fer pública el vint de juny de l'any passat."
     }
 }

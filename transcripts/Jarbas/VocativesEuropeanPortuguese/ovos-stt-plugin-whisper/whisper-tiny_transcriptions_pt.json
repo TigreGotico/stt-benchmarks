@@ -854,5 +854,13 @@
     "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/60a.wav": {
         "ground": "Vê, Mário, os animais.",
         "transcript": " Vem mario, os animais!"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/31a.wav": {
+        "ground": "João, distribui os gelados.",
+        "transcript": ""
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/16b.wav": {
+        "ground": "Distribui, Maria, os gelados.",
+        "transcript": " Steregoi Maria, eu jlar"
     }
 }

@@ -510,5 +510,441 @@
     "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_38.wav": {
         "ground": "têm é que ultrapassar a barreira.",
         "transcript": ""
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_26.wav": {
+        "ground": "mas é, hoje, por exemplo, eh, com a ciência avançada, como o senhor sabe, e, o animal pode ser filmado.",
+        "transcript": "você reógas eia passem enterratar a vocêessar valh a btati"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_33.wav": {
+        "ground": "e, e us[,], pois, idealiza-se, pois.",
+        "transcript": "nava faciiamente a pz"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_7.wav": {
+        "ground": "bem, eh, dizem que, nós todos temos um pouco de, coleccionistas",
+        "transcript": "bem eido que esteja fver facilida"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_14.wav": {
+        "ground": "problemas ecológicos, como disse, já dei há bocado o exemplo, acontecem em Angola permanentemente e acontecem desde a independência de Angola.",
+        "transcript": "com mais eis que com deis isso estegar para exempo de antece ndoda permaente acontece des i penensso da mal"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_23.wav": {
+        "ground": "era até, as populações locais iriam até onde podiam ir.",
+        "transcript": "teré as comprações locais lm até ode pia"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_40.wav": {
+        "ground": "to[,], por exemplo, todos, tod[,], os desenhos que, que o animal apresenta, e, e as cores.",
+        "transcript": "então os dptadeosi que v lavda e eascot"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_10.wav": {
+        "ground": "eh, eh, portanto é mais ou menos isto quanto foi a minha infância.",
+        "transcript": "um tanto mais é visto quanto foi a néfase"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_9.wav": {
+        "ground": "no entanto, eh, para a mulher o realizar profissionalmente implica uma dupla, tarefa, não é, porque em casa normalmente é a mulher que trabalha, ",
+        "transcript": "no entanto para mogar ou realizar o profissionamento implica uma dupla tarefona atcada na aumenta mar tamala"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_22.wav": {
+        "ground": "sim, por exemplo, há até, há alguns, por exemplo, há algumas espécies raras, dizem que, que, que s[,], que devem ser apanhadas logo ao, ao sair do casulo.",
+        "transcript": "fis nadeé a lg gra noite das rairas dea ter e deer ter a apenhardo a posível que"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_10.wav": {
+        "ground": "ah, mas isso não pode continuar assim, pelo menos no mes[,], no meu ponto de vista.",
+        "transcript": "elepti c tames fciona consista"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_22.wav": {
+        "ground": "e v[,], nota-se de avião quem chega, não é, eh, porquê?",
+        "transcript": "e ltinata sabia ao quem chgena é porque"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_12.wav": {
+        "ground": "claro que isso é um cataclismo mesmo.",
+        "transcript": "al clar que está é uma cataque mesm"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_11.wav": {
+        "ground": "agora imagine o que se passa no Rwanda em que são milhões de pessoas que se deslocam e ficam concentradas durante meses no mesma região em que destroem completamente todo o coberto vegetal.",
+        "transcript": "a imagem que psamos roanda em entem são milhões de pessoas que sejgam e ficam concentraadas durante meses na mesma gão em que lhst troi em completamente tdo greto"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_17.wav": {
+        "ground": "primeiro, porque é uma zona semi, são á[,], zonas semi-áridas, não é, toda a costa angolana, mais ou menos, inclui-se numa, numa, numa zona que ecologicamente se diz semi-árida, ou, e, e esse, e essa situação semi, dessa, essa, esse bioma semi-árido tem características de equilíbrio muito especiais.",
+        "transcript": "nem pequenos asrescionadas anranseninaiaisdas naéto da a costaagogdamasamentente e inqulists na economia naos anaica que clascamentos vsinída e e esse esa situação similal dessa desesa exbi o mcido tem características de equilíbrio m iniciais"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_1.wav": {
+        "ground": "estava-me a f[,], a falar então que prefere ver as borboletas em selos do que mortas em caixas, espetadas com um alfinete.",
+        "transcript": "serda noite estacelarda que prefer verer as braletas e centros reguladas tem assastistada sua presa"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_14.wav": {
+        "ground": "por v[,], por ver exactamente o contrário é que eu penso assim.",
+        "transcript": "fe deido par lro em que preisção"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_15.wav": {
+        "ground": "e acha que o homem pode facilmente - a mulher aprendeu a fazer tarefas que até aqui há uns anos atrás eram só do homem, não é,  ",
+        "transcript": "e asa que o ano passafelento m me queer pregão fazer tarefas deteteciádas detar será sublamentda"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_35.wav": {
+        "ground": "quer dizer que a própria raiz da planta segrega uma determinada produto que faz uma cim[,], faz, provoca um cimento, uma agregação das partículas de terra em volta das suas raizes, até para se poder agarrar, para se proteger, senão era levada pelo vento, qualquer vento podia arrancar uma planta.",
+        "transcript": "eliser que a própiaeis da planta segregda uma da tererminada produto que fazas umacima que fazem provada conhecimento naggação as particuldas da tela en voltas paraarrenta para poder daapas protegerção aravada p deenteento com qunt ent perderdocabpa"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_17.wav": {
+        "ground": "tem que se ir habituando aos poucos.",
+        "transcript": "quem ser habite as pucas"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_6.wav": {
+        "ground": "e diga-me uma coisa: como é que, que ganhou essa ideia de coleccionar, selos, para começar?",
+        "transcript": "lo para fleckfer ganhou na cdeialacionarcsa p"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_12.wav": {
+        "ground": "hoje tenho uma linda colecção que, é, faz a admiração dos meus amigos.",
+        "transcript": "m da sengaria pressão e sabia as c legeas"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/Um Mal Desconhecido_1.wav": {
+        "ground": "olhe uma coisa, você disse que, eh, antes de entrar para a universidade - você entrou quando, o ano passado, então?",
+        "transcript": "uma coisa você disse que é antes t tratram no estirrará faassento aqua na pensamente"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Goa/Vida Familiar_1.wav": {
+        "ground": "tenho, tenho, tenho uma irmã em Portugal, por acaso sim, e tenho muitos parentes em Portugal, tenho, e agora o nosso bairro de Fontainhas ",
+        "transcript": "ele queim a própria e tem umaferência pado e amã nos bai falei"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_5.wav": {
+        "ground": "e a ligação das duas coisas, sei lá, é uma coisa que vem depois.",
+        "transcript": "e engçaas duas coisas seria no casisa tempo"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_9.wav": {
+        "ground": "eh, lá dos tempos de, de Ngungunhana, eh, que eram muito, a gente gostava muito de, de, de, de acompanhar essas histórias.",
+        "transcript": "estarece nós temos deinda em a lar era lto mais algo serva lento deleia e acompanhar a necessidade"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_7.wav": {
+        "ground": "se, de repente, por qualquer motivo, você pegar essas populações de populaçõ[,], de, rurais, portanto, de agricultores e transferi-los para uma zona ecológica que eles não estão habituados, a primeira coisa que eles vão fazer é pôr em prática aquilo que estão habituados a fazer.",
+        "transcript": "presa seederetente para qualquer motivo você pelarass as oupações de prepuação deperais tantos degricultos e transfem a pelan elásica quees não estão dituados pmerdas paraas queis não fazer é pola em prática aquile"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_10.wav": {
+        "ground": "eh, é d[,], de filatelia, de selos.",
+        "transcript": "v t"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_13.wav": {
+        "ground": "eh, doutor João Serôdio, no nosso caso de Angola, com as movimentações constantes de grupos de pessoas, eh, provocadas por situações de guerra, essa questão não se põe também?",
+        "transcript": "dotor serádido nossa caso agoalda com as movimentações constantes degrupos de pessoas que eá aproveocardas p situações de guerra estasa questão não se põe também"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_16.wav": {
+        "ground": "eh, nã[,], não há, neste momento não há em jo[,], não está em jogo o aspecto, monetário",
+        "transcript": "não há rico e não ainda mas tem revas perder"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_11.wav": {
+        "ground": "e não estou arrependido.",
+        "transcript": "uma f pdda"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_14.wav": {
+        "ground": "quanto é que calcula que vale a sua colecção?",
+        "transcript": "sabertá pela váasção vai na mia"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_6.wav": {
+        "ground": "os pais terão contribuído muito para isso, não acha?",
+        "transcript": "o pis para contribuiem muito para a isagem"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_43.wav": {
+        "ground": "eh, as borboletas como, alimentam-se todas de, fl[,], plantas, flores, não é,",
+        "transcript": "as momeas to da ariumentação das ddas quatas foras da área"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Brasil/Criar Filhos_4.wav": {
+        "ground": "a cabeça deles, como é que vai ser tudo isso, com o pensamento que, que eles têm?",
+        "transcript": "e a cabeça deles oente vai seredoudo isso com o pensamento que eles têm"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_32.wav": {
+        "ground": "vejam, uma chu[,], se você estiver debaixo de uma árvore a apanhar chuva, a água chega a si já pulverizada, porque ela bate nas folhas, as partículas de água são, são desagregadas e portanto quando chega ao solo já vem sem força, porque houve uma f[,], uma primeira parte que amorteceu a queda da água, da, dessa gota de água, portanto quando chega ao solo já sai l[,], cai lentamente.",
+        "transcript": "algumas pessoasão se estive deaastumar no péina na chuva a áa chega asi já poalborizada paraquela barcas folhas as particulas de água som são dos agragadas e pten quando chegaas solos já vis se forçação por que  ouvamos na primeira parte e amunnteu a cada na água na dessa corota nagua conservação já sada da telenta"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_36.wav": {
+        "ground": "portanto, toda essa acção física e química faz a protecção do solo.",
+        "transcript": "para toda essa ação física química faz a proteção do sal"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_2.wav": {
+        "ground": "É, eu admiro-me bastante.",
+        "transcript": "ela é vineiro bastante"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_25.wav": {
+        "ground": "porque esses selos, para serem feitos, eles baseiam-se em fotografias, não é,",
+        "transcript": "acabe de conhecelos da tefâne mas badeiia tem previsa"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Regras e Regras_2.wav": {
+        "ground": "o padre Francisco Fernandes tem conhecimento de qual é a situação actual?",
+        "transcript": "o patrricis que felentes temêm conhecimento de qualificação atual"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_21.wav": {
+        "ground": "mas, as borboletas é um a[,], são um animal que vive muito pouco, não é, têm uma vida muito curta.",
+        "transcript": "mas as mas deenisção animal que vismo do proplet dagramica"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/S. Tome e Principe/Pesca Arriscada_1.wav": {
+        "ground": "e na pesca, no mar com, com peixes grandes, quando tem que enfrentar às vezes tubarões, já alguma vez apanhou algum tubarão?",
+        "transcript": "qu me pesca no mar com co txes grandos quando t que enfrentar asescbarão jovres a apanhoamos vé"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_2.wav": {
+        "ground": "porque, eh, o animal é tão bonito que é, dá pena vê-lo espetado com o alfinete.",
+        "transcript": "fazer é olardaíicaia da caradena está fazer"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_18.wav": {
+        "ground": "porque agora já sei, muitas coisas sobre borboletas, que fui obrigado a col[,], comprar livros",
+        "transcript": "nos asce muitas férias na moe foi obrigada t favar liv"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_4.wav": {
+        "ground": "portanto eu me admiro bastante.",
+        "transcript": "t o menino sau"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_24.wav": {
+        "ground": "então, como no caso, por exemplo, dos que, coleccionam o animal vivo, então esse animal tem que ser apanhado logo, ao sair da, do casulo",
+        "transcript": "não com darradoos que p lere e masem a tecer viabgora você encontou"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_1.wav": {
+        "ground": "eh, doutor João Serôdio, os fluxos migratórios que ultimamente se têm registado, um pouco por toda a África, e também dentro do nosso país teriam provocado graves consequências ao ambiente.",
+        "transcript": "e btos aceróia n os fluxos migratórias que aquimament term registtaadoram p portográficao e também dentro de nossa vez teria provocado graves consequências a ambia"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_20.wav": {
+        "ground": "por isso que, é mais é, neste momento é com[,], mais como um passatempo do que, é fins, eh, monetários.",
+        "transcript": "er ela ri e la complet dizer e fiara"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_4.wav": {
+        "ground": "e tem que ser mesmo assim porque acho que hoje em dia tanto as mulheres como os homens realizam-se profissionalmente",
+        "transcript": "intenferinaos sptécica posisa dequerisamentos comamaasais ta especiina na lima"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_3.wav": {
+        "ground": "e, também me disse que costumava mandar vir um catálogo.",
+        "transcript": "e t dia ser fda nadar debarro"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_5.wav": {
+        "ground": "há muitas mais á[,], outros, eh, tipos, por exemplo, desporto, eh, plantas, etc.",
+        "transcript": "p reportia praga p f"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_6.wav": {
+        "ground": "primeiro vem a profissão, o emprego, o futuro.",
+        "transcript": "de nguém a precisão emprengo o futuro"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_6.wav": {
+        "ground": "eh, mais tarde, eh, gostava também de, além, portanto, de, de, de apascentar gado e, bom, as minhas tardes, eh, brincando com as outras crianças do, do meu, da minha zona, ah, fazendo alguns jogos, ah, que cha[,], que, que chamávamos, eh, aliás que se chama, um jogo que se chama 'tchuva',",
+        "transcript": "rio um mais tarde jádael outro éen tel l parac tgar vin estar éb calclado dtas criançasão de lzar fazêlo aguas jogos que cheguio esamavos e ele é esqui a mãe já decioná de lá"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_4.wav": {
+        "ground": "porque já estava, a estudar numa outra escola que ficava, mais distante da, da, da casa.",
+        "transcript": "para quiser esta lá a ajudar a nota escora de cavalo mais dit deidadeda"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Regras e Regras_3.wav": {
+        "ground": "de facto, como afirmou, eh, a situação política, eh, condicionou a situação linguística.",
+        "transcript": "de sacto cafirmão a a situação política e condicionou a sitação linguístida"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Brasil/Criar Filhos_5.wav": {
+        "ground": "o futuro dessa geração, ",
+        "transcript": "futura da fageração"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_28.wav": {
+        "ground": "claro que ao retirar o coberto vegetal, eu estou imediatamente a provocar a situação do surgimento de ravinas.",
+        "transcript": "qu ela retirar o coberto vistal estou imdiatamente é provocar a sitação do surgimento dravinas"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_8.wav": {
+        "ground": "eh, jogávamos a bola, eh, e à noite, à, à, à, portanto, em redor da, da fogueira, em minha casa costumávamos, eh, escutar, portanto, a, a avó a contar histórias.",
+        "transcript": "agora os agora e a lode a td era dorgada fder ela na casa dos lanos escutarem tnt a avó aconteceis"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_1.wav": {
+        "ground": "eh, durante a infância, eh, portanto, que passei, eh, eh, no Xai-Xai, eh, ainda com, mais ou menos, cinco, a seis anos, já, já apascentava gado em casa dos meus pais, eh, enquanto ia, [,], enquanto fre[,], e frequentava o, a, portanto, a, a pré-primária ",
+        "transcript": "é grannte face é pelo que passei e você chá e ainda cla mas aleus fo agora cesarte já já per ser de vagado em casa de meus pais ele eu garia b l gifrif qudvo agora até pel mi e"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Brasil/Criar Filhos_2.wav": {
+        "ground": "de hoje em dia?",
+        "transcript": "emia dos vabos j asinguei"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_1.wav": {
+        "ground": "mas, já pensou que é dif[,], não acha que é difícil, nos dias que correm, para uma mulher, ah, ser, profissional de uma coisa qualquer, e a sua vida de, pessoal?",
+        "transcript": "mas jásão que eliste não a sa que é difícil nos dias de carree para amanher a ser o profissional de uma coisa qualquer e a suavidade"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_29.wav": {
+        "ground": "a água da chuva, é, são, zonas que continua a chover intensamente.",
+        "transcript": "a águada da chhuva é são asammas que contin umaam cheeiro emensimam"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_11.wav": {
+        "ground": "mas eu, desculpa, ainda queria mais pormenores.",
+        "transcript": "desconteria  lt promst que quis"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_32.wav": {
+        "ground": "depois agora, por exemplo, eh, o, mesmo o desenhador pode ag[,], eh, que alguns,trabalhos são feitos com desenhos, então agora o, o desenhador agora idealiza o animal.",
+        "transcript": "e podeidazener lhe dizerram para ela que e para saber que fazer então darram usina na eleislinar"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_1.wav": {
+        "ground": "e, os timorenses, claro que aqueles timorenses que nasceram já depois, bom, eu estou a fazer uma pergunta desnecessária, porque estes rapazes já nasceram depois da invasão e sentem-se sempre timorenses.",
+        "transcript": "os toleânciesntrata é classif franceiro jato estabv a s sárioia que t fazasar a sais da naal seega c"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_25.wav": {
+        "ground": "árvores todas foram destruídas.",
+        "transcript": "e japitos pararamstriida"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_9.wav": {
+        "ground": "até chegar então a uma colecção muito mais, eh, avançada",
+        "transcript": "adsigarão na pressão megiara"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/S. Tome e Principe/Pesca Arriscada_2.wav": {
+        "ground": "sim, apanhei muitos tubarão.",
+        "transcript": "sim poreos l"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_2.wav": {
+        "ground": "e, o que não deixei de fazer mesmo, quando já estava a, a, a fazer a segunda e as outras classes seguintes.",
+        "transcript": "o que não quer fazer modo quando já estava a a fazer é seguraz atras p seguintees"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_20.wav": {
+        "ground": "mas acho que sim.",
+        "transcript": "jés que sim escaça"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_19.wav": {
+        "ground": "sobre o animal e, estudar algumas, eh, espécies, eh, os que havia aqui em Cabo Verde, etc.",
+        "transcript": "l é estrar a va depéc poderia e teritar pida"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_41.wav": {
+        "ground": "é uma coisa fora de série!",
+        "transcript": ""
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_27.wav": {
+        "ground": "sim, [,] tanto quanto conhece lhe permite fazer qualquer ligação desta, deste desaparecimento de vegetação com desaparecimento também de chuvas,",
+        "transcript": "ninguém é protato quando conhece o perermite caser a qualquer ligação desta nec presção simpicentação com masá apresximentamenteo"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_13.wav": {
+        "ground": "e que vale uma fortuna, não é,",
+        "transcript": "esváado va que tornar"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_27.wav": {
+        "ground": "e então é, é t[,], é toda essa maneira depois de reprodu[,], tentar reproduzir o animal.",
+        "transcript": "dai é paraas lale foi tb o que vzil anar"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_8.wav": {
+        "ground": "n[,], coleccionei, com[,], comecei por, caixas de fósforos",
+        "transcript": "o presente inclosigura até parte"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Macau/Trabalhar para o Estado_1.wav": {
+        "ground": "nessa altura que entrou para a função pública, era fácil o acesso, ou era mais difícil do que agora?",
+        "transcript": "do mas fator que aducaçãoalaga e faácil e acesçãoão eda mais queeccidaeira"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_30.wav": {
+        "ground": "por exemplo, sobre uma flor, sobre, assim mesmo, eh, em, em voo, é, é, é uma coisa interessante.",
+        "transcript": "ca café ter seu vvr sobre ela você é erro é conf a"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_35.wav": {
+        "ground": "m[,], eu, a[,], acho de que, em, em de[,], desenhado, quanto a mim é até m[,], melhor.",
+        "transcript": "menina af vin famia"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_39.wav": {
+        "ground": "e, portanto m[,], m[,], consegue-se ver da b[,], na borboleta, ah, que tod[,], as asas, as cores, isso tudo?!",
+        "transcript": "o lbitat proteece a rede da parada lent fvará apascosas"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_36.wav": {
+        "ground": "sim! porque, por exemplo, eh, eh, não sei porquê, mas, eh, já com fotografia parece uma coisa, eh, como é que posso dizer?",
+        "transcript": "pressa po delinia e casa do que lguia e repet da difresça na fia e também pode serer"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_16.wav": {
+        "ground": "claro que esssas, essa situação prejudica imediatamente as situações, a, a, a, os locais para onde são levados, o exemplo, Luanda, à volta de Luanda, à volta do Lobito, Benguela, e mesmo Namibe que é um deserto, as populações do su[,], planalto central ao deslocarem-se para ali provocaram dese[,], dese[,], grandes desequilíbrios ecológicos locais, na, na, no, no, nesses locais.",
+        "transcript": "carar que esquerçasa sitação poje dequiniatamento deas sicações é a os locais produção levados emplan na bata dolana na mata doel vit bangela e mesmo no naamigo que exerto as queparações do des esporana central os jrocalesta e provocaram dessiggagos ecies e class de lucais nda noro nos nest rucais"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_26.wav": {
+        "ground": "só a partir daí depois é que se começa a ver outra vez a floresta.",
+        "transcript": "soó paga da do parade que excassavva do atnta daorne"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_7.wav": {
+        "ground": "um jogo que a gente gostava, eh, gostava mais de praticar, ah, outro ti[,], outro tipo de jogo era, eh, um out[,], um, um jogo, eh, quase semelhante à 'tchuva', que se chama 'murravarrava'.",
+        "transcript": "ele aguern o cust l será mais de praticar o traduto que pediu agorar qu deel argelo e quase isso da vidade se amorará"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_3.wav": {
+        "ground": "portanto, só deixei de, de f[,], de apa[,], apascentar gado quando, quando, fiz a, a terceira classe.",
+        "transcript": "não t dexeddo fia capac de agar comou  atéceira graça"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_20.wav": {
+        "ground": "não é preciso ir muito longe, a própria população do Huambo, que se concentrou devido à guerra, aos, aos problemas da guerra e ao desequilíbrio, políticos e militares, que se concentrou durante anos à volta das cidades.",
+        "transcript": "ental desses simitulões da própria popação do lambgo que se concentrou de guida guerra ros as planas agariaas ecliem políticas limitais que se concentram durantamos  a vota da cidades"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_31.wav": {
+        "ground": "e depois então fazem a reprodução para o selo?",
+        "transcript": "ele tão ca deer produção vocêal"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_7.wav": {
+        "ground": "eu creio que sim.",
+        "transcript": "atates"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_11.wav": {
+        "ground": "porque, se ambos trabalham fora de casa também têm que trabalhar os dois dentro de casa.",
+        "transcript": "porque sempre trabalem far casa t entdera de gente estenteo"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_5.wav": {
+        "ground": "isto demonstra de que, este jovem soube amar, e dar-se à sua pátria.",
+        "transcript": "éra do mostor do t é pjavem sob a mã praça as sapato"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_12.wav": {
+        "ground": "por isso não pode ser só da parte de uma pessoa, o trabalhar em casa.",
+        "transcript": "tar isso não partsalar a parte dopção para trabalhar em casa"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_31.wav": {
+        "ground": "portanto, as ravinas do Moxico, as ravinas do leste de Angola são todas provocadas pelo excesso de população que retirou ao solo o coberto vegetal que fazia a protecção física e mecânica, física, mecânica, claro, e química também, fazia a protecção desse solo.",
+        "transcript": "temntra vivas noscicos deaveras do l éste da agora são todas proveegadas pelo seestso da poporação corretiror ao sol ou coberto está fase a proteção física e mecânica física mecânica claritímica também faze apresentas s sovens"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_8.wav": {
+        "ground": "isto é o resultado da contribuição dos pais.",
+        "transcript": "estranho o resultado da contribição dos pais"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_5.wav": {
+        "ground": "então ali tinha que, era obrigado a, fazer m[,], longos percursos e, era, mais difícil então tratar do gado e ir para a escola.",
+        "transcript": "doli glubre dobandará fazer uma aula nos precocido pra masc e feito então nadaggali e peece"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_37.wav": {
+        "ground": "se você retira o coberto vege[,], vegetal, seja ele de árvores, ou de arbustos, ou de capins, não é, de, herbáceas, ou de gr[,], de gramíneas herbáceas, você está imediatamente a tirar ao solo a capacidade de defesa.",
+        "transcript": "uma serrantida coberta dos prestanas de aliadosdo aparbosçãoa tpins neda e para bacer e madeira da gar minhas debaças que você está em dedafamento a atirará na sol na caccia de vez"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_16.wav": {
+        "ground": "acha que o homem facilmente pode entrar nas tarefas que eram, normalmente, d[,], especialidade da mulher?",
+        "transcript": "essa clada facilmente paradentar nas tarefas que eraram novramento especialidade da manhã"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_19.wav": {
+        "ground": "quando eles não querem é que já é pior.",
+        "transcript": "po n a gerent aquel mas ess"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_21.wav": {
+        "ground": "hoje à volta da cidade do Huambo, ess[,], à volta da cidade do Bié, praticamente o terreno está completamente despido de vegetação.",
+        "transcript": "jávata da cidade do lramança vocêcisado dogia e ardicamento do trem está compenhmente perpído de que estaação"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_38.wav": {
+        "ground": "é, é, é isso mesmo.",
+        "transcript": "galiaisa"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_5.wav": {
+        "ground": "portanto, sempre que há uma movimentação excessiva de pessoas de um lado para outro, claro que sempre, isso sempre t[,], são, eh, transformadas em problemas ambientais.",
+        "transcript": "sempre que há uma movimentação excessiva de pessoas ao matrótro clar que sempre sempre tração eão transformadas em planas ambienta"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_8.wav": {
+        "ground": "diz que tanto as mulheres como os homens realizam-se profissionalmente.",
+        "transcript": "visquita atravessamosáas realizisas profissiona"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_9.wav": {
+        "ground": "aí começam os desequilíbrios, porque provavelmente, naquela nova zona onde eles estão, se tiver condições ecológicas diferentes, claro que o amanho, o, a gestão da terra tem que ser de formas diferenciada daquelas donde eles são originários.",
+        "transcript": "aí começam os eclipdos provavelmente naquela nova a não gstão se tiver coniçdas e clógicas diferentes claro que o amanhho a gestão da terra tem cedo de formasiffrencia naelas danosão originar"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_6.wav": {
+        "ground": "isto, mesmo que não haja grandes quantidades de pessoas, basta apenas transferir populações de um, de uma dado, de um determinada zona ecológica, habituados a fazer uma agricultura que aprenderam ao longo de milhares de anos com a experiência do erro, cometido, portanto, acerto, erro, acerto, erro, acerto, as populações que se habituam a viver em determinadas áreas aprendem a viver em equilíbrio com a natureza.",
+        "transcript": "este mesmo que não haja grande escond d as pessoas mas apenas transferir populações de um nima dado de iernedas anicrógica haita a fazer umagritura que prerendeem a longo idade de anos com experiência do erro cometido portanto a certo eram a certaz exceto as comprações que serbituangdas treinadas áreas aprendem a viver e clíicada"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_3.wav": {
+        "ground": "tem que começa[,], para já, hoje em dia já é bastante diferente do que era há uns anos atrás",
+        "transcript": "thoerto deserto mas oias deveente feita que  éos anos"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_23.wav": {
+        "ground": "porque senão perdem, eh, quebram as asas e então, eh, perdem qualidade.",
+        "transcript": "prisão dem em b kemara iidae binby"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_18.wav": {
+        "ground": "porque há homens que quando querem fazem as mesmas coisas que uma mulher, em casa.",
+        "transcript": "totvamente quando querem fazer isso n responde"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_24.wav": {
+        "ground": "ainda ontem, por exemplo, de Saurimo, nós saímos da cidade de Saurimo, que é uma cidade pequenina, mas onde existem, neste momento, vinte ou trinta mil desem[,], eh, desempregados, portanto, pessoas refugiadas e, a toda à volta de Saurimo, pelo menos num raio de dez a vinte quilómetros não há vegetação, não há árvores.",
+        "transcript": "nenh uma atrendentção d inimacios da sitação emgcane da priina mas não existem nosmente tintaenta milos edas emperiantdas da pessoas refugidas e tratada da na notação empõmnas norraisidadeis eventilâmetros não hab daacionar"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Goa/Vida Familiar_3.wav": {
+        "ground": "todos os amigos já estão em Lisboa.",
+        "transcript": "o leii parave veiro essa visão"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_13.wav": {
+        "ground": "e está habituada a ver isso à sua volta, ver o homem trabalhar em casa?",
+        "transcript": "estava cuarda averia sar sua vata verer buda ca abalraca"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_2.wav": {
+        "ground": "combinar as duas coisas.",
+        "transcript": "cgnar nas coisas"
     }
 }

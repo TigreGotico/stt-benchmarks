@@ -1,0 +1,74 @@
+{
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/61a.wav": {
+        "ground": "Maria, não te esqueças de ligar o rádio.",
+        "transcript": "Maria, não te esqueças de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/64a.wav": {
+        "ground": "Vê os animais, João.",
+        "transcript": "Vê os animais, João."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/84a.wav": {
+        "ground": "Valdemar, não te esqueças de ligar o rádio.",
+        "transcript": "Valde Mar, não te esqueças de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/61a.wav": {
+        "ground": "Maria, não te esqueças de ligar o rádio.",
+        "transcript": "Maria, não te esqueças de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/48b.wav": {
+        "ground": "Vê, Valdemar, os animais.",
+        "transcript": "Vê Valmar os animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/27b.wav": {
+        "ground": "Vê os animais, Valdemar.",
+        "transcript": "Vê os animais Valdo Mar"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/108a.wav": {
+        "ground": "Gil, não te esqueças de ligar o rádio.",
+        "transcript": "Gil, não te esqueças de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/106b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mónica.",
+        "transcript": "Não te esqueças de ligar o rádio, Mônica."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/100a.wav": {
+        "ground": "Mário, não te esqueças de ligar o rádio.",
+        "transcript": "Mário, não te esqueças de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/100b.wav": {
+        "ground": "Mário, não te esqueças de ligar o rádio.",
+        "transcript": "Mário, não te esqueças de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/101a.wav": {
+        "ground": "Vê os animais, Mónica.",
+        "transcript": "Vê os animais, Mônica."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/101b.wav": {
+        "ground": "Vê os animais, Mónica.",
+        "transcript": "Vê os animais, Mônica."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/102a.wav": {
+        "ground": "Distribui, Valdemar, os gelados.",
+        "transcript": "Distribui Valdemar os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/102b.wav": {
+        "ground": "Distribui, Valdemar, os gelados.",
+        "transcript": "Distribui Valdemar os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/106a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mónica.",
+        "transcript": "Não te esqueças de ligar o rádio, Mônica."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/107a.wav": {
+        "ground": "Vê os animais, Mário.",
+        "transcript": "Vê os animais, Mario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/107b.wav": {
+        "ground": "Vê os animais, Mário",
+        "transcript": "Vê os animais, Mário."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/108a.wav": {
+        "ground": "Gil, não te esqueças de ligar o rádio.",
+        "transcript": "Gil, não te esqueças de ligar o rádio."
+    }
+}

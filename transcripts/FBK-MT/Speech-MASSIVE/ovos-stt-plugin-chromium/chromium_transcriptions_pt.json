@@ -4882,5 +4882,49 @@
     "3df8bf458103c6f32999326bf61dd6cb.wav": {
         "ground": "mude para billy bob show",
         "transcript": "Mute para Billy Bob Show"
+    },
+    "584d472f9e6646aa7087c2364ffd092e.wav": {
+        "ground": "remova todos os eventos e agendamentos",
+        "transcript": "Remova todos os eventos em agendamentos"
+    },
+    "e9e7d23c42f6915b1ddc98c1dc76f584.wav": {
+        "ground": "retira pimenta da minha lista de mercearia",
+        "transcript": "retira Pimenta da minha lista de mercearia"
+    },
+    "60809a5ad05bfa9106eaaf31ca5db0b9.wav": {
+        "ground": "dá-me receitas",
+        "transcript": "dá-me receitas"
+    },
+    "b4bffd7b35d61776ef798701e20be32e.wav": {
+        "ground": "quando são férias no mês corrente",
+        "transcript": "Quanto são férias no mês corrente"
+    },
+    "d01042156e5818f0d74da0c64d4f1fc5.wav": {
+        "ground": "mandar vir comida takeaway",
+        "transcript": "mandar vir comida take-away"
+    },
+    "1f46744f78f27b803442e4b6666d7a21.wav": {
+        "ground": "quais vão ser as condições do tempo esta semana",
+        "transcript": "Quais vão ser as condições do tempo esta semana"
+    },
+    "ed2b81b823eb1d8cf77fdf07b8338d06.wav": {
+        "ground": "descobre se a churrasqueira portuguesa tem takeaway",
+        "transcript": "descobre-se Churrasqueira portuguesa tem take"
+    },
+    "dbc24dea523ad75fd737fec9797affd2.wav": {
+        "ground": "o que se passa com o meu jantar",
+        "transcript": "O que se passa com o meu jantar"
+    },
+    "1293a9a1cf2ff951741b7bd32d3bc438.wav": {
+        "ground": "próximos eventos",
+        "transcript": "próximos EV"
+    },
+    "77ea6799fb3e5878952cf242d1af155f.wav": {
+        "ground": "qual a minha agenda de eventos para amanhã",
+        "transcript": "Qual a minha agenda de eventos para amanhã"
+    },
+    "e1e12105d9375289c654e5aefd7bc5fd.wav": {
+        "ground": "mostra me o último episódio",
+        "transcript": "mostra-me o último episódio"
     }
 }

@@ -854,5 +854,13 @@
     "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/64b.wav": {
         "ground": "Vê os animais, João.",
         "transcript": " Vê os animais, João."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/14a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Valdemar.",
+        "transcript": " Não te esqueças de ligar o rádio, Valdemar."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/21a.wav": {
+        "ground": "Vê os animais, Gil",
+        "transcript": " Vê os animais, Gil."
     }
 }

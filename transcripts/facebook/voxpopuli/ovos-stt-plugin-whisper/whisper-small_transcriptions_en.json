@@ -3890,5 +3890,49 @@
     "test_part_0/20110511-0900-PLENARY-10-en_20110511-17:16:36_16.wav": {
         "ground": "and the support package for portugal is being prepared which will also draw on both european and imf support ministers of the eurozone members",
         "transcript": " and the support package for Portugal is being prepared, which will also draw on both European and IMF support. Ministers of the Eurozone members"
+    },
+    "test_part_0/20131021-0900-PLENARY-9-en_20131021-17:54:08_3.wav": {
+        "ground": "warsaw is the meeting which is not procedural.",
+        "transcript": " Varsov is the meeting which is not procedural."
+    },
+    "test_part_0/20170214-0900-PLENARY-14-en_20170214-16:47:35_6.wav": {
+        "ground": "we have sanctions they should be continued but it is also possible that if russia goes on in this way we will increase the sanctions and have more smart sanctions against russia.",
+        "transcript": " We have sanctions, they should be continued, but it is also possible if Russia goes on this way that we increase these sanctions and have more smart sanctions against Russia."
+    },
+    "test_part_0/20180116-0900-PLENARY-3-en_20180116-09:47:38_5.wav": {
+        "ground": "we need to focus on deepening and strengthening the internal market to make sure that all single market strategies are completed by two thousand and eighteen especially of course the digital single market.",
+        "transcript": " We need to focus on deepening and strengthening the internal market to make sure that all single market strategies are completed by 2018, especially of course the digital single market."
+    },
+    "test_part_0/20120704-0900-PLENARY-7-en_20120704-12:49:39_2.wav": {
+        "ground": "a key achievement is russia's commitment not to impose new or additional export duties.",
+        "transcript": " The key achievement is Russia's commitment not to impose new or additional expert duties."
+    },
+    "test_part_0/20201007-0900-PLENARY-en_20201007-16:06:04_4.wav": {
+        "ground": "the digital finance report is a good basis.",
+        "transcript": " And the digital finance report is a good basis."
+    },
+    "test_part_0/20170404-0900-PLENARY-19-en_20170404-21:25:32_10.wav": {
+        "ground": "we take money from one pocket to put in another pocket hoping we will not need them any more like the eur two billion possible' unused funds from the solidarity fund and the globalisation fund we hope to reshuffle. i am a former entrepreneur but also a social democrat and i can tell you for a fact that if you want fresh money you need to invest more in the things that can help your business grow.",
+        "transcript": " We take money from one pocket to put in another pocket, hoping we will not need them anymore. Like the 2 billion euros possible, a new fund from the Solidarity Fund and the Globalization Fund, we hope to reshuffle. I am a former entrepreneur, but also a social democrat, and I can tell you for a fact that if you want fresh money, you need to invest more in the things that may help your business grow."
+    },
+    "test_part_0/20201112-0900-PLENARY-en_20201112-11:53:33_5.wav": {
+        "ground": "substantial support and close publicprivate cooperation is needed for the completion of the trans european transport network.",
+        "transcript": " Substantial support and close public-private cooperation is needed for the completion of the Trans-European Transport Network."
+    },
+    "test_part_0/20160705-0900-PLENARY-14-en_20160705-18:32:19_13.wav": {
+        "ground": "as well as european parliament and european commission are working for their interests on their behalf.",
+        "transcript": " and as well as European Parliament and European Commission are working for their interests on their behalf."
+    },
+    "test_part_0/20111214-0900-PLENARY-14-en_20111214-18:30:49_21.wav": {
+        "ground": "that said and given the absence of relevant treaty provisions the council has no further power to take action in the areas mentioned by the honourable members.",
+        "transcript": " That said, and given the absence of relevant treaty provision, the Council has no further power to take action in the areas mentioned by the Honorable Members."
+    },
+    "test_part_0/20090505-0900-PLENARY-10-en_20090505-15:53:49_8.wav": {
+        "ground": "i hear that the intention is to have a message and i hear that you intend to do something to help those who suffer most.",
+        "transcript": " I hear that the intention is to have a message. And I hear that you intend to do something to help those who suffer most."
+    },
+    "test_part_0/20090325-0900-PLENARY-8-en_20090325-16:21:59_1.wav": {
+        "ground": "i believe that i speak on behalf of many of us when saying that this notion is mutual.",
+        "transcript": " I believe that I speak on behalf of many of us when saying that this notion is mutual."
     }
 }

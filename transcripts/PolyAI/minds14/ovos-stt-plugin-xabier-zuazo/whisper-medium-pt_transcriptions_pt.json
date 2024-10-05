@@ -1,0 +1,10 @@
+{
+    "zip://pt-PT~CASH_DEPOSIT/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Bom dia estou a ligar porque precisava de informações sobre como é que eu posso depositar dinheiro na minha conta",
+        "transcript": "Bom dia, estou a ligar porque precisava de informações sobre como eu posso depositar dinheiro na minha conta."
+    },
+    "zip://pt-PT~CASH_DEPOSIT/response_17.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Como faço para transferir dinheiro para a minha conta",
+        "transcript": "Como faço para transferir dinheiro para a minha conta?"
+    }
+}

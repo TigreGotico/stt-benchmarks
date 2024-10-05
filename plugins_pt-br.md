@@ -26,16 +26,16 @@
 |dataset/model|whisper-tiny-pt|whisper-medium-pt|whisper-small-pt|whisper-base-pt|whisper-large-v3-pt|
 |-|-|-|-|-|-|
 | fleurs | 0.3003 | 0.13 | 0.1707 | 0.223 | N/A |
-| cml_tts_dataset_portuguese | 0.3423 | 0.1515 | N/A | N/A | N/A |
+| cml_tts_dataset_portuguese | 0.3423 | 0.1467 | N/A | 0.4403 | N/A |
 | MultiLingualSpeechRecognition_MLS-pt | 0.426 | 0.2316 | 0.2674 | 0.4242 | N/A |
-| portuguese-tts | 0.4328 | 0.2982 | N/A | N/A | N/A |
-| portuguese_audios | 0.4434 | 0.2473 | N/A | N/A | N/A |
+| portuguese-tts | 0.4328 | 0.251 | 0.2919 | 0.3417 | N/A |
+| portuguese_audios | 0.4434 | 0.2446 | 0.3149 | 0.4446 | N/A |
 | multilingual_librispeech | 0.4477 | 0.2335 | 0.2685 | 0.3768 | 0.0761 |
 | mTEDx-ptbr | 0.4594 | 0.1976 | 0.2503 | N/A | N/A |
-| portuguese_audios_male | 0.4985 | 0.1064 | N/A | N/A | N/A |
-| compare-accents-pt | 0.5778 | 0.1869 | N/A | N/A | N/A |
+| portuguese_audios_male | 0.4985 | 0.2185 | N/A | 0.4031 | N/A |
+| compare-accents-pt | 0.5778 | 0.209 | N/A | 0.3786 | N/A |
 | PTBRSpeechRecognition_CORAA | 0.6249 | 0.4194 | 0.3223 | N/A | 0.0556 |
-| minds14 | 1.0 | N/A | N/A | N/A | N/A |
+| minds14 | 1.0 | 0.1034 | N/A | 0.4483 | N/A |
 
 
 # WER: ovos-stt-plugin-chromium
@@ -45,13 +45,14 @@
 | fleurs | 0.1637 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2908 |
 | portuguese-tts | 0.2944 |
-| multilingual_librispeech | 0.2983 |
+| multilingual_librispeech | 0.2979 |
 | compare-accents-pt | 0.3107 |
 | PTBRSpeechRecognition_CORAA | 0.4072 |
 | cml_tts_dataset_portuguese | 0.4145 |
-| mTEDx-ptbr | 0.4218 |
+| mTEDx-ptbr | 0.4212 |
 | portuguese_audios_male | 0.4599 |
 | portuguese_audios | 0.4661 |
+| localingua_pt-br | 0.587 |
 
 
 # WER: ovos-stt-plugin-mms
@@ -72,10 +73,10 @@
 | MultiLingualSpeechRecognition_MLS-pt | 0.0905 |
 | fleurs | 0.1113 |
 | portuguese-tts | 0.1564 |
-| multilingual_librispeech | 0.1718 |
+| multilingual_librispeech | 0.1705 |
 | compare-accents-pt | 0.1781 |
-| portuguese_audios_male | 0.1902 |
-| mTEDx-ptbr | 0.2336 |
+| portuguese_audios_male | 0.19 |
+| mTEDx-ptbr | 0.1932 |
 | cml_tts_dataset_portuguese | 0.2415 |
 | PTBRSpeechRecognition_CORAA | 0.2503 |
 | portuguese_audios | 0.2993 |

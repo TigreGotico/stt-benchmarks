@@ -6,7 +6,7 @@
 | ovos-stt-plugin-distillwhisper | distil-medium.en | 0.5805 | 0.5275 | 0.6212 | 27.7048 |
 | ovos-stt-plugin-chromium | chromium | 0.5633 | 0.5927 | 0.6027 | 25.4346 |
 | ovos-stt-plugin-citrinet | stt_en_citrinet_512_gamma_0_25 | 0.6164 | 0.6151 | 0.518 | 19.9031 |
-| ovos-stt-plugin-distillwhisper | distil-large-v3 | 0.7391 | 0.5292 | 0.4767 | 17.44 |
+| ovos-stt-plugin-distillwhisper | distil-large-v3 | 0.697 | 0.5289 | 0.5001 | 19.3542 |
 | ovos-stt-plugin-whisper | whisper-small.en | 0.8611 | 0.8866 | 0.5613 | 7.0808 |
 | ovos-stt-plugin-whisper | whisper-small | 1.4338 | 0.734 | 0.3257 | -2.7337 |
 | ovos-stt-plugin-mms | mms-1b-all | 1.425 | 1.425 | 0.1737 | -7.3821 |

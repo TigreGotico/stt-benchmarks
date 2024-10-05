@@ -434,5 +434,113 @@
     "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_33.wav": {
         "ground": "depois disso as próprias raízes das plantas, das árvores e dos capins têm incapacidade de retenção do solo.",
         "transcript": "Depois disso, as próprias raízes, das plantas, as ares dos capins, têm capacidade de retenção do solo."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_15.wav": {
+        "ground": "e acha que o homem pode facilmente - a mulher aprendeu a fazer tarefas que até aqui há uns anos atrás eram só do homem, não é,  ",
+        "transcript": "E acha que o homem pode sacramento? A mulher aprendeu a fazer tarefas de tequiales antes atrás era o sorduamento, não é?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_7.wav": {
+        "ground": "bem, eh, dizem que, nós todos temos um pouco de, coleccionistas",
+        "transcript": "Ve e vi ninguém, nossas textas em forne, com a seu líder."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_24.wav": {
+        "ground": "então, como no caso, por exemplo, dos que, coleccionam o animal vivo, então esse animal tem que ser apanhado logo, ao sair da, do casulo",
+        "transcript": "Ela está olhando por no carro é luz que por acelor é largui. De tal vez a ele acesseire a ganhar blog e a oceita é muito carnaque."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_2.wav": {
+        "ground": "em volta disto, o que há a dizer-se?",
+        "transcript": "Evolta-bista o que há deséssio."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_36.wav": {
+        "ground": "sim! porque, por exemplo, eh, eh, não sei porquê, mas, eh, já com fotografia parece uma coisa, eh, como é que posso dizer?",
+        "transcript": "Caraci? porque eu me... eu me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Goa/Vida Familiar_2.wav": {
+        "ground": "já está quase, não temos nenhuns, eh, goeses, agora são todos de fora e que falam só esta coisa, e, ah, mas, ah, mas, eh, me[,], meu irmão, eu tenho um irmão que ainda vive na Fontainhas e passámos bons dias em Fontainhas, eh, portanto, todo aquele grupo, todo conhecido, todos estão em Lisboa agora",
+        "transcript": " E eu não tenho certeza de saber, não temos nenhum ruim. Apesar todos os falando e me falam sobre, é verdade. E, na minha cena, meu irmão, eu tenho uma caída de uma fã deins. E, passando o bordeiro, fã deins, é tanto todo o grupo todo o infí. Todos os tos estão em esvolver, não?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_37.wav": {
+        "ground": "se você retira o coberto vege[,], vegetal, seja ele de árvores, ou de arbustos, ou de capins, não é, de, herbáceas, ou de gr[,], de gramíneas herbáceas, você está imediatamente a tirar ao solo a capacidade de defesa.",
+        "transcript": "Se você retirou o coberto dos vestal, seja ler os arbustos de capis, né? de rebaços, ao aderador de reminos rebaços, você está ainda atendendo a tirar a opção na capacidade de seza."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_4.wav": {
+        "ground": "porque já estava, a estudar numa outra escola que ficava, mais distante da, da, da casa.",
+        "transcript": "O que já estava... eu acho que dá uma outra escora ficar vá. Um águido está no dia da casa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_14.wav": {
+        "ground": "por v[,], por ver exactamente o contrário é que eu penso assim.",
+        "transcript": "Frufrizato é muito correo, fralho! É que eu pensassem."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_35.wav": {
+        "ground": "m[,], eu, a[,], acho de que, em, em de[,], desenhado, quanto a mim é até m[,], melhor.",
+        "transcript": "Ele vai eu acredito que eles me atras podem me atender."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Portugal/O Marido Ideal_1.wav": {
+        "ground": "mas, já pensou que é dif[,], não acha que é difícil, nos dias que correm, para uma mulher, ah, ser, profissional de uma coisa qualquer, e a sua vida de, pessoal?",
+        "transcript": "Mas já pensou que eles não há sequer difícil nos nisso que correm para a mulher ser profissional de uma coisa qualquer e a sua vida pessoal."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Mocambique/Meninice na Machamba_8.wav": {
+        "ground": "eh, jogávamos a bola, eh, e à noite, à, à, à, portanto, em redor da, da fogueira, em minha casa costumávamos, eh, escutar, portanto, a, a avó a contar histórias.",
+        "transcript": "E, jogou-ros a bóra e a loite, a dão-do-o é uma redordada fogueira, na minha casa, bastoladores, escutarem, dão-do-o-o, vá voar com os três toias?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_11.wav": {
+        "ground": "agora imagine o que se passa no Rwanda em que são milhões de pessoas que se deslocam e ficam concentradas durante meses no mesma região em que destroem completamente todo o coberto vegetal.",
+        "transcript": "Ala imagina, que se passa no ronde, em que são milhões de pessoas que se jogam e ficam concentradas durante meses no mesmo arjão, em que destrui e completamente todo o que berto"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_41.wav": {
+        "ground": "é uma coisa fora de série!",
+        "transcript": "Para você"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_7.wav": {
+        "ground": "eu creio que sim.",
+        "transcript": "Aglar de sessos"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Cabo Verde/Coleccionismo_26.wav": {
+        "ground": "mas é, hoje, por exemplo, eh, com a ciência avançada, como o senhor sabe, e, o animal pode ser filmado.",
+        "transcript": "Mas hoje os emelecossem a ser passado do que passar? e, quando ela consegue mais"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_27.wav": {
+        "ground": "sim, [,] tanto quanto conhece lhe permite fazer qualquer ligação desta, deste desaparecimento de vegetação com desaparecimento também de chuvas,",
+        "transcript": "ingui a total de quanto conhece o permitido casero, qualquer liação desta, desta aparecimento de situação com desaparecimento anualmente eles."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Regras e Regras_2.wav": {
+        "ground": "o padre Francisco Fernandes tem conhecimento de qual é a situação actual?",
+        "transcript": "O Patre de Siscoimento, o tem conhecimento de qual instrução é atual."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_4.wav": {
+        "ground": "portanto eu me admiro bastante.",
+        "transcript": "Tanto eu, mesmo em um chateiro."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Identidade de um Povo_5.wav": {
+        "ground": "isto demonstra de que, este jovem soube amar, e dar-se à sua pátria.",
+        "transcript": "O trânsito é de uma trânsito de que? Este gelo é só de amea, e se é. A sua plataforma é o que você quer."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_20.wav": {
+        "ground": "não é preciso ir muito longe, a própria população do Huambo, que se concentrou devido à guerra, aos, aos problemas da guerra e ao desequilíbrio, políticos e militares, que se concentrou durante anos à volta das cidades.",
+        "transcript": "Ainda há uma vez mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais mais"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_31.wav": {
+        "ground": "portanto, as ravinas do Moxico, as ravinas do leste de Angola são todas provocadas pelo excesso de população que retirou ao solo o coberto vegetal que fazia a protecção física e mecânica, física, mecânica, claro, e química também, fazia a protecção desse solo.",
+        "transcript": "Tanto as ravinas do México, as ravinas do Leste da Gola, são todas provocadas por o sexta população que retirou. Ao sol o coberto estáu que fazia a proteção física e mecânica, física mecânica, claro e química também, fazia a proteção de sol."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_10.wav": {
+        "ground": "portanto, já isso, mesmo que não haja excesso de populações, mesmo isso já prejudica a própria natureza.",
+        "transcript": "Tanto já isso mesmo que não há justiça por razões, mesmo isso já poderia que a própria natureza."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_36.wav": {
+        "ground": "portanto, toda essa acção física e química faz a protecção do solo.",
+        "transcript": "Então, tudo essa, ação física e quine que a fase é proteção do solo."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_17.wav": {
+        "ground": "primeiro, porque é uma zona semi, são á[,], zonas semi-áridas, não é, toda a costa angolana, mais ou menos, inclui-se numa, numa, numa zona que ecologicamente se diz semi-árida, ou, e, e esse, e essa situação semi, dessa, essa, esse bioma semi-árido tem características de equilíbrio muito especiais.",
+        "transcript": "Nomem porque há uma zona simcionalização assimilhada, toda a costa angola na mesma gente, inclui-se numa normação naquele código de umaência de assimilhada. E essa situação se me vê dessa esse biomas, miário, tem características de equilibre muito especiais."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Angola/A Guerra e o Ambiente_16.wav": {
+        "ground": "claro que esssas, essa situação prejudica imediatamente as situações, a, a, a, os locais para onde são levados, o exemplo, Luanda, à volta de Luanda, à volta do Lobito, Benguela, e mesmo Namibe que é um deserto, as populações do su[,], planalto central ao deslocarem-se para ali provocaram dese[,], dese[,], grandes desequilíbrios ecológicos locais, na, na, no, no, nesses locais.",
+        "transcript": " Claro que essa situação, por judequinha de atamente as instituições, os locais produção rovados, os é pelo ano, a vota do ano, a vota do vito vengela e, mesmo na mídica, que é um zerto, as populações dos pronacion trálogos, o cara se prolei, provocaram os grandes íclius e clássicos do país, no nesses poucais."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@c47fd48cda2299be2995f5e37d4826e798dcf60c/Timor/Regras e Regras_4.wav": {
+        "ground": "antes o ensino do português era oficial, apoiado pela, governo e igreja, hoje está completamente banido.",
+        "transcript": " Antes de um filho do português era oficial, apoiado pelo governo e grêsse, hoje está completamente banido."
     }
 }

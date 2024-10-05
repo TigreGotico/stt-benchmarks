@@ -18,5 +18,9 @@
     "zip://pt-PT~HIGH_VALUE_PAYMENT/response_21.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
         "ground": "Bom dia Estou a tentar fazer o pagamento online e diz que manda uma mensagem mas não recebi nenhuma ocupado fazer obrigada",
         "transcript": "Bom dia tou a tentar fazer um pagamento online e diz que manda uma mensagem mas não recebo nenhuma O que posso fazer Obrigada"
+    },
+    "zip://pt-PT~CASH_DEPOSIT/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Bom dia estou a ligar porque precisava de informações sobre como é que eu posso depositar dinheiro na minha conta",
+        "transcript": "Bom dia tou a ligar porque precisava de informações sobre como é que eu posso depositar dinheiro na minha conta"
     }
 }

@@ -1,0 +1,866 @@
+{
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/93b.wav": {
+        "ground": "Distribui os gelados, Mário.",
+        "transcript": "Distribu-Islados Mario"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/84b.wav": {
+        "ground": "Valdemar, não te esqueças de ligar o rádio.",
+        "transcript": "Valde-me mar, não te esqueces de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/34a.wav": {
+        "ground": "Vê, Maria, os animais.",
+        "transcript": "Vemoria aos animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/108b.wav": {
+        "ground": "Gil, não te esqueças de ligar o rádio.",
+        "transcript": "Gil, não te esqueças de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/80b.wav": {
+        "ground": "Distribui os gelados, Valdemar.",
+        "transcript": "Estrewa e o gelado de Voldemort"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/84a.wav": {
+        "ground": "Valdemar, não te esqueças de ligar o rádio.",
+        "transcript": "Valdo Maro, não disse que vocês ligaram rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/86b.wav": {
+        "ground": "Distribui os gelados, Gil.",
+        "transcript": "Destrevo e os lados de ele"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/72a.wav": {
+        "ground": "Gil, vê os animais.",
+        "transcript": "Gio, vê os animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/54b.wav": {
+        "ground": "Gil, distribui os gelados.",
+        "transcript": "Gil, distribuíselados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/27a.wav": {
+        "ground": "Vê os animais, Valdemar.",
+        "transcript": "Viu os inimigos aos mar?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/36b.wav": {
+        "ground": "Não te esqueças, Maria, de ligar o rádio.",
+        "transcript": "Não te esquece se as Maria de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/98b.wav": {
+        "ground": "Mário, distribui os gelados.",
+        "transcript": "Mario, distribujo lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/84b.wav": {
+        "ground": "Valdemar, não te esqueças de ligar o rádio.",
+        "transcript": "Valdo mar, não disse que essas lhe garorrario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/23a.wav": {
+        "ground": "Maria, vê os animais.",
+        "transcript": "Maria, viu os animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/19b.wav": {
+        "ground": "Valdemar, distribui os gelados.",
+        "transcript": "Valdo Martes Tribos e Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/22a.wav": {
+        "ground": "João, não te esqueças de ligar o rádio.",
+        "transcript": "Jual, notificações ligar ao rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/49b.wav": {
+        "ground": "Não te esqueças, Valdemar, de ligar o rádio.",
+        "transcript": "Não desquesseis valdo mar, derrigar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/50b.wav": {
+        "ground": "Vê, Mónica, os animais.",
+        "transcript": "Vimonicos Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/42a.wav": {
+        "ground": "Maria, distribui os gelados.",
+        "transcript": "Maria de Estribos Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/101b.wav": {
+        "ground": "Vê os animais, Mónica.",
+        "transcript": "Viu zanimais o monica?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/98b.wav": {
+        "ground": "Mário, distribui os gelados.",
+        "transcript": "Mario, distribui os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/108a.wav": {
+        "ground": "Gil, não te esqueças de ligar o rádio.",
+        "transcript": "Gio, não disse que vocês ligaram o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/69a.wav": {
+        "ground": "Distribui, Mónica, os gelados.",
+        "transcript": "Testribuímo a Nica o Jelate"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/88a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Maria.",
+        "transcript": "Não disse que vocês ligaram o rádio Maria."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/94a.wav": {
+        "ground": "Mário, vê os animais.",
+        "transcript": "Mario, veus animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/22b.wav": {
+        "ground": "João, não te esqueças de ligar o rádio.",
+        "transcript": "João, não disse que vocês ligaram o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/101a.wav": {
+        "ground": "Vê os animais, Mónica.",
+        "transcript": "Veus animais Monica"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/27b.wav": {
+        "ground": "Vê os animais, Valdemar.",
+        "transcript": "Veus animais valdo-mante"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/93a.wav": {
+        "ground": "Distribui os gelados, Mário.",
+        "transcript": "Destribu-Islades Mario"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/88b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Maria.",
+        "transcript": "Não disse que vocês ligaram o rádio Maria."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/38b.wav": {
+        "ground": "Vê os animais, Maria.",
+        "transcript": "Veus animais Maria"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/58b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mário.",
+        "transcript": "Antes que vocês ligaram o rádio, mario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/88b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Maria.",
+        "transcript": "Não esqueces de ligar o rádio Maria."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/108a.wav": {
+        "ground": "Gil, não te esqueças de ligar o rádio.",
+        "transcript": "Gil não esqueces de garorrade."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/27a.wav": {
+        "ground": "Vê os animais, Valdemar.",
+        "transcript": "Veus animais valde no mar"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/64a.wav": {
+        "ground": "Vê os animais, João.",
+        "transcript": "Viu zanimais João?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/76b.wav": {
+        "ground": "João, vê os animais.",
+        "transcript": "Juan, Vêus, Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/9b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, João.",
+        "transcript": "Não disse que vocês ligaram rádios, Juan."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/93a.wav": {
+        "ground": "Distribui os gelados, Mário.",
+        "transcript": "Estrevo-hi os lados, Mario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/42b.wav": {
+        "ground": "Maria, distribui os gelados.",
+        "transcript": "Maria, distribuí os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/7b.wav": {
+        "ground": "Valdemar, vê os animais.",
+        "transcript": "Volte Marvio dos Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/14b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Valdemar.",
+        "transcript": "Antes queches ligaram rádio em Vogue Mar."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/69b.wav": {
+        "ground": "Distribui, Mónica, os gelados.",
+        "transcript": "Destribuir Monica os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/58b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mário.",
+        "transcript": "Não te esqueces de ligar o rádio, mario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/102b.wav": {
+        "ground": "Distribui, Valdemar, os gelados.",
+        "transcript": "Destribuir Valdo Maros Ladojo"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/19a.wav": {
+        "ground": "Valdemar, distribui os gelados.",
+        "transcript": "Váldo Marte, distribui os lágros."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/48b.wav": {
+        "ground": "Vê, Valdemar, os animais.",
+        "transcript": "Vê e valdo maros animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/50a.wav": {
+        "ground": "Vê, Mónica, os animais.",
+        "transcript": "Vemônicos e demais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/14a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Valdemar.",
+        "transcript": "Não desquiem se eles ligaram o rádio voos mais."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/52b.wav": {
+        "ground": "Distribui os gelados, Mónica.",
+        "transcript": "Distribu-os lá de uma única."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/77a.wav": {
+        "ground": "Mónica, distribui os gelados.",
+        "transcript": "Mónica, distribui os lados."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/86a.wav": {
+        "ground": "Distribui os gelados, Gil.",
+        "transcript": "Distribujo lá de gelo"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/91b.wav": {
+        "ground": "Não te esqueças, Gil, de ligar o rádio.",
+        "transcript": "Não disse que esse gil de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/74a.wav": {
+        "ground": "Não te esqueças, Mário, de ligar o rádio.",
+        "transcript": "Nantes queces maros do ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/69a.wav": {
+        "ground": "Distribui, Mónica, os gelados.",
+        "transcript": "Destribuir manifós lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/90a.wav": {
+        "ground": "Vê, Gil, os animais",
+        "transcript": "Vegê-l, os animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/106b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mónica.",
+        "transcript": "Não disse que esses ligaram o rádio única."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/42a.wav": {
+        "ground": "Maria, distribui os gelados.",
+        "transcript": "Maria, distribuí-os lados."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/88a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Maria.",
+        "transcript": "Não disse que esses ligaram o rádio Maria."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/1b.wav": {
+        "ground": "Distribui os gelados, João.",
+        "transcript": "Distribu-os lá de João"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/37b.wav": {
+        "ground": "Não te esqueças, Mónica, de ligar o rádio.",
+        "transcript": "Não te esquece de manicar de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/23a.wav": {
+        "ground": "Maria, vê os animais.",
+        "transcript": "Maria, Viosanimais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/38b.wav": {
+        "ground": "Vê os animais, Maria.",
+        "transcript": "Veus animais do Maria"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/36b.wav": {
+        "ground": "Não te esqueças, Maria, de ligar o rádio.",
+        "transcript": "Não disse que essas Maria? de ligarro rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/31b.wav": {
+        "ground": "João, distribui os gelados.",
+        "transcript": "Jual um distribuído lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/9a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, João.",
+        "transcript": "Não disse que esses ligaram rádios João."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/69b.wav": {
+        "ground": "Distribui, Mónica, os gelados.",
+        "transcript": "distribuir mânicos lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/52b.wav": {
+        "ground": "Distribui os gelados, Mónica.",
+        "transcript": "Ciuis Ládez Mônica"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/25a.wav": {
+        "ground": "Distribui, Mário, os gelados.",
+        "transcript": "estribuir Mario de Lado"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/91a.wav": {
+        "ground": "Não te esqueças, Gil, de ligar o rádio.",
+        "transcript": "Não disse que esse gil de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/60b.wav": {
+        "ground": "Vê, Mário, os animais.",
+        "transcript": "Vemários animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/96b.wav": {
+        "ground": "Distribui os gelados, Maria.",
+        "transcript": "Distribu-e-lá de Maria"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/49a.wav": {
+        "ground": "Não te esqueças, Valdemar, de ligar o rádio.",
+        "transcript": "Não desquestes valde mais legal ravem."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/25b.wav": {
+        "ground": "Distribui, Mário, os gelados.",
+        "transcript": "Distribuir Mario de Lado"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/107a.wav": {
+        "ground": "Vê os animais, Mário",
+        "transcript": "Veus animais mario"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/29b.wav": {
+        "ground": "Mónica, não te esqueças de ligar o rádio.",
+        "transcript": "Mónica, não disse que se desligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/76a.wav": {
+        "ground": "João, vê os animais.",
+        "transcript": "Juan Vosan e Mayes"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/62b.wav": {
+        "ground": "Distribui, Gil, os gelados.",
+        "transcript": "Estrevois gilos lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/9a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, João.",
+        "transcript": "Não desquesse-se ligar ao rádio de Juan."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/49b.wav": {
+        "ground": "Não te esqueças, Valdemar, de ligar o rádio.",
+        "transcript": "Não te esquece de fazer o mal do mal ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/34b.wav": {
+        "ground": "Vê, Maria, os animais.",
+        "transcript": "Vemérios animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/14a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Valdemar.",
+        "transcript": "Não descanse-se ligar o rado e o váldo mar."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/22a.wav": {
+        "ground": "João, não te esqueças de ligar o rádio.",
+        "transcript": "Juar um noto esquece de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/46b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Gil.",
+        "transcript": "Não disse que vocês ligaram o rário-os-il?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/77b.wav": {
+        "ground": "Mónica, distribui os gelados.",
+        "transcript": "Mónica de tribujo e os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/67b.wav": {
+        "ground": "Vê, João, os animais.",
+        "transcript": "Vejo uns animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/80a.wav": {
+        "ground": "Distribui os gelados, Valdemar.",
+        "transcript": "Distribuí os lados volemãs"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/100a.wav": {
+        "ground": "Mário, não te esqueças de ligar o rádio.",
+        "transcript": "Mario não disse que se desligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/101b.wav": {
+        "ground": "Vê os animais, Mónica.",
+        "transcript": "Veus animais de única"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/61a.wav": {
+        "ground": "Maria, não te esqueças de ligar o rádio.",
+        "transcript": "Maria? não esqueces de garro radio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/86b.wav": {
+        "ground": "Distribui os gelados, Gil.",
+        "transcript": "Destribu-os lá de gelo"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/64b.wav": {
+        "ground": "Vê os animais, João.",
+        "transcript": "Veus animais João"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/107a.wav": {
+        "ground": "Vê os animais, Mário.",
+        "transcript": "Veus animais, Mario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/61b.wav": {
+        "ground": "Maria, não te esqueças de ligar o rádio.",
+        "transcript": "Maria, antes que eu se ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/73a.wav": {
+        "ground": "Distribui, João, os gelados.",
+        "transcript": "Distribuísmo aos lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/67a.wav": {
+        "ground": "Vê, João, os animais.",
+        "transcript": "Vejo uns animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/22b.wav": {
+        "ground": "João, não te esqueças de ligar o rádio.",
+        "transcript": "Juan, notificasse-se ligar o radio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/73a.wav": {
+        "ground": "Distribui, João, os gelados.",
+        "transcript": "Destribu-es João Julados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/36a.wav": {
+        "ground": "Não te esqueças, Maria, de ligar o rádio.",
+        "transcript": "Não disse que esses Maria deligaram rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/29a.wav": {
+        "ground": "Mónica, não te esqueças de ligar o rádio.",
+        "transcript": "Mônica, não disse que se esligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/90a.wav": {
+        "ground": "Vê, Gil, os animais",
+        "transcript": "Vê, gilo, zanimais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/48b.wav": {
+        "ground": "Vê, Valdemar, os animais.",
+        "transcript": "Veva-aldo-máros animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/80a.wav": {
+        "ground": "Distribui os gelados, Valdemar.",
+        "transcript": "Distribuhos lados val de mar"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/86a.wav": {
+        "ground": "Distribui os gelados, Gil.",
+        "transcript": "Estrebuio Gladil"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/37a.wav": {
+        "ground": "Não te esqueças, Mónica, de ligar o rádio.",
+        "transcript": "Nantequece a esmanica de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/19b.wav": {
+        "ground": "Valdemar, distribui os gelados.",
+        "transcript": "Valdo Martes, Cribuíos Lagoes"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/100b.wav": {
+        "ground": "Mário, não te esqueças de ligar o rádio.",
+        "transcript": "Mario, não disse que se desligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/19a.wav": {
+        "ground": "Valdemar, distribui os gelados.",
+        "transcript": "Valdo Mar de Tribos Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/91a.wav": {
+        "ground": "Não te esqueças, Gil, de ligar o rádio.",
+        "transcript": "Nantequeça gilda ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/64a.wav": {
+        "ground": "Vê os animais, João.",
+        "transcript": "Veus animais João"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/96a.wav": {
+        "ground": "Distribui os gelados, Maria.",
+        "transcript": "Distribu-Islade de Maria"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/21a.wav": {
+        "ground": "Vê os animais, Gil",
+        "transcript": "Veus animais de ele."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/98a.wav": {
+        "ground": "Mário, distribui os gelados.",
+        "transcript": "Mario de Tribos Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/37a.wav": {
+        "ground": "Não te esqueças, Mónica, de ligar o rádio.",
+        "transcript": "Não te esqueças manicada ligar o rábio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/68b.wav": {
+        "ground": "Não te esqueças, João, de ligar o rádio.",
+        "transcript": "Não te esquece a João de Ligaro Rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/21a.wav": {
+        "ground": "Vê os animais, Gil",
+        "transcript": "Veus inimais de ele."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/7b.wav": {
+        "ground": "Valdemar, vê os animais.",
+        "transcript": "Valdmar, Vios Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/15b.wav": {
+        "ground": "Mónica, vê os animais.",
+        "transcript": "Monica Viosa Nimais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/29b.wav": {
+        "ground": "Mónica, não te esqueças de ligar o rádio.",
+        "transcript": "Mônica no Antesquetsas de Garo Rádio"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/100a.wav": {
+        "ground": "Mário, não te esqueças de ligar o rádio.",
+        "transcript": "Mario não disse que se liga ao rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/58a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mário.",
+        "transcript": "Não desquichas ligar o rádio malio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/48a.wav": {
+        "ground": "Vê, Valdemar, os animais.",
+        "transcript": "Vê valdo maros animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/48a.wav": {
+        "ground": "Vê, Valdemar, os animais.",
+        "transcript": "Veve aodo Maroza Nimais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/25a.wav": {
+        "ground": "Distribui, Mário, os gelados.",
+        "transcript": "Destribu e marios latos"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/1a.wav": {
+        "ground": "Distribui os gelados, João.",
+        "transcript": "Distribu-os lá de João"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/67a.wav": {
+        "ground": "Vê, João, os animais.",
+        "transcript": "Vejo a uns animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/29a.wav": {
+        "ground": "Mónica, não te esqueças de ligar o rádio.",
+        "transcript": "Mônica não desquece a desligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/49a.wav": {
+        "ground": "Não te esqueças, Valdemar, de ligar o rádio.",
+        "transcript": "Não disse que esses voldemados ligaram rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/36a.wav": {
+        "ground": "Não te esqueças, Maria, de ligar o rádio.",
+        "transcript": "Não desquesse as Maria de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/15a.wav": {
+        "ground": "Mónica, vê os animais.",
+        "transcript": "Monica, viu os animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/106b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mónica.",
+        "transcript": "Não disse que esses ligaram rádios imónica."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/72b.wav": {
+        "ground": "Gil, vê os animais.",
+        "transcript": "Gil, Vilsan e Mais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/16a.wav": {
+        "ground": "Distribui, Maria, os gelados.",
+        "transcript": "Destribu-Imerias Ládeis"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/52a.wav": {
+        "ground": "Distribui os gelados, Mónica.",
+        "transcript": "distribujo lá de humanica"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/62a.wav": {
+        "ground": "Distribui, Gil, os gelados.",
+        "transcript": "Estrebou em jilos lá de te."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/102a.wav": {
+        "ground": "Distribui, Valdemar, os gelados.",
+        "transcript": "Distribu evaldo maros lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/60b.wav": {
+        "ground": "Vê, Mário, os animais.",
+        "transcript": "Vemário os animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/42b.wav": {
+        "ground": "Maria, distribui os gelados.",
+        "transcript": "Maria de Cribuhos de Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/84a.wav": {
+        "ground": "Valdemar, não te esqueças de ligar o rádio.",
+        "transcript": "Váu-me mar no tisqueces de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/15a.wav": {
+        "ground": "Mónica, vê os animais.",
+        "transcript": "Mônica Vusanimais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/76a.wav": {
+        "ground": "João, vê os animais.",
+        "transcript": "João, Verza e Nimaes"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/60a.wav": {
+        "ground": "Vê, Mário, os animais.",
+        "transcript": "Vemário os animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/96a.wav": {
+        "ground": "Distribui os gelados, Maria.",
+        "transcript": "Distribuios lá de Maria"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/61b.wav": {
+        "ground": "Maria, não te esqueças de ligar o rádio.",
+        "transcript": "Maria, não disse que esses ligaram o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/91b.wav": {
+        "ground": "Não te esqueças, Gil, de ligar o rádio.",
+        "transcript": "Não disse que este é gildo e garorável."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/96b.wav": {
+        "ground": "Distribui os gelados, Maria.",
+        "transcript": "Destribu-os lá de Maria"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/102b.wav": {
+        "ground": "Distribui, Valdemar, os gelados.",
+        "transcript": "Tribui Valdo Maros Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/27b.wav": {
+        "ground": "Vê os animais, Valdemar.",
+        "transcript": "Viu os animais valdo mar"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/37b.wav": {
+        "ground": "Não te esqueças, Mónica, de ligar o rádio.",
+        "transcript": "Não disse que essas monicas ligaram o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/9b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, João.",
+        "transcript": "Noticias que se liga ao rádio, João."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/58a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mário.",
+        "transcript": "Não disse que esses ligaram o rádio mario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/50b.wav": {
+        "ground": "Vê, Mónica, os animais.",
+        "transcript": "Vemólica dos animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/7a.wav": {
+        "ground": "Valdemar, vê os animais.",
+        "transcript": "Valdmarveus Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/64b.wav": {
+        "ground": "Vê os animais, João.",
+        "transcript": "Veus animais vão."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/31b.wav": {
+        "ground": "João, distribui os gelados.",
+        "transcript": "João distribui os lados."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/108b.wav": {
+        "ground": "Gil, não te esqueças de ligar o rádio.",
+        "transcript": "Gio, notos que vocês devaram rario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/94b.wav": {
+        "ground": "Mário, vê os animais.",
+        "transcript": "Mario, Vêos Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/107b.wav": {
+        "ground": "Vê os animais, Mário",
+        "transcript": "Veus animais de mario"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/31a.wav": {
+        "ground": "João, distribui os gelados.",
+        "transcript": "Juan, distribujo lados."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/68a.wav": {
+        "ground": "Não te esqueças, João, de ligar o rádio.",
+        "transcript": "Não te esquece a João ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/77a.wav": {
+        "ground": "Mónica, distribui os gelados.",
+        "transcript": "Mônica de Tribos e Os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/106a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mónica.",
+        "transcript": "Não disse que esses ligaram radio Monica?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/16b.wav": {
+        "ground": "Distribui, Maria, os gelados.",
+        "transcript": "Destribuir Maria Oslades"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/54b.wav": {
+        "ground": "Gil, distribui os gelados.",
+        "transcript": "Gil distribui os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/54a.wav": {
+        "ground": "Gil, distribui os gelados.",
+        "transcript": "Zil, distribui os lados."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/74b.wav": {
+        "ground": "Não te esqueças, Mário, de ligar o rádio.",
+        "transcript": "Não disse que esses marios ligaram o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/38a.wav": {
+        "ground": "Vê os animais, Maria.",
+        "transcript": "Veus animais de Maria"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/34a.wav": {
+        "ground": "Vê, Maria, os animais.",
+        "transcript": "Vemaria usando em mais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/94b.wav": {
+        "ground": "Mário, vê os animais.",
+        "transcript": "Mario Veus Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/38a.wav": {
+        "ground": "Vê os animais, Maria.",
+        "transcript": "Viu os animais Maria?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/72a.wav": {
+        "ground": "Gil, vê os animais.",
+        "transcript": "Gilveus animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/25b.wav": {
+        "ground": "Distribui, Mário, os gelados.",
+        "transcript": "distribuir marios lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/100b.wav": {
+        "ground": "Mário, não te esqueças de ligar o rádio.",
+        "transcript": "Mario não disse que se desligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/31a.wav": {
+        "ground": "João, distribui os gelados.",
+        "transcript": "João, distribui os lados."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/21b.wav": {
+        "ground": "Vê os animais, Gil",
+        "transcript": "Veus animais de um"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/101a.wav": {
+        "ground": "Vê os animais, Mónica.",
+        "transcript": "Veus animais Monica"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/90b.wav": {
+        "ground": "Vê, Gil, os animais.",
+        "transcript": "Vegilos animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/14b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Valdemar.",
+        "transcript": "Não disse que se esligar o rádio vale de mar."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/68b.wav": {
+        "ground": "Não te esqueças, João, de ligar o rádio.",
+        "transcript": "Não disse que esse João de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/107b.wav": {
+        "ground": "Vê os animais, Mário",
+        "transcript": "Reus animais, Mario."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/46b.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Gil.",
+        "transcript": "Não disse que esses ligaram o rádio gelo."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/74a.wav": {
+        "ground": "Não te esqueças, Mário, de ligar o rádio.",
+        "transcript": "Não disse que esses marios ligaram o rabio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/16b.wav": {
+        "ground": "Distribui, Maria, os gelados.",
+        "transcript": "Distribuí Maria Os Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/15b.wav": {
+        "ground": "Mónica, vê os animais.",
+        "transcript": "Mônica Vilzenimais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/60a.wav": {
+        "ground": "Vê, Mário, os animais.",
+        "transcript": "Vemário's animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/80b.wav": {
+        "ground": "Distribui os gelados, Valdemar.",
+        "transcript": "Distribu-os lá de Valdo Mar"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/72b.wav": {
+        "ground": "Gil, vê os animais.",
+        "transcript": "Gilvels animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/106a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Mónica.",
+        "transcript": "Não desquesseis ligar o rádio única."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/62a.wav": {
+        "ground": "Distribui, Gil, os gelados.",
+        "transcript": "Distribu e gilo os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/61a.wav": {
+        "ground": "Maria, não te esqueças de ligar o rádio.",
+        "transcript": "Maria não disse que se desligar o raveu."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/67b.wav": {
+        "ground": "Vê, João, os animais.",
+        "transcript": "Vejo-ão os animais?"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/73b.wav": {
+        "ground": "Distribui, João, os gelados.",
+        "transcript": "Destribos de uma lute lática"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/93b.wav": {
+        "ground": "Distribui os gelados, Mário.",
+        "transcript": "Dicê-o e os lados mario"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/16a.wav": {
+        "ground": "Distribui, Maria, os gelados.",
+        "transcript": "Distribuir Maria Os Latens"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/21b.wav": {
+        "ground": "Vê os animais, Gil",
+        "transcript": "Veus animais de ele."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/23b.wav": {
+        "ground": "Maria, vê os animais.",
+        "transcript": "Maria, Vilsa, Nimaes"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/62b.wav": {
+        "ground": "Distribui, Gil, os gelados.",
+        "transcript": "Destribuígilo dos latos"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/98a.wav": {
+        "ground": "Mário, distribui os gelados.",
+        "transcript": "Mario de Truiz Lange"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/76b.wav": {
+        "ground": "João, vê os animais.",
+        "transcript": "João vê os animais."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/7a.wav": {
+        "ground": "Valdemar, vê os animais.",
+        "transcript": "Faldo Marvels Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/74b.wav": {
+        "ground": "Não te esqueças, Mário, de ligar o rádio.",
+        "transcript": "Não esquece a esmario de ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/94a.wav": {
+        "ground": "Mário, vê os animais.",
+        "transcript": "Mario Veus Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/50a.wav": {
+        "ground": "Vê, Mónica, os animais.",
+        "transcript": "Vemólicos em mais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/73b.wav": {
+        "ground": "Distribui, João, os gelados.",
+        "transcript": "Distribuís João dos Lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/77b.wav": {
+        "ground": "Mónica, distribui os gelados.",
+        "transcript": "Manica, distribui os lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/1a.wav": {
+        "ground": "Distribui os gelados, João.",
+        "transcript": "Estribui-os lá de mão."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/34b.wav": {
+        "ground": "Vê, Maria, os animais.",
+        "transcript": "Vemarios e animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/54a.wav": {
+        "ground": "Gil, distribui os gelados.",
+        "transcript": "Gil de estribuz lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/102a.wav": {
+        "ground": "Distribui, Valdemar, os gelados.",
+        "transcript": "Destribu e vaidmaros lados"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/52a.wav": {
+        "ground": "Distribui os gelados, Mónica.",
+        "transcript": "Distribui-o gelado de única"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/46a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Gil.",
+        "transcript": "Não disse que esses ligaram o rádio de Gil."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/68a.wav": {
+        "ground": "Não te esqueças, João, de ligar o rádio.",
+        "transcript": "Não disse que se julgou a um ligar o rádio."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/TA/46a.wav": {
+        "ground": "Não te esqueças de ligar o rádio, Gil.",
+        "transcript": "Nantes queças ligaram o rádio gel."
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/23b.wav": {
+        "ground": "Maria, vê os animais.",
+        "transcript": "Maria-Veus Animais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/90b.wav": {
+        "ground": "Vê, Gil, os animais",
+        "transcript": "Vegilos e limais"
+    },
+    "hf://datasets/Jarbas/VocativesEuropeanPortuguese@88c904b713bb8654a0d86b53caddc5730327d719/data/CA/1b.wav": {
+        "ground": "Distribui os gelados, João.",
+        "transcript": "Destriu e Isládio João"
+    }
+}
