@@ -24,9 +24,9 @@
 |-|-|-|-|
 | common_voice_17_0 | 0.2271 | N/A | N/A |
 | fleurs | 0.2447 | N/A | 0.2069 |
-| openslr-slr69-ca-trimmed-denoised | 0.371 | 0.1072 | N/A |
-| LaFrescat | 0.4643 | N/A | N/A |
-| festcat_trimmed_denoised | 0.5985 | N/A | N/A |
+| openslr-slr69-ca-trimmed-denoised | 0.3431 | 0.1072 | N/A |
+| LaFrescat | 0.4592 | N/A | N/A |
+| festcat_trimmed_denoised | 0.5035 | N/A | N/A |
 
 
 # WER: ovos-stt-plugin-chromium
@@ -52,7 +52,11 @@
 # WER: ovos-stt-plugin-whisper-turbo
 |dataset/model|whisper-large-v3-turbo|
 |-|-|
-| openslr-slr69-ca-trimmed-denoised | 0.0746 |
+| openslr-slr69-ca-trimmed-denoised | 0.1113 |
+| festcat_trimmed_denoised | 0.1113 |
+| fleurs | 0.1126 |
+| LaFrescat | 0.1734 |
+| common_voice_17_0 | 0.227 |
 
 
 # WER: ovos-stt-plugin-whisper

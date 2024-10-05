@@ -29,8 +29,9 @@
 | MultiLingualSpeechRecognition_MLS-pt | 0.426 | 0.2316 | 0.2674 | 0.4242 | N/A |
 | multilingual_librispeech | 0.4477 | 0.2335 | 0.2685 | 0.3768 | 0.0761 |
 | mTEDx-ptbr | 0.4594 | 0.1976 | 0.2503 | N/A | N/A |
-| compare-accents-pt | 0.5778 | N/A | N/A | N/A | N/A |
+| compare-accents-pt | 0.5778 | 0.1869 | N/A | N/A | N/A |
 | PTBRSpeechRecognition_CORAA | 0.6249 | 0.4194 | 0.3223 | N/A | 0.0556 |
+| minds14 | 1.0 | N/A | N/A | N/A | N/A |
 
 
 # WER: ovos-stt-plugin-chromium
@@ -73,3 +74,4 @@
 | multilingual_librispeech | 0.2627 | 0.2773 | 0.4931 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2952 | 0.232 | 0.4375 |
 | PTBRSpeechRecognition_CORAA | 0.7629 | 0.2942 | 0.6273 |
+| compare-accents-pt | N/A | N/A | 0.4944 |

@@ -7,7 +7,7 @@
 | VocativesEuropeanPortuguese | 0.5773 |
 | locallingua_pt | 0.6355 |
 | cv_mls_psfb_zero_synthetic | 0.7036 |
-| SPGSV_splits | 0.8712 |
+| SPGSV_splits | 0.8553 |
 | common_voice_pt_pt | 1.0034 |
 
 
@@ -27,10 +27,11 @@
 |dataset/model|whisper-tiny-pt|whisper-large-v3-pt|whisper-medium-pt|whisper-small-pt|
 |-|-|-|-|-|
 | Speech-MASSIVE | 0.5214 | 0.1038 | 0.175 | 0.2155 |
-| compare-accents-pt | 0.5778 | N/A | N/A | N/A |
-| SPGSV_splits | 0.7153 | N/A | N/A | N/A |
-| locallingua_pt | 0.7508 | N/A | N/A | N/A |
+| compare-accents-pt | 0.5778 | N/A | 0.1869 | N/A |
+| locallingua_pt | 0.7508 | N/A | 0.1538 | N/A |
+| VocativesEuropeanPortuguese | 0.7656 | N/A | 0.1538 | N/A |
 | cv_mls_psfb_zero_synthetic | 0.8153 | 0.3785 | 0.3873 | 0.4358 |
+| SPGSV_splits | 1.023 | N/A | 0.4062 | N/A |
 | common_voice_pt_pt | 2.8104 | 0.434 | 0.8615 | 1.2372 |
 
 
@@ -68,7 +69,9 @@
 # WER: ovos-stt-plugin-whisper
 |dataset/model|whisper-small|whisper-medium|whisper-tiny|
 |-|-|-|-|
-| VocativesEuropeanPortuguese | 0.3611 | N/A | 1.1757 |
-| Speech-MASSIVE | 0.4556 | 0.5422 | 0.5597 |
+| VocativesEuropeanPortuguese | 0.3611 | N/A | 1.1742 |
+| Speech-MASSIVE | 0.4556 | 0.5422 | 0.5777 |
 | cv_mls_psfb_zero_synthetic | 0.5286 | 0.3961 | 1.427 |
 | common_voice_pt_pt | 2.8208 | 1.2651 | 7.0205 |
+| locallingua_pt | N/A | N/A | 1.2122 |
+| compare-accents-pt | N/A | N/A | 0.4944 |
