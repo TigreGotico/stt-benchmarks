@@ -1,0 +1,22 @@
+{
+    "zip://pt-PT~DIRECT_DEBIT/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "queres ouvir um débito direto",
+        "transcript": "resolver um débito direto"
+    },
+    "zip://pt-PT~CASH_DEPOSIT/CAcf6959dec016c0b565930f88c98e4f21_0.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Onde posso depositar meu dinheiro",
+        "transcript": "Onde posso depositar o meu dinheiro"
+    },
+    "zip://pt-PT~HIGH_VALUE_PAYMENT/response_20.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Bom dia Estou a tentar fazer um pagamento online e diz que estou para receber uma mensagem de texto e eu não sei se esta mensagem de texto é como é que funciona poderia me ajudar por favor",
+        "transcript": "Bom dia Estou a tentar fazer um pagamento online e diz que estou para receber uma mensagem de texto e eu não sei que se essa mensagem de texto como é que funciona para me ajudar por favor"
+    },
+    "zip://pt-PT~HIGH_VALUE_PAYMENT/CAd4c3ef3698f4f5e92c5e586ccacb36fb_0.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Olá estou a tentar fazer um pagamento online diz que estou nem uma mensagem de texto",
+        "transcript": "Olá estou a tentar fazer um pagamento online e diz que estou recebendo uma mensagem de texto"
+    },
+    "zip://pt-PT~HIGH_VALUE_PAYMENT/response_21.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Bom dia Estou a tentar fazer o pagamento online e diz que manda uma mensagem mas não recebi nenhuma ocupado fazer obrigada",
+        "transcript": "Bom dia tou a tentar fazer um pagamento online e diz que manda uma mensagem mas não recebo nenhuma O que posso fazer Obrigada"
+    }
+}

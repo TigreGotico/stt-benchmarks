@@ -1,5 +1,6 @@
 |Plugin|Model|WER<br>(all samples)| WER<br>(average across datasets) | Damerau Similarity | Score |
 |-----|-----|--------------------|----------------------------------|--------------------|-------|
+| ovos-stt-plugin-whisper-turbo | whisper-large-v3-turbo | 0.0746 | 0.0746 | 0.9696 | 89.7212 |
 | ovos-stt-plugin-project-aina-whisper | whisper-large-v3-ca-3catparla | 0.1038 | 0.1122 | 0.9674 | 86.2884 |
 | ovos-stt-plugin-xabier-zuazo | whisper-medium-ca | 0.1072 | 0.1072 | 0.9607 | 85.7684 |
 | ovos-stt-plugin-whisper | whisper-medium | 0.164 | 0.1648 | 0.9298 | 77.6998 |

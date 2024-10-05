@@ -1,0 +1,326 @@
+{
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_18.wav": {
+        "ground": "eh, politicamente, a Indonésia tem sempre arranjado estratégias ou, diplomaticamente, ela tem que jogar assim.",
+        "transcript": "Politicamente, em domência, têm sempre a arranjar as estratégias. Diplomaticamente, ainda têm que jogar assim."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_51.wav": {
+        "ground": "pois.",
+        "transcript": " Nós..."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_20.wav": {
+        "ground": "quando eles não querem é que já é pior.",
+        "transcript": "Quando eles não querem, é que já é pior."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_27.wav": {
+        "ground": "sim, mas isso não.",
+        "transcript": " Você ira vir se matar."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/Um Mal Desconhecido_7.wav": {
+        "ground": "nesses três anos eu tive um problema de saúde, eh, relativo, relacionado com o sistema nervoso central.",
+        "transcript": "Neste três anos eu tive um problema de saúde relativo relacionado com o sistema nervoso central."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_44.wav": {
+        "ground": "nem por isso, mas, eu também não tenho  ",
+        "transcript": "Para isso se mancha. Eu também não tenho."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_52.wav": {
+        "ground": "ma[,], mesmo na, nos casos em que as tarefas são compartilhadas ",
+        "transcript": "Mas mesmo nos casos em que as tarefas são compartilhadas."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_16.wav": {
+        "ground": "e acha que o homem pode facilmente - a mulher aprendeu a fazer tarefas que até aqui há uns anos atrás eram só do homem, não é,  ",
+        "transcript": "Hum, hum. E acha que o homem faz facilmente. A mulher aprendeu a fazer tarefas que até aqui há uns anos atrás eram só do homem, não é?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_66.wav": {
+        "ground": "e, e imaginemos que ele lhe diz 'ah, tem paciência, mas eu, lavar louça e, é coisa que eu não faço'.",
+        "transcript": "Já. Imaginemos que ele diz, ah, tem paciência, mas eu lavar louça e é coisa que ele não faz."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_1.wav": {
+        "ground": "e, os timorenses, claro que aqueles timorenses que nasceram já depois, bom, eu estou a fazer uma pergunta desnecessária, porque estes rapazes já nasceram depois da invasão e sentem-se sempre timorenses.",
+        "transcript": "E os timoreços, claro que aqueles timoreços que nasceram já depois, bom, estou a fazer uma pergunta desnecessária, porque estes rapazes já nasceram depois da invasão e sentem se sempre timores."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_16.wav": {
+        "ground": "porque, porque já nasceram, já cresceram debaixo da influência da Indonésia.",
+        "transcript": "Pois porque já nasceram, já cresceram de baixo, tem influência Sim."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_30.wav": {
+        "ground": "em relação aos filhos",
+        "transcript": "Estas são as fias."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/Um Mal Desconhecido_3.wav": {
+        "ground": "entrei no ano de noventa e seis, noventa e sete.",
+        "transcript": " assim, então era 96, 97. Hum, hum."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Goa/Vida Familiar_1.wav": {
+        "ground": "tenho, tenho, tenho uma irmã em Portugal, por acaso sim, e tenho muitos parentes em Portugal, tenho, e agora o nosso bairro de Fontainhas ",
+        "transcript": "Tenho tenho tenho uma irmã em Portugal, por acaso, sempre. E tenho muitos parentes em Portugal. E agora o nosso pai da fanteinha."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Goa/Vida Familiar_5.wav": {
+        "ground": "sim, no liceu.",
+        "transcript": " É assim, policial."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_61.wav": {
+        "ground": "agora, a partir do momento em que uma mulher trabalha tanto, mais ou menos, do que um homem, não vejo justificação nenhuma para um chegar a casa sentar-se e o outro trabalhar.",
+        "transcript": "Hum, hum. Agora, a partir do momento em que uma mulher trabalha tanto mais ou menos do que um homem, não vejo justificação nenhuma para um chegar a casa a sentar se o outro trabalhar."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_15.wav": {
+        "ground": "por v[,], por ver exactamente o contrário é que eu penso assim.",
+        "transcript": "Por ver exatamente o contrário. É que eu penso assim."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_26.wav": {
+        "ground": "estar sentado a ler o jornal, não.",
+        "transcript": " Está sentada no jornal, não."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_22.wav": {
+        "ground": "acho que aos poucos conseguem.",
+        "transcript": "Acho que aos poucos conseguem."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_13.wav": {
+        "ground": "e está habituada a ver isso à sua volta, ver o homem trabalhar em casa?",
+        "transcript": "Está habituada a ver isso à sua volta, ver o homem trabalhar em casa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_48.wav": {
+        "ground": "acho que há coisas que se calhar agradam mais a um e outras que agradam mais a outro.",
+        "transcript": "Acho que há coisas que se agradam mais a um e outras que agradam mais a outro."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_78.wav": {
+        "ground": "ainda falta tanto tempo para quê?",
+        "transcript": "Ainda fala tanto tempo para quê?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_32.wav": {
+        "ground": "pode, portanto, todos, as tarefas, não é, que podem ser a fu[,], a função duma mãe, podem ser função de um pai também.",
+        "transcript": "Portanto, todas as tarefas, não é? Que podem ser a fa a função de uma mãe, podem ser a função de um pai também."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_33.wav": {
+        "ground": "acha que um homem, acha que um homem facilmente dá, eh, banho a um bebé recém-nascido, por exemplo",
+        "transcript": "Acha que um homem acha que um homem facilmente dá banho a um bebê sem nascido, por exemplo?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_67.wav": {
+        "ground": "ele já lava.",
+        "transcript": "E é coisa que eu não faço."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_53.wav": {
+        "ground": "eh, normalmente é a mulher que toma a, o leme da casa e é q[,], é a mulher que tem a preocupação, o que é que se vai fazer para o jantar, etc.,  não é, ",
+        "transcript": "Hum, hum. Normalmente é a mulher que toma o leme da casa e é é a mulher que tem a preocupação, o que é que se vai fazer com o jantar, etc., não é?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_80.wav": {
+        "ground": "não po[,], eu não entro num casamento a depender de outra pessoa.",
+        "transcript": "E não entro no casamento a defender outra pessoa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/Um Mal Desconhecido_2.wav": {
+        "ground": "sim, sim.",
+        "transcript": "Sim então no ano noventa e cinco."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_7.wav": {
+        "ground": "é verdade.",
+        "transcript": "Não, o Carlos não. Não."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_1.wav": {
+        "ground": "mas, já pensou que é dif[,], não acha que é difícil, nos dias que correm, para uma mulher, ah, ser, profissional de uma coisa qualquer, e a sua vida de, pessoal?",
+        "transcript": "Mas já pensou que é dif Não acha que é difícil, nos dias que correm, para uma mulher, ser profissional de uma coisa qualquer e a sua vida pessoal?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_37.wav": {
+        "ground": "por exemplo, eu conheço pesso[,], conheço homens que dizem que não, que não, que não, mas já os vi depois conseguirem fazer isso.",
+        "transcript": "Por exemplo, eu conheço pessoas conheço homens que dizem que não, que não, que não, mas já os vi depois conseguirem fazer."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_71.wav": {
+        "ground": "ele, por acaso, ele agora até, ele já dá aulas e, portanto está a morar sozinho e as vezes que eu tenho ido lá passar fim-de-semanas, faz o jantar, lava a loiça, arruma a casa, por isso está a ficar bem treinado.",
+        "transcript": "Ele agora até ele já dá aulas e tenta morar sozinho. Às vezes que eu tenho ido lá passar a fim de semanas, faz o jantar, lava a louça, arruma a casa, freestá fica bem treinado."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_21.wav": {
+        "ground": "a paz não é para ser vendida ou não é para ser comp[,].",
+        "transcript": "Casa, não é para ser vendida ou não, é para ser compra."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Goa/Vida Familiar_6.wav": {
+        "ground": "sim.",
+        "transcript": " Eu não sei."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_5.wav": {
+        "ground": "é.",
+        "transcript": " Ó."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_54.wav": {
+        "ground": "sim.",
+        "transcript": "Sim."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_89.wav": {
+        "ground": "mas a pessoa pode-se sempre enganar.",
+        "transcript": "Ah, só posso sempre enganar."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_74.wav": {
+        "ground": "penso que não.",
+        "transcript": " Não."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_28.wav": {
+        "ground": "não sei, mas, por exemplo, a partir do momento em que se constitui uma família ",
+        "transcript": "Pensar, mas, por exemplo, a partir do momento em que se constitui uma família,"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_43.wav": {
+        "ground": "nem por isso.",
+        "transcript": "Nem por isso."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_60.wav": {
+        "ground": "não, não é a questão de ser programada, só que, não, não acho bem que, prontos, quando o homem trabalhava só e a mulher estava em casa, aí até, até era justo que quando o homem chegasse a casa quisesse descansar mais.",
+        "transcript": "É questão de ser programada, só que não não acho bem que Pronto, quando o homem trabalhava só e a mulher estava em casa, aí até até era justo que quando o homem chegasse a casa quisesse descansar mais."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_31.wav": {
+        "ground": "não é, por exemplo, uma mulher pode faze[,], pode fazer o jantar, o homem pode ir lavar a loiça, pode ir levar os filhos à escola, também pode vesti-los ",
+        "transcript": "Hum, hum. Não é? Por exemplo, a mulher pode fazer pode fazer o jantar, pode levar a louça, pode ir levar os filhos à escola, também pode vesti-los. Hum, hum."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_35.wav": {
+        "ground": "a escorregar por todos os lados?",
+        "transcript": "Esfogado, por todos os lados."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_57.wav": {
+        "ground": "se não partir desde o princípio, não sei se dá muito resultado.",
+        "transcript": "Se não partir desde o princípio, não sei se dá muito resultado."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_85.wav": {
+        "ground": "tanto na minha família como em pessoas que conheço.",
+        "transcript": "Tanto a minha família como as pessoas que conheço."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_62.wav": {
+        "ground": "e tenciona definir assim as coisas com o seu namorado antes de casar?",
+        "transcript": "E tem se ele a definir assim as coisas com o seu namorado, nesse casar?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_7.wav": {
+        "ground": "depois tem que vir o resto.",
+        "transcript": " Depois tem que vir o resto."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_63.wav": {
+        "ground": "ele já sabe o que é que eu penso.",
+        "transcript": " Deus já sabe o que eu penso."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_68.wav": {
+        "ground": "já lava.",
+        "transcript": " Já lá."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_46.wav": {
+        "ground": "pois.",
+        "transcript": " É."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_38.wav": {
+        "ground": "têm é que ultrapassar a barreira.",
+        "transcript": "Tem que ultrapassar a barreira."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_50.wav": {
+        "ground": "comigo já é assim, quando vou para algum lado não, não dá hipótese, tem que ser.",
+        "transcript": "O amigo já é assim quando andou para algum lado. Não não dá hipótese, tem que ser."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_76.wav": {
+        "ground": "ainda me falta tanto tempo.",
+        "transcript": " Não faz tanto tempo."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_73.wav": {
+        "ground": "penso que não.",
+        "transcript": "Pensou nisto."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_17.wav": {
+        "ground": "acha que o homem facilmente pode entrar nas tarefas que eram, normalmente, d[,], especialidade da mulher?",
+        "transcript": "Hum, hum. Acha que o homem facilmente pode entrar nas tarefas que eram normalmente especialidade da mulher."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_83.wav": {
+        "ground": "um, nesse aspecto, um bocado.",
+        "transcript": "Nessas cartas um card."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_91.wav": {
+        "ground": "sim, mas uma coisa não exclui a outra.",
+        "transcript": " Sim, mas uma coisa não escolheu a outra."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Goa/Vida Familiar_3.wav": {
+        "ground": "todos os amigos já estão em Lisboa.",
+        "transcript": "Agora é minha futura amiga, está sendo boa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_23.wav": {
+        "ground": "e mesmo, não digo, por exemplo, uma mulher pode cozinhar, não é, mas há outras coisas para além de cozinhar que se podem fazer em casa.",
+        "transcript": "E mesmo não digo, por exemplo, uma mulher pode cozinhar, não é? Mas há outras coisas para além de cozinhar que se podem fazer em casa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_64.wav": {
+        "ground": "já sabe?",
+        "transcript": " É."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_2.wav": {
+        "ground": "combinar as duas coisas.",
+        "transcript": "Combinar as duas coisas."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_84.wav": {
+        "ground": "talvez por causa das coisas que eu já, já vejo à minha volta, não é, ",
+        "transcript": "Talvez por causa das coisas que eu já já vejo à minha volta, né?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_18.wav": {
+        "ground": "tem que se ir habituando aos poucos.",
+        "transcript": "É. Tem que ser habituado aos poucos."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_3.wav": {
+        "ground": "tem que começa[,], para já, hoje em dia já é bastante diferente do que era há uns anos atrás",
+        "transcript": "Tem começ para já, hoje em dia já é bastante diferente do que era há uns anos atrás."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_45.wav": {
+        "ground": "ah! bom, ",
+        "transcript": " Tá bom."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_86.wav": {
+        "ground": "e, prontos, é assim que eu quero, eu não posso dizer que não me pode acontecer outra coisa, ",
+        "transcript": " E pronto, é assim que eu quero e não posso dizer que não pode acontecer outra coisa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/Um Mal Desconhecido_4.wav": {
+        "ground": "e antes disso, disse que esteve três anos, eh, que não esteve a, a estudar.",
+        "transcript": " E antes disse que teve três anos Que não estive a estudar"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_12.wav": {
+        "ground": "os pais é que contribuiram tanto",
+        "transcript": "Os pais aqui contribuíram tanto durante."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_12.wav": {
+        "ground": "por isso não pode ser só da parte de uma pessoa, o trabalhar em casa.",
+        "transcript": "Hum hum. Por isso não pode ser só a da parte de uma pessoa. Vou trabalhar em casa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_24.wav": {
+        "ground": "e acho que é principalmente isso.",
+        "transcript": "E acho que é principalmente isso."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_9.wav": {
+        "ground": "é.",
+        "transcript": " É isso aí."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_8.wav": {
+        "ground": "diz que tanto as mulheres como os homens realizam-se profissionalmente.",
+        "transcript": "Diz que tantas mulheres como os homens realizam se profissionalmente."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_47.wav": {
+        "ground": "não, acho que as coisas podem ser divididas.",
+        "transcript": "Eu acho que as coisas podem ser divididas."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_14.wav": {
+        "ground": "se não fosses os pais, pronto, não fossem os pais, os filhos nunca tiveram ou, não teriam que ser como agora",
+        "transcript": "Se não fossem os pais, pronto, se não fossem os pais, os filhos nunca tiveram não teriam que ser como agora."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_8.wav": {
+        "ground": "os pais terão contribuído muito para isso, não acha?",
+        "transcript": "Os pais terão contribuído muito para isso, não acha?"
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_82.wav": {
+        "ground": "estou a ver que é uma pessoa muito racional.",
+        "transcript": "Estou a ver que é uma pessoa muito racional."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_55.wav": {
+        "ground": "muitas vezes é, mas, é o que eu digo, eu acho que isso se parte de um princípio, quando se, quando se toma a decisão de viver em, em conjunto, as coisas têm que tomar um rumo desde o primeiro dia, porque, se a mulher começa a tomar o rumo da casa e depois passado cinco ou, só, ou dez anos é que decide que o homem tem que trabalhar, aí, as coisas já vão um bocado mal.",
+        "transcript": "Muitas vezes é, mas é o que eu digo, eu acho que isso parte de um princípio quando se quando se toma a decisão de viver em conjunto, as coisas têm que tomar um rumo desde o primeiro dia, porque se a mulher começa a tomar o rumo da casa e depois passar de cinco ao cem ou dez anos é que decide que o homem tem que trabalhar e as coisas já vão um bocado mal."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Timor/Identidade de um Povo_19.wav": {
+        "ground": "mas a, nós não negamos, fez bastante.",
+        "transcript": "Mas é Nós não negávamos. Fez? Bastante. Se."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_41.wav": {
+        "ground": "por exemplo, pegar num ferro e engomar a roupa.",
+        "transcript": "Por exemplo, pegar um ferro e engomar a roupa."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_6.wav": {
+        "ground": "primeiro vem a profissão, o emprego, o futuro.",
+        "transcript": "Pois, primeiro vem a profissão, o emprego, o futuro."
+    },
+    "hf://datasets/Jarbas/SPGSV_splits@230d73df446a91d6894efb3ec86e8de4d827d031/Portugal/O Marido Ideal_10.wav": {
+        "ground": "ah, mas isso não pode continuar assim, pelo menos no mes[,], no meu ponto de vista.",
+        "transcript": "Ah, mas isso não pode continuar assim. Pelo menos no meu ponto de vista."
+    }
+}

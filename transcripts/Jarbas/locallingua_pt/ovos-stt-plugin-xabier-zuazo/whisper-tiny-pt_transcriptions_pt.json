@@ -1,0 +1,586 @@
+{
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-ee4aaf41-37d6-4087-a658-406e94598a1a.wav": {
+        "ground": "Santarém",
+        "transcript": "Santrai"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-e28431fd-615c-4188-8d72-2db9110979d5.wav": {
+        "ground": "Beja",
+        "transcript": "Bezha"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-b5642ca1-4fcf-405d-ab8e-ee36dd3d622b.wav": {
+        "ground": "Ponta Delgada",
+        "transcript": "Ponta Delgado"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-9e178698-544b-49f5-a3f0-c61ac36bc38d.wav": {
+        "ground": "Dá-me um cibo de pão.",
+        "transcript": "Tá um cívio de pão"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-dfae37e8-fe7d-4cd6-89e8-1e88eeb9c231.wav": {
+        "ground": "Então caralho",
+        "transcript": "Eu tenho garalho!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-aef12fca-5f61-4cc9-ad83-1949ac87f290.wav": {
+        "ground": "Em Abril águas mil",
+        "transcript": "Aia Brilha Alcoos Minha"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-2c3ad6d6-a1e0-411c-af52-8d6f5c46defc.wav": {
+        "ground": "Quem vem e atravessa o rio Junto à serra do Pilar vê um velho casario que se estende até ao mar",
+        "transcript": "Quem venha atravessa ao rei junto a cerca de pilar, vê-o um velho casiril que se estenda até o mar."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-c0427b42-d6bb-4ff4-b341-ec506ce9d647.wav": {
+        "ground": "Então como é que vais?",
+        "transcript": "Eta como é que vai"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-cc85bea3-ac96-4290-b63d-f1f0754f2cb4.wav": {
+        "ground": "Isto está á frente mas á frente",
+        "transcript": "Está fran, mesá fran!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-fb571177-d156-44f7-b33a-57854539c117.wav": {
+        "ground": "Então amiga",
+        "transcript": "Ataúmiga"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-9a6662a1-a01d-4780-a2dc-4e2d95e5b064.wav": {
+        "ground": "Coimbra é um canção de amor",
+        "transcript": "Climbra é uma canção de abur."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-864979de-5a94-418a-b4ae-00ade4c27871.wav": {
+        "ground": "Sou do alentejo com orgulho",
+        "transcript": "São do Alenteje com orgulho"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-e824d42c-698f-4362-a266-9e6270317c13.wav": {
+        "ground": "O pessoal de Câmara de Lobos é fodido pá. É à facada logo.",
+        "transcript": "O psóvel camer loves é fedeada para enfacar love"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-d0887663-6f64-4587-bfb5-acc7c713535c.wav": {
+        "ground": "Ó Paulo és tu. tu não vás amanhã",
+        "transcript": "O pão gristinho de nevols amanhã."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-e02ef442-ff8c-44c6-9ab0-416c5c028e88.wav": {
+        "ground": "A culpa é do Benfica.",
+        "transcript": "É culpa do bem-fica."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-40688119-4128-40a1-96af-0e9cdf04a329.wav": {
+        "ground": "Gaita",
+        "transcript": "Gaita"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-e965c991-f642-47df-8a7e-ccaf67c4d81b.wav": {
+        "ground": "Olhá para a amiga que é isso pá...",
+        "transcript": "Olha comigo queispar"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-a5da5c82-ea9d-4d0b-9469-f42386cbe4e5.wav": {
+        "ground": "sou mais um em muitos",
+        "transcript": "Sou mais um em muitos"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-479ad0e6-e98a-4783-82c0-bc07549925db.wav": {
+        "ground": "O das Caldas é o maior",
+        "transcript": "O descalde é o maior."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-391b2618-ad18-409c-8ab5-ec7465f74b83.wav": {
+        "ground": "É pá dá-me o teu dinheiro!",
+        "transcript": "Epa, dá pratenha!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-627ec57b-8239-4ad0-a2d6-eb8b61b8a656.wav": {
+        "ground": "Olá como estás tudo bem?",
+        "transcript": "Vala como estés, tudo bem?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-b0e1bce8-7cc1-4b00-b368-058bf22dac10.wav": {
+        "ground": "Tabaibo e Concha Mandarim",
+        "transcript": "Tababe com xamandari"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-799298aa-93d9-466b-bbf1-0ab730bad498.wav": {
+        "ground": "Coimbra",
+        "transcript": "Coimbra"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-5f515f19-8373-4a67-b75d-201c34cc87e6.wav": {
+        "ground": "Então amiga tudo á maneira?",
+        "transcript": "É tão amigo, é tudo amanhã, Ra."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-314044af-44ef-48f6-9344-0de3e72723d4.wav": {
+        "ground": "Braga",
+        "transcript": "Graga"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-3e08120d-ea99-4785-912f-809d2cb5696e.wav": {
+        "ground": "Ò amor isso não é para alapar.",
+        "transcript": "Papamure? e se não é palapara."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-0d5479f4-24d8-48b8-a4e3-a83635c02171.wav": {
+        "ground": "É assim que fala um português de Aveiro",
+        "transcript": "É assim que fala um português de davairo."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-1f3c574c-3345-43bc-bc66-a1a8823d32ed.wav": {
+        "ground": "Tu caralho! como é que estás? está tudo bem? caralho! isso não. olha aqui Bragança no mapa. tu rapaz",
+        "transcript": "Ticoro óleo que mecta, da tivém e carolis não, olha que vergonha em ser uma obtira após"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-4e1a2521-c29a-4329-a415-8a2feb83ade5.wav": {
+        "ground": "Vila Franca da Beira",
+        "transcript": "Pima Franca de Aveida"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-d33e44e1-db96-40bd-8231-490cdd75ea4f.wav": {
+        "ground": "Ele é guicho!",
+        "transcript": "Ela Ito"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-d2322f10-8906-4b88-8ed3-8130287c164a.wav": {
+        "ground": "Larga-me da mão",
+        "transcript": "Amb lá eu ia largar o meu de mim!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-ebe5914b-6302-41af-8f29-00e4e08b38b6.wav": {
+        "ground": "Vai mamar",
+        "transcript": "Avama-maa!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-b1cd6ac6-c808-4fed-b6c6-fb9230c58290.wav": {
+        "ground": "leite",
+        "transcript": "Lait"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-7c10a1c6-77ff-4584-add1-b89957973ff6.wav": {
+        "ground": "O gato arrebunhou-me",
+        "transcript": "O gata roubunhão"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-69173aaa-602f-4d2f-90ed-add277a8ef75.wav": {
+        "ground": "Aí... és pouco malina!",
+        "transcript": "Aí, espoque uma lina!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-edc10ffa-df6d-44b0-9cd5-50b481d0a5ac.wav": {
+        "ground": "Leiria",
+        "transcript": "Lairia"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-ada24293-1557-4a5a-8d59-c3dc787c0ad3.wav": {
+        "ground": " Alentejo é o maior",
+        "transcript": "A lenta já é maior."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-ced5555c-e2e7-49bb-ac1a-80a05db6e955.wav": {
+        "ground": "Oh vai-me à venda",
+        "transcript": "Ovai mavi anda."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-d57aaa79-9221-40a0-bc25-dc59f4863e11.wav": {
+        "ground": "Aveiro",
+        "transcript": "Avaero"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-pl-e5781391-ff90-4f50-9b5a-bcf81cbfa081.wav": {
+        "ground": "Braga",
+        "transcript": "Brugger"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-84b9f6eb-a25b-44ca-8de2-342afcc918e8.wav": {
+        "ground": "O melhor clube da capital é o Sporting Clube de Portugal",
+        "transcript": "O melhor clube da capital é o supportem clube virtual."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-3d0e92b3-6bd4-471a-9d3c-3321c1198e40.wav": {
+        "ground": "Descansando debaixo de um chaparro.",
+        "transcript": "Discansando do Boston Chaparro"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-f16482cf-bd54-46a4-92b2-ca8db2a321c4.wav": {
+        "ground": "Amor está chovendo a potes.",
+        "transcript": "Mota a chivenda pode"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-f7da2f85-9e73-461f-bbc1-7d6ec7731b79.wav": {
+        "ground": "Escarafunchar o mexilhão",
+        "transcript": "Screfe um chároo mexilhá uma."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-a64f97c2-8e39-4a46-a5c8-2dca77b86a2c.wav": {
+        "ground": "Olá Manel",
+        "transcript": "Todo... Todo a dar? Não, não tá tudo aqui, por isso. Palamanel!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-3b32efd3-dc25-451a-b92a-1ac3d60d54b0.wav": {
+        "ground": "Tá da hora!",
+        "transcript": "Cada Olga!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-7b2f3273-0f56-4b5b-99d2-0cd36bd12c9a.wav": {
+        "ground": "Corisco mal amanhado!",
+        "transcript": "Currisco mal amanhã alto."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-pl-d4fdbafe-9bae-4a99-a972-2d0e3d5508e5.wav": {
+        "ground": "Funchal",
+        "transcript": "Fugiá-lo"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-pl-521339ff-0952-45b1-ba79-954ba8f43ee6.wav": {
+        "ground": "Faro",
+        "transcript": "Faro"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-da1dc626-1816-4e6b-ad90-117bec52eb0a.wav": {
+        "ground": "Setúbal",
+        "transcript": "stuá"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-d4b63457-5a05-487c-85b1-2f4e111aaed6.wav": {
+        "ground": "Mas porque é que dizes isso?",
+        "transcript": "Naparquete-me diz"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-368c89f2-1e29-4602-8d8f-c1110bb4f3f6.wav": {
+        "ground": "Ai jesus que eu não estou a entender nada do que tenho que fazer aqui. ai jesus do céu!",
+        "transcript": "A exuziu escalentou a entender em nada que tem que fazer aqui a exuziu do céu."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-pl-7ccbeebc-b95c-496b-8ac8-0ad97fda2e20.wav": {
+        "ground": "Ponta Delgada",
+        "transcript": "Ponto de la gada"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-e07ced38-49f8-4ab8-996a-11df2f21b0a8.wav": {
+        "ground": "És um begueiro",
+        "transcript": "Ezambéia-Airão"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-42b771e9-ac04-496f-8a41-00451ca9fc6c.wav": {
+        "ground": "Terra do bom Queijo Serra da Estrela",
+        "transcript": "Terra do bom queijo, Sara Lestrella"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-5807b1d6-a479-4f41-a079-d398cbbd0c9d.wav": {
+        "ground": "Viva a moca de Rio Maior",
+        "transcript": "Viva moca de romaiar Fufu..."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-855bfc81-780e-4bac-b04e-5ecd0377674c.wav": {
+        "ground": "Choco frito.",
+        "transcript": "Choc Frito"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-9282f47f-949d-4bc3-9f9e-54b2c41a07be.wav": {
+        "ground": "Viana do Castelo",
+        "transcript": "Viena do Castelo"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-56cdf888-631a-4129-b2d0-62a61c7f9840.wav": {
+        "ground": "Leiria",
+        "transcript": "Laria"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-9edd7190-5973-43ae-ac3d-50b8ffe0f9af.wav": {
+        "ground": "Ovos Moles",
+        "transcript": "Ovres Mouss"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-b8663dd2-8ac9-416f-a5f0-cf39ad4cc167.wav": {
+        "ground": "Tu na mendice estás a deixar o chão cheio de miola",
+        "transcript": "Tuna manguista estázada e choixa em cheguemola."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-09a96dbc-ea7d-40c0-b4f5-0f0d7685ceb1.wav": {
+        "ground": "Beja",
+        "transcript": "Beja"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-35be1a84-0800-469d-a2ca-2982e6c3002d.wav": {
+        "ground": "São as 11 horas",
+        "transcript": "São João Zioras"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-23ae8fc1-c7bc-41db-b032-cf87b950d988.wav": {
+        "ground": "Não tem chovido muito...",
+        "transcript": "Não tenho chovido muito."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-5b30cd17-a0fd-44ee-b451-4eb6402932f6.wav": {
+        "ground": "Lisboa",
+        "transcript": "Lizboa"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-514e88fd-c198-490d-a738-6e33f10f54d2.wav": {
+        "ground": "Andas mamado",
+        "transcript": "Andes mamá a água."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-a609394b-ea44-422e-b766-a869612a93fb.wav": {
+        "ground": "Está o mar feito num cão.",
+        "transcript": "Talmarfe nunca um!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-6d8e5847-3ea9-4f66-864b-f4c395aeaae5.wav": {
+        "ground": "Vale mais uma rua no Porto que a Gaia toda.",
+        "transcript": "Balhomás de Marrano porto cagaia toda"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-3f902fa4-f070-4c9d-b2e9-cd71610cd62c.wav": {
+        "ground": "São Jorge",
+        "transcript": "Sangiorje"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-7f219c5b-6d8b-4482-b837-7daf1f7c93ae.wav": {
+        "ground": "Viana do Castelo",
+        "transcript": "E anos do castelo"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-550be73d-a814-458d-8743-d814c36c6d47.wav": {
+        "ground": "ora vem ou vais ires?",
+        "transcript": "Olha, vão, eu vou exerir esse."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-ac852d95-46e7-42d4-bfac-d3d9bb7d2cb3.wav": {
+        "ground": "Santana",
+        "transcript": "Santana"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-d0639b3e-805d-4f8e-903b-4e4e3d66a714.wav": {
+        "ground": "O alex vive em Viseu ele é um gajo fixe!",
+        "transcript": "Qual é que se vive em um risil? ele é um gásfício."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-62ec8fae-64f3-4011-af7c-9525e0476c7d.wav": {
+        "ground": "TU caralho! está tudo bem? Olha aqui bragança no mapa! caralho! tu rapaz. olha para isto caralho! Abraço",
+        "transcript": "Ticorool, está te de bem? olha que vrença em uma facaraol, te reposso, leprite, corol e ross."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-3308495c-6cf5-481f-83b8-f03df16e6546.wav": {
+        "ground": "Tás aqui tás ali",
+        "transcript": "Tazaquitas olí"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-7ba759a1-5309-4953-b4e3-b04464b0d822.wav": {
+        "ground": "O das Caldas é o maior",
+        "transcript": "O descaldo é o melhor."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-6bcae293-5124-4ee6-9251-b2f8f435253d.wav": {
+        "ground": "Tá safo!",
+        "transcript": "Tasof"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-597311b0-0f0a-455c-9550-20b84344f918.wav": {
+        "ground": "Beja",
+        "transcript": "Beja?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-pl-85da51d7-dea6-454e-b4f3-09e8df3b66a6.wav": {
+        "ground": "Aveiro",
+        "transcript": "Aveiro"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-1ff75a3b-9ebe-4d97-87b0-420797bb3121.wav": {
+        "ground": "Pinhel",
+        "transcript": "Piniel"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-d93ff267-88a3-4c53-8969-2e433298653d.wav": {
+        "ground": "Malditos Comunas",
+        "transcript": "Malditos Coruenas"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-pl-21d3b0aa-6400-49ab-8a74-6e3e6988ecb1.wav": {
+        "ground": "Angra do Heroísmo",
+        "transcript": "Ancra do Luísmo!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-840758bf-506b-49bd-807c-a376a089dbf0.wav": {
+        "ground": "Coimbra",
+        "transcript": "Umbra"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-d9a9b907-a295-4e23-9b27-96e3a2668f0b.wav": {
+        "ground": "Região autónoma da Madeira",
+        "transcript": "Rgião Autônima de Madéria"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-1585eb1c-4fb0-4f7b-b8a7-9850c6f93c65.wav": {
+        "ground": "Coimbra",
+        "transcript": "Coimbra"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-921b7dc3-e4cf-4fb9-98bb-e2349f07e1cf.wav": {
+        "ground": "Coimbra",
+        "transcript": "Quimbra"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-10560035-517a-4908-976a-ad9091b4c757.wav": {
+        "ground": "O Castelo Branco é culpado não digam o contrário",
+        "transcript": "O que esteu branco é culpado não lhe dão o contrário."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-b6f37569-b9fb-4ac1-8b57-047ff2439531.wav": {
+        "ground": "degusta me as bolas",
+        "transcript": "Degustamente as bolas."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-4db6eec6-df81-4744-8bdd-2d7cf554df4f.wav": {
+        "ground": "Coimbra tem mais encanto na hora da despedida",
+        "transcript": "Quimbra tem mais enquanto na hora da despediva."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-adf249cf-9c3d-496f-8fbe-6081ae223821.wav": {
+        "ground": "Madeira",
+        "transcript": "Madera"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-pl-85795997-38ce-4a3e-89db-ded246ca7663.wav": {
+        "ground": "é meu ontem fui a cediét e vi a tia da minha irmã. aquela raparariga não é bem discreta. é uma tansa",
+        "transcript": "A meu outro fiasse de antes? e via tida me enremê? é que ela só perigna no ebém de secreta, uma tança."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-84602b67-9568-4260-a3d8-2831e36711df.wav": {
+        "ground": "Cumprimentos do Porto Cedofeita",
+        "transcript": "Comprimentos do porto, se do feita."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-f763ef1e-1e63-46ac-bb4b-12d977fbccb2.wav": {
+        "ground": "Isso é mais velho que a Sé de Braga",
+        "transcript": "Isso é mais velho que você traga."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-a92a0eda-3bc4-440e-9d31-95173dd4fe50.wav": {
+        "ground": "olá está tudo bem?",
+        "transcript": "Há lá, está tudo bem."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-0af614d3-40b5-449d-ab47-467ad804df46.wav": {
+        "ground": "Porto",
+        "transcript": "Porto"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-1342422a-d994-4daf-a1c7-3bf1d1c045ee.wav": {
+        "ground": "Porto",
+        "transcript": "Porto"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-re-e2bca3b8-2584-4383-8ec3-abbef160c7e2.wav": {
+        "ground": "Guimarães",
+        "transcript": "Imarins"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-5247da92-e6ab-4519-a434-3f6f254e9a06.wav": {
+        "ground": "É homem",
+        "transcript": "Alão!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-6dfd0f24-1188-480c-bdea-cf4f7acf6783.wav": {
+        "ground": "Olá! Como estás?",
+        "transcript": "Olá, com estás!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-e9997e28-300a-4e72-8534-407d12e5d830.wav": {
+        "ground": "Caldeirada de Enguias",
+        "transcript": "Caldirada de Angues"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-998da497-1848-4d5c-9fd6-94a97cdd5679.wav": {
+        "ground": "Bota para a frente! É tudo ao molho e fé em Deus!",
+        "transcript": "Bota pra frente, é tudo ao meu divém de hoje."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-pl-038566d8-786c-43cd-8287-cdf9901cef11.wav": {
+        "ground": "Covilhã",
+        "transcript": "Guivilha"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-a0ada61c-c98a-458e-8b87-0bbb5d4efb34.wav": {
+        "ground": "Tudo aqui é palha",
+        "transcript": "Tudo aqui é palha."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-a1b158fe-c3b5-48a4-a35d-0476cfe8719a.wav": {
+        "ground": "Mas que jeito moço",
+        "transcript": "Mas, que jêque-moço!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-pl-5294217c-60b5-4a18-9b7a-37653ada206f.wav": {
+        "ground": "Funchal",
+        "transcript": "Fonchal"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-d330a6c4-2305-4bd9-8b68-8a14cf823980.wav": {
+        "ground": "Vamos lá para matar o bicho",
+        "transcript": "Bô, vamos rato a matar o vídeo."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-59b79b43-9c13-4caf-b522-e01af2e69902.wav": {
+        "ground": "Vila Real",
+        "transcript": "Vimalian"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-3563597f-79f1-4081-a32c-2b90d2c48c6e.wav": {
+        "ground": "Aveiro é uma cidade portuguesa e capital de distrito.",
+        "transcript": "A veiro é uma cidade portuguesa e capital de destruito."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-53575605-166e-4537-8da3-c0fce75c89eb.wav": {
+        "ground": "Coimbra é uma lição de sonho e tradição",
+        "transcript": "Cuimbra é uma lição de sonho e tradição"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-451ce317-3996-4caa-aeeb-5e271dde18c6.wav": {
+        "ground": "café com leite",
+        "transcript": "Café com lete"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-7b4dd7a4-593b-43cf-a8a2-ece7273d9fe3.wav": {
+        "ground": "O Sporting é um grande clube e merece ser campeão",
+        "transcript": "Os portem é um grande clube e merece ser campeão."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-1331bd16-fe09-40a6-943e-582073240639.wav": {
+        "ground": "joelho espelho vermelho",
+        "transcript": "Joelio, Spelio, Permé"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-836dd7b6-127b-4eb2-a6d6-b4ccbad8f6df.wav": {
+        "ground": "Mas se eu nem o conheço do carro eletrico",
+        "transcript": "Mas china e o conhoço do carrilhétrico"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-6a6ad455-27ce-42cf-b935-a62d1e638b75.wav": {
+        "ground": "Aveiro",
+        "transcript": "Avairo"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-ac098208-ae23-4fc3-8b2f-813f31c28b4a.wav": {
+        "ground": "Évora",
+        "transcript": "Evora"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-0cabe957-a1ee-4a92-a72d-69ef003ad06e.wav": {
+        "ground": "Olá",
+        "transcript": "Ula"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-01aec0e5-a561-4b2c-ab9f-6a4f7c49abcf.wav": {
+        "ground": "Bom dia",
+        "transcript": "Bom Guié"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-8352b34c-c99e-47ab-8349-f9c67a791b93.wav": {
+        "ground": "O meu marido saiu com o empregado",
+        "transcript": "O menelhido seria o coembragado."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-f28f44d3-f48c-4154-99a2-d66f2bd98c61.wav": {
+        "ground": "Aveiro",
+        "transcript": "Avaeiro"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-eff56d61-e6a1-4d3b-ac93-bee96c36ce58.wav": {
+        "ground": "Está tudo bem?",
+        "transcript": "Está tudo bem?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-4fbc4f7e-7d06-4dd4-a55c-e03bfbe69e84.wav": {
+        "ground": "O Porto é lindo carago!",
+        "transcript": "O porto é lém caraco."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-fe138a2d-db07-4ee6-a5ca-1399c3ac1b65.wav": {
+        "ground": "Estudásses...",
+        "transcript": "Esturas?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-cb49a180-5633-4b47-8779-4295f030524f.wav": {
+        "ground": "Oh vai-me à venda",
+        "transcript": "Ovai Ma Venda"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-4217d5b1-9b9a-4157-af7e-7d2e19695af4.wav": {
+        "ground": "Lisboa",
+        "transcript": "Pide boa"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-178891de-8655-4349-9699-65d2a28fd3ed.wav": {
+        "ground": "Eu cá gosto é de comer alfarrobas.",
+        "transcript": "Eca gosta é que o melhor sorrubas"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-bfaf2fee-8668-422d-9117-2619513718e3.wav": {
+        "ground": "Já disse que não quero mais puré!",
+        "transcript": "Já diz que nunca mas por é?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-feaea6a2-efd3-4849-8cce-e9ab4fda601f.wav": {
+        "ground": "Lisboa",
+        "transcript": "Lijo boa."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-a749da2f-4a48-4b44-a5a4-f9ccd460c537.wav": {
+        "ground": "Estragaste-me o truque",
+        "transcript": "Esta agaste motro que?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-260b0b21-5f16-41e7-81a0-023708a7f5f9.wav": {
+        "ground": "Tás laser",
+        "transcript": "Tas leis er"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-98257090-1d98-4aad-9313-b2c0970af738.wav": {
+        "ground": "Viana do Castelo",
+        "transcript": "Fiana do Castão"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-117024a4-554f-41c8-abb3-f1d89c9cf550.wav": {
+        "ground": "Olá Tudo bem?",
+        "transcript": "Olá, tudo bem?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-d0137869-b60f-4f97-8211-595057d2c37a.wav": {
+        "ground": "Parece o comboio das Beiras",
+        "transcript": "Pareço com boitas veiras"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-7c02f647-0f21-477d-8b84-1ab1a453da01.wav": {
+        "ground": "É pa sócio já não vejo é nada com estes sapatos",
+        "transcript": "A passós já na Virgina do Cunha de Chapati"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-27d27d1f-02d0-4cf9-9115-b8db8de2fa83.wav": {
+        "ground": "Ó tu deixa-me da mão!",
+        "transcript": "Outo deixamos da mão?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-86ced360-f6a1-4a9a-9d5e-1a1f22faec25.wav": {
+        "ground": "Caralho",
+        "transcript": "Caralho"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-2982b903-66dc-4c74-9b44-80f83ae0d807.wav": {
+        "ground": "Ó Nuno. anda cá que eu te explico",
+        "transcript": "A lime, a lecaque é despim."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-pl-cbd5e4be-2d37-46b0-9ea5-8ec8207f42c6.wav": {
+        "ground": "Portalegre",
+        "transcript": "Portalegra"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-8e49b6b4-20ef-46f7-8bff-edb217b2318c.wav": {
+        "ground": "Bem que me parecia!",
+        "transcript": "Bercam porcia!"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-b069e96e-20c0-4cba-84a8-7ffc1e7ead37.wav": {
+        "ground": "Bom dia estropício",
+        "transcript": "Bom dia estropecio"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-6e0f01fe-6fcc-45eb-80cb-5d33bccfb65c.wav": {
+        "ground": "O Porto é uma nação.",
+        "transcript": "O portão manação"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-female-wp-2dc6d261-7ae0-4b3d-ba3b-8db1963749f9.wav": {
+        "ground": "Tem avonde obrigada.",
+        "transcript": "Tem a avôndia brigada."
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-df6c16c4-f0b5-4de4-93bb-d5836d381926.wav": {
+        "ground": "Galo de Barcelos",
+        "transcript": "Galo de Borcelos"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-ae308a06-c805-439d-903e-2c97193a117b.wav": {
+        "ground": "foi aqui que nasceu Cristiano Ronaldo",
+        "transcript": "Foe o que que nos show Cristiano Ronaldo?"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-wp-7cb7fe94-aea3-4f6c-9974-f5320412201f.wav": {
+        "ground": "Vamos força Porto",
+        "transcript": "Bamos força porto"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-3e7358e8-3059-411e-be01-e27fd91a153d.wav": {
+        "ground": "Santarém",
+        "transcript": "Santa Lá"
+    },
+    "hf://datasets/Jarbas/locallingua_pt@55f23cea7372bc8c698a4d15d2cce8e6e13ff6d7/data/359-male-re-a447954d-9647-4325-9807-1ac6a1f4784f.wav": {
+        "ground": "Olhão",
+        "transcript": "Orião"
+    }
+}

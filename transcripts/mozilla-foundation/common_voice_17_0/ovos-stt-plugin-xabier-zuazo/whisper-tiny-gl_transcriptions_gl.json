@@ -1610,5 +1610,25 @@
     "gl_test_0/common_voice_gl_39801373.mp3": {
         "ground": "Permítanme que llelo refira.",
         "transcript": "Permítame que lle en Lorrefire."
+    },
+    "gl_test_0/common_voice_gl_39845995.mp3": {
+        "ground": "Grupo autor da proposición non de lei, señora Vilapún.",
+        "transcript": "Glupout ó orda proposición non de lei, señor á vilapón."
+    },
+    "gl_test_0/common_voice_gl_39855526.mp3": {
+        "ground": "María Jesús.",
+        "transcript": "Mariéxesús."
+    },
+    "gl_test_0/common_voice_gl_39815003.mp3": {
+        "ground": "Desenvólvese tanto polo banda como en punta.",
+        "transcript": "Desemvolves, se é tanto pola banda, coma en punta."
+    },
+    "gl_test_0/common_voice_gl_36953877.mp3": {
+        "ground": "Quedou dúas veces entre os tres últimos e unha vez entre os dous últimos.",
+        "transcript": "Queda ou dúas veces entre estres últimos, e unha vez entre os dous últimos."
+    },
+    "gl_test_0/common_voice_gl_39798418.mp3": {
+        "ground": "Pero sobre todo os arredores.",
+        "transcript": "Pero sobre todo os arredores."
     }
 }

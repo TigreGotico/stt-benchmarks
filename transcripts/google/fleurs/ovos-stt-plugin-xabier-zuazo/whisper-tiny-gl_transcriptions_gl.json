@@ -1414,5 +1414,53 @@
     "test/17657968086074120369.wav": {
         "ground": "liggins empezou a estudar os partos prematuros no seu tempo libre mentres traballaba no hospital",
         "transcript": "Liguen empezou a estudar os partos prematuros no seu déco libre meiro estroallaba no hospital."
+    },
+    "test/1047598282225577112.wav": {
+        "ground": "concordamos coa declaración do usoc que afirma que os intereses dos nosos atletas e clubs e do seu deporte poderían estar mellor atendidos pensando no futuro cun cambio significativo dentro na nosa organización en lugar da retirada da certificación",
+        "transcript": "Con cordamos coa declaración Douesog que a filme que os intereses dos nosos atletas e clubs e do seu deporte poderían estar mellor atendidos pensando no futuro cun cambio significativo dentro da nosa organización en lugar da retirada da certificación."
+    },
+    "test/12377211698761901507.wav": {
+        "ground": "os bateadores de orde media sachin tendulkar e rahul dravid tiveron unha boa actuación e realizaron unha colaboración de cen carreiras",
+        "transcript": "Os bateadores de Orde Media sáchint en Dulcar e Ragul Dreivid tiveron unha votación e realizaron unha colaboración de cen carreiras."
+    },
+    "test/12731008441318449079.wav": {
+        "ground": "o partido no poder o south west africa people's organisation swapo tamén retivo a maioría nas eleccións parlamentarias",
+        "transcript": "O partido no poder, o Sout West África Pipos, graniseixón, e se uve doble a Apeó, tamén retivo a maioría nas leccións parlamentarias."
+    },
+    "test/12756823584077543317.wav": {
+        "ground": "sundarbans foi declarado patrimonio mundial da humanidade pola unesco a parte do bosque que se atopa no territorio indio chámase parque nacional de sundarbans",
+        "transcript": "Sudáronse foi declarado para a Trimónimo Mundial da Humanidade polo Unesco a parte do bosque que quizaba para o tretorío indúchabas e parque internacional de Subderfanse."
+    },
+    "test/13247890624071772533.wav": {
+        "ground": "durante a guerra de independencia os trece estados crearon primeiro un goberno central débil composto unicamente polo congreso baixo os artigos da confederación",
+        "transcript": "Tague raíz de impendencia os trece Estados Unidos. Primeiro un goberno central de Vilcompos tornicamente polo congreso para os xortigos da confederación."
+    },
+    "test/12789337462150860011.wav": {
+        "ground": "non obstante a porcentaxe de xdr-tb na totalidade do grupo con tuberculose aínda parece baixa 6000 dun total de 330 000 persoas infectadas nun determinado momento en sudáfrica",
+        "transcript": "Non obstante a porcentaxe de équise érreguión tebe na totalidade do grupo con tuberculose aínda parece baixa. Seis mil tunto tal de tres centos trinta mil persoas infectadas nun determinado momento en Sudáfrica."
+    },
+    "test/13198021574090702379.wav": {
+        "ground": "as mandas compóñense de entre un a tres machos adultos que están emparentados xunto con ata trinta femias e cachorros",
+        "transcript": "As mandas compoñense entre unhas tres machos adultos que están emparentados xunto con ata trinta femias e cachorros."
+    },
+    "test/1324494053173125555.wav": {
+        "ground": "a maior parte das illas de menor tamaño son nacións independentes ou asociadas a francia e famosas por seren centros de vacacións de luxo na praia",
+        "transcript": "A maior parte das illas de menor tamaños son macios independentes ou asociadas a Francia famosas por ser encendros de vocacións de luxo na praia."
+    },
+    "test/14040643198740268364.wav": {
+        "ground": "a humidade das mans reaccionará coas capas externas o que dará unha sensación estraña e formará unha especie de cuncha",
+        "transcript": "Ao medida de das Man, racionará coas capas externas o que dará unha sensación estraña e formará unha especie de cuncha."
+    },
+    "test/13639687820879901619.wav": {
+        "ground": "un 20 % do total da auga dos ríos do planeta que desemboca nos océanos vén do amazonas",
+        "transcript": "Un pinte por cento dotal da auga dos ríos do planeta que desemboca nos océanos vendo amazonas."
+    },
+    "test/14063917627575057591.wav": {
+        "ground": "noutras cidades de italia e así coma no resto do mundo en particular en polonia realizáronse preparativos parecidos que foron presenciados por unha gran cantidade de persoas",
+        "transcript": "Los Sociedade Sitalia así como neste resto do mundo en particular en Polonia realizáronse preparativos parecidos que foron presenciados polo agran catidade de persoas."
+    },
+    "test/13547050152877322080.wav": {
+        "ground": "non fixou unha cifra para os recortes e afirmou que se realizarían segundo a produción económica da china",
+        "transcript": "Non fixou unha cifra para os recortes e afirmou que se realizaría unha produción económica da China."
     }
 }

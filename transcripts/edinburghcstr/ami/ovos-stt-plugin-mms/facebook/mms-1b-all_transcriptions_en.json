@@ -82,5 +82,245 @@
     "EN2002a/eval_ami_en2002a_h00_mee073_0073617_0073677.wav": {
         "ground": "YEAH",
         "transcript": "d"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0099998_0100130.wav": {
+        "ground": "OH UM I DON'T KNOW",
+        "transcript": "as paarado"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0074938_0074967.wav": {
+        "ground": "YEAH",
+        "transcript": "k"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0202622_0202650.wav": {
+        "ground": "I TH",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0183644_0183749.wav": {
+        "ground": "THAT'S COOL",
+        "transcript": "va ce qo"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0104146_0104463.wav": {
+        "ground": "SO EVEN IF IT DOESN'T WORK YOU CAN JIGGERY POKERY AROUND AND MAKE IT WORK",
+        "transcript": "so even if it doesn't wart you can jigary putgrit around and make it wok"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0098487_0098500.wav": {
+        "ground": "HMM",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0208960_0209241.wav": {
+        "ground": "BUT MOST WILL PROBABLY WANT TO GO WITH DEFAULTS",
+        "transcript": "but most will probably want to go with the faults"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0064139_0064653.wav": {
+        "ground": "YOU OPEN THE WINDOW YOU READ THROUGH IT YOU MIGHT CLICK ON YOU KNOW CLOSE IT AGAIN STRAIGHT AWAY",
+        "transcript": "you open the window you rea through it you might click  younw close it again straightaway"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0035475_0035713.wav": {
+        "ground": "YEAH I MEAN THAT'S THAT'S STILL ANOTHER LEVEL FURTHER",
+        "transcript": "ye that's that still another letel fu"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0002644_0002707.wav": {
+        "ground": "OKAY",
+        "transcript": "aka"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0107929_0107984.wav": {
+        "ground": "YEAH",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0031789_0031923.wav": {
+        "ground": "YEAH",
+        "transcript": "p"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0182107_0182452.wav": {
+        "ground": "LIKE JUST GET A A QUICK LOOK OVER AND JUST THE BASICS",
+        "transcript": "i just get a a quick look over an jist can take a sar ti toria"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0114347_0114848.wav": {
+        "ground": "I MEAN IF YOU ALREADY STARTED ON ON DOING YOUR STUFF I GUESS WE CAN",
+        "transcript": "miani feu ardi startad on tuing staf agis we can"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo070_0159568_0159597.wav": {
+        "ground": "YEAH",
+        "transcript": "p"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0188690_0188709.wav": {
+        "ground": "YEAH",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0206202_0206248.wav": {
+        "ground": "YEAH",
+        "transcript": "prw"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0076136_0076219.wav": {
+        "ground": "YEAH",
+        "transcript": "a"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo070_0201252_0201545.wav": {
+        "ground": "SO UH THERE'S NOT POINT IN HAVING",
+        "transcript": "de ig e e e a  e  i"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0200554_0200596.wav": {
+        "ground": "I DON'T KNOW",
+        "transcript": "arelo"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0116848_0117033.wav": {
+        "ground": "YEAH EXACTLY EXACTLY",
+        "transcript": "p pi"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0001232_0001522.wav": {
+        "ground": "SO WHAT DO WE NEED TO TALK ABOUT",
+        "transcript": "so what do we need to talk about i"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0188231_0188316.wav": {
+        "ground": "ACTUALLY TH YEAH",
+        "transcript": "aa si nra"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0032731_0033237.wav": {
+        "ground": "WE DON'T WE'RE NOT ACTUALLY SURE WHAT THE USER WANTS WITH IT BUT IT'S INTERESTING SO WHY NOT GIVE IT TO HIM",
+        "transcript": "we dont weare not actually sure what the user wants woth it but it is interesting so why not give it to him"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0193279_0193562.wav": {
+        "ground": "ACTUALLY I WAS ASKING STEVE ABOUT THAT WHETHER WE CAN GET IN THERE",
+        "transcript": "im she was asking stephen about thot whether we can get in there"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0063079_0063650.wav": {
+        "ground": "PROBABLY JUST TWO OR TWO OR THREE OF WHATEVER WHATEVER THEY'RE LOOKING AT LIKE DIALOGUE ACTS TO WHATEVER CHARACTERISATIONS",
+        "transcript": "probably just two or three of wateverwhatever they're looking at like dialog ax to whatever y organisation"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee071_0068294_0068404.wav": {
+        "ground": "IF YOU REALLY KNEW WHAT YOU'RE DOING",
+        "transcript": "e di ready ne wat yi"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0117355_0118027.wav": {
+        "ground": "BUT WELL WHATEVER IT WAS LAST WEEK THEN",
+        "transcript": "well watever it was last week en"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0103796_0103892.wav": {
+        "ground": "OF MAKING",
+        "transcript": "wwi"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0018003_0018170.wav": {
+        "ground": "THAT'S A GOOD POINT",
+        "transcript": "taso gad point"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0018189_0018372.wav": {
+        "ground": "HMM",
+        "transcript": "gi  wi te le e"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0205035_0205114.wav": {
+        "ground": "DONE",
+        "transcript": "e"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee071_0112406_0112504.wav": {
+        "ground": "I'M SURE IT'S NOTHING DIFFICULT",
+        "transcript": "weta"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0089197_0089641.wav": {
+        "ground": "ACTUALLY IS THE CODE ACCESSIBLE LIKE THE THE GUI STUFF THAT YOU'VE DONE YEAH",
+        "transcript": "actually is the code accessible like the the goi stuff that you've done"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo070_0069097_0069130.wav": {
+        "ground": "YEAH",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0161524_0161669.wav": {
+        "ground": "WON'T BE THE WHOLE THING THEN",
+        "transcript": "won't be the whole thing e"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0164200_0164225.wav": {
+        "ground": "YEAH",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0047814_0048253.wav": {
+        "ground": "SO IF THERE'S A DE SO IT'LL BE A CHOICE FROM THE MENU BUT YEAH EXACTLY",
+        "transcript": "so if the'sso it'll be a choice from the man ye bot ye exactly"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo070_0210560_0210587.wav": {
+        "ground": "NO",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0066991_0067105.wav": {
+        "ground": "MOZILLA STYLE",
+        "transcript": "mzele stajol"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0208436_0208731.wav": {
+        "ground": "DO YOU REALLY WANT MULTIPLE WINDOWS FROM A SINGLE LAP",
+        "transcript": "really an postible windows from a single wap"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0142569_0142648.wav": {
+        "ground": "YEAH JUST IN CASE",
+        "transcript": "ytistincas"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0157652_0158052.wav": {
+        "ground": "DID WE WANNA MEET BEFORE WE TALK TO STEVE NEXT WEEK",
+        "transcript": "did we want to meet before we talkd to steve next sreet"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0046605_0046933.wav": {
+        "ground": "WELL IT MIGHT COME TO US AS WE START PLAYING WITH IT",
+        "transcript": "well it might come to us start playing with"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0067298_0067356.wav": {
+        "ground": "THAT'S RIGHT",
+        "transcript": "aswo"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0110118_0110150.wav": {
+        "ground": "OKAY",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0075637_0075770.wav": {
+        "ground": "YEAH YOU CAN MINIMISE 'EM",
+        "transcript": "ajan in gan mi n gi gin ld"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0150408_0150546.wav": {
+        "ground": "OKAY YEAH",
+        "transcript": "pe"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0147573_0147617.wav": {
+        "ground": "WELL",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0127448_0127916.wav": {
+        "ground": "OKAY",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0027270_0027918.wav": {
+        "ground": "YEAH SO Y WHEN YOU RIGHT CLICK ON IT ONE ONE OPTION WILL BE GIVE ME ALL YOUR MEETINGS CHARACTERISE THE SPEAKER",
+        "transcript": "ya so when you write click on it one option will me give me allin meetings characterise the speaker"
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0144667_0144693.wav": {
+        "ground": "YEAH",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo072_0018296_0018364.wav": {
+        "ground": "NOTHING ELSE",
+        "transcript": "i ew"
+    },
+    "EN2002a/eval_ami_en2002a_h00_mee073_0207817_0207928.wav": {
+        "ground": "HUH",
+        "transcript": "panppp"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee071_0059365_0059398.wav": {
+        "ground": "YEAH YEAH",
+        "transcript": ""
+    },
+    "EN2002a/eval_ami_en2002a_h01_feo070_0069723_0070329.wav": {
+        "ground": "YEAH UH CHANGE THE CONTENTS OF THE SAME WINDOW LIKE FROM TRANSCRIPTION TO SUMMARY",
+        "transcript": "change the contents of the same window like from transcription to summary"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_mee073_0151060_0151220.wav": {
+        "ground": "YOU HAVE SOME TIME WHY NOT",
+        "transcript": "de  e dag"
+    },
+    "EN2002a/eval_ami_en2002a_h03_mee071_0193221_0193326.wav": {
+        "ground": "YEAH SOMEBODY WILL ANSWER IT",
+        "transcript": "ja essam prielelcoe"
+    },
+    "EN2002a/eval_ami_en2002a_sdm_feo070_0097561_0097613.wav": {
+        "ground": "OH YEAH",
+        "transcript": "dw"
+    },
+    "EN2002a/eval_ami_en2002a_h02_feo072_0039859_0039955.wav": {
+        "ground": "YEAH",
+        "transcript": "ya"
     }
 }

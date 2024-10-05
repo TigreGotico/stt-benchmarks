@@ -110,5 +110,125 @@
     "pt_test_0/common_voice_pt_19854926.mp3": {
         "ground": "O mago lançou um feitiço muito poderoso sobre a cidade.",
         "transcript": "O mago lançou um feitiço muito poderoso na cidade."
+    },
+    "pt_test_0/common_voice_pt_22776534.mp3": {
+        "ground": "Ele trabalha nessa área.",
+        "transcript": "Ele trabalha nessa área."
+    },
+    "pt_test_0/common_voice_pt_36094300.mp3": {
+        "ground": "Mas foi tudo vão.",
+        "transcript": "Mas foi tudo em vão?"
+    },
+    "pt_test_0/common_voice_pt_37145079.mp3": {
+        "ground": "naloxona, sublingual, pílula, diluentes impróprios, esterilizados, psicossociais, buprenorfina",
+        "transcript": "Naloxona, sublingual, pílula, diluentes impróprios, esterilizados, psicossociais, buprenorfina."
+    },
+    "pt_test_0/common_voice_pt_39844267.mp3": {
+        "ground": "Isto anda lixado!",
+        "transcript": "Isto anda lixado."
+    },
+    "pt_test_0/common_voice_pt_34082686.mp3": {
+        "ground": "Bolo é uma mentira.",
+        "transcript": "Bolo é uma mentira."
+    },
+    "pt_test_0/common_voice_pt_27283586.mp3": {
+        "ground": "Se esta primeira condição for satisfeita, é sensata, forte e ágil.",
+        "transcript": "Se esta primeira condição for satisfeita, sensata, forte e ágil."
+    },
+    "pt_test_0/common_voice_pt_27156502.mp3": {
+        "ground": "Já é uma sorte que você é poupado de um acidente.",
+        "transcript": "Já é uma sorte que você é culpado de um acidente."
+    },
+    "pt_test_0/common_voice_pt_23818357.mp3": {
+        "ground": "Pode ser usado",
+        "transcript": "Pode ser usado."
+    },
+    "pt_test_0/common_voice_pt_37434648.mp3": {
+        "ground": "ábaco, abscissa, adição, alfa, algarismo, algebra linear, alíquota, amostra, amplitude, intervalo, adjacente",
+        "transcript": "Ábaco, abecissa, adição, alfa, algarismo, álgebra linear, alíquota, amostra, amplitude, intervalo, adjacente."
+    },
+    "pt_test_0/common_voice_pt_25643625.mp3": {
+        "ground": "Nós temos tempo suficiente.",
+        "transcript": "Nós temos tempos opostos."
+    },
+    "pt_test_0/common_voice_pt_37953849.mp3": {
+        "ground": "Mais-valia, internacionalismo, autogestão, simbologia",
+        "transcript": "Mais Maria, internacionalismo, autogestão, simbologia."
+    },
+    "pt_test_0/common_voice_pt_30386095.mp3": {
+        "ground": "Ariranha",
+        "transcript": "Arizalha."
+    },
+    "pt_test_0/common_voice_pt_36467033.mp3": {
+        "ground": "Alesandro, Calebe, Iago, Emanuele e Kevin",
+        "transcript": "Alessandra, Caleb, Iago, Emanuele e Kevin."
+    },
+    "pt_test_0/common_voice_pt_37854676.mp3": {
+        "ground": "o processo será extinto sem resolução de mérito",
+        "transcript": "O processo será extinto sem resolução do emérito."
+    },
+    "pt_test_0/common_voice_pt_32143985.mp3": {
+        "ground": "Nós viemos da Quesa.",
+        "transcript": "Nós vivemos em Queza."
+    },
+    "pt_test_0/common_voice_pt_25771123.mp3": {
+        "ground": "Oi, meu nome é Betina",
+        "transcript": "Oi, meu nome é Bettina."
+    },
+    "pt_test_0/common_voice_pt_21832853.mp3": {
+        "ground": "Nem o radar nem os outros instrumentos detectaram o bombardeiro stealth.",
+        "transcript": "Nem o radar nem os outros instrumentos detectarão um bombeiro externo."
+    },
+    "pt_test_0/common_voice_pt_23362185.mp3": {
+        "ground": "Nós temos tempo",
+        "transcript": "Mais temas tempo."
+    },
+    "pt_test_0/common_voice_pt_37915973.mp3": {
+        "ground": "Zênite, Levante, hitita, egípcia, Biblos, Eritreu",
+        "transcript": "Zenite elegante e tinta gipsia bimbo."
+    },
+    "pt_test_0/common_voice_pt_37434874.mp3": {
+        "ground": "PhosAgro, fosfato, Sputnik, Acron",
+        "transcript": "Fosagro, fosfato, sputnik, acrom."
+    },
+    "pt_test_0/common_voice_pt_23832354.mp3": {
+        "ground": "Do bastião, o melhor é a espinha.",
+        "transcript": "Do bastião, o melhor é a espinha."
+    },
+    "pt_test_0/common_voice_pt_19484624.mp3": {
+        "ground": "Pedir dinheiro emprestado às pessoas da aldeia",
+        "transcript": "Pedir dinheiro emprestado às pessoas da aldeia."
+    },
+    "pt_test_0/common_voice_pt_37434663.mp3": {
+        "ground": "O bairro inteiro está sem iluminação pública",
+        "transcript": "O bairro inteiro está sem iluminação pública."
+    },
+    "pt_test_0/common_voice_pt_23920071.mp3": {
+        "ground": "oito",
+        "transcript": "Oito."
+    },
+    "pt_test_0/common_voice_pt_19405032.mp3": {
+        "ground": "Trancá-los",
+        "transcript": "Tranca os."
+    },
+    "pt_test_0/common_voice_pt_37159539.mp3": {
+        "ground": "apartados",
+        "transcript": "Apartados."
+    },
+    "pt_test_0/common_voice_pt_37405557.mp3": {
+        "ground": "O sangue do corpo frio coagulou, está todo roxo e fedendo",
+        "transcript": "O sangue do corpo frio coagulou, está todo roxo e fedendo."
+    },
+    "pt_test_0/common_voice_pt_38600236.mp3": {
+        "ground": "Doze, treze, quatorze, quinze, dezesseis, dezessete",
+        "transcript": "Doze, treze, catorze, quinze, dezasseis, dezassete."
+    },
+    "pt_test_0/common_voice_pt_37506634.mp3": {
+        "ground": "Ísis, Melcarte, Osíris, Shed, Reshef, Yam",
+        "transcript": "Isis, Melkarte, Osiris, Chede, Rechefe e An."
+    },
+    "pt_test_0/common_voice_pt_38865916.mp3": {
+        "ground": "Sempre estou disposto, mas hoje não quero nem sair da cama.",
+        "transcript": "Sempre estou disposto, mas hoje não quero nem sair da cama."
     }
 }

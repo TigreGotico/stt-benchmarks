@@ -62,5 +62,1781 @@
     "gl_test_0/common_voice_gl_39851603.mp3": {
         "ground": "Agárdase un desembolso importante no verán.",
         "transcript": "agárdase un desenvós importante no verán"
+    },
+    "gl_test_0/common_voice_gl_39826595.mp3": {
+        "ground": "Solfexo, baile e alegría para un idioma milenario.",
+        "transcript": "solfexo baile e alegría para un idioma milenario"
+    },
+    "gl_test_0/common_voice_gl_39799901.mp3": {
+        "ground": "Os actores vense tan perdidos ao igual que o espectador.",
+        "transcript": "os actores vense tan perdidos ou igual que o espectador"
+    },
+    "gl_test_0/common_voice_gl_39856646.mp3": {
+        "ground": "Por exemplo, non me decatara dunha cantiga de amiga, explica.",
+        "transcript": "por exemplo nome decatara dunha cantiga de amiga explica"
+    },
+    "gl_test_0/common_voice_gl_39839954.mp3": {
+        "ground": "Esta escalada dáse en todas as áreas sanitarias, sen excepcións.",
+        "transcript": "estas calada dáse en todas as áreas sanitarias sen excepcións"
+    },
+    "gl_test_0/common_voice_gl_39906946.mp3": {
+        "ground": "Os sindicatos falan tamén de falta de efectivos nos mostradores de facturación.",
+        "transcript": "os sindicatos falan tamén de falta defectivos nos mostradores de facturación"
+    },
+    "gl_test_0/common_voice_gl_39846737.mp3": {
+        "ground": "Cada vez con menos servizos.",
+        "transcript": "cada vez con menos servizos"
+    },
+    "gl_test_0/common_voice_gl_39876565.mp3": {
+        "ground": "Hoxe é unha xornada para analizar polo miúdo os resultados.",
+        "transcript": "hoxe unha xornada para analizar polo miúdo resultados"
+    },
+    "gl_test_0/common_voice_gl_39795240.mp3": {
+        "ground": "O Porto de Vigo tapa cunha rede anticaídas a fochanca do peirao das Avenidas.",
+        "transcript": "o porto de vigo tapa cunha regal que caídas a fochanca do peirao das alimentos"
+    },
+    "gl_test_0/common_voice_gl_39879863.mp3": {
+        "ground": "Claro que Víctor Ruiz puido facer algo para evitalo.",
+        "transcript": "claro que victor ruiz puido facer algo para evitalo"
+    },
+    "gl_test_0/common_voice_gl_39839163.mp3": {
+        "ground": "Actor Chiqui Pereira.",
+        "transcript": "actor chiqui pereira"
+    },
+    "gl_test_0/common_voice_gl_39802368.mp3": {
+        "ground": "Ela quéixase da chegada da menopausa e a falta de fillos.",
+        "transcript": "ela queixese achegada da menopausa e a falta de fillos"
+    },
+    "gl_test_0/common_voice_gl_39883587.mp3": {
+        "ground": "Un minuto de máis leva.",
+        "transcript": "un minuto de máis leva"
+    },
+    "gl_test_0/common_voice_gl_39792697.mp3": {
+        "ground": "A só un voto quedara Filgueira do poeta de Monforte.",
+        "transcript": "axón voto quedar a filgueira do poeta de monforte"
+    },
+    "gl_test_0/common_voice_gl_36941264.mp3": {
+        "ground": "Presenza galega",
+        "transcript": "presenza galega"
+    },
+    "gl_test_0/common_voice_gl_39845995.mp3": {
+        "ground": "Grupo autor da proposición non de lei, señora Vilapún.",
+        "transcript": "grupo autor da proposición non de lei señora vilapún"
+    },
+    "gl_test_0/common_voice_gl_36891255.mp3": {
+        "ground": "Casou con Contemplación Mosquera Mariño",
+        "transcript": "casou contemplación mosquera mariño"
+    },
+    "gl_test_0/common_voice_gl_39844975.mp3": {
+        "ground": "Agardámola, pero non a dixo en ningunha das súas intervencións.",
+        "transcript": "agardamos pero non hai dixo ningunha das súas intervencións"
+    },
+    "gl_test_0/common_voice_gl_39846819.mp3": {
+        "ground": "Eu, dende logo, tamén lle propoño que teña vostede o mellor dos destinos posibles.",
+        "transcript": "eu dende logo tamén lle propoño que teña vostede o mellor das destinos posibles"
+    },
+    "gl_test_0/common_voice_gl_39834439.mp3": {
+        "ground": "Cambian os soportes, pero basicamente seguimos facendo o mesmo.",
+        "transcript": "cambian os soportes pero basicamente seguimos facendo o mesmo"
+    },
+    "gl_test_0/common_voice_gl_39884528.mp3": {
+        "ground": "Ou unha parte moi importante se atopa nun grave risco para o seu mantemento.",
+        "transcript": "ou unha parte moi importante se atopa nun grave risco para o seu mantemento"
+    },
+    "gl_test_0/common_voice_gl_39806950.mp3": {
+        "ground": "¿Que van facer con iso?",
+        "transcript": "que van facer con iso"
+    },
+    "gl_test_0/common_voice_gl_39820825.mp3": {
+        "ground": "Grazas a todos os clientes e clientas que nos visitades semanalmente.",
+        "transcript": "grazas a todos os clientes e clientes que nos visitades semanalmente"
+    },
+    "gl_test_0/common_voice_gl_39967976.mp3": {
+        "ground": "Abelenda foi o mellor do encontro.",
+        "transcript": "abelenda foi o mellor do encontro"
+    },
+    "gl_test_0/common_voice_gl_39830979.mp3": {
+        "ground": "Catro triunfos seguidos.",
+        "transcript": "catro triunfo seguidos"
+    },
+    "gl_test_0/common_voice_gl_39844603.mp3": {
+        "ground": "Si, acabei sabendo acerca das medusas, de Medusa, da Gorgona e das eguas.",
+        "transcript": "si acabei sabendo acerca das medusas de medusa da gorgona e da seguas"
+    },
+    "gl_test_0/common_voice_gl_39822698.mp3": {
+        "ground": "Como explicaría o panorama da fotografía galega actual?",
+        "transcript": "como explicaría o panorama da fotografía galega actual"
+    },
+    "gl_test_0/common_voice_gl_36853213.mp3": {
+        "ground": "Úsase como xema.",
+        "transcript": "úsase como xema"
+    },
+    "gl_test_0/common_voice_gl_39798050.mp3": {
+        "ground": "A verdade, hai que espertar.",
+        "transcript": "a verdade hai que espertar"
+    },
+    "gl_test_0/common_voice_gl_39840056.mp3": {
+        "ground": "Engordar o sector privado.",
+        "transcript": "engordar o sector privado"
+    },
+    "gl_test_0/common_voice_gl_39927112.mp3": {
+        "ground": "A súa nai, María Araceli, e a súa avoa agardan poder recuperalo vivo.",
+        "transcript": "a súa nai maría raceli e á súa avoa agardan poder recuperar o vivo"
+    },
+    "gl_test_0/common_voice_gl_39880552.mp3": {
+        "ground": "Pero iso non será nada comparado co que está por vir.",
+        "transcript": "perío non será nada comparado co que está por vir"
+    },
+    "gl_test_0/common_voice_gl_39819280.mp3": {
+        "ground": "\"Coidar da saúde salvará tamén a economía\", selou.",
+        "transcript": "coidar da saúde salvará tamén a economía sen"
+    },
+    "gl_test_0/common_voice_gl_39830456.mp3": {
+        "ground": "De que maneira funciona unha universidade sénior?",
+        "transcript": "de que maneira funciona unha universidade senior"
+    },
+    "gl_test_0/common_voice_gl_39829738.mp3": {
+        "ground": "Unha mestura, cando menos, peculiar.",
+        "transcript": "unha mestura cando menos peculiar"
+    },
+    "gl_test_0/common_voice_gl_39844262.mp3": {
+        "ground": "Pois basicamente facelo peor aínda.",
+        "transcript": "pois basicamente facelo peor aínda"
+    },
+    "gl_test_0/common_voice_gl_39851752.mp3": {
+        "ground": "Desbota o abatemento e advirte que o sector vai seguir mobilizándose.",
+        "transcript": "desbota o abatemento e advirte que o sector vai seguir mobilizándose"
+    },
+    "gl_test_0/common_voice_gl_39878993.mp3": {
+        "ground": "Non vai garantir a súa ideoloxía a solución do emprego.",
+        "transcript": "non vai agarrentir a súa ideoloxía á solución do emprego"
+    },
+    "gl_test_0/common_voice_gl_39837888.mp3": {
+        "ground": "Non se penaliza aos varóns.",
+        "transcript": "non se penaliza os varóns"
+    },
+    "gl_test_0/common_voice_gl_39822525.mp3": {
+        "ground": "Trátase da segunda fase da operación Loxodonta, iniciada polo Seprona hai un ano.",
+        "transcript": "trátase da 2ª fase da operación loxodonta iniciada polo seprona hai un ano"
+    },
+    "gl_test_0/common_voice_gl_39837882.mp3": {
+        "ground": "Segundo Feijóo, as revelacións do sumario non son máis que \"salsa rosa\".",
+        "transcript": "segundo feijóo arrevelacións dos humanio non son máis que salsa rosa"
+    },
+    "gl_test_0/common_voice_gl_39877107.mp3": {
+        "ground": "Iniciamos unha rolda especial de aclaracións, con dúplica do Goberno.",
+        "transcript": "iniciamos unha rolda especial de aclaracións con duplica do goberno"
+    },
+    "gl_test_0/common_voice_gl_39895134.mp3": {
+        "ground": "Non é a primeira vez que esta demanda xorde nunha Xunta Xeral de Accionistas.",
+        "transcript": "nun é a primeira vez que esta demanda xorde nunha xunta xeral de accionistas"
+    },
+    "gl_test_0/common_voice_gl_39796439.mp3": {
+        "ground": "Vostede tivo que abandonar a Xustiza para facer xustiza no poder Lexislativo.",
+        "transcript": "vostede tivo que abandona-la xustiza para facer xustiza no poder lexislativo"
+    },
+    "gl_test_0/common_voice_gl_39847081.mp3": {
+        "ground": "A min quixéronme botar do meu país.",
+        "transcript": "a min quixérome botar do meu país"
+    },
+    "gl_test_0/common_voice_gl_39796566.mp3": {
+        "ground": "Galaxia Tales foi desenvolvida pola empresa galega Imaxin.",
+        "transcript": "galaxia tales foi desenvolvida pola empresa galega imaxin"
+    },
+    "gl_test_0/common_voice_gl_39834740.mp3": {
+        "ground": "Vai a Alacante.",
+        "transcript": "vai alacante"
+    },
+    "gl_test_0/common_voice_gl_36490964.mp3": {
+        "ground": "Durante moitos anos foi popularmente coñecido como o Barrio Chinés de Barcelona.",
+        "transcript": "durante moitos anos foi popularmente coñecido como barrio chinés de barcelona"
+    },
+    "gl_test_0/common_voice_gl_39884810.mp3": {
+        "ground": "Velamos porque se cumpran os dereitos laborais dos traballadores.",
+        "transcript": "velamos porque se cumpran os dereitos laborais dos traballadores"
+    },
+    "gl_test_0/common_voice_gl_39857490.mp3": {
+        "ground": "Se o rei acredita no misterio non hai discusión.",
+        "transcript": "se o rei acredita no misterio non hai discusión"
+    },
+    "gl_test_0/common_voice_gl_39869754.mp3": {
+        "ground": "E somos conscientes de que é necesario incrementar o que é a oferta educativa.",
+        "transcript": "e somos conscientes de que é necesario incrementar o que é a oferta educativa"
+    },
+    "gl_test_0/common_voice_gl_39865771.mp3": {
+        "ground": "Tan importante en infraestrutura, como tamén o tipo de tren, é o material rodante.",
+        "transcript": "tan importantes infraestrutura como tamén o tipo de tren é o material rodante"
+    },
+    "gl_test_0/common_voice_gl_39818032.mp3": {
+        "ground": "Imaxino que para os fotógrafos a crise dos medios pode ser aínda máis severa.",
+        "transcript": "imaxino que para as fotógrafos e crise dos medios pódese aínda máis saber"
+    },
+    "gl_test_0/common_voice_gl_39857825.mp3": {
+        "ground": "E na Liga, o Celta sae a pescar co Valencia.",
+        "transcript": "e na liga o celtas hai a pescar co valencia"
+    },
+    "gl_test_0/common_voice_gl_39949794.mp3": {
+        "ground": "Non está nos cadros de persoal nin en ningún servizo de saúde de España.",
+        "transcript": "non están os cadros de persoal nin en ningún servizo de saúde españa"
+    },
+    "gl_test_0/common_voice_gl_39858939.mp3": {
+        "ground": "Son case cen menos que os detectados o día anterior.",
+        "transcript": "son case 100 nenos que os detectados o día anterior"
+    },
+    "gl_test_0/common_voice_gl_39831264.mp3": {
+        "ground": "Temos que avanzar, decidir nós no noso, conclúeo Pontón.",
+        "transcript": "temos que avanzar decidir nós no noso conclúe pontón"
+    },
+    "gl_test_0/common_voice_gl_39936758.mp3": {
+        "ground": "A min paréceme que moito éxito non debe de ter ese protocolo.",
+        "transcript": "a min paréceme que moito éxito non debe de ter ese protocolo"
+    },
+    "gl_test_0/common_voice_gl_39846936.mp3": {
+        "ground": "¿E cal é a realidade, señor conselleiro?",
+        "transcript": "e cal é a realidade señor conselleiro"
+    },
+    "gl_test_0/common_voice_gl_39828968.mp3": {
+        "ground": "Sinalados.",
+        "transcript": "sinalados"
+    },
+    "gl_test_0/common_voice_gl_39886978.mp3": {
+        "ground": "Pero o que pensamos que é indispensable é ter un plan.",
+        "transcript": "pero que pensamos que a indispensable é ter un plan"
+    },
+    "gl_test_0/common_voice_gl_39856661.mp3": {
+        "ground": "Un novo servizo que desaparece das comarcas e que desaparece do territorio.",
+        "transcript": "un novo servizo que desaparece das comarcas e que desaparece do territorio"
+    },
+    "gl_test_0/common_voice_gl_39865056.mp3": {
+        "ground": "Mais persoalmente non desexo dar o salto á política como profesión.",
+        "transcript": "máis persoalmente non desaxudar aos alto a política como profesión"
+    },
+    "gl_test_0/common_voice_gl_39837930.mp3": {
+        "ground": "Ti tes cousas que contar.",
+        "transcript": "ti tes cousas que contar"
+    },
+    "gl_test_0/common_voice_gl_39844297.mp3": {
+        "ground": "Doce anos de goberno, cero competencias, e hai que seguir batendo o récord.",
+        "transcript": "12 anos de goberno 0 competencias e hai que seguir batendo o récord"
+    },
+    "gl_test_0/common_voice_gl_39840785.mp3": {
+        "ground": "Co gol o Celta cedeu metros e baixou o pistón, reducindo intensidade.",
+        "transcript": "cogólo celta procedeu metros e baixou piston deducindo intensidade"
+    },
+    "gl_test_0/common_voice_gl_39815062.mp3": {
+        "ground": "Díaz: Cal é o prezo da vida humana para o presidente?",
+        "transcript": "cal é o prezo da vida humana para o presidente"
+    },
+    "gl_test_0/common_voice_gl_39846173.mp3": {
+        "ground": "Pero en realidade musicades poemas desde o voso primeiro traballo...",
+        "transcript": "pero en realidade musicales poemas desde o voso primeiro traballo"
+    },
+    "gl_test_0/common_voice_gl_39803494.mp3": {
+        "ground": "É requisito indispensable presentar o billete.",
+        "transcript": "e requisito indispensable presentar o billete"
+    },
+    "gl_test_0/common_voice_gl_39854498.mp3": {
+        "ground": "Quedan doce días para que remate a Liga.",
+        "transcript": "quedan 12 días para que remate a liga"
+    },
+    "gl_test_0/common_voice_gl_39850559.mp3": {
+        "ground": "Era unha lei da Administración dixital.",
+        "transcript": "era unha leira administración dixital"
+    },
+    "gl_test_0/common_voice_gl_39858006.mp3": {
+        "ground": "Mire os viños e o que está a pasar nos Estados Unidos.",
+        "transcript": "mirios viños e o que está pasar nos estados unidos"
+    },
+    "gl_test_0/common_voice_gl_39798345.mp3": {
+        "ground": "Ben, isto en canto ao que atopamos en 'galego' como adxectivo.",
+        "transcript": "vén isto en canto ao que atopamos en galego como adxectivo"
+    },
+    "gl_test_0/common_voice_gl_39879450.mp3": {
+        "ground": "_É de supor que a dor de Almanzor foi terrible...",
+        "transcript": "e de supor que ador de almanzor foi terríbel"
+    },
+    "gl_test_0/common_voice_gl_40062730.mp3": {
+        "ground": "Non son psicólogo clínico, pero comparto con algúns, falo con moitos.",
+        "transcript": "non son psicólogo clínico pero comparto con algúns falo con moitos"
+    },
+    "gl_test_0/common_voice_gl_39832824.mp3": {
+        "ground": "¡Pode acabar sendo un perigoso independentista!",
+        "transcript": "pode acabar sendo un perigoso independentista"
+    },
+    "gl_test_0/common_voice_gl_39817964.mp3": {
+        "ground": "Logo de declarar, foi posto en liberdade, sen cargo ningún.",
+        "transcript": "logo declarar foi posto liberdade sencargo ningún"
+    },
+    "gl_test_0/common_voice_gl_39857467.mp3": {
+        "ground": "Cunha vantaxe, iso si, reducida a dous puntos.",
+        "transcript": "cunha vantaxe iso si reducida a dous puntos"
+    },
+    "gl_test_0/common_voice_gl_39883815.mp3": {
+        "ground": "Hoxe completaranse os cuartos de final.",
+        "transcript": "hoxe completaranse os cuartos de final"
+    },
+    "gl_test_0/common_voice_gl_39799789.mp3": {
+        "ground": "Fagan os seus deberes tamén, que é impulsar o labor do Goberno.",
+        "transcript": "fagan os seus deberes tamén que é impulsar o labor do goberno"
+    },
+    "gl_test_0/common_voice_gl_39851943.mp3": {
+        "ground": "Cousas de sentido común.",
+        "transcript": "cousas de sentido común"
+    },
+    "gl_test_0/common_voice_gl_39800025.mp3": {
+        "ground": "Iso foi o que conseguimos que dixeran, que foran desafortunadas.",
+        "transcript": "iso foi o que conseguimos que dixeran que foron desafortunadas"
+    },
+    "gl_test_0/common_voice_gl_39820024.mp3": {
+        "ground": "E os concellos tamén están ao límite.",
+        "transcript": "e os concellos tamén están o límite"
+    },
+    "gl_test_0/common_voice_gl_39851924.mp3": {
+        "ground": "Estamos contentos, saen moitas cousiñas.",
+        "transcript": "estamos contentos hai moitas cousiñas"
+    },
+    "gl_test_0/common_voice_gl_39857346.mp3": {
+        "ground": "Respecto da señora Caíñas, di que chega tarde e é insuficiente.",
+        "transcript": "respecto da señora caíñas di que chega tarde é insuficiente"
+    },
+    "gl_test_0/common_voice_gl_39880339.mp3": {
+        "ground": "Outra cousa que parece que non queremos recordar nunca.",
+        "transcript": "outra cousa que parece que non queremos recordar nunca"
+    },
+    "gl_test_0/common_voice_gl_39833898.mp3": {
+        "ground": "Cando queira, señor Agrexán.",
+        "transcript": "cando queira señora"
+    },
+    "gl_test_0/common_voice_gl_39858554.mp3": {
+        "ground": "Máis das que reciben, por exemplo, da Xunta, que fai balance.",
+        "transcript": "máis das que reciben por exemplo da xunta que fai balance"
+    },
+    "gl_test_0/common_voice_gl_39837024.mp3": {
+        "ground": "Despois ollou o reloxo e pagou a conta.",
+        "transcript": "despois ollo o reloxo e pagou á conta"
+    },
+    "gl_test_0/common_voice_gl_39829342.mp3": {
+        "ground": "Fixérono hoxe diante das portas do Ministerio.",
+        "transcript": "fixérono hoxe diante das portas do ministerio"
+    },
+    "gl_test_0/common_voice_gl_39962516.mp3": {
+        "ground": "Ora ben, a nivel persoal.",
+        "transcript": "orabén a nivel persoal"
+    },
+    "gl_test_0/common_voice_gl_39806826.mp3": {
+        "ground": "E houbo un día que o vin e oín cantar.",
+        "transcript": "e houbundía que ovín oín cantar"
+    },
+    "gl_test_0/common_voice_gl_39815269.mp3": {
+        "ground": "Exporanse as obras participantes e entregaranse os premios ás tres fotografías gañadoras.",
+        "transcript": "esporanse as obras participantes e entregaranse os premios ás tres fotografías gañadoras"
+    },
+    "gl_test_0/common_voice_gl_39837923.mp3": {
+        "ground": "Preocúpanos.",
+        "transcript": "preocúpanos"
+    },
+    "gl_test_0/common_voice_gl_39820628.mp3": {
+        "ground": "Non, non, o respecto é mutuo.",
+        "transcript": "non non o respecto moto"
+    },
+    "gl_test_0/common_voice_gl_39880223.mp3": {
+        "ground": "Hoxe a señora Uceira conseguiu recoñecelo.",
+        "transcript": "hoxe señor uceira conseguiu recoñecelo"
+    },
+    "gl_test_0/common_voice_gl_39848132.mp3": {
+        "ground": "Eu creo que, máis que cuestión de días, será cuestión de semanas.",
+        "transcript": "eu creo que máis que cuestión de días será cuestión de semanas"
+    },
+    "gl_test_0/common_voice_gl_39869386.mp3": {
+        "ground": "Bascuas aposta nun galeguismo a medio camiño do soberanismo e o autonomismo.",
+        "transcript": "bascuas aposta nun galeguismo medio camiño dos soberanismo eu autonomismo"
+    },
+    "gl_test_0/common_voice_gl_39861075.mp3": {
+        "ground": "Anquela tivo que ver como lle chamaban a atención en máis dunha ocasión.",
+        "transcript": "anqueda tivo que ver como lle chamaban á atención e máis dunha ocasión"
+    },
+    "gl_test_0/common_voice_gl_39880204.mp3": {
+        "ground": "Grupo Parlamentario Popular, señor do Vilar.",
+        "transcript": "grupo parlamentario popular señor do vilar"
+    },
+    "gl_test_0/common_voice_gl_39877399.mp3": {
+        "ground": "O mundo do deporte mira con expectación que pasará coa Superliga de fútbol.",
+        "transcript": "o mundo do deporte mira con espectación que pasará coa superliga de fútbol"
+    },
+    "gl_test_0/common_voice_gl_39846997.mp3": {
+        "ground": "Señorías, a comunicación ferroviaria é unha peza fundamental para a mobilidade, agora e sempre.",
+        "transcript": "señorías a comunicación ferroviaria é unha peza fundamental para mobilidade agora e sempre"
+    },
+    "gl_test_0/common_voice_gl_39887021.mp3": {
+        "ground": "¡Si que se pode!",
+        "transcript": "si que se poden"
+    },
+    "gl_test_0/common_voice_gl_39880096.mp3": {
+        "ground": "Sempre volve á terra do seu pai.",
+        "transcript": "sempre volve á terra do seu pai"
+    },
+    "gl_test_0/common_voice_gl_39857486.mp3": {
+        "ground": "O que acontece é que agora se ve máis, esa resistencia.",
+        "transcript": "o que acontece é que agora se ve máis esa resistencia"
+    },
+    "gl_test_0/common_voice_gl_39813296.mp3": {
+        "ground": "A literatura non está para ser estudada, senón para pasalo ben.",
+        "transcript": "a literatura nun esta parase estudada senón para pasalo ben"
+    },
+    "gl_test_0/common_voice_gl_39877850.mp3": {
+        "ground": "¿Que estaba sucedendo?",
+        "transcript": "que estaba sucedendo"
+    },
+    "gl_test_0/common_voice_gl_39807685.mp3": {
+        "ground": "Admito as teses deles.",
+        "transcript": "admito ás teses deles"
+    },
+    "gl_test_0/common_voice_gl_39890329.mp3": {
+        "ground": "É o último tema do disco.",
+        "transcript": "é último tema do disco"
+    },
+    "gl_test_0/common_voice_gl_40018763.mp3": {
+        "ground": "Ademais, haberá que extremar as medidas sanitarias.",
+        "transcript": "ademais haberá que extremar as medidas sanitarias"
+    },
+    "gl_test_0/common_voice_gl_39854988.mp3": {
+        "ground": "Instante na obra 'Bernarda Cara de Leopada'.",
+        "transcript": "instante na obra bernarda cara de leopada"
+    },
+    "gl_test_0/common_voice_gl_39916514.mp3": {
+        "ground": "Remate, señor Escaleira.",
+        "transcript": "remate señor escaleira"
+    },
+    "gl_test_0/common_voice_gl_39856654.mp3": {
+        "ground": "\"Axiña me decatei rexistreino retrospectivamente\", explicou.",
+        "transcript": "asíñame decatei resisteino retrospectivamente explicou"
+    },
+    "gl_test_0/common_voice_gl_39831018.mp3": {
+        "ground": "Hai discriminación salarial inmensa na conserva.",
+        "transcript": "hai discriminacións salarial inmensa na conserva"
+    },
+    "gl_test_0/common_voice_gl_39844712.mp3": {
+        "ground": "Cada tema deste terceiro traballo é un microhistoria que conforman un relato único.",
+        "transcript": "cada tema deste terceiro traballo é un microhistoria que conforman un relato único"
+    },
+    "gl_test_0/common_voice_gl_39864644.mp3": {
+        "ground": "E vostede comparece hoxe aquí, curiosamente hoxe, curiosamente antes da mobilización.",
+        "transcript": "e vostede comparéce hoxe aquí curiosamente hoxe curiosamente antes da mobilización"
+    },
+    "gl_test_0/common_voice_gl_39829357.mp3": {
+        "ground": "Nunha semana multiplicáronse por sete o número de casos positivos.",
+        "transcript": "nunha semana multiplicáronse proxecte o número de casos positivos"
+    },
+    "gl_test_0/common_voice_gl_39847500.mp3": {
+        "ground": "Pero non é o mesmo ter uns medios económicos que outros.",
+        "transcript": "pero non é o mesmo déronnos medios económicos que outros"
+    },
+    "gl_test_0/common_voice_gl_39799630.mp3": {
+        "ground": "Se cadra non queriamos algo mellor, pero si máis.",
+        "transcript": "se cadra non queriamos algo mellor pero si máis"
+    },
+    "gl_test_0/common_voice_gl_39857877.mp3": {
+        "ground": "Señora Peai, silencio, por favor.",
+        "transcript": "señora que hai silencio por favor"
+    },
+    "gl_test_0/common_voice_gl_39865261.mp3": {
+        "ground": "Eu xa sei que non me escoitou.",
+        "transcript": "eu xa sei que non me escoitou"
+    },
+    "gl_test_0/common_voice_gl_39885567.mp3": {
+        "ground": "A aprendizaxe chegou na segunda manga, na que se viu pechado na saída.",
+        "transcript": "aprendizaxe chegou a segunda manga na que se viu pechado na saída"
+    },
+    "gl_test_0/common_voice_gl_39847740.mp3": {
+        "ground": "Eses centros, precisamente, deben ter as mellores condicións.",
+        "transcript": "eses centros precisamente deben ter as mellores condicións"
+    },
+    "gl_test_0/common_voice_gl_39948103.mp3": {
+        "ground": "O Barcelona amarra a súa estrela.",
+        "transcript": "o barcelona amarra a súa estrela"
+    },
+    "gl_test_0/common_voice_gl_39837704.mp3": {
+        "ground": "Nin no ámbito ideolóxico e político, nin no económico.",
+        "transcript": "din no ámbito ideolóxico e político nin no económico"
+    },
+    "gl_test_0/common_voice_gl_39852716.mp3": {
+        "ground": "Sen que o Pobo Soberano opine e decida.",
+        "transcript": "sen que o pobo soberano opine e decida"
+    },
+    "gl_test_0/common_voice_gl_39788248.mp3": {
+        "ground": "\"É o emprego máis difícil de recuperar, nalgúns casos imposible\", advirte Lago.",
+        "transcript": "eu emprego máis dificil de recuperar nalgúns casos imposible advertelado"
+    },
+    "gl_test_0/common_voice_gl_39879560.mp3": {
+        "ground": "Raúl Hernández pecharía o partido con outro tanto tras un erro da zaga.",
+        "transcript": "raúl hernández pecharío partido con outro tanto tras unha rodazada"
+    },
+    "gl_test_0/common_voice_gl_36838995.mp3": {
+        "ground": "Dende o principio Manama foi clave no desenvolvemento comercial da illa.",
+        "transcript": "tendo principio manama foi clave no desenvolvemento comercial illa"
+    },
+    "gl_test_0/common_voice_gl_39847418.mp3": {
+        "ground": "E apoiamos, por suposto, a iniciativa do Bloque Nacionalista Galego.",
+        "transcript": "e apoiamos por suposto a iniciativa do bloque nacionalista galego"
+    },
+    "gl_test_0/common_voice_gl_39885514.mp3": {
+        "ground": "Están a chegar de Francia os familiares dos detidos.",
+        "transcript": "están achegar de francia os familiares dos detidos"
+    },
+    "gl_test_0/common_voice_gl_39801190.mp3": {
+        "ground": "Naceu coma un ensaio de guión cando eu estaba a estudar.",
+        "transcript": "naceu como unha ensaio de guión cando eu estaba a estudar"
+    },
+    "gl_test_0/common_voice_gl_39800348.mp3": {
+        "ground": "Insua está máis preto de volver ao Deportivo.",
+        "transcript": "ínsua está máis preto devolver o deportivo"
+    },
+    "gl_test_0/common_voice_gl_39803902.mp3": {
+        "ground": "Hai que esperar a que nolo metan nun contedor.",
+        "transcript": "hai que esperar a que nolometan nun contedor"
+    },
+    "gl_test_0/common_voice_gl_39937727.mp3": {
+        "ground": "Axentes forestais e ambientais nunha manifestación, no pasado mes de maio.",
+        "transcript": "axentes forestais e ambientais nunha manifestación no pasado mes de maio"
+    },
+    "gl_test_0/common_voice_gl_39949039.mp3": {
+        "ground": "E vostede falounos da necesidade de resolver cuestións.",
+        "transcript": "e vostede falounos da necesidade de resolver cuestións"
+    },
+    "gl_test_0/common_voice_gl_39869951.mp3": {
+        "ground": "Febreiro agasallou aos holandeses o inverno que levaban esperando desde antes do Nadal.",
+        "transcript": "febreiro agasallou o salnés o inverno que levaban esperando de xentes do nadal"
+    },
+    "gl_test_0/common_voice_gl_39815003.mp3": {
+        "ground": "Desenvólvese tanto polo banda como en punta.",
+        "transcript": "desenvólvese tanto pola banda come on punta"
+    },
+    "gl_test_0/common_voice_gl_39855331.mp3": {
+        "ground": "O Celta continúa nunha zona cómoda da táboa, Terio.",
+        "transcript": "o celta continúa nunha zona cómoda da táboa terio"
+    },
+    "gl_test_0/common_voice_gl_39887376.mp3": {
+        "ground": "Por que os veciños das Pontes levan as súas protestas ante o Congreso?",
+        "transcript": "por que os veciños das pontes levan as súas protestas ante o congreso"
+    },
+    "gl_test_0/common_voice_gl_39885397.mp3": {
+        "ground": "A hemeroteca, ademais, é maldita.",
+        "transcript": "a hemeroteca ademais e maldita"
+    },
+    "gl_test_0/common_voice_gl_39862239.mp3": {
+        "ground": "Fala de vender os propios ideais e a propia vida.",
+        "transcript": "fala de vindeiros propios ideais e a propia vida"
+    },
+    "gl_test_0/common_voice_gl_39858307.mp3": {
+        "ground": "Seguimos insistindo en que o risco de lumes é máximo neste momento.",
+        "transcript": "seguimos insistindo en que o risco de lumes e máximo neste momento"
+    },
+    "gl_test_0/common_voice_gl_39788314.mp3": {
+        "ground": "Aprendín que hai outros xeitos de mirar o mundo.",
+        "transcript": "aprendín que hai outro xeitos de mirar o mundo"
+    },
+    "gl_test_0/common_voice_gl_39855394.mp3": {
+        "ground": "Esta é a política enerxética responsable dos gobernos do Partido Popular.",
+        "transcript": "esta é a política enerxética responsable dos gobernos do partido popular"
+    },
+    "gl_test_0/common_voice_gl_39874060.mp3": {
+        "ground": "E se Fraga vivise hoxe?",
+        "transcript": "ese fraga vivise hoxe"
+    },
+    "gl_test_0/common_voice_gl_39844176.mp3": {
+        "ground": "O panorama social xa non o vou describir porque é sobradamente coñecido.",
+        "transcript": "o panorama social xa non hou describir porque sobradamente coñecido"
+    },
+    "gl_test_0/common_voice_gl_39877404.mp3": {
+        "ground": "É un traballo técnico que leva moitísimo tempo e no que detectamos as deficiencias.",
+        "transcript": "é un traballo técnico que leva moitísimo tempo e no que detectamos as deficiencias"
+    },
+    "gl_test_0/common_voice_gl_39844483.mp3": {
+        "ground": "Estrea de 'Voadora'.",
+        "transcript": "estrea de boadora"
+    },
+    "gl_test_0/common_voice_gl_39818935.mp3": {
+        "ground": "E acudiron cun camión cisterna.",
+        "transcript": "e acudiron cun camiño fisterra"
+    },
+    "gl_test_0/common_voice_gl_39796290.mp3": {
+        "ground": "O resto de albergues da rede pública abrirán a primeiros de xullo.",
+        "transcript": "o resto de albergues da rede pública abrirán a primeiros de xullo"
+    },
+    "gl_test_0/common_voice_gl_39870301.mp3": {
+        "ground": "Ignacio Vilar na Rapa das Bestas.",
+        "transcript": "ignacio vilar na rapa das bestas"
+    },
+    "gl_test_0/common_voice_gl_39856618.mp3": {
+        "ground": "A Coruña e Lugo por un lado e Pontevedra e Ourense por outro.",
+        "transcript": "a coruña lugo por un lado e pontevedra e ourense por outro"
+    },
+    "gl_test_0/common_voice_gl_39874106.mp3": {
+        "ground": "As patoloxías pediátricas mantéñense a pesar da pandemia.",
+        "transcript": "as patoloxías pediáticas mantéñense a pesar da pandemia"
+    },
+    "gl_test_0/common_voice_gl_39799091.mp3": {
+        "ground": "Tamén falaba vostede do paro do último ano.",
+        "transcript": "tamén falaba vostede do paro do último ano"
+    },
+    "gl_test_0/common_voice_gl_39846438.mp3": {
+        "ground": "Poderiamos facelo aquí, pero a forma de tramitar este proxecto impídeo.",
+        "transcript": "poderiamos facelo aquí pero forma de tramitar este proxecto impidio"
+    },
+    "gl_test_0/common_voice_gl_39921864.mp3": {
+        "ground": "A familia agarda o xuízo para o outono.",
+        "transcript": "a familia garda o xuízo para o outono"
+    },
+    "gl_test_0/common_voice_gl_39833966.mp3": {
+        "ground": "¿Por que cremos que o importante era a cuestión fundamental?",
+        "transcript": "por que cremos que o importante era cuestión fundamental"
+    },
+    "gl_test_0/common_voice_gl_39795251.mp3": {
+        "ground": "É normal que teñan dúbidas ante determinados indicios.",
+        "transcript": "é normal que teña dúbidas ante determinados indicios"
+    },
+    "gl_test_0/common_voice_gl_39880638.mp3": {
+        "ground": "Reitero, señoría, que os datos son contundentes.",
+        "transcript": "gaiteiro señoría que os datos son contulantes"
+    },
+    "gl_test_0/common_voice_gl_39796607.mp3": {
+        "ground": "É fundamental contabilizar o traballo de coidados.",
+        "transcript": "é fundamental contabilizar o traballo de coidados"
+    },
+    "gl_test_0/common_voice_gl_39807647.mp3": {
+        "ground": "Dende a Organización de Consumidores pídenlle ao Goberno central unha solución urxente.",
+        "transcript": "dende a organización de consumidores pídenlle ao goberno central unha solución urxente"
+    },
+    "gl_test_0/common_voice_gl_39806563.mp3": {
+        "ground": "Con todo, acumula dez puntos.",
+        "transcript": "con todo acumula 10 puntos"
+    },
+    "gl_test_0/common_voice_gl_39843437.mp3": {
+        "ground": "Señor Croa, ¿quen é o que non quere favorecer medidas de prevención da corrupción?",
+        "transcript": "señor croa quen é o que non quere favorecer medidas de prevención da corrupción"
+    },
+    "gl_test_0/common_voice_gl_39864670.mp3": {
+        "ground": "En canto aos xornalistas, que vou dicir!",
+        "transcript": "en canto os xornalistas que vou dicir"
+    },
+    "gl_test_0/common_voice_gl_39818076.mp3": {
+        "ground": "Aínda que respondemos de comunidades pequenas, facemos un labor importante de contrapoder.",
+        "transcript": "aínda que respondemos de comunidades pequenas facemos un labor importante de contrapoder"
+    },
+    "gl_test_0/common_voice_gl_39857528.mp3": {
+        "ground": "Esa é a única esperanza que ten por diante este país.",
+        "transcript": "esa é a única esperanza que ten por diante este país"
+    },
+    "gl_test_0/common_voice_gl_39797462.mp3": {
+        "ground": "¿E sabe que ocorre neste contexto?",
+        "transcript": "e sabe que ocorrense contexto"
+    },
+    "gl_test_0/common_voice_gl_39862122.mp3": {
+        "ground": "Xa sei que non é unha temática orixinal senón todo o contrario.",
+        "transcript": "xa sei que non é unha temática orixinal senón todo o contrari"
+    },
+    "gl_test_0/common_voice_gl_39834336.mp3": {
+        "ground": "Non me importan os recoñecementos.",
+        "transcript": "non impórtan os recoñecementos"
+    },
+    "gl_test_0/common_voice_gl_39858576.mp3": {
+        "ground": "En Atlas de Chaguán hai algúns versos en portugués tamén.",
+        "transcript": "engaplas de chaoán hai algúns versos en portugués tamén"
+    },
+    "gl_test_0/common_voice_gl_39830666.mp3": {
+        "ground": "É Carolina Marín.",
+        "transcript": "é carolina marín"
+    },
+    "gl_test_0/common_voice_gl_39854112.mp3": {
+        "ground": "A excepción é o Ribeiro.",
+        "transcript": "a excepción é o ribeiro"
+    },
+    "gl_test_0/common_voice_gl_39849738.mp3": {
+        "ground": "Era sentido de responsabilidade.",
+        "transcript": "era sentido de responsabilidade"
+    },
+    "gl_test_0/common_voice_gl_39856623.mp3": {
+        "ground": "¡Si señor, para os de aquí!",
+        "transcript": "si señor para os daquí"
+    },
+    "gl_test_0/common_voice_gl_39943554.mp3": {
+        "ground": "Grazas, grazas, señor Beloi, por favor, terminou o seu tempo xa.",
+        "transcript": "grazas grazas señorveloi por favor terminou o seu tempo xa"
+    },
+    "gl_test_0/common_voice_gl_39840240.mp3": {
+        "ground": "As autoridades francesas comezan a pensar nos afeccionados.",
+        "transcript": "ás autoridades francesas comeza unha pensar nosa afeccionados"
+    },
+    "gl_test_0/common_voice_gl_39815012.mp3": {
+        "ground": "Anxo Carracedo.",
+        "transcript": "anxo carracedo"
+    },
+    "gl_test_0/common_voice_gl_39879913.mp3": {
+        "ground": "Máis unha data para acudir á chamada das áreas comerciais na procura de agasallos.",
+        "transcript": "máis unha data para acudir a chamada das áreas comerciais na procura de agasallos"
+    },
+    "gl_test_0/common_voice_gl_36634657.mp3": {
+        "ground": "O réxime republicano encárgalle a dirección do Museo do Prado.",
+        "transcript": ""
+    },
+    "gl_test_0/common_voice_gl_36761469.mp3": {
+        "ground": "Esqueceron moitas cousas e inventaron moitas outras.",
+        "transcript": "esqueceron moitas cousas e inventaron moitas outras"
+    },
+    "gl_test_0/common_voice_gl_39815178.mp3": {
+        "ground": "Até que punto somos conscientes dos efectos deses actos.",
+        "transcript": "ataque puntos somos conscientes dos efetos desexatos"
+    },
+    "gl_test_0/common_voice_gl_39792082.mp3": {
+        "ground": "Ritmo xusto.",
+        "transcript": "ritmos xusto"
+    },
+    "gl_test_0/common_voice_gl_39856750.mp3": {
+        "ground": "E aí imos estar vixilantes, destaca Cuns.",
+        "transcript": "e aí imos estar vixilantes destaca cuns"
+    },
+    "gl_test_0/common_voice_gl_39846551.mp3": {
+        "ground": "E falo da reforma laboral que puxo en marcha o Goberno do Partido Popular.",
+        "transcript": "e falo das reforma laboral que puxen marcha ao goberno do partido popular"
+    },
+    "gl_test_0/common_voice_gl_39855526.mp3": {
+        "ground": "María Jesús.",
+        "transcript": "maria xesús"
+    },
+    "gl_test_0/common_voice_gl_39817464.mp3": {
+        "ground": "Hai anos, o Estado español era referente na aplicación do principio de xurisdición universal.",
+        "transcript": "hai anos estado español era refrente na aplicación do principio de xurisdición universal"
+    },
+    "gl_test_0/common_voice_gl_39785267.mp3": {
+        "ground": "Nós temos unha cifra.",
+        "transcript": "nós temos unha cifra"
+    },
+    "gl_test_0/common_voice_gl_39880279.mp3": {
+        "ground": "Imaxina: Pedreira creando novas iniciativas!",
+        "transcript": "imaxina pedreira creando novas iniciativas"
+    },
+    "gl_test_0/common_voice_gl_39824445.mp3": {
+        "ground": "Eses non son datos discutibles, señor Dacova.",
+        "transcript": "eses non son datos discutibles señor da cova"
+    },
+    "gl_test_0/common_voice_gl_39815076.mp3": {
+        "ground": "Miren, nada mellor que falar de feitos.",
+        "transcript": "mirin nada mellor que falar de feitos"
+    },
+    "gl_test_0/common_voice_gl_39833472.mp3": {
+        "ground": "Pecha a semana que vén.",
+        "transcript": "péchase semana que ben"
+    },
+    "gl_test_0/common_voice_gl_39831223.mp3": {
+        "ground": "Agardo o apoio de todos os grupos, moitas grazas e de momento máis nada.",
+        "transcript": "agardo apoio de todos os grupos moitas grazas e de momento máis nada"
+    },
+    "gl_test_0/common_voice_gl_39845007.mp3": {
+        "ground": "Pois un cambio absoluto de mentalidade fronte ao Camiño.",
+        "transcript": "pois un cambio absoluto de mentalidade fronte ao camiño"
+    },
+    "gl_test_0/common_voice_gl_39812350.mp3": {
+        "ground": "Era o gato dunha familia de Barcelona na que había varios membros contaxiados.",
+        "transcript": "era o gato dunha familia de barcelona na que había varios membros contaxiados"
+    },
+    "gl_test_0/common_voice_gl_39810898.mp3": {
+        "ground": "Hai lexislacións, hai plans.",
+        "transcript": "hai lexislacións hai plans"
+    },
+    "gl_test_0/common_voice_gl_36953877.mp3": {
+        "ground": "Quedou dúas veces entre os tres últimos e unha vez entre os dous últimos.",
+        "transcript": "quedou dúas veces entre os tres últimos é unha vez entre os dous últimos"
+    },
+    "gl_test_0/common_voice_gl_39846253.mp3": {
+        "ground": "Mire, nós vimos hoxe aquí con ánimo construtivo.",
+        "transcript": "mire nos vimos hoxe aquí con ánimo construtivo"
+    },
+    "gl_test_0/common_voice_gl_37252569.mp3": {
+        "ground": "Moitos dos seus edificios caracterízanse pola claridade xeométrica que presentan.",
+        "transcript": "moitos dos seus edificios caracterízanse pola claridade xeométrica que presentan"
+    },
+    "gl_test_0/common_voice_gl_39821353.mp3": {
+        "ground": "Esa é a sensación que temos, sostén Alberto.",
+        "transcript": "esa é a sensación que temos sostén aberto"
+    },
+    "gl_test_0/common_voice_gl_39844737.mp3": {
+        "ground": "A deportiva comeza o dezasete de agosto.",
+        "transcript": "a deportiva comeza o 17 de agosto"
+    },
+    "gl_test_0/common_voice_gl_39853550.mp3": {
+        "ground": "Este équido primitivo non é exactamente un cabalo.",
+        "transcript": "este equipo primitivo non é exactamente un cabalo"
+    },
+    "gl_test_0/common_voice_gl_39856917.mp3": {
+        "ground": "Resultado: ganamos.",
+        "transcript": "resultado ganamos"
+    },
+    "gl_test_0/common_voice_gl_39857241.mp3": {
+        "ground": "¿Por que pasa iso?",
+        "transcript": "por que pasa iso"
+    },
+    "gl_test_0/common_voice_gl_39823448.mp3": {
+        "ground": "O filme está dividido en tres actos.",
+        "transcript": "o filme está dividido en tres actos"
+    },
+    "gl_test_0/common_voice_gl_39880231.mp3": {
+        "ground": "Di Feijóo que son os independentistas os que teñen o papel principal.",
+        "transcript": "de feijóo que somos independentistas os que teñen un papel principal"
+    },
+    "gl_test_0/common_voice_gl_39879388.mp3": {
+        "ground": "Responden a estes obxectivos as propostas a debate?",
+        "transcript": "responden a estes obxectivos os propostas a debate"
+    },
+    "gl_test_0/common_voice_gl_39864807.mp3": {
+        "ground": "Para velo, só hai que abrir os ollos.",
+        "transcript": "parabelo xoán hai que abrir os ollos"
+    },
+    "gl_test_0/common_voice_gl_39836650.mp3": {
+        "ground": "Agora os autores.",
+        "transcript": "agora ós autores"
+    },
+    "gl_test_0/common_voice_gl_39850363.mp3": {
+        "ground": "O proceso de escrita foi longo.",
+        "transcript": "o proceso de escrita foi longo"
+    },
+    "gl_test_0/common_voice_gl_39806087.mp3": {
+        "ground": "O sétimo camiño é o equilibrio.",
+        "transcript": "obétimo camiño e o equilibrio"
+    },
+    "gl_test_0/common_voice_gl_39914033.mp3": {
+        "ground": "Abel Caballero e Fernández Lores consolidarían o seu mandato en Vigo e Pontevedra.",
+        "transcript": "adel carballeiro fernández lores consolidarían o seu mandato en vigo e pontevedra"
+    },
+    "gl_test_0/common_voice_gl_39874796.mp3": {
+        "ground": "O camiño até a súa aprobación definitiva prevese longo.",
+        "transcript": "o camiño até a súa aprobación definitiva prevese longo"
+    },
+    "gl_test_0/common_voice_gl_39947411.mp3": {
+        "ground": "Sarria non é só unha circunscrición electoral da que extraer votos cada catro anos.",
+        "transcript": "sarria non é só unha circunscrición electoral daque extraer votos cada catro anos"
+    },
+    "gl_test_0/common_voice_gl_39900668.mp3": {
+        "ground": "Agora debe ser aprobado formalmente o vindeiro martes.",
+        "transcript": "agora débese dar aprobado formalmente o vindeiro martes"
+    },
+    "gl_test_0/common_voice_gl_39826312.mp3": {
+        "ground": "Elaboran os seus produtos sen présa, co cariño e a atención que merecen.",
+        "transcript": "elaboran os seus produtos empresa cocariño e atención que merecen"
+    },
+    "gl_test_0/common_voice_gl_39852080.mp3": {
+        "ground": "Eu creo que o seu pensamento si se pode traer á sociedade actual.",
+        "transcript": "eu creo que o seu pensamento si se pode traer á sociedade actual"
+    },
+    "gl_test_0/common_voice_gl_39867192.mp3": {
+        "ground": "Creo que un pouco de humildade é moi bo para todos.",
+        "transcript": "creo que un pouco de unidade é moi bo para todos"
+    },
+    "gl_test_0/common_voice_gl_39847690.mp3": {
+        "ground": "O cinema ten que ter empatía.",
+        "transcript": "o cinema ten que ter empatía"
+    },
+    "gl_test_0/common_voice_gl_39858038.mp3": {
+        "ground": "O árbitro decreta silencio administrativo.",
+        "transcript": "o árbitro decreta silencio administrativo"
+    },
+    "gl_test_0/common_voice_gl_39869949.mp3": {
+        "ground": "Hai, ao seu xuízo, algo bo na folla de servizos do Goberno de Feijóo?",
+        "transcript": "hai o seu xuízo algo bona folla dos servizos do goberno de feijóo"
+    },
+    "gl_test_0/common_voice_gl_39837938.mp3": {
+        "ground": "'Construtores galegos desembarcan en Malta'.",
+        "transcript": "construtores galegos desembarcan en malta"
+    },
+    "gl_test_0/common_voice_gl_39828240.mp3": {
+        "ground": "¿E que hai detrás disto?",
+        "transcript": "e que hai detrás disto"
+    },
+    "gl_test_0/common_voice_gl_39792679.mp3": {
+        "ground": "De aí naceu este concepto.",
+        "transcript": "que aí naceu este concepto"
+    },
+    "gl_test_0/common_voice_gl_39881857.mp3": {
+        "ground": "Agora mesmo hai máis demanda que oferta.",
+        "transcript": "agora mesmo hai máis demanda que oferta"
+    },
+    "gl_test_0/common_voice_gl_39828569.mp3": {
+        "ground": "E ocorríanseme moitos trazos do real que quería contar.",
+        "transcript": "e ocorríanse moitos trazos do real que quería contar"
+    },
+    "gl_test_0/common_voice_gl_39822320.mp3": {
+        "ground": "Tamén recreos alternativos para que non se acumulen.",
+        "transcript": "tamén recreos alternativos para que non se acumulan"
+    },
+    "gl_test_0/common_voice_gl_39856695.mp3": {
+        "ground": "Mire, Galicia xa está á vangarda da transición enerxética.",
+        "transcript": "mire galicia xa esta á vangarda transición enerxética"
+    },
+    "gl_test_0/common_voice_gl_39812667.mp3": {
+        "ground": "Un punto válelle ao Atlético de Madrid en Austria.",
+        "transcript": "un punto válel atlético de madrid en austria"
+    },
+    "gl_test_0/common_voice_gl_39870396.mp3": {
+        "ground": "E, respecto ao eido rural, por participar ou investir en actividade agraria.",
+        "transcript": "é respecto áí do rural por participar ou investir en actividade agraria"
+    },
+    "gl_test_0/common_voice_gl_39826132.mp3": {
+        "ground": "En terceiro lugar, xerencias de atención primaria con capacidade de decisión e con orzamentos.",
+        "transcript": "en terceiro lugar xerencias de atención primaria con capacidade de decisión e con orzamentos"
+    },
+    "gl_test_0/common_voice_gl_39828317.mp3": {
+        "ground": "Porque mañá reúnese o Consello; polo tanto, vostedes terán algún criterio sobre isto.",
+        "transcript": "porque mañá reúnese o consello polo tanto vostedes terán algún criterio sorriso"
+    },
+    "gl_test_0/common_voice_gl_39847377.mp3": {
+        "ground": "Advertencias da natureza para outros.",
+        "transcript": "advertencias da natureza para outros"
+    },
+    "gl_test_0/common_voice_gl_39798418.mp3": {
+        "ground": "Pero sobre todo os arredores.",
+        "transcript": "pero sobre todo os arredores"
+    },
+    "gl_test_0/common_voice_gl_39806299.mp3": {
+        "ground": "Seguiremos demandando que esta residencia cumpra todos os canons de seguridade.",
+        "transcript": "seguiremos demandando que esta residencia cun pra todos os canóns de seguridade"
+    },
+    "gl_test_0/common_voice_gl_39857459.mp3": {
+        "ground": "Hai unha conciencia importante e esa conciencia é facer os montes totalmente produtivos.",
+        "transcript": "hai unha conciencia importante e esa conciencia é facer os montes totalmente produtivos"
+    },
+    "gl_test_0/common_voice_gl_39880046.mp3": {
+        "ground": "Un pequeno respiro para unha calor que nunca marchou da nosa comunidade.",
+        "transcript": "un pequeno respiro pra unha calor que nunca marchou da nosa comunidade"
+    },
+    "gl_test_0/common_voice_gl_39862540.mp3": {
+        "ground": "Indicou que neste camiño se require a participación de todas as administracións.",
+        "transcript": "indicou que neste camiño se refire a participación de todas as administracións"
+    },
+    "gl_test_0/common_voice_gl_37112864.mp3": {
+        "ground": "Facerse que? Non ten un coñecido, nunca traballará.",
+        "transcript": "facerse que non ten un coñecido nunca traballará"
+    },
+    "gl_test_0/common_voice_gl_39806305.mp3": {
+        "ground": "Un retroceso histórico denunciado polo movemento feminista ao longo do planeta.",
+        "transcript": "un retroceso histórico denunciado polo movemento feminista ó longo do planeta"
+    },
+    "gl_test_0/common_voice_gl_39835165.mp3": {
+        "ground": "Falta por saber se Guipúscoa e Valladolid ascenden.",
+        "transcript": "falta por saber se guipúscoa e valladolid ascenden"
+    },
+    "gl_test_0/common_voice_gl_39873653.mp3": {
+        "ground": "Só restan dúas etapas...",
+        "transcript": "so restan dúas etapas"
+    },
+    "gl_test_0/common_voice_gl_39841959.mp3": {
+        "ground": "En todo caso, todo o mundo agarda que volvan as conversas presenciais.",
+        "transcript": "en todo caso todo o mundo agarda que volvan as conversas presenciais"
+    },
+    "gl_test_0/common_voice_gl_39815552.mp3": {
+        "ground": "Señor Braxe Touriz, éme forzoso recoñecer que estivo vostede a piques de emocionarme.",
+        "transcript": "señor braxe tourizm m forzoso recoñecer que estivo vostede a piques de emocionarme"
+    },
+    "gl_test_0/common_voice_gl_39853348.mp3": {
+        "ground": "Entón, vexo un conflito.",
+        "transcript": "entón vexo un conflito"
+    },
+    "gl_test_0/common_voice_gl_39844343.mp3": {
+        "ground": "Na rúa outra partida deu comezo para o vello.",
+        "transcript": "na rúa outra partida deu comezo para o vello"
+    },
+    "gl_test_0/common_voice_gl_39947463.mp3": {
+        "ground": "As bases non permitían presentarse aos premiados na pasada edición.",
+        "transcript": "ás bases non permitían presentarse os premiados na pasar de edición"
+    },
+    "gl_test_0/common_voice_gl_26185425.mp3": {
+        "ground": "En decembro Xoán asume a púrpura e trasládase a Rávena.",
+        "transcript": "en decembro xoán asume apúrpura e trasládase á rápena"
+    },
+    "gl_test_0/common_voice_gl_39833726.mp3": {
+        "ground": "A busca está marcada por unha nova xornada de alertas no mar.",
+        "transcript": "a busca está marcada por unha nova xornada de alertas no mar"
+    },
+    "gl_test_0/common_voice_gl_36593328.mp3": {
+        "ground": "Os efectos de longa duración e a eficacia da vacina continúan sendo estudados.",
+        "transcript": "os efectos de longa duración e a eficacia ale vacina continuar sendo estudados"
+    },
+    "gl_test_0/common_voice_gl_39833703.mp3": {
+        "ground": "Estamos tamén en Valga.",
+        "transcript": "estavo tamén embalgar"
+    },
+    "gl_test_0/common_voice_gl_39813521.mp3": {
+        "ground": "Ben é certo que xullo foi o peor da historia.",
+        "transcript": "ben é certo que xullo foi o peor de historia"
+    },
+    "gl_test_0/common_voice_gl_39911701.mp3": {
+        "ground": "Mereceu a pena tanta improvisación e tanto bandazo?",
+        "transcript": "mereceu apena tanta improvisación e tanto bandazo"
+    },
+    "gl_test_0/common_voice_gl_39811476.mp3": {
+        "ground": "Por iso moitos preferiron calar e ocultar o pasado?",
+        "transcript": "por iso moitos preferiron calar e ocultar o pasado"
+    },
+    "gl_test_0/common_voice_gl_39802686.mp3": {
+        "ground": "Agora hai unha xeración nova á que, curiosamente, me sinto moi preto.",
+        "transcript": "agora é unha xeración nova a que curiosamente me sinto moi preto"
+    },
+    "gl_test_0/common_voice_gl_39821833.mp3": {
+        "ground": "Buscamos a última hora.",
+        "transcript": "buscamos o última hora"
+    },
+    "gl_test_0/common_voice_gl_37317934.mp3": {
+        "ground": "Trátase dunha especie moi discreta nos seus costumes.",
+        "transcript": "trátase dunha especie moi discreta nos seus costumes"
+    },
+    "gl_test_0/common_voice_gl_39885169.mp3": {
+        "ground": "Haberá tres etapas máis ata chegar a Sevilla, último destino desta travesía.",
+        "transcript": "haberá tres etapas máis ata chegar a sevilla último destino desta travesía"
+    },
+    "gl_test_0/common_voice_gl_39848785.mp3": {
+        "ground": "Aquí, nada é grande ou pequeno, ou ten valor por si mesmo.",
+        "transcript": "aquí nave grande o pequeno ou ten valor por si mesmo"
+    },
+    "gl_test_0/common_voice_gl_36974831.mp3": {
+        "ground": "O significado adaptativo da determinación sexual pola temperatura non se comprende ben polo momento.",
+        "transcript": "o significado adaptativo da determinacións sexual pola temperatura non se comprendem polo momento"
+    },
+    "gl_test_0/common_voice_gl_39835297.mp3": {
+        "ground": "Esa idea de compatibilizar o cosmopolita e o nacional nunca se perdeu.",
+        "transcript": "esta idea de compatibilizar o cosmopolita e o nacional nunca se perdeu"
+    },
+    "gl_test_0/common_voice_gl_39802983.mp3": {
+        "ground": "Son máis as voces que as noces dicimos en galego e en portugués.",
+        "transcript": "son máis ás voces que as noces dicimos en galego e en portugués"
+    },
+    "gl_test_0/common_voice_gl_39853774.mp3": {
+        "ground": "O Sergas programa as primeiras citas para despois de Reis.",
+        "transcript": "observas programa ás primeiras citas para despois de reis"
+    },
+    "gl_test_0/common_voice_gl_37386645.mp3": {
+        "ground": "Se paso páxina, quen fai isto?",
+        "transcript": "se paso páxina quén faí isto"
+    },
+    "gl_test_0/common_voice_gl_39880361.mp3": {
+        "ground": "E tamén moitas mulleres, que ata agora non identificaran a situación de discriminación.",
+        "transcript": "e tamén moitas mulleres que ata agora non identificaran as situación de discriminación"
+    },
+    "gl_test_0/common_voice_gl_39850954.mp3": {
+        "ground": "¿E por que pechan as explotacións?",
+        "transcript": "e por que pechan as explotacións"
+    },
+    "gl_test_0/common_voice_gl_39853740.mp3": {
+        "ground": "Imos ver, vostede estivo no debate, estaba participando no debate.",
+        "transcript": "imos ver vostede estivo no debate estaba participando no debate"
+    },
+    "gl_test_0/common_voice_gl_39829607.mp3": {
+        "ground": "Ademais, as achegas de opinadores e colaboradores.",
+        "transcript": "ademais as achegas de opinadores e colaboradores"
+    },
+    "gl_test_0/common_voice_gl_39844289.mp3": {
+        "ground": "O seu nomeamento non estivo exento de polémica.",
+        "transcript": "o seu nomeamento non estivo exemplo de polémica"
+    },
+    "gl_test_0/common_voice_gl_39875333.mp3": {
+        "ground": "E tamén por iso, non se acelerará de momento a desescalada na hostalería.",
+        "transcript": "e tamén por iso non se acelerará de momento a desescalada na hostalería"
+    },
+    "gl_test_0/common_voice_gl_39832198.mp3": {
+        "ground": "Fago un chamamento aos mozos para participar nos cribados.",
+        "transcript": "fágoo un chamamentos mozos para participar nos privados"
+    },
+    "gl_test_0/common_voice_gl_39856708.mp3": {
+        "ground": "Esa é unha idea inicial, se cadra queda máis diluída.",
+        "transcript": "e saí unha idea inicial se cadra queda máis diluída"
+    },
+    "gl_test_0/common_voice_gl_39852061.mp3": {
+        "ground": "Como se podería ter evitado ese sufrimento?",
+        "transcript": "como se podería televitades o sufrimento"
+    },
+    "gl_test_0/common_voice_gl_39844999.mp3": {
+        "ground": "Foi como descubriu que xa \"non o precisaban\".",
+        "transcript": "foi como descubriu que xa non o precisaban"
+    },
+    "gl_test_0/common_voice_gl_39880066.mp3": {
+        "ground": "Pero tamén hai que darlle unha saída a este asunto.",
+        "transcript": "pero tamén hai que darlle unha saída a este xunto"
+    },
+    "gl_test_0/common_voice_gl_39826245.mp3": {
+        "ground": "O Ministerio fiscal traballa man a man coa Garda Civil ou coa policía.",
+        "transcript": "o ministerio fiscal traballa man a man coa cada civil ou coa policía"
+    },
+    "gl_test_0/common_voice_gl_39800723.mp3": {
+        "ground": "Hai un feito obxectivo, que é a Lei de Creación.",
+        "transcript": "hai un feito obxectivo que é a lei de creación"
+    },
+    "gl_test_0/common_voice_gl_39848048.mp3": {
+        "ground": "Hai galego na literatura e nas artes plásticas.",
+        "transcript": "hai galego na literatura en as artes plásticas"
+    },
+    "gl_test_0/common_voice_gl_39806867.mp3": {
+        "ground": "Chegan tarde cunha proposta que a Xunta de Galicia está xa a implantar.",
+        "transcript": "chegan tarde cunha proposta que a xunta de galicia está xa a implantar"
+    },
+    "gl_test_0/common_voice_gl_39826744.mp3": {
+        "ground": "Din que están contentos e que agora se sentirán máis seguros nas aulas, Mónica.",
+        "transcript": "nun que están contentos e que agora se sentirán máis seguros nas aulas mónica"
+    },
+    "gl_test_0/common_voice_gl_39858013.mp3": {
+        "ground": "Lamento que esa sexa a súa postura en materia de política industrial.",
+        "transcript": "lamento que xa sexa a súa postura en materia de política industrial"
+    },
+    "gl_test_0/common_voice_gl_36734616.mp3": {
+        "ground": "Frías Conde tamén se mostra partidario da galeguidade destas falas.",
+        "transcript": "frias cando tamén se mostra partidario da galeguidade destas falas"
+    },
+    "gl_test_0/common_voice_gl_39834544.mp3": {
+        "ground": "O Valencia dispuxo de ocasións.",
+        "transcript": "o valencia dispuxo de ocasións"
+    },
+    "gl_test_0/common_voice_gl_39806729.mp3": {
+        "ground": "Unha explosión causou importantes estragos nunha vivenda de Chantada.",
+        "transcript": "unha expresión causas importantes estragos nunha vivenda de chantada"
+    },
+    "gl_test_0/common_voice_gl_39856423.mp3": {
+        "ground": "E das non estruturais ¿por que non temos datos oficiais?",
+        "transcript": "e das novastruturais porque non temos ata suficiais"
+    },
+    "gl_test_0/common_voice_gl_39866983.mp3": {
+        "ground": "Están a se mover, dependendo da estación, entre unhas zonas e outras.",
+        "transcript": "estánse mover dependendo da estación entre unha historia e outras"
+    },
+    "gl_test_0/common_voice_gl_39846214.mp3": {
+        "ground": "¿Por que hai este compadreo?",
+        "transcript": "por que a este compareo"
+    },
+    "gl_test_0/common_voice_gl_39830561.mp3": {
+        "ground": "Ademais, temos que ter clara unha cuestión.",
+        "transcript": "ademais temos que ter clara unha cuestión"
+    },
+    "gl_test_0/common_voice_gl_36697404.mp3": {
+        "ground": "Os resultados obtidos por Rinehart et al.",
+        "transcript": "os resultados obtidos por rainhard et al"
+    },
+    "gl_test_0/common_voice_gl_39848128.mp3": {
+        "ground": "E ¿onde temos un problema?",
+        "transcript": "e ónde temos un problema"
+    },
+    "gl_test_0/common_voice_gl_39846760.mp3": {
+        "ground": "Afectan sobre todo a pescada, o xurelo e a cigala.",
+        "transcript": "aféctan sobre todo a pescada o xurelo é a cigala"
+    },
+    "gl_test_0/common_voice_gl_39846008.mp3": {
+        "ground": "Tiven esa intuición de xuntalos e penso que atinei.",
+        "transcript": "tiven esa intuición de xuntalos e penso que a tine"
+    },
+    "gl_test_0/common_voice_gl_39884294.mp3": {
+        "ground": "Con esa clareza pronúnciase Francisco González Sarria, decano do Colexio de Xornalistas.",
+        "transcript": "con esa clareza pronunciase francisco gonzález sarria decano do colexio de xornalistas"
+    },
+    "gl_test_0/common_voice_gl_39830765.mp3": {
+        "ground": "Eu creo que non pode ser.",
+        "transcript": "eu creo que non pode ser"
+    },
+    "gl_test_0/common_voice_gl_39879513.mp3": {
+        "ground": "E ademais, o accidente.",
+        "transcript": "e ademais o accidente"
+    },
+    "gl_test_0/common_voice_gl_39833984.mp3": {
+        "ground": "Para min a prioridade é facer un produto de calidade.",
+        "transcript": "para min á propiedade é facer un produto de calidade"
+    },
+    "gl_test_0/common_voice_gl_39897914.mp3": {
+        "ground": "Non propoñen absolutamente nada.",
+        "transcript": "non propoñen absolutamente nada"
+    },
+    "gl_test_0/common_voice_gl_40068845.mp3": {
+        "ground": "Eles sabíano.",
+        "transcript": "eles sabíano"
+    },
+    "gl_test_0/common_voice_gl_39821589.mp3": {
+        "ground": "Andaba polos vinte e dous anos.",
+        "transcript": "andaba polos 22 anos"
+    },
+    "gl_test_0/common_voice_gl_39797320.mp3": {
+        "ground": "O obxectivo é desconxestionar o sistema sanitario.",
+        "transcript": "o obxectivo é desconxestionar o sistemas sanitario"
+    },
+    "gl_test_0/common_voice_gl_36861661.mp3": {
+        "ground": "Foi pai de Vicente Calderón Montero Ríos.",
+        "transcript": "foi pai de vicente calderón montero ríos"
+    },
+    "gl_test_0/common_voice_gl_39839761.mp3": {
+        "ground": "O partido de hoxe gañouse por corazón e por xente.",
+        "transcript": "o partido de hoxe gañouse por corazón e por xente"
+    },
+    "gl_test_0/common_voice_gl_39802837.mp3": {
+        "ground": "Saen en Luar.",
+        "transcript": "saín en luar"
+    },
+    "gl_test_0/common_voice_gl_39879987.mp3": {
+        "ground": "Como están representadas?",
+        "transcript": "como están representadas"
+    },
+    "gl_test_0/common_voice_gl_39834403.mp3": {
+        "ground": "Non sei por que se molesta.",
+        "transcript": "non sei porque se molesta"
+    },
+    "gl_test_0/common_voice_gl_39792435.mp3": {
+        "ground": "Con goleada final ao Somozas para certificar o cambio de categoría.",
+        "transcript": "con goleada final aos somozas para certificar o cambio de categoría"
+    },
+    "gl_test_0/common_voice_gl_39874047.mp3": {
+        "ground": "O árbitro Milla Alvéndiz.",
+        "transcript": "o árbitro milla albéniz"
+    },
+    "gl_test_0/common_voice_gl_39812375.mp3": {
+        "ground": "Logo teremos que importar enerxía.",
+        "transcript": "logo teremos que importar enerxía"
+    },
+    "gl_test_0/common_voice_gl_39791565.mp3": {
+        "ground": "E aí empezou o primeiro problema.",
+        "transcript": "e aí empezou o primeiro problema"
+    },
+    "gl_test_0/common_voice_gl_39857588.mp3": {
+        "ground": "O pacto das tres dereitas tampouco suma maioría absoluta.",
+        "transcript": "o pacto estes dereitas tampouco son unha maioría absoluta"
+    },
+    "gl_test_0/common_voice_gl_39800388.mp3": {
+        "ground": "Iso significa seguir incrementando o déficit tarifario.",
+        "transcript": "iso significa seguir incrementando o déficit tarifario"
+    },
+    "gl_test_0/common_voice_gl_39854556.mp3": {
+        "ground": "María aparece tarde, contra as once, con cara de poucos amigos.",
+        "transcript": "maría aparece tarde contra ás 11 con cara de poucos amigos"
+    },
+    "gl_test_0/common_voice_gl_39850566.mp3": {
+        "ground": "Nenos inmersos na realidade virtual.",
+        "transcript": "nenos inversos na realidade virtual"
+    },
+    "gl_test_0/common_voice_gl_39784989.mp3": {
+        "ground": "Afirmou que non somos o voto protesta, somos o voto proposta.",
+        "transcript": "afirmou que non somos o voto protesta somos o voto proposta"
+    },
+    "gl_test_0/common_voice_gl_39853885.mp3": {
+        "ground": "Por exemplo, as cifras de investimentos que quedaron sen executar.",
+        "transcript": "por exemplo as cifras de investimentos que quedaron sen executar"
+    },
+    "gl_test_0/common_voice_gl_39858060.mp3": {
+        "ground": "Os datos seguen dando un lixeiro respiro.",
+        "transcript": "os datos seguen dando un lixeiro respiro"
+    },
+    "gl_test_0/common_voice_gl_39876136.mp3": {
+        "ground": "O presidente da Xunta pide comprensión coas medidas do comité clínico.",
+        "transcript": "o presidente da xunta vide comprensión coas medidas do comité clínico"
+    },
+    "gl_test_0/common_voice_gl_39803383.mp3": {
+        "ground": "\"É mellor e máis barato\".",
+        "transcript": "é mellor e máis barato"
+    },
+    "gl_test_0/common_voice_gl_39856906.mp3": {
+        "ground": "Con el pechamos este informativo.",
+        "transcript": "con el pechamos este informativo"
+    },
+    "gl_test_0/common_voice_gl_39793203.mp3": {
+        "ground": "Por alí pasaron estes días numerosos activistas contrarios ao presidente Morsi.",
+        "transcript": "por alí pasaron estes días numerosos activistas contrarios ao presidente morsi"
+    },
+    "gl_test_0/common_voice_gl_39826319.mp3": {
+        "ground": "Momento decisivo da temporada.",
+        "transcript": "momento decisivo da temporada"
+    },
+    "gl_test_0/common_voice_gl_39826402.mp3": {
+        "ground": "Nótase moito que xa ten máis infraestruturas.",
+        "transcript": "nótase moito que xa ten máis infraestruturas"
+    },
+    "gl_test_0/common_voice_gl_39879716.mp3": {
+        "ground": "O mellor premio para un traballo que se saborea cos cinco sentidos.",
+        "transcript": "o mellor premio para un traballo que se saborea cos 5 sentidos"
+    },
+    "gl_test_0/common_voice_gl_36886840.mp3": {
+        "ground": "Axúdame a ser grato por todo o que teño.",
+        "transcript": "axúdame a ser grato por todo o que teño"
+    },
+    "gl_test_0/common_voice_gl_39812954.mp3": {
+        "ground": "Dezaseis xogadores, cinco do equipo filial.",
+        "transcript": "16 xogadores 5 do equipo afilial"
+    },
+    "gl_test_0/common_voice_gl_39834360.mp3": {
+        "ground": "Para min é unha honra que mo propuxesen.",
+        "transcript": "para min é unha honra que me propuxesen"
+    },
+    "gl_test_0/common_voice_gl_39827252.mp3": {
+        "ground": "Sería moito mellor cambiar a situación.",
+        "transcript": "sería moito mellor cambiar a situación"
+    },
+    "gl_test_0/common_voice_gl_39849325.mp3": {
+        "ground": "Os sindicatos policiais expresaron a súa condena por estes feitos.",
+        "transcript": "os sindicatos policiais expresaron as súas condena por estes feitos"
+    },
+    "gl_test_0/common_voice_gl_39809085.mp3": {
+        "ground": "Gol de Rodado.",
+        "transcript": "gol de rodado"
+    },
+    "gl_test_0/common_voice_gl_39818459.mp3": {
+        "ground": "Argumentan que si podemos devolver a roupa que mercamos.",
+        "transcript": "argumentan que si podemos devolver a roupa que mercamos"
+    },
+    "gl_test_0/common_voice_gl_39837865.mp3": {
+        "ground": "Os recortes en orzamentos, medios e material prexudican gravemente a sanidade pública galega.",
+        "transcript": "os recortes en orzamentos medios e material prexudica gravemente á sanidade pública galega"
+    },
+    "gl_test_0/common_voice_gl_39843481.mp3": {
+        "ground": "¿Sabe o que hai que facer para diminuír o número de contaxios?",
+        "transcript": "sábeo que hai que facer para diminuír o número de contaxios"
+    },
+    "gl_test_0/common_voice_gl_39824203.mp3": {
+        "ground": "Nin unha soa mención ao Informe de Amnistía Internacional.",
+        "transcript": "ningunha soa mención a informe do amnistía internacional"
+    },
+    "gl_test_0/common_voice_gl_39828591.mp3": {
+        "ground": "A esa postura vén de sumarse agora a Xunta.",
+        "transcript": "a esa postura vendese marse agora xunta"
+    },
+    "gl_test_0/common_voice_gl_39815294.mp3": {
+        "ground": "Eu pregunto que non lles gusta deste plan.",
+        "transcript": "eu pregunto que non lles gusta deste plan"
+    },
+    "gl_test_0/common_voice_gl_39815622.mp3": {
+        "ground": "Cremos que estamos a sentar as bases desa boa estratexia para afrontar o Brexit.",
+        "transcript": "creemos que estamos asentar as bases desa boas estratexia para afrontar obrese"
+    },
+    "gl_test_0/common_voice_gl_39847061.mp3": {
+        "ground": "O que pasa é que hai algunha actuación que se cambiou.",
+        "transcript": "o que pasa é que hai algunha actuación que se cambiou"
+    },
+    "gl_test_0/common_voice_gl_39864278.mp3": {
+        "ground": "Coa presenza do Río Breogán.",
+        "transcript": "coa presenza do río breogán"
+    },
+    "gl_test_0/common_voice_gl_39812835.mp3": {
+        "ground": "Un pouco máis educado ca min, quedou un pouquiño antes.",
+        "transcript": "un pouco máis educado ca min quedou un pouquiño antes"
+    },
+    "gl_test_0/common_voice_gl_39852049.mp3": {
+        "ground": "Como mínimo, á altura das consideradas democracias máis avanzadas do planeta.",
+        "transcript": "como mínimo á altura das consideradas democracias máis avanzadas do planeta"
+    },
+    "gl_test_0/common_voice_gl_39854796.mp3": {
+        "ground": "Emite algúns berros inintelixíbeis.",
+        "transcript": "emite algúns berros inintelixíbeis"
+    },
+    "gl_test_0/common_voice_gl_39851907.mp3": {
+        "ground": "En Xerez dúas semanas.",
+        "transcript": "enxebrez dúas semanas"
+    },
+    "gl_test_0/common_voice_gl_39858628.mp3": {
+        "ground": "Uruguai vai a máis.",
+        "transcript": "uruguai vaia máis"
+    },
+    "gl_test_0/common_voice_gl_39800720.mp3": {
+        "ground": "¡Se o Goberno central ou o Estado estivo facendo caixa!",
+        "transcript": "se o goberno central ou estado estivo facendo caixa"
+    },
+    "gl_test_0/common_voice_gl_39793471.mp3": {
+        "ground": "E nos deportes, desta mañá destacamos a despedida de Luís Suárez no Barcelona, Terio.",
+        "transcript": "e nos deportes testa mañá destacamos a despedida de luis suárez novo barcelona deri"
+    },
+    "gl_test_0/common_voice_gl_39856078.mp3": {
+        "ground": "A intención é que estas xuntanzas de estendan a outros ámbitos, Sabela...",
+        "transcript": "a intención é que esta xuntanzas xestión outros ámbitos sabela"
+    },
+    "gl_test_0/common_voice_gl_39857041.mp3": {
+        "ground": "Equipos de profesionais acompañan as familias.",
+        "transcript": "equipos de profesionais acompáñanos familias"
+    },
+    "gl_test_0/common_voice_gl_39798929.mp3": {
+        "ground": "Temos traballo.",
+        "transcript": "temos traballo"
+    },
+    "gl_test_0/common_voice_gl_39796585.mp3": {
+        "ground": "Pois quedei abraiada.",
+        "transcript": "pois quedei abraiada"
+    },
+    "gl_test_0/common_voice_gl_39856366.mp3": {
+        "ground": "Así mesmo, lembra, \"a quinta vaga comeza remitir\".",
+        "transcript": "asimesmo lembra a quinta vaga comeza remitir"
+    },
+    "gl_test_0/common_voice_gl_39801765.mp3": {
+        "ground": "Ambos permanecían de vacacións na zona.",
+        "transcript": "ambos por merecían de vacacións na zona"
+    },
+    "gl_test_0/common_voice_gl_39862508.mp3": {
+        "ground": "Pero a polémica está servida arredor de se as empresas poden obrigar os traballadores.",
+        "transcript": "pero a polémica está servida arredor desas empresas poden obrigar os traballadores"
+    },
+    "gl_test_0/common_voice_gl_39840603.mp3": {
+        "ground": "Debería, polo menos, telo citado.",
+        "transcript": "debería polo menos 0 citado"
+    },
+    "gl_test_0/common_voice_gl_39801254.mp3": {
+        "ground": "Voz e piano cos que hoxe marchamos.",
+        "transcript": "voz e piano cos que hoxe marchamos"
+    },
+    "gl_test_0/common_voice_gl_39859067.mp3": {
+        "ground": "Embarcou en Finlandia, un mercante.",
+        "transcript": "embarcoe en finlandia un mercante"
+    },
+    "gl_test_0/common_voice_gl_36847977.mp3": {
+        "ground": "Tamén por esa época formou parte das Irmandades da Fala da Coruña.",
+        "transcript": "tamén podes sa época formacións da fala da coruña"
+    },
+    "gl_test_0/common_voice_gl_39853760.mp3": {
+        "ground": "E Carlos volveu probar a Joel.",
+        "transcript": "e carlos volveu probar joel"
+    },
+    "gl_test_0/common_voice_gl_39862091.mp3": {
+        "ground": "Logo empregáronse a nivel europeo na industria dos botóns, abandonados agora polo plástico.",
+        "transcript": "logo empregáronse a nivel europeo na industria dos botóns abandonados agora polo plástico"
+    },
+    "gl_test_0/common_voice_gl_39826783.mp3": {
+        "ground": "A imposibilidade e a frustración no mellor dos casos.",
+        "transcript": "a imposibilidade ia frustración na mellor dos casos"
+    },
+    "gl_test_0/common_voice_gl_40039542.mp3": {
+        "ground": "Sobre todo, os pasos de peóns, que son moi perigosos.",
+        "transcript": "sobre todo os pasos de peóns que son moi perigosos"
+    },
+    "gl_test_0/common_voice_gl_39806094.mp3": {
+        "ground": "Permíteo o Estatuto de Autonomía de Galicia e permíteo a Constitución.",
+        "transcript": "permíte o estatuto autonomía de galicia e permite o a constitución"
+    },
+    "gl_test_0/common_voice_gl_39809548.mp3": {
+        "ground": "Deulle un pouco de estopa de máis e non procedía.",
+        "transcript": "deulle un pouco destopa ademais e non procedía"
+    },
+    "gl_test_0/common_voice_gl_39564915.mp3": {
+        "ground": "Segue sen dar opción o Barcelona.",
+        "transcript": "segue sendar opción ao barcelona"
+    },
+    "gl_test_0/common_voice_gl_39867991.mp3": {
+        "ground": "Ese cinismo político, nós imos denuncialo permanentemente.",
+        "transcript": "eses cinismo político nós imos denuncialo permanentemente"
+    },
+    "gl_test_0/common_voice_gl_39846784.mp3": {
+        "ground": "Sénteno como algo seu.",
+        "transcript": "sénteno como algo seu"
+    },
+    "gl_test_0/common_voice_gl_39820273.mp3": {
+        "ground": "Vémolo por treitos.",
+        "transcript": "vémolo por treitos"
+    },
+    "gl_test_0/common_voice_gl_39801373.mp3": {
+        "ground": "Permítanme que llelo refira.",
+        "transcript": "permítame que llelo refire"
+    },
+    "gl_test_0/common_voice_gl_39879066.mp3": {
+        "ground": "Os produtores de pataca temen non poder regar.",
+        "transcript": "os produtores de pataca teñen non poder regar"
+    },
+    "gl_test_0/common_voice_gl_39838455.mp3": {
+        "ground": "Berta, participante na andaina.",
+        "transcript": "berta participante na andaina"
+    },
+    "gl_test_0/common_voice_gl_39858666.mp3": {
+        "ground": "Nese estoupido musical, a cor da fotografía.",
+        "transcript": "nes estoupido musical acorda fotografía"
+    },
+    "gl_test_0/common_voice_gl_39687417.mp3": {
+        "ground": "Volvemos a Bruxelas, Alexandre.",
+        "transcript": "volvemos a bruxelas alexandre"
+    },
+    "gl_test_0/common_voice_gl_39843387.mp3": {
+        "ground": "Hai unha procura desesperada de terras e de auga.",
+        "transcript": "hai unha procura desesperada de terrasse de auga"
+    },
+    "gl_test_0/common_voice_gl_39844843.mp3": {
+        "ground": "Ana non.",
+        "transcript": "ana non"
+    },
+    "gl_test_0/common_voice_gl_39880403.mp3": {
+        "ground": "Non é un problema de retrasar nada, é un problema de participación.",
+        "transcript": "non é un problema de retrasar nada e un problema de participación"
+    },
+    "gl_test_0/common_voice_gl_39801041.mp3": {
+        "ground": "A idea é loitar por conseguir máis e por facelo o mellor posible.",
+        "transcript": "a idea loitar por conseguir máis e por facelo ao mellor posible"
+    },
+    "gl_test_0/common_voice_gl_39845677.mp3": {
+        "ground": "Hai un problema de persoal.",
+        "transcript": "hai un problema de persoal"
+    },
+    "gl_test_0/common_voice_gl_36479017.mp3": {
+        "ground": "Participou en \"No seu despregar.",
+        "transcript": ""
+    },
+    "gl_test_0/common_voice_gl_39877590.mp3": {
+        "ground": "A proposta convenceu aquí e por aí adiante.",
+        "transcript": "a proposta convenceu aquí e por adiante"
+    },
+    "gl_test_0/common_voice_gl_39519306.mp3": {
+        "ground": "Señora Caamaño, evidentemente, nós queremos hemeroteca.",
+        "transcript": "señora caamaño evidentemente nós queremos hemerote"
+    },
+    "gl_test_0/common_voice_gl_39799253.mp3": {
+        "ground": "Cales deben ser os tempos deste proceso?",
+        "transcript": "talis debense-los tempos deste proceso"
+    },
+    "gl_test_0/common_voice_gl_36843977.mp3": {
+        "ground": "A dose debe ser reducida na presenza de insuficiencia renal.",
+        "transcript": "a 12 de becerrecida na presenza insuficiencia realio"
+    },
+    "gl_test_0/common_voice_gl_39844251.mp3": {
+        "ground": "A alza dos prezos afecta a todas as cidades.",
+        "transcript": "a alza dos prezos afecta a todas as cidades"
+    },
+    "gl_test_0/common_voice_gl_39880410.mp3": {
+        "ground": "Mire que o escoitamos.",
+        "transcript": "mirece o escoitamos"
+    },
+    "gl_test_0/common_voice_gl_39863027.mp3": {
+        "ground": "O que significa que hai un trato totalmente diferente.",
+        "transcript": "o que significa que hai un trato totalmente diferente"
+    },
+    "gl_test_0/common_voice_gl_39815437.mp3": {
+        "ground": "Daremos un salto importante en termos de calidade.",
+        "transcript": "daremos un salto importante en termos de calidade"
+    },
+    "gl_test_0/common_voice_gl_39867136.mp3": {
+        "ground": "Unha historia de supervivencia e de amor.",
+        "transcript": "unha historia de supervivencia e de amor"
+    },
+    "gl_test_0/common_voice_gl_39834379.mp3": {
+        "ground": "Exactamente, Galicia é a primeira comunidade.",
+        "transcript": "exactamente galicia é a primeira comunidade"
+    },
+    "gl_test_0/common_voice_gl_39856113.mp3": {
+        "ground": "Dentro do concello poden moverse con liberdade.",
+        "transcript": "dentro do concello poden moverse con liberdade"
+    },
+    "gl_test_0/common_voice_gl_39809808.mp3": {
+        "ground": "Vai ser difícil porque hai cinco ou seis clubs que temos as mesmas metas.",
+        "transcript": "vai ser difícil porque hai cinco seis clubs que temos as mesmas metas"
+    },
+    "gl_test_0/common_voice_gl_39849993.mp3": {
+        "ground": "Parejo estivo zoupón.",
+        "transcript": "parejo estivo zaupón"
+    },
+    "gl_test_0/common_voice_gl_39886676.mp3": {
+        "ground": "E non xa de xeito silandeiro senón, mais ben, evidente.",
+        "transcript": "e lonxa de xeito silandeiros senón máis ben evidente"
+    },
+    "gl_test_0/common_voice_gl_39795446.mp3": {
+        "ground": "O porteiro considera clave non caer na precipitación.",
+        "transcript": "o porteiro considera clave non caerna precipitación"
+    },
+    "gl_test_0/common_voice_gl_39815983.mp3": {
+        "ground": "E nós cremos que vostedes deberían camiñar nesa mesma dirección.",
+        "transcript": "e nós cremos que vostedes deberían camiñar nesa mesma dirección"
+    },
+    "gl_test_0/common_voice_gl_39838378.mp3": {
+        "ground": "Polo de agora, só mulleres desas dúas cidades decidiron sumarse.",
+        "transcript": "polodagora son mulleres desas dúas cidades decidiron sumarse"
+    },
+    "gl_test_0/common_voice_gl_39806896.mp3": {
+        "ground": "Niso son particularmente estrito e rigoroso.",
+        "transcript": "niso son particularmente estrito e rigoroso"
+    },
+    "gl_test_0/common_voice_gl_39887343.mp3": {
+        "ground": "¿Vostedes que fixeron?",
+        "transcript": "vostedes que fixeron"
+    },
+    "gl_test_0/common_voice_gl_39855666.mp3": {
+        "ground": "Música en directo, literatura infantil, expresión dramática e tradición oral para os nenos.",
+        "transcript": "música en directo literatura infantil expresión dramática e tradición oral para os nenos"
+    },
+    "gl_test_0/common_voice_gl_39848087.mp3": {
+        "ground": "Ábrese a sesión ás once e nove minutos da mañá.",
+        "transcript": "ábrese a sesión ás 11,9 minutos da mañá"
+    },
+    "gl_test_0/common_voice_gl_39825643.mp3": {
+        "ground": "\"A paciencia esgótase\", insiste.",
+        "transcript": "a paciencia ás jótase insiste"
+    },
+    "gl_test_0/common_voice_gl_39946136.mp3": {
+        "ground": "Mentres, no resto do mundo hai unha espectacular explosión histórica.",
+        "transcript": "mentres no resto do mundo hai unha espectacular explosión histórica"
+    },
+    "gl_test_0/common_voice_gl_39858431.mp3": {
+        "ground": "Sacarlle as cores aos templos da cultura.",
+        "transcript": "sacarlle as cores aos templos da cultura"
+    },
+    "gl_test_0/common_voice_gl_39856671.mp3": {
+        "ground": "En Marea está nun estado de parálise institucional desde finais de xaneiro.",
+        "transcript": "en marea está nun estado de paráles de institucional desde finais de xaneiro"
+    },
+    "gl_test_0/common_voice_gl_39796174.mp3": {
+        "ground": "Aquí a vemos.",
+        "transcript": "aquí habemos"
+    },
+    "gl_test_0/common_voice_gl_39915349.mp3": {
+        "ground": "Imaxe principal da reportaxe sobre os castros.",
+        "transcript": "imaxe principal da reportaxe sobre os castros"
+    },
+    "gl_test_0/common_voice_gl_39857594.mp3": {
+        "ground": "Iso está ben, pero non se pode espremer máis o mesmo modelo.",
+        "transcript": "iso está ben pero non se pode exprimer máis o mesmo modelo"
+    },
+    "gl_test_0/common_voice_gl_39816010.mp3": {
+        "ground": "Por suposto, seguiremos con iso.",
+        "transcript": "por suposto seguiremos con iso"
+    },
+    "gl_test_0/common_voice_gl_40080462.mp3": {
+        "ground": "Remata agosto, e toca volver á rutina.",
+        "transcript": "rematamos de toca volver a rutina"
+    },
+    "gl_test_0/common_voice_gl_39850406.mp3": {
+        "ground": "Modificouse a estrutura na edición, entón?",
+        "transcript": "modificouse a estrutura na edición entón"
+    },
+    "gl_test_0/common_voice_gl_39932263.mp3": {
+        "ground": "O deputado socialista Julio Torrado nun pleno parlamentario.",
+        "transcript": "o deputado socialista julio torrado nun pleno parlamentario"
+    },
+    "gl_test_0/common_voice_gl_39875234.mp3": {
+        "ground": "Un aumento que vemos en todas as áreas sanitarias agás na de Ferrol.",
+        "transcript": "1 augumento queremos en todas as área sanitarias agás na de ferrol"
+    },
+    "gl_test_0/common_voice_gl_39932450.mp3": {
+        "ground": "–Estou, Xoán, estou.",
+        "transcript": "estou xoán estou"
+    },
+    "gl_test_0/common_voice_gl_39893440.mp3": {
+        "ground": "\"Había unha tradición peculiar pero que non estaba recollida\", comenta, \"o Entroido Ribeirao\".",
+        "transcript": "había unha tradición peculiar pero que non estaba recollida comenta o entroido ribeirao"
+    },
+    "gl_test_0/common_voice_gl_39865429.mp3": {
+        "ground": "Pero non existe tal estudo.",
+        "transcript": "pero non existe tal estudo"
+    },
+    "gl_test_0/common_voice_gl_39874881.mp3": {
+        "ground": "Pero nunca foron máis alá do paripé.",
+        "transcript": "pero nunca foron máis alá do paripé"
+    },
+    "gl_test_0/common_voice_gl_39874346.mp3": {
+        "ground": "¡Expulsado!",
+        "transcript": "expulsado"
+    },
+    "gl_test_0/common_voice_gl_39844313.mp3": {
+        "ground": "O resultado: un banco público con control galego.",
+        "transcript": "os resultado un banco público con control galego"
+    },
+    "gl_test_0/common_voice_gl_39879270.mp3": {
+        "ground": "Bágoas legais.",
+        "transcript": "bágoas legais"
+    },
+    "gl_test_0/common_voice_gl_39885611.mp3": {
+        "ground": "Cal foi a nosa sorpresa ao chegar aquí?",
+        "transcript": "cál foi o noso sorpresa achegar aquí"
+    },
+    "gl_test_0/common_voice_gl_39810018.mp3": {
+        "ground": "Estas son imaxes daquel momento histórico.",
+        "transcript": "estas son imaxes daquel momento histórico"
+    },
+    "gl_test_0/common_voice_gl_39834386.mp3": {
+        "ground": "Son os socios en todos os sitios e non lles piden explicacións a eles.",
+        "transcript": "son os socios en todos os sitios e non lles piden explicacións a eles"
+    },
+    "gl_test_0/common_voice_gl_39801867.mp3": {
+        "ground": "Tentamos mellorar a xestión dos mesmos, indicou.",
+        "transcript": "tentamos mellorar a xestión dos mesmos indicou"
+    },
+    "gl_test_0/common_voice_gl_39879906.mp3": {
+        "ground": "O noso é máis sofisticado.",
+        "transcript": "o noso é máis sofisticado"
+    },
+    "gl_test_0/common_voice_gl_39791515.mp3": {
+        "ground": "Están as franxas auxiliares...",
+        "transcript": "están ás franxas auxiliares"
+    },
+    "gl_test_0/common_voice_gl_39899633.mp3": {
+        "ground": "Tan só de millo, adquírense preto de tres millóns de toneladas.",
+        "transcript": "anxo de millo adquírase preto de 3 millóns de toneladas"
+    },
+    "gl_test_0/common_voice_gl_39830716.mp3": {
+        "ground": "Os seus contaxios foran detectados entre a pasada sexta feira e o sábado.",
+        "transcript": "os seus contaxios foron detectados entre a pasada sexta feira e o sábado"
+    },
+    "gl_test_0/common_voice_gl_37150053.mp3": {
+        "ground": "O seu cheiro é desagradábel e o seu sabor doce.",
+        "transcript": "os seucheiro eles agradábel e o seu sabor doce"
+    },
+    "gl_test_0/common_voice_gl_39880299.mp3": {
+        "ground": "Sonia Villapol, neurocientífica.",
+        "transcript": "sonia villapol neuro científica"
+    },
+    "gl_test_0/common_voice_gl_39856128.mp3": {
+        "ground": "Si, e agárdase un duro debate no Parlamento.",
+        "transcript": "si e agárdase un duro debate no parlamento"
+    },
+    "gl_test_0/common_voice_gl_39874302.mp3": {
+        "ground": "Non, ten outra quenda.",
+        "transcript": "non ten outra quenda"
+    },
+    "gl_test_0/common_voice_gl_39880139.mp3": {
+        "ground": "Unha peza adobiada de humor cru.",
+        "transcript": "unha peza de beade do mor cruz"
+    },
+    "gl_test_0/common_voice_gl_39935905.mp3": {
+        "ground": "Moitos deles son reais.",
+        "transcript": "moitos deles son reais"
+    },
+    "gl_test_0/common_voice_gl_39856062.mp3": {
+        "ground": "A miña muller e máis eu saímos pouco da cidade.",
+        "transcript": "a miña muller e máis seus saímos pouco da cidade"
+    },
+    "gl_test_0/common_voice_gl_39819440.mp3": {
+        "ground": "Xa sei, señoría, que vostede non votou a Constitución pero vostede traballaba coa Constitución.",
+        "transcript": "xersei señoría que vostede non botou a constitución pero vostede traballaba coa constitución"
+    },
+    "gl_test_0/common_voice_gl_36855167.mp3": {
+        "ground": "Está ausente no extremo sur e suroeste do continente.",
+        "transcript": "esta urxente nos temos sur e xuroeste do continente"
+    },
+    "gl_test_0/common_voice_gl_39880116.mp3": {
+        "ground": "¿Por que segue sendo privada a central de chamadas?",
+        "transcript": "por que segue sendo privada central de chamadas"
+    },
+    "gl_test_0/common_voice_gl_39861326.mp3": {
+        "ground": "Uns valores que xa se produciron onte.",
+        "transcript": "uns valores que xa se produciron onte"
+    },
+    "gl_test_0/common_voice_gl_37004471.mp3": {
+        "ground": "Un home castiga a outro contra a parede con libros na man.",
+        "transcript": "unha castiga outra contra parede co libros na man"
+    },
+    "gl_test_0/common_voice_gl_39801405.mp3": {
+        "ground": "As estabilidades hai que demostralas, tiveron catro anos e vimos o que vimos.",
+        "transcript": "as estabilidades hai que demostralas tiveron catro anos e vimos o que vimos"
+    },
+    "gl_test_0/common_voice_gl_39797097.mp3": {
+        "ground": "Desvélase así unha mentira na nosa historia literaria que dificilmente podía ser descuberta.",
+        "transcript": "desbellas así unha mentira na nosa historia literaria que dificilmente podía ser descuberta"
+    },
+    "gl_test_0/common_voice_gl_39812599.mp3": {
+        "ground": "Estamos todos en Palavea na casa doutro irmán.",
+        "transcript": "estamos todos en palavea na casa doutro irmán"
+    },
+    "gl_test_0/common_voice_gl_36855932.mp3": {
+        "ground": "Foi elixido como Presidente do Consello de Administración Antonio Escudero.",
+        "transcript": "foi elixido como presidente do consello da administración antonio escudero"
+    },
+    "gl_test_0/common_voice_gl_39857926.mp3": {
+        "ground": "Estes son os números da planificación da estabilidade e da política laboral do Sergas.",
+        "transcript": "estes son os números da planificación da estabilidade e da política laboral do sergas"
+    },
+    "gl_test_0/common_voice_gl_39600767.mp3": {
+        "ground": "A aprobación depende do Goberno británico.",
+        "transcript": "aprobación depende do goberno británico"
+    },
+    "gl_test_0/common_voice_gl_39959136.mp3": {
+        "ground": "Quentámolo ben e comezamos a fritir as orellas.",
+        "transcript": "quitámolo ben e comezamos a fritir as orellas"
+    },
+    "gl_test_0/common_voice_gl_39810720.mp3": {
+        "ground": "Xa ve cal é a coherencia da mensaxe, das posturas políticas.",
+        "transcript": "xa ve calea coherencia da mensaxe das posturas políticas"
     }
 }

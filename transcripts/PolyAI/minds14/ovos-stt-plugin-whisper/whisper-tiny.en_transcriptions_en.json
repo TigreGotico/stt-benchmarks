@@ -1,0 +1,30 @@
+{
+    "zip://en-AU~PAY_BILL/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I would like to pay my electricity bill using my card can you please assist",
+        "transcript": " I would like to pay my electricity bill using my card. Can you please assist?"
+    },
+    "zip://en-US~JOINT_ACCOUNT/602ba55abb1e6d0fbce92065.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I would like to set up a joint account with my partner",
+        "transcript": " I would like to set up a joint account with my partner. How do I proceed with doing that?"
+    },
+    "zip://en-GB~PAY_BILL/60268fc4dc3604f481bcb89c.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I want to pay a bill and I know I want to know how can I use my credit card to do so",
+        "transcript": " I want to pay a bill and I know I want to know how can I use my credit card to do so."
+    },
+    "zip://en-US~JOINT_ACCOUNT/602baf24bb1e6d0fbce922a7.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Henry County set up a joint account with my wife and where are they at",
+        "transcript": " I'm wondering how I would set up a joint detail to open my wife and where the app might be."
+    },
+    "zip://en-AU~PAY_BILL/response_17.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hello I like to pay for Bill I would actually like to make a payment but yeah could you help me",
+        "transcript": " I would like to pay for bill. I would like to make a payment."
+    },
+    "zip://en-US~JOINT_ACCOUNT/602b9f97963e11ccd901cc32.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hi I'd like to set up a joint account with my partner I'm not seeing the option to do it on the app so I called in to get some help can I do it over the phone with you and give you the information",
+        "transcript": " Hi, I'd like to set up a joint account with my partner. I'm not seeing the option to do it on the app, so I called in to get some help. Can I just do it over the phone with you and give you the information? Or should I do it in the app and I'm missing something? Okay, I'd prefer to just do it over the phone if possible. Thanks."
+    },
+    "zip://en-US~JOINT_ACCOUNT/602bacab5f67b421554f6488.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "how do I start a joint account",
+        "transcript": " How do I start a joint account?"
+    }
+}

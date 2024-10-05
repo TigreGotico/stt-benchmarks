@@ -49,6 +49,12 @@
 | LaFrescat | 0.3873 |
 
 
+# WER: ovos-stt-plugin-whisper-turbo
+|dataset/model|whisper-large-v3-turbo|
+|-|-|
+| openslr-slr69-ca-trimmed-denoised | 0.0746 |
+
+
 # WER: ovos-stt-plugin-whisper
 |dataset/model|whisper-small|whisper-medium|whisper-tiny|
 |-|-|-|-|

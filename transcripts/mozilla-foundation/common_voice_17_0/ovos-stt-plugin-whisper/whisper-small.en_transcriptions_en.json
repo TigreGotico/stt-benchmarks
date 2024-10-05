@@ -3150,5 +3150,813 @@
     "en_test_0/common_voice_en_17812002.mp3": {
         "ground": "What does she look like?",
         "transcript": " What does she look like?"
+    },
+    "en_test_0/common_voice_en_101919.mp3": {
+        "ground": "Wait for the end of the war.",
+        "transcript": " Wait for the end of the rule."
+    },
+    "en_test_0/common_voice_en_34159733.mp3": {
+        "ground": "Krasnov.",
+        "transcript": " Krasnoff"
+    },
+    "en_test_0/common_voice_en_35007431.mp3": {
+        "ground": "A snapshot can also be saved permanently to Venti.",
+        "transcript": " A snapshot can also be saved permanently to venti"
+    },
+    "en_test_0/common_voice_en_660756.mp3": {
+        "ground": "\"This desert was once a sea,\" he said.",
+        "transcript": " This desert was once a sea, he said."
+    },
+    "en_test_0/common_voice_en_20289257.mp3": {
+        "ground": "It included a new production of \"Passion\" directed by Jamie Lloyd.",
+        "transcript": " It included a new production of Passion directed by Jamie Lloyd."
+    },
+    "en_test_0/common_voice_en_18071552.mp3": {
+        "ground": "He voyaged on a ship called The Beagle.",
+        "transcript": " He voyaged on a ship called the Beagle."
+    },
+    "en_test_0/common_voice_en_18084611.mp3": {
+        "ground": "I can reassure you, that we won't retreat until the peace is secured.",
+        "transcript": " I can reassure you that we won't retreat until the piece is secured."
+    },
+    "en_test_0/common_voice_en_19627437.mp3": {
+        "ground": "It is a member of the plastocyanin family of copper-binding proteins.",
+        "transcript": " So, this is the"
+    },
+    "en_test_0/common_voice_en_30686113.mp3": {
+        "ground": "The region remains neglected by the state government and the district administration.",
+        "transcript": " The region remains neglected by the state government and the district administration."
+    },
+    "en_test_0/common_voice_en_39583414.mp3": {
+        "ground": "Near the beachouse is a large modern playground.",
+        "transcript": " Near the beach house is a large modern playground."
+    },
+    "en_test_0/common_voice_en_22975949.mp3": {
+        "ground": "No change is permissible in regard to festivals and dates.",
+        "transcript": " No change is permissible in regards to festivals and dates."
+    },
+    "en_test_0/common_voice_en_20267648.mp3": {
+        "ground": "He held the office of Captain of the Royal Company of Archers.",
+        "transcript": " He held the office of captain of Royal Company of Artes."
+    },
+    "en_test_0/common_voice_en_38029302.mp3": {
+        "ground": "Also at Allen Park is the relocated Tom Collins House.",
+        "transcript": " Also with Alan Park is the relocated Tom Collins house."
+    },
+    "en_test_0/common_voice_en_29490218.mp3": {
+        "ground": "To enable this, the Linux kernel should be compiled with the corresponding option enabled.",
+        "transcript": " To enable this, the Linux kernel should be compiled with the corresponding option enabled."
+    },
+    "en_test_0/common_voice_en_37958331.mp3": {
+        "ground": "Public facilities, as precautionary measures, were closed.",
+        "transcript": " Public facilities as precautionary measures were closed."
+    },
+    "en_test_0/common_voice_en_19288096.mp3": {
+        "ground": "It's Not Dylan!",
+        "transcript": " It's not Dila"
+    },
+    "en_test_0/common_voice_en_655589.mp3": {
+        "ground": "His hands began to tremble, and the woman sensed it.",
+        "transcript": " His hands began to tremble and the woman sensed it."
+    },
+    "en_test_0/common_voice_en_25152047.mp3": {
+        "ground": "Blackmar, Life of Chas.",
+        "transcript": " Let my life of chance"
+    },
+    "en_test_0/common_voice_en_20980946.mp3": {
+        "ground": "Charly was now alone.",
+        "transcript": " Charlie was now alone."
+    },
+    "en_test_0/common_voice_en_36714175.mp3": {
+        "ground": "All tracks written by Alexandra Savior.",
+        "transcript": " All tracks written by Alexander Savoore"
+    },
+    "en_test_0/common_voice_en_525496.mp3": {
+        "ground": "I've stuck it back together.",
+        "transcript": " I have stuck it back together."
+    },
+    "en_test_0/common_voice_en_39644687.mp3": {
+        "ground": "He is an active Christian.",
+        "transcript": " He is an active Christian."
+    },
+    "en_test_0/common_voice_en_39568224.mp3": {
+        "ground": "Marcy helps with completing the third temple where she happily reunites with Sasha.",
+        "transcript": " Masi helps with completing the top 10 for where she happily reunites with Sasha."
+    },
+    "en_test_0/common_voice_en_27579270.mp3": {
+        "ground": "WaterFire now enjoys national and international renown.",
+        "transcript": " The taxpayer now enjoys national and international renown."
+    },
+    "en_test_0/common_voice_en_32173307.mp3": {
+        "ground": "Its administrative centre was Valuyki.",
+        "transcript": " Its administrative center was Valyuki."
+    },
+    "en_test_0/common_voice_en_19696223.mp3": {
+        "ground": "You do it.",
+        "transcript": " You do it."
+    },
+    "en_test_0/common_voice_en_18398188.mp3": {
+        "ground": "Remind me to send another email.",
+        "transcript": " remind me to send another email"
+    },
+    "en_test_0/common_voice_en_17863610.mp3": {
+        "ground": "Also, oil and coal have hidden costs that others have to pay.",
+        "transcript": " Also, oil and coal have hidden costs that others have to pay."
+    },
+    "en_test_0/common_voice_en_28626476.mp3": {
+        "ground": "In this game knights \"relay\" their power to friendly pieces.",
+        "transcript": " In this game, knights rely your power to friendly pieces."
+    },
+    "en_test_0/common_voice_en_568320.mp3": {
+        "ground": "It drew a droplet of blood.",
+        "transcript": " Eat through a droplet of blood"
+    },
+    "en_test_0/common_voice_en_595215.mp3": {
+        "ground": "Bill decided that management should know about this incident.",
+        "transcript": " Bill decided that management should know about this incident."
+    },
+    "en_test_0/common_voice_en_24785942.mp3": {
+        "ground": "Modern brunost does not contain significant amounts of iron.",
+        "transcript": " efficiency"
+    },
+    "en_test_0/common_voice_en_202757.mp3": {
+        "ground": "We lit the lantern and walked over to his house.",
+        "transcript": " We lit the lantern and walked over to his house."
+    },
+    "en_test_0/common_voice_en_23826534.mp3": {
+        "ground": "The Slavic immigrants came to Bohemia with excellent cigar-making skills.",
+        "transcript": " The Slavic immigrants came to Bohemia with excellent cigar making skills."
+    },
+    "en_test_0/common_voice_en_39813810.mp3": {
+        "ground": "The ridge divides the Vigan-Bantay Plain into northern and southern plains.",
+        "transcript": " The ridge divides the Viggen-Bante plain into northern and southern plains."
+    },
+    "en_test_0/common_voice_en_38377890.mp3": {
+        "ground": "He captains the Turkey national team.",
+        "transcript": " He captains the Turkey national team."
+    },
+    "en_test_0/common_voice_en_22158989.mp3": {
+        "ground": "two",
+        "transcript": " 2"
+    },
+    "en_test_0/common_voice_en_18092106.mp3": {
+        "ground": "What are you talking about?",
+        "transcript": " What are you talking about?"
+    },
+    "en_test_0/common_voice_en_567974.mp3": {
+        "ground": "I would have won the Junior Olympics if not for those medaling kids.",
+        "transcript": " I have won the junior Olympics if not for those meddling kids."
+    },
+    "en_test_0/common_voice_en_37926600.mp3": {
+        "ground": "Potts eventually chaired the Senate Education and Health Committee.",
+        "transcript": " but eventually chaired the Senate Education and Health Committee."
+    },
+    "en_test_0/common_voice_en_32549550.mp3": {
+        "ground": "A monument to honour him exists in the village.",
+        "transcript": " A monument to honor him exists in the village."
+    },
+    "en_test_0/common_voice_en_32119309.mp3": {
+        "ground": "They lost to Albany in the first round of the America East Tournament.",
+        "transcript": " He lost to Albany in the first round of the American Astronaut."
+    },
+    "en_test_0/common_voice_en_35161137.mp3": {
+        "ground": "He co-discovered a couple of comets.",
+        "transcript": " He cold discovered a couple of comments"
+    },
+    "en_test_0/common_voice_en_604840.mp3": {
+        "ground": "Every search begins with beginner's luck.",
+        "transcript": " Every search begins with beginners' log."
+    },
+    "en_test_0/common_voice_en_25860603.mp3": {
+        "ground": "Production assistants on films are sometimes attached to individual actors or filmmakers.",
+        "transcript": " Production assistance on flims are sometimes attached to individual actors or flim makers."
+    },
+    "en_test_0/common_voice_en_32312156.mp3": {
+        "ground": "The area around Megali Sterna consists mostly of agricultural land.",
+        "transcript": " So your ARRAO Mega Lee Stona consists mostly of output control and"
+    },
+    "en_test_0/common_voice_en_17298294.mp3": {
+        "ground": "Where are the others?",
+        "transcript": " Where are the others?"
+    },
+    "en_test_0/common_voice_en_551664.mp3": {
+        "ground": "Sylvester needed to meditate to clear his mind.",
+        "transcript": " Sylvester needed to meditate to clear his mind."
+    },
+    "en_test_0/common_voice_en_39243729.mp3": {
+        "ground": "Luis falls passionately in love with his new wife.",
+        "transcript": " Louis falls passionately in love with his new wife."
+    },
+    "en_test_0/common_voice_en_18332492.mp3": {
+        "ground": "That's the sub-foreman, explained Thorpe.",
+        "transcript": " That's some form and explaining topic."
+    },
+    "en_test_0/common_voice_en_17425480.mp3": {
+        "ground": "Well, what of that?",
+        "transcript": " Well, what was that?"
+    },
+    "en_test_0/common_voice_en_29261792.mp3": {
+        "ground": "According to Catholic doctrine, the baby may not be killed.",
+        "transcript": " According to the Catholic doctrine, the baby may not be killed."
+    },
+    "en_test_0/common_voice_en_20062145.mp3": {
+        "ground": "At least forty-one protesters were killed in the ensuing engagement.",
+        "transcript": " At least 41 protesters were killed in the nusing of the Indian movement."
+    },
+    "en_test_0/common_voice_en_17407933.mp3": {
+        "ground": "Cold hands, warm heart.",
+        "transcript": " Cold hands, warm heart"
+    },
+    "en_test_0/common_voice_en_112873.mp3": {
+        "ground": "He just got a new kite for his birthday.",
+        "transcript": " You just got to look like your birthday"
+    },
+    "en_test_0/common_voice_en_35586871.mp3": {
+        "ground": "Millan was primarily a second baseman.",
+        "transcript": " Millen was primarily a second baseman."
+    },
+    "en_test_0/common_voice_en_33165482.mp3": {
+        "ground": "She helped with the development of the Epigraphy course at the University of Bologna.",
+        "transcript": " She helped with the development of the epigraphy course at the University of Balogedad."
+    },
+    "en_test_0/common_voice_en_17798535.mp3": {
+        "ground": "You cannot eat the cake and have it To.",
+        "transcript": " You cannot eat the cake and have it too."
+    },
+    "en_test_0/common_voice_en_18607767.mp3": {
+        "ground": "In times of despair, look out for the helpers and you will find hope.",
+        "transcript": " In terms of the score, look out for the altars. I'm in the wrong spot."
+    },
+    "en_test_0/common_voice_en_21667418.mp3": {
+        "ground": "The center portion of the dam has since been demolished and the reservoir drained.",
+        "transcript": " The center portion of the dam has since been demolished and the reservoir drained."
+    },
+    "en_test_0/common_voice_en_16556814.mp3": {
+        "ground": "I hope you are well!",
+        "transcript": " I hope you are well."
+    },
+    "en_test_0/common_voice_en_38594742.mp3": {
+        "ground": "Down jumped the driver, and out got Mr. Pickwick.",
+        "transcript": " Down jumps a driver and out got me the piccawick"
+    },
+    "en_test_0/common_voice_en_18190104.mp3": {
+        "ground": "Lisa is playing the sax.",
+        "transcript": " The Gizis playing the sex."
+    },
+    "en_test_0/common_voice_en_22652665.mp3": {
+        "ground": "He is, however, usually addressed as Lord Stern, or Lord Stern of Brentford.",
+        "transcript": " He is, however, usually addressed as Lord Stern or Lord Stern of Brentford."
+    },
+    "en_test_0/common_voice_en_39578956.mp3": {
+        "ground": "Today, the bar is still family-owned and managed by Jack Dorrian's son, Jimmy.",
+        "transcript": " Today the bar is still family owned and managed by Jack Dorian's son Jimmy."
+    },
+    "en_test_0/common_voice_en_17287930.mp3": {
+        "ground": "For better physical understanding, let's first recap where the pivot point is.",
+        "transcript": " For better physical understanding, let's first recap where the pivot point is."
+    },
+    "en_test_0/common_voice_en_103112.mp3": {
+        "ground": "He and his family went up north to the Arctic Circle to meet Santa Claus in Finland.",
+        "transcript": " He and his family went up north to the Arctic Circle to meet Santa Claus in Finland."
+    },
+    "en_test_0/common_voice_en_19306956.mp3": {
+        "ground": "The launch was flawless; all systems were \"go\", except for Doctor Wang's experiment.",
+        "transcript": " The launch was flawless. All systems will go except for the doctor, van, etc."
+    },
+    "en_test_0/common_voice_en_21871737.mp3": {
+        "ground": "Building blocks such as these could be the way forward.",
+        "transcript": " Thanks for watching!"
+    },
+    "en_test_0/common_voice_en_22699569.mp3": {
+        "ground": "It is situated to the north-west of the town centre.",
+        "transcript": " It's situated to the northwest of the town center."
+    },
+    "en_test_0/common_voice_en_19649328.mp3": {
+        "ground": "For centuries after her death, Welshmen cried-out \"Revenge for Gwenllian\" when engaging in battle.",
+        "transcript": " Fourth centuries after her death, Welshmen cried out, revenge for Gwendolyn when engaging in battle."
+    },
+    "en_test_0/common_voice_en_39550439.mp3": {
+        "ground": "In the United States, his philanthropy largely took the form of educational initiatives.",
+        "transcript": " In the United States, his philanthropy largely took the form of educational initiatives."
+    },
+    "en_test_0/common_voice_en_22833760.mp3": {
+        "ground": "Cardinal Truchess even suggested the Hosius was a candidate for the papacy.",
+        "transcript": " Cardinal Trutius even suggested though Housius was a candidate for the papacy."
+    },
+    "en_test_0/common_voice_en_19808035.mp3": {
+        "ground": "This interpretation is not objective.",
+        "transcript": " This interpretation is not objective."
+    },
+    "en_test_0/common_voice_en_696182.mp3": {
+        "ground": "The boy wanted to believe that his friend had simply become separated from him by accident.",
+        "transcript": " The boy wanted to believe that his work had simply become separated from him by accident."
+    },
+    "en_test_0/common_voice_en_672564.mp3": {
+        "ground": "Have you ever heard the national anthem of South Korea?",
+        "transcript": " Have you ever heard the national anthem of South Korea?"
+    },
+    "en_test_0/common_voice_en_28315043.mp3": {
+        "ground": "This was stopped by the instruction of the emperor.",
+        "transcript": " This was stopped by the instruction of the Emperor."
+    },
+    "en_test_0/common_voice_en_36804770.mp3": {
+        "ground": "Through training as a sprinter she discovered an interest in weightlifting.",
+        "transcript": " Through training as a sprinter she discovered an interest in weight lifting."
+    },
+    "en_test_0/common_voice_en_32706345.mp3": {
+        "ground": "President Nicolas Maduro condemned the protest actions.",
+        "transcript": " President Nicholas Maduro condemned the protest actions."
+    },
+    "en_test_0/common_voice_en_32143190.mp3": {
+        "ground": "His uncle is actor Rajiv Goswami.",
+        "transcript": " I am going to go to the hospital"
+    },
+    "en_test_0/common_voice_en_555316.mp3": {
+        "ground": "But not for long.",
+        "transcript": " But not so long!"
+    },
+    "en_test_0/common_voice_en_20433310.mp3": {
+        "ground": "Sherman's mother-in-law, Margaret Odding, married secondly John Porter, another signer of the Portsmouth Compact.",
+        "transcript": " Sherman's mother-in-law Margaret Otting married, secondly, John Porter, another signer of the Portsmouth Compact."
+    },
+    "en_test_0/common_voice_en_17793827.mp3": {
+        "ground": "Do you know what he was last working on?",
+        "transcript": " Do you know what he was last working on?"
+    },
+    "en_test_0/common_voice_en_32337151.mp3": {
+        "ground": "They summed up the game as one that people would find enjoyment in playing.",
+        "transcript": " They summed up the game as one that people would find enjoyment in playing."
+    },
+    "en_test_0/common_voice_en_542562.mp3": {
+        "ground": "And the sand and gravel had been flung violently in every direction.",
+        "transcript": " Anthasand and graphr had been flung faringly in every direction"
+    },
+    "en_test_0/common_voice_en_19647962.mp3": {
+        "ground": "A realisation hits and he exclaims, I see!",
+        "transcript": " Realist he shall heed and he exclaims I see"
+    },
+    "en_test_0/common_voice_en_505384.mp3": {
+        "ground": "Select between line X and line Y.",
+        "transcript": " Select between line X and line Y."
+    },
+    "en_test_0/common_voice_en_38163721.mp3": {
+        "ground": "Investors are also advised to turn to unbiased sources when researching investments.",
+        "transcript": " Investors are also advised to turn to unbiased sources when researching investments."
+    },
+    "en_test_0/common_voice_en_26841931.mp3": {
+        "ground": "The two platforms are now linked by a footbridge.",
+        "transcript": " The two platforms are now linked by a footbridge."
+    },
+    "en_test_0/common_voice_en_38332863.mp3": {
+        "ground": "His main teacher at the academy was the famous Austrian composer Hanns Jelinek.",
+        "transcript": " His main teacher at the academy was the famous Austrian composer Hans Jovonek."
+    },
+    "en_test_0/common_voice_en_38228600.mp3": {
+        "ground": "Henry calls in Mountjoy, a representative of the Dauphin.",
+        "transcript": " Henry calls in Mount Joy, a representative of the Dauphin."
+    },
+    "en_test_0/common_voice_en_37527873.mp3": {
+        "ground": "Furthermore, the equations of motion impose that the Romans mass is constant.",
+        "transcript": " the equations of motion impose that the Roman's mass is constant."
+    },
+    "en_test_0/common_voice_en_31788782.mp3": {
+        "ground": "He immediately left the bar and headed home.",
+        "transcript": " He immediately left the bar and headed home."
+    },
+    "en_test_0/common_voice_en_31709094.mp3": {
+        "ground": "It was also announced that this new team would be affiliated with Roush Racing.",
+        "transcript": " It was also announced that this new team would be affiliated with Roche Racing."
+    },
+    "en_test_0/common_voice_en_26832735.mp3": {
+        "ground": "He played for the Delhi Daredevils in the previous seasons.",
+        "transcript": " He played for the Delhi Dairwels in the previous seasons."
+    },
+    "en_test_0/common_voice_en_653565.mp3": {
+        "ground": "I don't want anything for myself.",
+        "transcript": " I don't want anything for myself."
+    },
+    "en_test_0/common_voice_en_25556812.mp3": {
+        "ground": "Formal clinical trials in depressed patients have not been reported.",
+        "transcript": " Formal clinical trials in depressed patients have not been reported."
+    },
+    "en_test_0/common_voice_en_19132782.mp3": {
+        "ground": "Japan is a society awash in information.",
+        "transcript": " Japan is a society of watching information."
+    },
+    "en_test_0/common_voice_en_19041621.mp3": {
+        "ground": "Beachley narrates the Seven Network factual series \"Beach Cops\".",
+        "transcript": " Beachliner rates the 7 Network Factual Series Beach Cups"
+    },
+    "en_test_0/common_voice_en_17316450.mp3": {
+        "ground": "Do you understand me?",
+        "transcript": " Do you understand me?"
+    },
+    "en_test_0/common_voice_en_20264433.mp3": {
+        "ground": "Most patients exhibit abnormal sleep patterns characterized by insomnia and daytime drowsiness.",
+        "transcript": " Most patients exhibit abnormal sleep patterns characterized by insomnia and daytime drowsiness."
+    },
+    "en_test_0/common_voice_en_185022.mp3": {
+        "ground": "They looked for the fallen mass, but found nothing.",
+        "transcript": " They looked for the following mess, but found nothing."
+    },
+    "en_test_0/common_voice_en_19036306.mp3": {
+        "ground": "It was so small and undeveloped.",
+        "transcript": " It was so small and undeveloped."
+    },
+    "en_test_0/common_voice_en_31410446.mp3": {
+        "ground": "Moers has two children.",
+        "transcript": " Morse has two children."
+    },
+    "en_test_0/common_voice_en_23796821.mp3": {
+        "ground": "We couldn't believe a ball was going that far.",
+        "transcript": " We could not believe a ball was going that far."
+    },
+    "en_test_0/common_voice_en_36724595.mp3": {
+        "ground": "A large advocate of outdoor conservation, he works largely with Ducks Unlimited.",
+        "transcript": " A larger locate of outdoor conservation works largely with ducts unlimited."
+    },
+    "en_test_0/common_voice_en_27001918.mp3": {
+        "ground": "It has inherent support for run-time cast validation.",
+        "transcript": " It has inherent support for runtime cast validation."
+    },
+    "en_test_0/common_voice_en_29822614.mp3": {
+        "ground": "The engineers spent the Phoney War period working on defensive positions.",
+        "transcript": " The engineers spent the Phoney War periods working on defensive positions."
+    },
+    "en_test_0/common_voice_en_26267843.mp3": {
+        "ground": "The four winners will go to the next round.",
+        "transcript": " The four winners will go to the next round."
+    },
+    "en_test_0/common_voice_en_93473.mp3": {
+        "ground": "Maybe she didn't even remember him.",
+        "transcript": " Maybe she didn't even remember him."
+    },
+    "en_test_0/common_voice_en_27366446.mp3": {
+        "ground": "The town is believed to be the birthplace of asparagus in the New World.",
+        "transcript": " The town is believed to be the birthplace of asparagus in the newborn."
+    },
+    "en_test_0/common_voice_en_639329.mp3": {
+        "ground": "She looks as though she's going to come to.",
+        "transcript": " She looks at her, she is going to come too."
+    },
+    "en_test_0/common_voice_en_18069329.mp3": {
+        "ground": "The Beatles were a famous English rock band.",
+        "transcript": " The Beatles were famous English rock band."
+    },
+    "en_test_0/common_voice_en_19747923.mp3": {
+        "ground": "But he prevailed.",
+        "transcript": " But he prevailed."
+    },
+    "en_test_0/common_voice_en_18942073.mp3": {
+        "ground": "In this period, three family members left the group.",
+        "transcript": " In this period, three family members left the group."
+    },
+    "en_test_0/common_voice_en_35216328.mp3": {
+        "ground": "It won critical acclaim at its Sundance screening.",
+        "transcript": " It won't critical acclaim at its end."
+    },
+    "en_test_0/common_voice_en_20981793.mp3": {
+        "ground": "This prevented the sale, distribution, or display of the tape.",
+        "transcript": " This is the first of the three experiments on display for Jutta."
+    },
+    "en_test_0/common_voice_en_151860.mp3": {
+        "ground": "He noticed the unequal cooling of its surface.",
+        "transcript": " He noticed the unequal cooling of its surface."
+    },
+    "en_test_0/common_voice_en_22866439.mp3": {
+        "ground": "The British continued to use the site as a hospital.",
+        "transcript": " The British continue to use this site as a hospital."
+    },
+    "en_test_0/common_voice_en_39093406.mp3": {
+        "ground": "Van Gundy was born in Hemet, California.",
+        "transcript": " Bongan bee was born in Hormuz, California."
+    },
+    "en_test_0/common_voice_en_39577094.mp3": {
+        "ground": "The India Office was a predecessor department of the Foreign Office.",
+        "transcript": " The India office was a predecessor by the Department of the Foreign Office."
+    },
+    "en_test_0/common_voice_en_17442655.mp3": {
+        "ground": "Please, be humble.",
+        "transcript": " Please be humble."
+    },
+    "en_test_0/common_voice_en_17394114.mp3": {
+        "ground": "Might others within your organisation have some inkling as to the their desires?",
+        "transcript": " My daughters within your organization have some in-kings as to their desire."
+    },
+    "en_test_0/common_voice_en_18359858.mp3": {
+        "ground": "Mia turned seven today.",
+        "transcript": " Mia turned 7 today."
+    },
+    "en_test_0/common_voice_en_17339974.mp3": {
+        "ground": "What makes you think so?",
+        "transcript": " What makes you think so?"
+    },
+    "en_test_0/common_voice_en_38523203.mp3": {
+        "ground": "The character of the Well-Manicured Man has been positively received by critics.",
+        "transcript": " The character of will manicured man has been falsely received by a critic"
+    },
+    "en_test_0/common_voice_en_38225795.mp3": {
+        "ground": "Byron is named after an employee of the railroad.",
+        "transcript": " Byron is named after an employee of the railroad."
+    },
+    "en_test_0/common_voice_en_27596490.mp3": {
+        "ground": "He had a week-long residency at the Olympia Theatre.",
+        "transcript": " I had a week long with residency at the Olympic Theatre."
+    },
+    "en_test_0/common_voice_en_20237320.mp3": {
+        "ground": "It belongs to the Ponda taluk.",
+        "transcript": " It belongs to the Prime Minister"
+    },
+    "en_test_0/common_voice_en_17356289.mp3": {
+        "ground": "He's an idol, but he's not a saint.",
+        "transcript": " He is an idol, but he is not a saint."
+    },
+    "en_test_0/common_voice_en_572266.mp3": {
+        "ground": "For at that time, it had not occurred to him that it might be hollow.",
+        "transcript": " For a test time, it had not occurred to him that it might be hollow."
+    },
+    "en_test_0/common_voice_en_17897027.mp3": {
+        "ground": "He who fights and runs away, lives to fight another day.",
+        "transcript": " He who fights and runs away, lives to fight another day."
+    },
+    "en_test_0/common_voice_en_17452090.mp3": {
+        "ground": "Don't worry, I took a cab to get home safely.",
+        "transcript": " Don't worry, I told you to get home safely."
+    },
+    "en_test_0/common_voice_en_39577803.mp3": {
+        "ground": "The novel contains autobiographical elements.",
+        "transcript": " The novel contains autobiographical elements."
+    },
+    "en_test_0/common_voice_en_23415296.mp3": {
+        "ground": "Jarvis founded the Steel Company of Canada.",
+        "transcript": " The wish found the steam company of Canada."
+    },
+    "en_test_0/common_voice_en_23784590.mp3": {
+        "ground": "She was also a philanthropist.",
+        "transcript": " She wears also a philanthropies"
+    },
+    "en_test_0/common_voice_en_19933816.mp3": {
+        "ground": "The badge on the front grille was an option at first.",
+        "transcript": " The banjo on the front grill was an option at first."
+    },
+    "en_test_0/common_voice_en_37323803.mp3": {
+        "ground": "Jef Raskin jokingly stated: Yes, we named our software after a bug.",
+        "transcript": " Jeff Reskin jokingly stated yes we named our software after above"
+    },
+    "en_test_0/common_voice_en_17384536.mp3": {
+        "ground": "But where are you going?",
+        "transcript": " But where are you going?"
+    },
+    "en_test_0/common_voice_en_615283.mp3": {
+        "ground": "What did your family have to say about it?",
+        "transcript": " What did your family have to say about it?"
+    },
+    "en_test_0/common_voice_en_21715156.mp3": {
+        "ground": "A principal concern about the plant is whether it can be sufficiently earthquake-proof.",
+        "transcript": " A principle concerned about the plant is that it can be sufficient earthquake proof."
+    },
+    "en_test_0/common_voice_en_17584636.mp3": {
+        "ground": "In a weeks time, we're going to America.",
+        "transcript": " In a week's time, we're going to America."
+    },
+    "en_test_0/common_voice_en_17768747.mp3": {
+        "ground": "Can I be used to request invocation of a subsystem on the remote system?",
+        "transcript": " Can I be used to request invocation of a subsystem on the remote system?"
+    },
+    "en_test_0/common_voice_en_19948513.mp3": {
+        "ground": "He was replaced on bass guitar by Justin Klug.",
+        "transcript": " He was replaced on a basket of my chest and skull."
+    },
+    "en_test_0/common_voice_en_17429230.mp3": {
+        "ground": "Reading or not, it's to you, really.",
+        "transcript": " Reading or not it's to you really."
+    },
+    "en_test_0/common_voice_en_36329205.mp3": {
+        "ground": "Conor Oberst appears alone on the track, on vocals and acoustic guitar.",
+        "transcript": " Connor O'Burst appears alone on the track on vocals and acoustic guitar."
+    },
+    "en_test_0/common_voice_en_21773347.mp3": {
+        "ground": "Magnesium fluoride is transparent over an extremely wide range of wavelengths.",
+        "transcript": " Magnesium fluoride is transparent over an extremely wide range of wavelengths."
+    },
+    "en_test_0/common_voice_en_22730454.mp3": {
+        "ground": "Four giant packing sheds stored fresh packed potatoes and delivered them onto railroad cars.",
+        "transcript": " 4 giant packing sheds to refresh packet potatoes and deliver them onto railroad cars."
+    },
+    "en_test_0/common_voice_en_206671.mp3": {
+        "ground": "It's too bad that he's quickly going to forget my name, he thought.",
+        "transcript": " It's too bad that he quickly going to forget my name. He thought"
+    },
+    "en_test_0/common_voice_en_356183.mp3": {
+        "ground": "One picture in the gallery shows how diligent slaves erect the statue of admiral Thompson.",
+        "transcript": " One picture in the gallery shows how religion slaves erect the statue of Admiral Thompson."
+    },
+    "en_test_0/common_voice_en_624481.mp3": {
+        "ground": "Imperial diet",
+        "transcript": " Imperial Diet"
+    },
+    "en_test_0/common_voice_en_17948760.mp3": {
+        "ground": "Flax makes a fine brand of paper.",
+        "transcript": " Clacks makes a fine brand of paper."
+    },
+    "en_test_0/common_voice_en_38302413.mp3": {
+        "ground": "Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors.",
+        "transcript": " Those who tend towards the law are sages, engineers, researchers, scholars, investigators, or inventors."
+    },
+    "en_test_0/common_voice_en_37814937.mp3": {
+        "ground": "To enable flexibility of use the Victorian pews were replaced by chairs.",
+        "transcript": " To enable flexibility of use the Victorian piece were replaced by chess"
+    },
+    "en_test_0/common_voice_en_21679992.mp3": {
+        "ground": "He is also capable of firing lightning bolts with immense destructive power.",
+        "transcript": " He is also capable of firing lightning bolts with immense disruptive power."
+    },
+    "en_test_0/common_voice_en_38257057.mp3": {
+        "ground": "In such cases the festival assumes less imposing dimensions.",
+        "transcript": " In such cases, the festival assumes less imposing dimensions."
+    },
+    "en_test_0/common_voice_en_28775906.mp3": {
+        "ground": "The ball struck the foul pole well above the Green Monster.",
+        "transcript": " The ball struck the fountboard well above the green monster."
+    },
+    "en_test_0/common_voice_en_35291477.mp3": {
+        "ground": "It can only be found in Tai Hang Tung Estate.",
+        "transcript": " It can only be found in Dihang-Tun state."
+    },
+    "en_test_0/common_voice_en_21208382.mp3": {
+        "ground": "It is a charity school whose fees are calculated on a means test.",
+        "transcript": " It is a charity school whose fees are calculated on a means test."
+    },
+    "en_test_0/common_voice_en_126571.mp3": {
+        "ground": "Some went away while I was there, and other people came.",
+        "transcript": " Some went away while I was there and other people came."
+    },
+    "en_test_0/common_voice_en_240426.mp3": {
+        "ground": "I have to work this Saturday.",
+        "transcript": " I have to work this Saturday."
+    },
+    "en_test_0/common_voice_en_458159.mp3": {
+        "ground": "The great rulers found the squeaky grate was grating on their nerves.",
+        "transcript": " That little room you found was quickly glued with glaiting on their nose."
+    },
+    "en_test_0/common_voice_en_38135743.mp3": {
+        "ground": "Fuji Dream Airlines has its headquarters in Makinohara.",
+        "transcript": " Ujigruen A9s as it said quarters in Makino Hara"
+    },
+    "en_test_0/common_voice_en_31697022.mp3": {
+        "ground": "Trench was born in Belize City in British Honduras.",
+        "transcript": " Trade was born in Bali city in British Honduras."
+    },
+    "en_test_0/common_voice_en_17298797.mp3": {
+        "ground": "Cheap, tawdry bags are being sold everywhere in this market.",
+        "transcript": " Cheap, toe-dried bags are being sold everywhere in this market."
+    },
+    "en_test_0/common_voice_en_38517680.mp3": {
+        "ground": "Also, rising gasses cause the bubbling action.",
+        "transcript": " Also rising gases cause the bubbling action."
+    },
+    "en_test_0/common_voice_en_37398026.mp3": {
+        "ground": "According to a medieval Welsh triad, Afallach was the father of the goddess Modron.",
+        "transcript": " According to the media, I assume that I was the father of the goodness order."
+    },
+    "en_test_0/common_voice_en_18361112.mp3": {
+        "ground": "How was the food there?",
+        "transcript": " How was the food there?"
+    },
+    "en_test_0/common_voice_en_7255875.mp3": {
+        "ground": "The early phase of life moves fast.",
+        "transcript": " The early phase of life moves fast."
+    },
+    "en_test_0/common_voice_en_37237757.mp3": {
+        "ground": "He became a member of the Pi Kappa Alpha Fraternity while an undergraduate.",
+        "transcript": " He became a member of the Pi Kappa Alpha fraternity while an undergraduate."
+    },
+    "en_test_0/common_voice_en_20187738.mp3": {
+        "ground": "At one time railway lines diverged from Rugby station in seven different directions.",
+        "transcript": " At one time, railway lines diverged from Rakhbi station in 7 different directions."
+    },
+    "en_test_0/common_voice_en_39596125.mp3": {
+        "ground": "He is the Director of the Wesleyan Studies Summer Seminar.",
+        "transcript": " He is the director of the Wesleyan Studies Summer Seminar."
+    },
+    "en_test_0/common_voice_en_21866765.mp3": {
+        "ground": "This festival was to be a charity fundraiser for the area.",
+        "transcript": " This festival was to be a charity fundraiser for the year."
+    },
+    "en_test_0/common_voice_en_21510683.mp3": {
+        "ground": "Permit me to introduce to you her Majesty, the Queen.",
+        "transcript": " Permit me to introduce you to her majestic queen."
+    },
+    "en_test_0/common_voice_en_98260.mp3": {
+        "ground": "I couldn’t stop staring at it.",
+        "transcript": " I called and stopped starting at it."
+    },
+    "en_test_0/common_voice_en_31290263.mp3": {
+        "ground": "The \"Philadelphia Inquirer\" named him City Player of the Year.",
+        "transcript": " Philadelphia Inquiring Team City Player of the Year"
+    },
+    "en_test_0/common_voice_en_39899306.mp3": {
+        "ground": "Panda bears are nothing like most bears.",
+        "transcript": " Panda beers are nothing like most beers."
+    },
+    "en_test_0/common_voice_en_19747437.mp3": {
+        "ground": "The Act did not prohibit paying a representative to appear in court.",
+        "transcript": " The Act did not prohibit paying a representative to appear in the court."
+    },
+    "en_test_0/common_voice_en_25263090.mp3": {
+        "ground": "He was convicted and banished to Cyprus for seven years for punishment.",
+        "transcript": " He was convicted and banished his Cyprus for seven years for punishment."
+    },
+    "en_test_0/common_voice_en_37264767.mp3": {
+        "ground": "Barsi's first role was in \"Fatal Vision\", playing the three-year-old Kimberley MacDonald.",
+        "transcript": " Bursus's first role was in Fatal Vision during the three years of Wolfgang Ming McDonald"
+    },
+    "en_test_0/common_voice_en_18023546.mp3": {
+        "ground": "Can I get you a drink?",
+        "transcript": " Can I get you a drink?"
+    },
+    "en_test_0/common_voice_en_18235171.mp3": {
+        "ground": "The fourth component of homogeneous coordinates is usually set to one.",
+        "transcript": " The fourth component of a MGenius coordinate is usually set to 1."
+    },
+    "en_test_0/common_voice_en_19637973.mp3": {
+        "ground": "Turpin succeeded Indira Samarasekera, who saw the university through a period of strong growth.",
+        "transcript": " Turpin succeeded in Deira, Samara, Sipcarra, who saw the university through a period of strong growth."
+    },
+    "en_test_0/common_voice_en_28757784.mp3": {
+        "ground": "This failure has led to sixteen power plants having zero days of coal stock.",
+        "transcript": " This failure has led to 16 power plants having zero days of cold stalks."
+    },
+    "en_test_0/common_voice_en_131269.mp3": {
+        "ground": "I've done this before with VirtualBox with good results.",
+        "transcript": " Okay, I've done this before with virtual bots with good results."
+    },
+    "en_test_0/common_voice_en_29526724.mp3": {
+        "ground": "The application was approved in February.",
+        "transcript": " The application was approved in February."
+    },
+    "en_test_0/common_voice_en_21314685.mp3": {
+        "ground": "Henry Tarlton Stiles, where he had a sound training in Latin.",
+        "transcript": " Henry Tarleton tells where he had sound running in Latin."
+    },
+    "en_test_0/common_voice_en_17273670.mp3": {
+        "ground": "What did you eat for dinner?",
+        "transcript": " What did you eat for dinner?"
+    },
+    "en_test_0/common_voice_en_17687591.mp3": {
+        "ground": "Not everything that is faced can be changed; but nothing can be changed until it is faced.",
+        "transcript": " Not everything that is faced can be changed, but nothing can be changed until it is faced."
+    },
+    "en_test_0/common_voice_en_19477044.mp3": {
+        "ground": "It then returns to the church, ascends at the altar and disappears.",
+        "transcript": " and then returns to the church, ascends at the altar and spears."
+    },
+    "en_test_0/common_voice_en_350841.mp3": {
+        "ground": "You cannot lose what you never had.",
+        "transcript": " You're gonna have to do this while you're in the room."
+    },
+    "en_test_0/common_voice_en_19618682.mp3": {
+        "ground": "Initially, the weight loss was attained strictly by diet.",
+        "transcript": " Initially the Wave Close was attained strictly by Diet."
+    },
+    "en_test_0/common_voice_en_17977651.mp3": {
+        "ground": "Verify the contents of the website.",
+        "transcript": " Verify the contents of the website."
+    },
+    "en_test_0/common_voice_en_36493055.mp3": {
+        "ground": "The evil omen was diverted from the real men and directed against their substitute.",
+        "transcript": " The evil Omeno is diverted from the real men and directed against their substitute."
+    },
+    "en_test_0/common_voice_en_19118303.mp3": {
+        "ground": "This bridge is unofficially referred to as \"Blackwater Bridge\" by Coalition Forces operating there.",
+        "transcript": " This bridge is unofficially referred to as Blackwater Bridge by Coalition forces operating there."
+    },
+    "en_test_0/common_voice_en_3427.mp3": {
+        "ground": "\"This is the first phase of the job,\" he said.",
+        "transcript": " This is the first phase of the job, he said."
+    },
+    "en_test_0/common_voice_en_18286945.mp3": {
+        "ground": "Allison found her phone.",
+        "transcript": " Elisone fun have fun"
+    },
+    "en_test_0/common_voice_en_2611201.mp3": {
+        "ground": "The actor's authentic facial expression was convincing the jury.",
+        "transcript": " The actor's authentifical expression was convincing the jury."
+    },
+    "en_test_0/common_voice_en_31928266.mp3": {
+        "ground": "The toll is also said to have caused congestion and accidents in the area.",
+        "transcript": " tall is also said to have close congestion and accidents of the area"
+    },
+    "en_test_0/common_voice_en_18011638.mp3": {
+        "ground": "Kirsten shrugged her shoulders.",
+        "transcript": " First and shrug their shoulders."
+    },
+    "en_test_0/common_voice_en_37965160.mp3": {
+        "ground": "Glossop also has a motel outside which is situated Captain Glossop's Anchor.",
+        "transcript": " Glow soap also has a motor outside which is situated kept in glow soap sinker."
+    },
+    "en_test_0/common_voice_en_19816222.mp3": {
+        "ground": "Due to its path, scientists theorized that Kohoutek was an Oort-cloud object.",
+        "transcript": " Due to its path, scientists theorised that Kotec was an Oort cloud object."
     }
 }

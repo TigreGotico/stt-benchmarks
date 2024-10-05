@@ -1,0 +1,10 @@
+{
+    "zip://en-GB~APP_ERROR/60268bf7c7abb7f83213894a.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hello I'm trying to use the app on my phone and for getting the bank details but it's not loading correctly just possibly help me",
+        "transcript": " Hello, I'm trying to use the app on my phone for getting the bank details but it's not loaded correctly. Could you possibly help me?"
+    },
+    "zip://en-GB~APP_ERROR/60268e19c7abb7f832138ac4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hi my bank app isn't working is there a technical issue or can you help me fix it thank you",
+        "transcript": " Hi, my bank app isn't working. Is there a technical issue or can you help me fix it? Thank you."
+    }
+}

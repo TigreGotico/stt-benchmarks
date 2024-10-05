@@ -14,5 +14,5 @@
 | ovos-stt-plugin-mms | mms-1b-all | 0.3981 | 0.4447 | 0.8704 | 50.3624 |
 | ovos-stt-plugin-citrinet | stt_pt_citrinet_512_gamma_0_25 | 0.3676 | 0.4945 | 0.8781 | 49.9591 |
 | ovos-stt-plugin-whisper | whisper-small | 0.4563 | 0.6198 | 0.8182 | 37.7957 |
-| ovos-stt-plugin-xabier-zuazo | whisper-tiny-pt | 0.5851 | 0.7463 | 0.7872 | 26.3135 |
+| ovos-stt-plugin-xabier-zuazo | whisper-tiny-pt | 0.5856 | 0.7328 | 0.7862 | 26.7914 |
 | ovos-stt-plugin-whisper | whisper-tiny | 0.6094 | 1.3495 | 0.7876 | 1.6177 |

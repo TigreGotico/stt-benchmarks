@@ -882,5 +882,65 @@
     "test_chunks_0001/YOU1000000188_S0000023.wav": {
         "ground": "WHICH WAS PAINTED BY EDWARD HOPPER IN NINETEEN FORTY-TWO <COMMA> IN THE OIL PAINTING <COMMA> WE CAN SEE FOUR PEOPLE IN A DINER LATE AT NIGHT <PERIOD>",
         "transcript": " which was painted by Edward Hopper in 1942. In the oil painting, we can see four people in a diner late at night."
+    },
+    "test_chunks_0000/YOU1000000184_S0000072.wav": {
+        "ground": "REALLY INTERESTING ALTHOUGH I WOULD SAY THAT WE MISSED THE BOAT TO SOME EXTENT DURING THE R T C DAYS I MEAN AH <PERIOD>",
+        "transcript": " I"
+    },
+    "test_chunks_0000/POD1000000011_S0000227.wav": {
+        "ground": "SO WE SAW ANOTHER GREAT EXAMPLE OF THIS IN OTHER PRESCHOOL CLASSROOMS <PERIOD> THERE WAS A FOUR-YEAR-OLD BOY NAMED ACHILLES KIND OF MESSING AROUND WITH SOME BLOCKS <PERIOD>",
+        "transcript": " So we saw another great example of this in one of the other preschool classrooms. There's a four-year-old boy named Achilles kind of messing around with some blocks."
+    },
+    "test_chunks_0000/POD1000000032_S0000041.wav": {
+        "ground": "YOU KNOW <COMMA> IT <COMMA> IT PARTS OF IT ARE <PERIOD> SO AH AH A LEGO ANALOGY IS REALLY A PRETTY GOOD ONE <PERIOD>",
+        "transcript": " you know it parts of it are so it will a lego analogies really a pretty good one"
+    },
+    "test_chunks_0000/YOU1000000109_S0000161.wav": {
+        "ground": "FOR THE FOURTH TIME IN HIS CAREER <COMMA> CRISTIANO RONALDO IS KNOCKED OUT OF THE WORLD CUP <PERIOD>",
+        "transcript": " For the fourth time in his career, Cristiano Ronaldo is knocked out of the World Cup."
+    },
+    "test_chunks_0000/YOU1000000117_S0000022.wav": {
+        "ground": "AND IT'S A KINDA DOWNGRADE EXPECTATIONS A LITTLE BIT <PERIOD>",
+        "transcript": " and to kind of downgrade expectations a little bit."
+    },
+    "test_chunks_0000/YOU1000000140_S0000139.wav": {
+        "ground": "EVERY ONCE IN A WHILE WHILE I LOOK AT HIM <PERIOD> WHY DON'T YOU BELIEVE ME I TOLD YOU <PERIOD> I COULDN'T I DON'T KNOW WHY <PERIOD>",
+        "transcript": " Every once in a while I will look at him. Why don't you believe me? I told you I couldn't. I don't know why."
+    },
+    "test_chunks_0000/YOU1000000152_S0000082.wav": {
+        "ground": "YEAH <PERIOD>",
+        "transcript": " Yeah."
+    },
+    "test_chunks_0000/YOU1000000108_S0000163.wav": {
+        "ground": "AND IT WAS THE FIRST TIME I'D EVER GOTTEN A LAUGH THAT I WAS UNCOMFORTABLE WITH <PERIOD>",
+        "transcript": " and was the first time I'd ever gotten a laugh that I was uncomfortable with."
+    },
+    "test_chunks_0000/YOU1000000117_S0000098.wav": {
+        "ground": "THESE ARE THE KIND OF THINGS YOU CAN BUILT INTO YOUR DAY EVEN IF YOU'RE LIVING ALONE <COMMA> AND I THINK THAT'S REALLY CRITICAL <PERIOD>",
+        "transcript": " These are the kinds of things you can build into your day, even if you're living alone. And I think that's really critical."
+    },
+    "test_chunks_0000/POD1000000044_S0000485.wav": {
+        "ground": "NICE <PERIOD>",
+        "transcript": " Nice."
+    },
+    "test_chunks_0000/POD1000000005_S0000305.wav": {
+        "ground": "I TRIED ON A CROP WINDBREAKER AND THAT WENT ABOUT AS WELL AS COULD BE EXPECTED <PERIOD>",
+        "transcript": " I tried on a crop windbreaker and that went about as well as could be expected."
+    },
+    "test_chunks_0000/POD1000000046_S0000845.wav": {
+        "ground": "SHE SHE IS HAVING A BABY <QUESTIONMARK>",
+        "transcript": " She is having a big"
+    },
+    "test_chunks_0000/POD1000000046_S0000986.wav": {
+        "ground": "AH <EXCLAMATIONPOINT> FUCK YOU I HAVE A BABY LOOK AT ALL THAT SHIT AROUND HER <PERIOD>",
+        "transcript": " Oh, fuck you. I have a baby. Look at all that shit around her."
+    },
+    "test_chunks_0000/YOU1000000174_S0000031.wav": {
+        "ground": "I NEED TWO NOW <PERIOD>",
+        "transcript": " 3"
+    },
+    "test_chunks_0000/YOU1000000045_S0000061.wav": {
+        "ground": "DO YOU FEEL LIKE WE'RE NOTICING A SHIFT IN SOCIETY THAT'S POSITIVELY MOVING US TO A PLACE WHERE THERE'S EQUALITY <COMMA> NOT THERE YET <COMMA> BUT JUST MOVING US IN THAT DIRECTION <QUESTIONMARK>",
+        "transcript": " Do you feel like we're noticing a shift in society that's positively moving us to a place where there's equality? Not there yet, but just moving us in that direction?"
     }
 }

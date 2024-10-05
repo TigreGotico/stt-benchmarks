@@ -1,0 +1,18 @@
+{
+    "zip://en-AU~PAY_BILL/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I would like to pay my electricity bill using my card can you please assist",
+        "transcript": "I would like to pay my electricity bill using my card can you please assist"
+    },
+    "zip://en-AU~PAY_BILL/response_17.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hello I like to pay for Bill I would actually like to make a payment but yeah could you help me",
+        "transcript": "I would like to pay for Bill I'd actually like to make a payment but could you help"
+    },
+    "zip://en-AU~APP_ERROR/response_10.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hello I need some help with the mobile app I've tried to login as giving me an error code",
+        "transcript": "hello I need some help with the mobile app I've tried to log in and it's giving me an error code"
+    },
+    "zip://en-AU~FREEZE/response_33.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I need some help to freeze my card",
+        "transcript": "I need some help to freeze my card"
+    }
+}

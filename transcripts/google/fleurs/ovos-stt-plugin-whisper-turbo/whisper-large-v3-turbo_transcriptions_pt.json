@@ -1,0 +1,74 @@
+{
+    "test/10605163429114699143.wav": {
+        "ground": "ele não definiu um valor para os cortes falando que eles serão feitos de acordo com a produção econômica da china",
+        "transcript": " Ele não definiu um valor para os cortes, falando que eles serão feitos de acordo com a produção econômica da China."
+    },
+    "test/10572113470910404412.wav": {
+        "ground": "a umidade das mãos reage com as camadas externas o que causa uma sensação estranha e forma um tipo de concha",
+        "transcript": " A umidade das mãos reage com as camadas externas, o que causa uma sensação estranha e forma um tipo de concha."
+    },
+    "test/10116774789336634117.wav": {
+        "ground": "o scaffolding não é um método de aprendizado mas sim uma ajuda para alunos que estão passando por uma nova experiência de aprendizado como usar um novo computador ou começar um novo projeto",
+        "transcript": " O scaffolding não é um método de aprendizado, mas sim uma ajuda para alunos que estão passando por uma nova experiência de aprendizado, como usar um computador ou começar um novo projeto."
+    },
+    "test/12111954948907008826.wav": {
+        "ground": "no entanto isso não é verdade embora haja algo escrito no verso do documento não é um mapa do tesouro",
+        "transcript": " Enquanto isso não seja verdade, embora haja algo escrito no verso do documento, não é um mapa do tesouro."
+    },
+    "test/11508324596641387538.wav": {
+        "ground": "\"ele [wales] basicamente mentiu desde o princípio. primeiro agindo como se fosse por uma razão legal. segundo fingindo que ele estava anos ouvindo até sua exclusão de artigos",
+        "transcript": " Ele, Wallace, basicamente mentiu desde o princípio, primeiro agindo como se fosse por uma razão legal, segundo fingindo que ele estava anos ouvindo até sua exclusão de artigos."
+    },
+    "test/1123213317205419053.wav": {
+        "ground": "você pode usar um boda-boda mototáxi para passear por goma. o preço normal local é de cerca de 500 francos congoleses para um passeio rápido",
+        "transcript": " Você pode usar um boda-boda, mototaxi, para passear por Goma. Preço normal, local, é de cerca de 500 francos, congoleses, para um passeio rápido."
+    },
+    "test/12100012230687493238.wav": {
+        "ground": "hoje os únicos insetos que não podem dobrar suas asas para trás são libélulas e efêmeras",
+        "transcript": " Hoje os únicos insetos que não podem dobrar suas asas para trás são libérulas e efêmeras."
+    },
+    "test/115117054376696254.wav": {
+        "ground": "outros assuntos na agenda em bali incluem salvar as florestas remanescentes do mundo e compartilhar tecnologias para auxiliar as nações em desenvolvimento a crescer de maneiras menos poluentes",
+        "transcript": " Outros assuntos na agenda em Bali incluem salvar as florestas remanescentes do mundo e compartilhar tecnologias para auxiliar as nações em desenvolvimento a crescer de maneiras menos poluentes."
+    },
+    "test/11402169393884082394.wav": {
+        "ground": "as plantas usam do sol como seu alimento por meio da fotossíntese eles também oferecem sombra",
+        "transcript": " As plantas usam do sol como seu alimento por meio da fotossíntese. Elas também oferecem sombra."
+    },
+    "test/12080826155980012950.wav": {
+        "ground": "isso soa sensato porque o planeta terra não parece que está se mexendo parece",
+        "transcript": " Isso soa sensato. Por que o planeta Terra não parece que está se mexendo? Parece?"
+    },
+    "test/10563386743453394183.wav": {
+        "ground": "os andaimes virtuais estão internalizados no software com o objetivo questionar alertar e explicar procedimentos que podem ser desafiadores para o aluno lidar sozinho",
+        "transcript": " Os andames virtuais estão internalizados no software com o objetivo de questionar, alertar e explicar procedimentos que podem ser desafiadores para o aluno lidar sozinho."
+    },
+    "test/12318040826348294212.wav": {
+        "ground": "a comissão foi a resposta dada por martelly aos protestos gerais organizados contra o regime as manifestações tiveram início em outubro",
+        "transcript": " A comissão foi a resposta dada por Martelly aos protestos gerais organizados contra o regime. As manifestações tiveram início em outubro."
+    },
+    "test/11303018391568694855.wav": {
+        "ground": "na verdade não é fácil encontrá-lo mesmo que se saiba que ele existe uma vez dentro da caverna é um isolamento total",
+        "transcript": " Na verdade não é fácil encontrá-lo, mesmo que se saiba que ele existe uma vez dentro da caverna, é um isolamento total."
+    },
+    "test/11885701411783832487.wav": {
+        "ground": "entretanto a porcentagem de xdr-tb no completo grupo de pessoas com tuberculose ainda aparenta ser baixa 6 mil de um grupo de 330 mil indivíduos infectados a qualquer momento na áfrica do sul",
+        "transcript": " Entretanto, a porcentagem de XDRTB no completo grupo de pessoas com tuberculose ainda aparenta ser baixa. 6 mil de um grupo de 330 mil indivíduos infectados a qualquer momento na África do Sul."
+    },
+    "test/11173425941537839148.wav": {
+        "ground": "apia é a capital de samoa a cidade fica na ilha de upolu e tem uma população de pouco menos de 40.000 habitantes",
+        "transcript": " ápia é a capital da samoa a cidade fica na ilha de upolo e tem uma população de pouco mais de quarenta mil habitantes"
+    },
+    "test/11604686778338620164.wav": {
+        "ground": "a cidade de bisqueque era descrita como se estivesse afundando num estado de anarquia de acordo com um observador já que mutirões de pessoas andavam pelas ruas e saqueavam as lojas de bens de consumo",
+        "transcript": " A cidade de Bisqueque era descrita como se estivesse afundando num estado de anarquia. De acordo com o observador, já que mutirões de pessoas andavam pelas ruas e saqueavam as lojas de bens de consumo."
+    },
+    "test/1170773451866253777.wav": {
+        "ground": "isso é chamado de ph químico você pode fazer um marcador utilizando suco de repolho roxo",
+        "transcript": " Isso é chamado de pH químico. Você pode fazer um marcador utilizando suco de repolho roxo."
+    },
+    "test/10559649525180085600.wav": {
+        "ground": "era governado pelos franceses vichy eram franceses que fizeram as pazes com os alemães em 1940 e trabalharam com os invasores em vez de combatê-los",
+        "transcript": " Era governado pelos franceses Vicky. Eram franceses que fizeram as pazes com os alemães em 1940 e trabalharam com os invasores em vez de combatê-los."
+    }
+}

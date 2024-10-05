@@ -1,0 +1,38 @@
+{
+    "zip://en-AU~PAY_BILL/response_4.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I would like to pay my electricity bill using my card can you please assist",
+        "transcript": " I would like to pay my electricity bill using my card. Can you please assist?"
+    },
+    "zip://en-GB~PAY_BILL/60268fc4dc3604f481bcb89c.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I want to pay a bill and I know I want to know how can I use my credit card to do so",
+        "transcript": " I want to pay a bill and I know I want to know how can I use my credit card to do so."
+    },
+    "zip://en-AU~PAY_BILL/response_17.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hello I like to pay for Bill I would actually like to make a payment but yeah could you help me",
+        "transcript": " I would like to pay for Bill. I would actually like to make a payment but yeah could you help me out?"
+    },
+    "zip://en-AU~PAY_BILL/response_16.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "pay a bill",
+        "transcript": " Pay a bill."
+    },
+    "zip://en-US~JOINT_ACCOUNT/602ba55abb1e6d0fbce92065.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "I would like to set up a joint account with my partner",
+        "transcript": " I would like to set up a joint account with my partner. How do I proceed with doing that?"
+    },
+    "zip://en-AU~PAY_BILL/response_7.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "my credit card payment is due",
+        "transcript": " My credit card payment is due."
+    },
+    "zip://en-AU~PAY_BILL/response_14.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hi I would like to make a new payment for a bill",
+        "transcript": " Hi, I would like to make a new payment for a bill."
+    },
+    "zip://en-GB~PAY_BILL/60268fd7c7abb7f832138d5d.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "hello I'd like to make a payment on my credit card please",
+        "transcript": " Hello, I'd like to make a payment on my credit card please."
+    },
+    "zip://en-US~JOINT_ACCOUNT/602baf24bb1e6d0fbce922a7.wav::zip://MInDS-14/audio.zip::https://huggingface.co/datasets/PolyAI/minds14/resolve/main/data/MInDS-14.zip": {
+        "ground": "Henry County set up a joint account with my wife and where are they at",
+        "transcript": " I'm going to show you how to put your head up to my wife and wear the app might be."
+    }
+}

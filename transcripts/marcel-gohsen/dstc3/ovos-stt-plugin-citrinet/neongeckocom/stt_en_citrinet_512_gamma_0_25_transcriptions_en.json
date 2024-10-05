@@ -786,5 +786,5325 @@
     "fj228x-005-110409_055059_0003156_0003261.wav": {
         "ground": "i dont care",
         "transcript": "i don't care"
-    }
-}
+    },
+    "fj228x-006-110409_055103_0003545_0003632.wav": {
+        "ground": "i dont care",
+        "transcript": "we don't care"
+    },
+    "fj228x-007-110409_055114_0004702_0004767.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-008-110409_055126_0005757_0005890.wav": {
+        "ground": "what is the address",
+        "transcript": "what are the address"
+    },
+    "fj228x-009-110409_055129_0006165_0006238.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-010-110409_055139_0007079_0007219.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-011-110409_055142_0007269_0007575.wav": {
+        "ground": "unintelligible",
+        "transcript": "boy ba monsie is"
+    },
+    "fj228x-012-110409_055151_0008231_0008382.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-013-110409_055158_0008925_0009138.wav": {
+        "ground": "looking for a mediterranean restaurant",
+        "transcript": "looking for a mediterranean restaurant"
+    },
+    "fj228x-014-110409_055209_0010158_0010236.wav": {
+        "ground": "yes",
+        "transcript": "years"
+    },
+    "fj228x-015-110409_055221_0011341_0011459.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-016-110409_055234_0012511_0012674.wav": {
+        "ground": "whats the phone number and price range",
+        "transcript": "what's the fun number and price range"
+    },
+    "fj228x-017-110409_055254_0014647_0014761.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110412_190729_0000154_0000227.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110412_190732_0000343_0000566.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-003-110412_190740_0001218_0001300.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-004-110412_190742_0001379_0001551.wav": {
+        "ground": "id like a",
+        "transcript": "i like a"
+    },
+    "fj228x-005-110412_190746_0001727_0001976.wav": {
+        "ground": "id like a restaurant in cher cherry hinton please",
+        "transcript": "some like a restaurant sha cherry hilton"
+    },
+    "fj228x-006-110412_190752_0002409_0002588.wav": {
+        "ground": "i dont care about the price range",
+        "transcript": "i don't care about the price range"
+    },
+    "fj228x-007-110412_190759_0003186_0003286.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-008-110412_190807_0003914_0004004.wav": {
+        "ground": "i do not mind",
+        "transcript": "i do not mind"
+    },
+    "fj228x-009-110412_190815_0004759_0004828.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-010-110412_190822_0005453_0005512.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-011-110412_190833_0006482_0006566.wav": {
+        "ground": "ah cherry hinton",
+        "transcript": "erryton"
+    },
+    "fj228x-012-110412_190843_0007528_0007675.wav": {
+        "ground": "cherry hinton please",
+        "transcript": "sherry hinton please"
+    },
+    "fj228x-013-110412_190851_0008371_0008481.wav": {
+        "ground": "ah english",
+        "transcript": "english"
+    },
+    "fj228x-014-110412_190859_0009125_0009196.wav": {
+        "ground": "english",
+        "transcript": "english"
+    },
+    "fj228x-015-110412_190907_0009893_0009999.wav": {
+        "ground": "unintelligible sil",
+        "transcript": ""
+    },
+    "fj228x-016-110412_190912_0010397_0010511.wav": {
+        "ground": "unitelligible chinese",
+        "transcript": "chinese"
+    },
+    "fj228x-017-110412_190918_0011073_0011178.wav": {
+        "ground": "cherry hinton",
+        "transcript": ""
+    },
+    "fj228x-018-110412_190924_0011619_0011732.wav": {
+        "ground": "cherry hinton",
+        "transcript": "jerry hanton"
+    },
+    "fj228x-019-110412_190929_0012114_0012205.wav": {
+        "ground": "english",
+        "transcript": ""
+    },
+    "fj228x-020-110412_190932_0012427_0012515.wav": {
+        "ground": "english",
+        "transcript": ""
+    },
+    "fj228x-021-110412_190947_0013895_0014031.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-022-110412_190953_0014555_0014647.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-023-110412_191002_0015403_0015527.wav": {
+        "ground": "good bye",
+        "transcript": "good bye"
+    },
+    "fj228x-001-110408_091544_0001898_0002211.wav": {
+        "ground": "i am looking for a pub with an internet connection",
+        "transcript": "im looking for a pub with an internet connection"
+    },
+    "fj228x-002-110408_091559_0003155_0003709.wav": {
+        "ground": "ok what is the address phone number and area of the venue",
+        "transcript": "okay what is the address phone number and area of the venue"
+    },
+    "fj228x-003-110408_091603_0004000_0004064.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-004-110408_091624_0006103_0006190.wav": {
+        "ground": "hello",
+        "transcript": "hello"
+    },
+    "fj228x-005-110408_091628_0006427_0006559.wav": {
+        "ground": "what is the a",
+        "transcript": "what have we done"
+    },
+    "fj228x-006-110408_091631_0006813_0006919.wav": {
+        "ground": "ok",
+        "transcript": "okay"
+    },
+    "fj228x-007-110408_091637_0007254_0007472.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-008-110408_091641_0007558_0007900.wav": {
+        "ground": "wrong what is the address phone number",
+        "transcript": "yeah what is the address phone number"
+    },
+    "fj228x-009-110408_091649_0008457_0008689.wav": {
+        "ground": "ok what is the postcode",
+        "transcript": "okay what is postcode"
+    },
+    "fj228x-010-110408_091702_0009785_0009973.wav": {
+        "ground": "what is the postcode",
+        "transcript": "what is the postcode"
+    },
+    "fj228x-011-110408_091707_0010446_0010528.wav": {
+        "ground": "ok",
+        "transcript": "oer"
+    },
+    "fj228x-012-110408_091710_0010573_0010742.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110404_170419_0001884_0002019.wav": {
+        "ground": "a restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-002-110404_170423_0002327_0002440.wav": {
+        "ground": "i would like",
+        "transcript": "and i would like him"
+    },
+    "fj228x-003-110404_170428_0002795_0002891.wav": {
+        "ground": "it doesnt",
+        "transcript": "it doesnn't"
+    },
+    "fj228x-004-110404_170434_0003344_0003488.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-005-110404_170442_0004130_0004371.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-006-110404_170450_0005011_0005125.wav": {
+        "ground": "thai",
+        "transcript": ""
+    },
+    "fj228x-007-110404_170459_0005857_0006079.wav": {
+        "ground": "thai food",
+        "transcript": "thai food"
+    },
+    "fj228x-008-110404_170511_0006977_0007166.wav": {
+        "ground": "fenditton",
+        "transcript": "faendtton"
+    },
+    "fj228x-009-110404_170517_0007659_0007810.wav": {
+        "ground": "noise",
+        "transcript": ""
+    },
+    "fj228x-010-110404_170522_0008019_0008287.wav": {
+        "ground": "fenditton area",
+        "transcript": "sinditton area"
+    },
+    "fj228x-011-110404_170535_0009430_0009579.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110412_040357_0001850_0002193.wav": {
+        "ground": "im looking for a traditional restaurant in the barnwell area",
+        "transcript": "i'm looking for a traditional restaurant in the brangal area"
+    },
+    "fj228x-002-110412_040411_0003364_0003586.wav": {
+        "ground": "what is the address and phone number",
+        "transcript": "what is the address and for number"
+    },
+    "fj228x-003-110412_040428_0005008_0005293.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good gu"
+    },
+    "fj228x-001-110409_201341_0001305_0001477.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110409_201357_0002525_0003011.wav": {
+        "ground": "im looking for an expensive restaurant in the addenbrookes area",
+        "transcript": "i looking for an expensive restaurant in the adinbrook area"
+    },
+    "fj228x-003-110409_201411_0004304_0004445.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110409_201427_0005719_0006040.wav": {
+        "ground": "can i get the address phone number and postcode",
+        "transcript": "can they get the address phone number and postcode"
+    },
+    "fj228x-005-110409_201431_0006225_0006373.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-006-110409_201434_0006643_0006734.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-007-110409_201446_0007739_0007889.wav": {
+        "ground": "can i get the address",
+        "transcript": "can i get the address"
+    },
+    "fj228x-008-110409_201455_0008662_0008823.wav": {
+        "ground": "can i get the phone number",
+        "transcript": "take it phone"
+    },
+    "fj228x-009-110409_201459_0009106_0009256.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-010-110409_201504_0009554_0009728.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-011-110409_201508_0010078_0010148.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-012-110409_201513_0010370_0010592.wav": {
+        "ground": "can i get the phone number",
+        "transcript": "can i get the phone number"
+    },
+    "fj228x-013-110409_201516_0010775_0010860.wav": {
+        "ground": "phone number",
+        "transcript": "phone numbers"
+    },
+    "fj228x-014-110409_201528_0011963_0012081.wav": {
+        "ground": "postcode",
+        "transcript": ""
+    },
+    "fj228x-015-110409_201539_0013015_0013210.wav": {
+        "ground": "and whats the address again",
+        "transcript": "and what's the address again"
+    },
+    "fj228x-016-110409_201549_0014048_0014188.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good by"
+    },
+    "fj228x-001-110412_035426_0000161_0000371.wav": {
+        "ground": "noise sil",
+        "transcript": "she"
+    },
+    "fj228x-002-110412_035428_0000510_0000599.wav": {
+        "ground": "noise sil",
+        "transcript": "and sing"
+    },
+    "fj228x-003-110412_035436_0001243_0001290.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-004-110412_035444_0001799_0002094.wav": {
+        "ground": "a turkish restaurant in the city center area",
+        "transcript": "a turkish restaurant in the city center area"
+    },
+    "fj228x-005-110412_035447_0002307_0002414.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-006-110412_035456_0003273_0003351.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-007-110412_035510_0004631_0004762.wav": {
+        "ground": "what is the address",
+        "transcript": "what are the address"
+    },
+    "fj228x-008-110412_035519_0005489_0005615.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what the fun"
+    },
+    "fj228x-009-110412_035533_0006678_0007036.wav": {
+        "ground": "what is the price coughing",
+        "transcript": ""
+    },
+    "fj228x-010-110412_035545_0008092_0008223.wav": {
+        "ground": "coughing sil",
+        "transcript": ""
+    },
+    "fj228x-011-110412_035548_0008453_0008557.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you can by"
+    },
+    "fj228x-001-110409_184904_0000024_0000101.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110409_184915_0000994_0001106.wav": {
+        "ground": "expensive",
+        "transcript": "exenive"
+    },
+    "fj228x-003-110409_184917_0001304_0001419.wav": {
+        "ground": "expensive",
+        "transcript": "expenses"
+    },
+    "fj228x-004-110409_184925_0001972_0002153.wav": {
+        "ground": "continental restaurant",
+        "transcript": "continental restaurant"
+    },
+    "fj228x-005-110409_184927_0002270_0002432.wav": {
+        "ground": "a continental restaurant",
+        "transcript": "a continental restaurant"
+    },
+    "fj228x-006-110409_184940_0003605_0003665.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-007-110409_184955_0004935_0005217.wav": {
+        "ground": "what is the address phone number and postcode",
+        "transcript": "what is the address phone number and postcode"
+    },
+    "fj228x-008-110409_185017_0007236_0007369.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110408_220725_0001913_0002029.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110408_220727_0002056_0002233.wav": {
+        "ground": "english restaurant",
+        "transcript": "english restaurant"
+    },
+    "fj228x-003-110408_220736_0002933_0003116.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110408_220746_0004035_0004123.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-005-110408_220759_0005239_0005470.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-006-110408_220806_0005868_0006089.wav": {
+        "ground": "the whats the phone number",
+        "transcript": "what's ce phone number"
+    },
+    "fj228x-007-110408_220813_0006785_0006870.wav": {
+        "ground": "sil",
+        "transcript": "i"
+    },
+    "fj228x-008-110408_220817_0007061_0007214.wav": {
+        "ground": "addenbrookes",
+        "transcript": "adam brokes"
+    },
+    "fj228x-009-110408_220819_0007323_0007434.wav": {
+        "ground": "new chesterton",
+        "transcript": "n ksicin"
+    },
+    "fj228x-010-110408_220824_0007799_0008000.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-011-110408_220830_0008514_0008572.wav": {
+        "ground": "new ches",
+        "transcript": "new che"
+    },
+    "fj228x-012-110408_220834_0008845_0008954.wav": {
+        "ground": "castle hill",
+        "transcript": "ksselvill"
+    },
+    "fj228x-013-110408_220855_0010915_0011023.wav": {
+        "ground": "arbury area",
+        "transcript": "upper the area"
+    },
+    "fj228x-014-110408_220900_0011476_0011606.wav": {
+        "ground": "thanks goodbye",
+        "transcript": ""
+    },
+    "fj228x-015-110408_220907_0012215_0012288.wav": {
+        "ground": "thank you bye",
+        "transcript": "like you hard"
+    },
+    "fj228x-016-110408_220917_0013130_0013251.wav": {
+        "ground": "unintelligible",
+        "transcript": "it is happen"
+    },
+    "fj228x-017-110408_220924_0013604_0013920.wav": {
+        "ground": "thank you and goodbye",
+        "transcript": "the sist ended by"
+    },
+    "fj228x-001-110409_210107_0001867_0002358.wav": {
+        "ground": "im looking for a cheap restaurant in the romsey area",
+        "transcript": "i'm looking for a cheap restaurant in the rumsey area"
+    },
+    "fj228x-002-110409_210123_0003719_0004002.wav": {
+        "ground": "the romsey area",
+        "transcript": "the romsey area"
+    },
+    "fj228x-003-110409_210137_0005172_0005321.wav": {
+        "ground": "any type of food",
+        "transcript": "any type of food"
+    },
+    "fj228x-004-110409_210147_0006258_0006428.wav": {
+        "ground": "any type",
+        "transcript": "type"
+    },
+    "fj228x-005-110409_210158_0007358_0007506.wav": {
+        "ground": "cheap",
+        "transcript": "she"
+    },
+    "fj228x-006-110409_210210_0008549_0008700.wav": {
+        "ground": "continental",
+        "transcript": "continential"
+    },
+    "fj228x-007-110409_210220_0009582_0009700.wav": {
+        "ground": "continental",
+        "transcript": "continental"
+    },
+    "fj228x-008-110409_210232_0010670_0010819.wav": {
+        "ground": "northern european",
+        "transcript": "northern european"
+    },
+    "fj228x-009-110409_210245_0011986_0012137.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-010-110409_210246_0012200_0012305.wav": {
+        "ground": "mexican",
+        "transcript": "mexican"
+    },
+    "fj228x-011-110409_210255_0013142_0013239.wav": {
+        "ground": "romsey",
+        "transcript": "ramsey"
+    },
+    "fj228x-012-110409_210306_0014227_0014328.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-013-110409_210309_0014468_0014556.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-014-110409_210311_0014654_0014771.wav": {
+        "ground": "fast food",
+        "transcript": "food"
+    },
+    "fj228x-015-110409_210319_0015433_0015569.wav": {
+        "ground": "fast food",
+        "transcript": ""
+    },
+    "fj228x-016-110409_210325_0016047_0016182.wav": {
+        "ground": "fast food",
+        "transcript": "fast food"
+    },
+    "fj228x-017-110409_210329_0016480_0016637.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-018-110409_210335_0017079_0017179.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-019-110409_210346_0018252_0018279.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-020-110409_210348_0018341_0018491.wav": {
+        "ground": "northern european",
+        "transcript": "northern european"
+    },
+    "fj228x-021-110409_210357_0019169_0019320.wav": {
+        "ground": "romsey",
+        "transcript": "ramsy"
+    },
+    "fj228x-022-110409_210406_0020206_0020267.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-023-110409_210408_0020385_0020508.wav": {
+        "ground": "italian",
+        "transcript": "italian"
+    },
+    "fj228x-024-110409_210415_0021038_0021183.wav": {
+        "ground": "italian",
+        "transcript": "italian"
+    },
+    "fj228x-025-110409_210426_0022082_0022256.wav": {
+        "ground": "chinese",
+        "transcript": ""
+    },
+    "fj228x-026-110409_210434_0022894_0023045.wav": {
+        "ground": "romsey",
+        "transcript": ""
+    },
+    "fj228x-027-110409_210445_0024062_0024173.wav": {
+        "ground": "chinese",
+        "transcript": "che"
+    },
+    "fj228x-028-110409_210458_0025388_0025459.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-029-110409_210500_0025483_0025680.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110403_171327_0000057_0000195.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-002-110403_171345_0001521_0001979.wav": {
+        "ground": "im looking for a moderately priced restaurant and it should be in the barnwell area",
+        "transcript": "i'm looking for a martley price restaurant in should be in the barnwelle area"
+    },
+    "fj228x-003-110403_171357_0003080_0003139.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-004-110403_171359_0003180_0003318.wav": {
+        "ground": "do you have the address",
+        "transcript": "did she have the address"
+    },
+    "fj228x-006-110403_171410_0004383_0004508.wav": {
+        "ground": "thank you good bye",
+        "transcript": "think you good bye"
+    },
+    "fj228x-001-110414_013245_0002008_0002436.wav": {
+        "ground": "im looking for a cheap restaurant in the cherry hinton area",
+        "transcript": "i'm looking for a cheap restaurant in the carerry hinton area"
+    },
+    "fj228x-002-110414_013302_0003978_0004095.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-003-110414_013308_0004688_0004767.wav": {
+        "ground": "nosie sil",
+        "transcript": ""
+    },
+    "fj228x-004-110414_013325_0006192_0006372.wav": {
+        "ground": "its in the cherry hinton area",
+        "transcript": "it's in the cherry hinton area"
+    },
+    "fj228x-005-110414_013337_0007472_0007596.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-006-110414_013345_0008310_0008400.wav": {
+        "ground": "whats the phone number",
+        "transcript": "let on the"
+    },
+    "fj228x-007-110414_013357_0009453_0009603.wav": {
+        "ground": "what type of food do they serve",
+        "transcript": "what part of free did theyus"
+    },
+    "fj228x-008-110414_013404_0010240_0010369.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110410_051753_0001867_0002139.wav": {
+        "ground": "im looking for a pub with internet connection",
+        "transcript": "i'm looking for a pub with internet classion"
+    },
+    "fj228x-002-110410_051804_0003064_0003214.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-003-110410_051814_0004057_0004213.wav": {
+        "ground": "what is the price range",
+        "transcript": "what price ranch"
+    },
+    "fj228x-004-110410_051822_0004888_0005023.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110410_125915_0001856_0002218.wav": {
+        "ground": "im looking for a cheap restaurant in fenditton",
+        "transcript": "i'm looking for a cheap restaurant in fenterton"
+    },
+    "fj228x-002-110410_125924_0002981_0003064.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-003-110410_125927_0003230_0003335.wav": {
+        "ground": "nosie sil",
+        "transcript": ""
+    },
+    "fj228x-004-110410_125941_0004542_0004751.wav": {
+        "ground": "what is th address and post code",
+        "transcript": "what is the address and postcode"
+    },
+    "fj228x-005-110410_125959_0006364_0006520.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110407_081639_0000221_0000289.wav": {
+        "ground": "sil",
+        "transcript": "yeah"
+    },
+    "fj228x-002-110407_081657_0001401_0002070.wav": {
+        "ground": "im looking for an east asian restaurant uh it should have expensive price range",
+        "transcript": "i'm looking for a east asian restaurant and it should have expensive pricece range"
+    },
+    "fj228x-003-110407_081711_0003314_0003447.wav": {
+        "ground": "i dont care",
+        "transcript": "i' care"
+    },
+    "fj228x-004-110407_081729_0004633_0005209.wav": {
+        "ground": "okay uh can you give me its address its phone number and what is its area",
+        "transcript": "okay can you give me address its phone number and what is area"
+    },
+    "fj228x-005-110407_081754_0007527_0007794.wav": {
+        "ground": "okay thank you goodbye",
+        "transcript": "okay thank you good bye"
+    },
+    "fj228x-001-110407_022905_0001997_0002413.wav": {
+        "ground": "i want to find a pub food restaurant and it should be in a moderate price range",
+        "transcript": "i want to find a public food restaurant and should be in moderate price range"
+    },
+    "fj228x-002-110407_022920_0003690_0003851.wav": {
+        "ground": "i do not care about the area",
+        "transcript": "i do not hear about the area"
+    },
+    "fj228x-003-110407_022933_0004889_0005172.wav": {
+        "ground": "can i get the phone number with the address and the area",
+        "transcript": "can get the the address in area"
+    },
+    "fj228x-004-110407_022949_0006694_0006796.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "you get bough"
+    },
+    "fj228x-001-110404_000347_0001981_0002295.wav": {
+        "ground": "i need a restaurant in addonbrookes",
+        "transcript": "i need a restaurant and eight books"
+    },
+    "fj228x-002-110404_000351_0002564_0002650.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-003-110404_000353_0002849_0002927.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-004-110404_000359_0003440_0003519.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-005-110404_000406_0004078_0004196.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-006-110404_000407_0004230_0004305.wav": {
+        "ground": "cheap",
+        "transcript": "chip"
+    },
+    "fj228x-007-110404_000417_0005223_0005291.wav": {
+        "ground": "addonbrooke",
+        "transcript": "egg and"
+    },
+    "fj228x-008-110404_000430_0006458_0006532.wav": {
+        "ground": "addonbrookes",
+        "transcript": "adenb"
+    },
+    "fj228x-009-110404_000444_0007885_0008006.wav": {
+        "ground": "addonbrookes",
+        "transcript": "i didn't go"
+    },
+    "fj228x-010-110404_000502_0009557_0009708.wav": {
+        "ground": "no just addonbrookes",
+        "transcript": "they'll just adding books"
+    },
+    "fj228x-011-110404_000515_0010915_0011063.wav": {
+        "ground": "addonbrookes",
+        "transcript": "adding books"
+    },
+    "fj228x-012-110404_000526_0012049_0012191.wav": {
+        "ground": "any any",
+        "transcript": "anyni"
+    },
+    "fj228x-013-110404_000537_0013186_0013274.wav": {
+        "ground": "any",
+        "transcript": "any"
+    },
+    "fj228x-014-110404_000546_0014135_0014197.wav": {
+        "ground": "noise sil",
+        "transcript": "well"
+    },
+    "fj228x-015-110404_000550_0014275_0014584.wav": {
+        "ground": "unintelligible addonbrookes",
+        "transcript": "f adin books"
+    },
+    "fj228x-016-110404_000559_0015332_0015536.wav": {
+        "ground": "addonbrookes area",
+        "transcript": "aenbrook area"
+    },
+    "fj228x-017-110404_000605_0015852_0016051.wav": {
+        "ground": "thank you thank you",
+        "transcript": "thank you thank go"
+    },
+    "fj228x-018-110404_000607_0016126_0016334.wav": {
+        "ground": "thank you good bye",
+        "transcript": "bago gubaris"
+    },
+    "fj228x-001-110413_231236_0000251_0000590.wav": {
+        "ground": "every money unintelligible",
+        "transcript": "they madeid money while playing gra to bo ah"
+    },
+    "fj228x-002-110413_231239_0000854_0000955.wav": {
+        "ground": "restaurant",
+        "transcript": "registerite"
+    },
+    "fj228x-003-110413_231243_0001238_0001350.wav": {
+        "ground": "a restaurant",
+        "transcript": "a restaurant"
+    },
+    "fj228x-004-110413_231245_0001481_0001579.wav": {
+        "ground": "restaurant",
+        "transcript": ""
+    },
+    "fj228x-005-110413_231252_0002042_0002225.wav": {
+        "ground": "moderate moderate",
+        "transcript": "modern moderate"
+    },
+    "fj228x-006-110413_231255_0002260_0002544.wav": {
+        "ground": "im looking in the new chesterton area",
+        "transcript": "i'm looking in the new chestertonn area"
+    },
+    "fj228x-007-110413_231303_0003202_0003342.wav": {
+        "ground": "chinese takeaway",
+        "transcript": "the chinese takea away"
+    },
+    "fj228x-008-110413_231305_0003479_0003540.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-009-110413_231313_0004169_0004345.wav": {
+        "ground": "chinese chinese",
+        "transcript": "chinese you right"
+    },
+    "fj228x-010-110413_231328_0005671_0005875.wav": {
+        "ground": "perfect can i have the phone number",
+        "transcript": "hars can i have the phone number"
+    },
+    "fj228x-011-110413_231341_0006972_0007099.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_041329_0000149_0000209.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110409_041334_0000425_0000662.wav": {
+        "ground": "noise sil",
+        "transcript": "she"
+    },
+    "fj228x-003-110409_041340_0001154_0001358.wav": {
+        "ground": "a restaurant",
+        "transcript": "a restaurant"
+    },
+    "fj228x-004-110409_041347_0001871_0002003.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-005-110409_041355_0002632_0002800.wav": {
+        "ground": "free",
+        "transcript": ""
+    },
+    "fj228x-006-110409_041400_0003261_0003382.wav": {
+        "ground": "a restaurant",
+        "transcript": "a restaurant"
+    },
+    "fj228x-007-110409_041402_0003454_0003512.wav": {
+        "ground": "noise sil",
+        "transcript": "a month"
+    },
+    "fj228x-008-110409_041409_0004089_0004209.wav": {
+        "ground": "a restaurant",
+        "transcript": "a restaurant"
+    },
+    "fj228x-009-110409_041412_0004338_0004517.wav": {
+        "ground": "a fast food restaurant",
+        "transcript": "a fast food restaurant"
+    },
+    "fj228x-010-110409_041425_0005631_0005799.wav": {
+        "ground": "i dont care about the area",
+        "transcript": "i don't care about the area"
+    },
+    "fj228x-011-110409_041437_0006561_0007010.wav": {
+        "ground": "no not spanish food no fast food",
+        "transcript": "no not spanish food no fast food"
+    },
+    "fj228x-012-110409_041448_0007880_0008114.wav": {
+        "ground": "im looking for a fast food restaurant",
+        "transcript": "i'm looking for a fast food restaurant"
+    },
+    "fj228x-013-110409_041505_0009573_0009874.wav": {
+        "ground": "im looking for a fast food restaurant",
+        "transcript": "i'm looking for a fast food restaurant"
+    },
+    "fj228x-014-110409_041507_0009919_0010032.wav": {
+        "ground": "fast food",
+        "transcript": "bad schools"
+    },
+    "fj228x-015-110409_041519_0010811_0011264.wav": {
+        "ground": "not spanish food not spanish food fast",
+        "transcript": "not spanish food not spanish foods sas"
+    },
+    "fj228x-016-110409_041521_0011307_0011400.wav": {
+        "ground": "food",
+        "transcript": "food"
+    },
+    "fj228x-017-110409_041532_0012364_0012509.wav": {
+        "ground": "fast food",
+        "transcript": ""
+    },
+    "fj228x-018-110409_041542_0013403_0013471.wav": {
+        "ground": "american",
+        "transcript": "american"
+    },
+    "fj228x-019-110409_041557_0014852_0015000.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's it"
+    },
+    "fj228x-020-110409_041559_0015121_0015206.wav": {
+        "ground": "yawn sil",
+        "transcript": ""
+    },
+    "fj228x-021-110409_041606_0015801_0015947.wav": {
+        "ground": "whats the phone number",
+        "transcript": "s the phone number"
+    },
+    "fj228x-022-110409_041619_0017144_0017281.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110410_031429_0000177_0000492.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-002-110410_031431_0000585_0000707.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-003-110410_031439_0001426_0001529.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-004-110410_031448_0002240_0002449.wav": {
+        "ground": "restaurant in kings hedges",
+        "transcript": "restaurant and king's hedges"
+    },
+    "fj228x-005-110410_031455_0003032_0003151.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-006-110410_031501_0003577_0003727.wav": {
+        "ground": "whats the price of the venue",
+        "transcript": "what's the price of the venue"
+    },
+    "fj228x-007-110410_031509_0004321_0004471.wav": {
+        "ground": "whats the price of the venue",
+        "transcript": "was the ts of the venue"
+    },
+    "fj228x-008-110410_031518_0005238_0005390.wav": {
+        "ground": "what is the address",
+        "transcript": "what does dad dress"
+    },
+    "fj228x-009-110410_031532_0006766_0006868.wav": {
+        "ground": "whats the phone number",
+        "transcript": "of the town number"
+    },
+    "fj228x-010-110410_031547_0008243_0008377.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110412_030730_0002072_0002422.wav": {
+        "ground": "i want a drinks and snacks only restaurant",
+        "transcript": "i want to drinks and snacks only restaurant"
+    },
+    "fj228x-002-110412_030740_0003336_0003495.wav": {
+        "ground": "what is the address",
+        "transcript": "what the address"
+    },
+    "fj228x-003-110412_030750_0004273_0004469.wav": {
+        "ground": "what is the phone number and area",
+        "transcript": "what is the phone number andir"
+    },
+    "fj228x-004-110412_030804_0005722_0005871.wav": {
+        "ground": "what is the area",
+        "transcript": "what is the area"
+    },
+    "fj228x-005-110412_030813_0006631_0006780.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good by"
+    },
+    "fj228x-001-110412_031258_0001995_0002101.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-002-110412_031308_0002966_0003144.wav": {
+        "ground": "expensive",
+        "transcript": "expensive"
+    },
+    "fj228x-003-110412_031323_0004404_0004557.wav": {
+        "ground": "col magdalene college",
+        "transcript": "co muling college"
+    },
+    "fj228x-004-110412_031330_0005152_0005278.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-005-110412_031340_0006166_0006268.wav": {
+        "ground": "french",
+        "transcript": "french"
+    },
+    "fj228x-006-110412_031353_0007447_0007621.wav": {
+        "ground": "trinity college",
+        "transcript": "trinity college"
+    },
+    "fj228x-007-110412_031404_0008576_0008678.wav": {
+        "ground": "fen ditton",
+        "transcript": "friend dublin"
+    },
+    "fj228x-008-110412_031417_0009784_0010003.wav": {
+        "ground": "fen ditton",
+        "transcript": ""
+    },
+    "fj228x-009-110412_031427_0010839_0010950.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-010-110412_031437_0011488_0011960.wav": {
+        "ground": "unintelligible",
+        "transcript": "i i at something in entire"
+    },
+    "fj228x-011-110412_031440_0012211_0012311.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-012-110412_031445_0012734_0012801.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-013-110412_031447_0012890_0012951.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-014-110412_031449_0013068_0013168.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-015-110412_031451_0013312_0013395.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-016-110412_031457_0013887_0014000.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-017-110412_031515_0015613_0015752.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you goodbe"
+    },
+    "fj228x-001-110412_192625_0001947_0002395.wav": {
+        "ground": "unintelligible northern european in a cheap price range",
+        "transcript": "i thought a northern european restaurant in a cheap price range"
+    },
+    "fj228x-002-110412_192637_0003422_0003556.wav": {
+        "ground": "whats the address",
+        "transcript": "what's the address"
+    },
+    "fj228x-003-110412_192652_0004979_0005085.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-004-110412_192704_0006076_0006241.wav": {
+        "ground": "whats the price range",
+        "transcript": "what's the price range"
+    },
+    "fj228x-005-110412_192710_0006712_0006866.wav": {
+        "ground": "and whats the post code",
+        "transcript": "i want the postcode"
+    },
+    "fj228x-006-110412_192719_0007652_0007784.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110408_190057_0000097_0000367.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-002-110408_190107_0001173_0001321.wav": {
+        "ground": "newnham",
+        "transcript": "newham"
+    },
+    "fj228x-003-110408_190117_0001970_0002392.wav": {
+        "ground": "a restaurant moderately priced restaurant",
+        "transcript": "restaurant moderately priced restaurant"
+    },
+    "fj228x-004-110408_190125_0003014_0003131.wav": {
+        "ground": "newnham",
+        "transcript": "newham"
+    },
+    "fj228x-005-110408_190132_0003706_0003861.wav": {
+        "ground": "newnham",
+        "transcript": "on"
+    },
+    "fj228x-006-110408_190145_0004947_0005098.wav": {
+        "ground": "mediterranean",
+        "transcript": "mediterranean"
+    },
+    "fj228x-007-110408_190202_0006506_0006846.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-008-110408_190214_0007924_0008049.wav": {
+        "ground": "phone number",
+        "transcript": "phone number"
+    },
+    "fj228x-009-110408_190233_0009379_0009892.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-010-110408_190240_0010355_0010597.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-011-110408_190251_0011568_0011726.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-012-110408_190257_0012281_0012346.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-013-110408_190307_0013189_0013320.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-014-110408_190313_0013858_0013948.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-015-110408_190325_0014922_0015089.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-016-110408_190333_0015817_0015953.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-017-110408_190340_0016467_0016632.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-018-110408_190348_0017171_0017400.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-019-110408_190354_0017942_0018025.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-020-110408_190400_0018449_0018615.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-021-110408_190406_0019111_0019226.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-022-110408_190416_0020083_0020216.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-023-110408_190422_0020729_0020856.wav": {
+        "ground": "thats all",
+        "transcript": "that's all"
+    },
+    "fj228x-024-110408_190433_0021731_0021926.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110403_071848_0000094_0000200.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110403_071851_0000288_0000462.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-003-110403_071901_0001230_0001511.wav": {
+        "ground": "no im looking for a continental re",
+        "transcript": "now i'm looking for a continental"
+    },
+    "fj228x-004-110403_071908_0001961_0002180.wav": {
+        "ground": "ah continental restaurant",
+        "transcript": "a continents"
+    },
+    "fj228x-005-110403_071914_0002402_0002748.wav": {
+        "ground": "ah a restaurant with expensive price",
+        "transcript": "a restaurant with expensive pride"
+    },
+    "fj228x-006-110403_071923_0003434_0003683.wav": {
+        "ground": "a continental restaurant wi",
+        "transcript": "a conter the restaurant would"
+    },
+    "fj228x-007-110403_071928_0003928_0004087.wav": {
+        "ground": "no no",
+        "transcript": ""
+    },
+    "fj228x-008-110403_071933_0004330_0004640.wav": {
+        "ground": "i am looking for a continetal restaurant",
+        "transcript": "im looking for a continental register"
+    },
+    "fj228x-009-110403_071941_0005286_0005466.wav": {
+        "ground": "continental restaurant",
+        "transcript": "continental restaurant"
+    },
+    "fj228x-010-110403_071947_0005976_0006075.wav": {
+        "ground": "barnwell",
+        "transcript": "farnwell"
+    },
+    "fj228x-011-110403_071949_0006146_0006255.wav": {
+        "ground": "barnwell",
+        "transcript": "fanma"
+    },
+    "fj228x-012-110403_071954_0006638_0006758.wav": {
+        "ground": "barnwell",
+        "transcript": "tarma"
+    },
+    "fj228x-013-110403_072002_0007312_0007538.wav": {
+        "ground": "i am looking for a continental",
+        "transcript": "im looking for continent"
+    },
+    "fj228x-014-110403_072007_0007933_0008111.wav": {
+        "ground": "expensive price range",
+        "transcript": "expensive programs"
+    },
+    "fj228x-015-110403_072010_0008320_0008380.wav": {
+        "ground": "expensive price range",
+        "transcript": "expectivecsion"
+    },
+    "fj228x-016-110403_072013_0008580_0008657.wav": {
+        "ground": "unitelligible",
+        "transcript": ""
+    },
+    "fj228x-017-110403_072023_0009517_0009668.wav": {
+        "ground": "expensive price range",
+        "transcript": "expensive price range"
+    },
+    "fj228x-018-110403_072037_0010967_0011102.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thanking good bye"
+    },
+    "fj228x-001-110403_234339_0001896_0002363.wav": {
+        "ground": "im looking for a restaurant in trumpington i dont care about the price range",
+        "transcript": "i'm looking for a restaurant in trumpington i don't care about the price range"
+    },
+    "fj228x-002-110403_234350_0003385_0003491.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-003-110403_234400_0004333_0004469.wav": {
+        "ground": "a restaurant",
+        "transcript": "a restaurant"
+    },
+    "fj228x-004-110403_234410_0005373_0005493.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-005-110403_234428_0007042_0007254.wav": {
+        "ground": "no just in trumpington",
+        "transcript": "now just in trumpington"
+    },
+    "fj228x-006-110403_234440_0008222_0008532.wav": {
+        "ground": "may i have the address and what type of food",
+        "transcript": "may you have the address in the what type of food"
+    },
+    "fj228x-007-110403_234450_0009452_0009531.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-008-110403_234452_0009564_0009698.wav": {
+        "ground": "i need the address",
+        "transcript": "and need the address"
+    },
+    "fj228x-009-110403_234459_0010253_0010410.wav": {
+        "ground": "a restaurant in trumpington",
+        "transcript": "a restaurant in trumpington"
+    },
+    "fj228x-010-110403_234511_0011448_0011597.wav": {
+        "ground": "and what type of food",
+        "transcript": "and what take of food"
+    },
+    "fj228x-011-110403_234520_0012218_0012533.wav": {
+        "ground": "and is it in trumpington",
+        "transcript": "and is it in trumpington"
+    },
+    "fj228x-012-110403_234523_0012667_0012813.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-013-110403_234533_0013584_0013731.wav": {
+        "ground": "is it in trumpington",
+        "transcript": "is it in trumpington"
+    },
+    "fj228x-014-110403_234541_0014399_0014583.wav": {
+        "ground": "ok thank you good bye",
+        "transcript": "okay think you goodbye"
+    },
+    "fj228x-001-110402_212309_0002029_0002372.wav": {
+        "ground": "oh can i find a free restaurant",
+        "transcript": "i can't find a free restaurant"
+    },
+    "fj228x-002-110402_212321_0003347_0003497.wav": {
+        "ground": "any food i dont care",
+        "transcript": "any phone i don't care"
+    },
+    "fj228x-003-110402_212336_0004780_0005025.wav": {
+        "ground": "i dont care any location",
+        "transcript": "i don't care any location"
+    },
+    "fj228x-004-110402_212351_0006117_0006406.wav": {
+        "ground": "can i know the address and the postcode of the venue",
+        "transcript": "oh can i know the address and postcode of the winy"
+    },
+    "fj228x-005-110402_212402_0007564_0007648.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-006-110402_212416_0008865_0009010.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good day"
+    },
+    "fj228x-001-110402_074427_0001831_0002114.wav": {
+        "ground": "im looking for a restaurant in the kings hedges area",
+        "transcript": "i'm looking for a restaurant in the king's hedges area"
+    },
+    "fj228x-002-110402_074438_0003067_0003195.wav": {
+        "ground": "whats the price",
+        "transcript": "what's the price"
+    },
+    "fj228x-003-110402_074453_0004386_0004685.wav": {
+        "ground": "whats the address and phone number of the venue",
+        "transcript": "what's the address and phone number of the venue"
+    },
+    "fj228x-004-110402_074507_0006027_0006149.wav": {
+        "ground": "thank you good bye",
+        "transcript": "than good bye"
+    },
+    "fj228x-001-110409_200103_0001880_0002237.wav": {
+        "ground": "im looking for a thai restaurant in the riverside area",
+        "transcript": "i'm looking for a thai restaurant in the riverside area"
+    },
+    "fj228x-002-110409_200114_0003280_0003363.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-003-110409_200128_0004637_0004754.wav": {
+        "ground": "what is the address",
+        "transcript": "would it be address"
+    },
+    "fj228x-004-110409_200137_0005476_0005596.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_165348_0001863_0002420.wav": {
+        "ground": "im looking for a mexican tex mex restaurant in the addenbrookes area",
+        "transcript": "looking for mexican texas texmex restaurant in the adam brooooks area"
+    },
+    "fj228x-002-110409_165402_0003698_0003813.wav": {
+        "ground": "whats the address",
+        "transcript": "of threes"
+    },
+    "fj228x-003-110409_165410_0004530_0004638.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-004-110409_165421_0005720_0005785.wav": {
+        "ground": "whats the price",
+        "transcript": "it's the price"
+    },
+    "fj228x-005-110409_165429_0006504_0006586.wav": {
+        "ground": "whats the price",
+        "transcript": "it's the price"
+    },
+    "fj228x-006-110409_165445_0007902_0008169.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_175604_0000698_0000758.wav": {
+        "ground": "unitelligible",
+        "transcript": ""
+    },
+    "fj228x-002-110409_175616_0001671_0002012.wav": {
+        "ground": "im looking for a restaurant in the romsey area",
+        "transcript": "i'm looking for a restaurant in the romsey area"
+    },
+    "fj228x-003-110409_175619_0002172_0002232.wav": {
+        "ground": "sil",
+        "transcript": "and"
+    },
+    "fj228x-004-110409_175629_0003098_0003208.wav": {
+        "ground": "expensive",
+        "transcript": "expenses"
+    },
+    "fj228x-005-110409_175642_0004435_0004492.wav": {
+        "ground": "whats the address",
+        "transcript": "what's the address"
+    },
+    "fj228x-006-110409_175643_0004633_0004696.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-007-110409_175653_0005556_0005679.wav": {
+        "ground": "whats the address",
+        "transcript": "what the address"
+    },
+    "fj228x-008-110409_175701_0006400_0006517.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-009-110409_175714_0007585_0007734.wav": {
+        "ground": "and whats the postcode",
+        "transcript": "and what's the post code"
+    },
+    "fj228x-010-110409_175724_0008614_0008758.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110406_002734_0001984_0002143.wav": {
+        "ground": "a cheap restaurant",
+        "transcript": "the cheap restaurants"
+    },
+    "fj228x-002-110406_002749_0003424_0003574.wav": {
+        "ground": "fen ditton area",
+        "transcript": "andditinarial"
+    },
+    "fj228x-003-110406_002804_0005111_0005195.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-004-110406_002816_0006186_0006298.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-005-110406_002822_0006882_0006996.wav": {
+        "ground": "a restaurant",
+        "transcript": "a restaurant"
+    },
+    "fj228x-006-110406_002834_0008026_0008123.wav": {
+        "ground": "thats right",
+        "transcript": "that's right"
+    },
+    "fj228x-007-110406_002842_0008834_0008946.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-008-110406_002847_0009039_0009390.wav": {
+        "ground": "i want a cheap restaurant in the fen ditton area",
+        "transcript": "i want a cheap restaurant in the fenditton area"
+    },
+    "fj228x-009-110406_002857_0010298_0010458.wav": {
+        "ground": "is it in fen ditton area",
+        "transcript": "is it infenditenaro"
+    },
+    "fj228x-010-110406_002910_0011526_0011752.wav": {
+        "ground": "what about in the fen ditton area",
+        "transcript": "what about the an area"
+    },
+    "fj228x-011-110406_002919_0012583_0012669.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-012-110406_002930_0013593_0013714.wav": {
+        "ground": "yes please",
+        "transcript": ""
+    },
+    "fj228x-013-110406_002941_0014756_0014853.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-014-110406_002957_0016220_0016370.wav": {
+        "ground": "can you please give me the phone number",
+        "transcript": "any please give me the phone number"
+    },
+    "fj228x-015-110406_003012_0017702_0017869.wav": {
+        "ground": "and the postcode please",
+        "transcript": "and the postcod please"
+    },
+    "fj228x-016-110406_003025_0019056_0019236.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you"
+    },
+    "fj228x-001-110405_213055_0001924_0002296.wav": {
+        "ground": "i need to find and expensive restaurant in the trumpington area",
+        "transcript": "i need to find an expensive restaurant in the trumpington area"
+    },
+    "fj228x-002-110405_213102_0002983_0003058.wav": {
+        "ground": "unintelligible",
+        "transcript": "pa"
+    },
+    "fj228x-003-110405_213110_0003754_0003818.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-004-110405_213118_0004499_0004576.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-005-110405_213127_0004980_0005444.wav": {
+        "ground": "i do not care about the location",
+        "transcript": "i do not care about the location"
+    },
+    "fj228x-006-110405_213130_0005696_0005793.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-007-110405_213137_0006422_0006521.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-008-110405_213148_0007403_0007569.wav": {
+        "ground": "i need a phone number and a price",
+        "transcript": "can i get a phone number and price"
+    },
+    "fj228x-009-110405_213157_0008422_0008533.wav": {
+        "ground": "thats correct",
+        "transcript": "that correct"
+    },
+    "fj228x-010-110405_213203_0009005_0009088.wav": {
+        "ground": "thats correct",
+        "transcript": "that correct"
+    },
+    "fj228x-011-110405_213209_0009547_0009736.wav": {
+        "ground": "i need an expensive restaurant",
+        "transcript": "you expensive restaurant"
+    },
+    "fj228x-012-110405_213212_0009879_0010002.wav": {
+        "ground": "thank you good bye",
+        "transcript": "than good bye"
+    },
+    "fj228x-001-110409_223313_0001906_0002312.wav": {
+        "ground": "looking for a moderately priced restaurant in the new chesterton area",
+        "transcript": "looking for a moderately priced restaurant in the new chesterkin area"
+    },
+    "fj228x-002-110409_223325_0003384_0003499.wav": {
+        "ground": "what is the price",
+        "transcript": "what is the price"
+    },
+    "fj228x-003-110409_223337_0004561_0004711.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-004-110409_223348_0005668_0005807.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-005-110409_223356_0006514_0006632.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110402_213802_0001807_0002243.wav": {
+        "ground": "yes im looking for a chinese restaurant in the city center area",
+        "transcript": "yes i'm looking for a chinese restaurant in the city center area"
+    },
+    "fj228x-002-110402_213813_0003163_0003328.wav": {
+        "ground": "in the city center yes",
+        "transcript": "in the city center yes"
+    },
+    "fj228x-003-110402_213823_0004224_0004353.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    "fj228x-004-110402_213835_0005438_0005575.wav": {
+        "ground": "may i have the address",
+        "transcript": "may i have the address"
+    },
+    "fj228x-005-110402_213843_0006214_0006362.wav": {
+        "ground": "may i have the phone number",
+        "transcript": "may i have the phone number"
+    },
+    "fj228x-006-110402_213856_0007442_0007659.wav": {
+        "ground": "and the price range of of the venue",
+        "transcript": "and the price ranks up of the venue"
+    },
+    "fj228x-007-110402_213910_0008974_0009102.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you goodbye"
+    },
+    "fj228x-001-110411_054408_0002012_0002303.wav": {
+        "ground": "looking for a moderately priced restaurant",
+        "transcript": "looking for in modernly priced restaurants"
+    },
+    "fj228x-002-110411_054424_0003756_0003956.wav": {
+        "ground": "ah the barnwell area",
+        "transcript": "the barnwell area"
+    },
+    "fj228x-003-110411_054442_0005466_0005725.wav": {
+        "ground": "what is the address and price please",
+        "transcript": "what is the address and price place"
+    },
+    "fj228x-004-110411_054502_0007608_0007736.wav": {
+        "ground": "thank you good bye",
+        "transcript": ""
+    },
+    "fj228x-001-110412_195722_0001869_0002147.wav": {
+        "ground": "hi i am looking for a pub",
+        "transcript": "i' looking for a pub"
+    },
+    "fj228x-002-110412_195729_0002782_0002877.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-003-110412_195733_0002948_0003240.wav": {
+        "ground": "but it should have an internet connection",
+        "transcript": "but it you have an internet connection"
+    },
+    "fj228x-004-110412_195746_0004116_0004554.wav": {
+        "ground": "da does it have a television too",
+        "transcript": "does that we have television too"
+    },
+    "fj228x-005-110412_195754_0005256_0005392.wav": {
+        "ground": "and television",
+        "transcript": "andation"
+    },
+    "fj228x-006-110412_195803_0006144_0006306.wav": {
+        "ground": "what about television",
+        "transcript": "what about television"
+    },
+    "fj228x-007-110412_195815_0007234_0007507.wav": {
+        "ground": "ok can i get the address",
+        "transcript": "okay can i get the address"
+    },
+    "fj228x-008-110412_195825_0008368_0008511.wav": {
+        "ground": "and the phone number",
+        "transcript": "and it for number"
+    },
+    "fj228x-009-110412_195838_0009566_0009793.wav": {
+        "ground": "are children allowed in",
+        "transcript": "are children allowed him"
+    },
+    "fj228x-010-110412_195849_0010778_0010869.wav": {
+        "ground": "ok",
+        "transcript": ""
+    },
+    "fj228x-011-110412_195851_0010937_0011097.wav": {
+        "ground": "what about television",
+        "transcript": "what about televisions"
+    },
+    "fj228x-012-110412_195900_0011635_0011979.wav": {
+        "ground": "unintelligible does it have television",
+        "transcript": "yet vio does he have dilevision"
+    },
+    "fj228x-013-110412_195912_0013151_0013210.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-014-110412_195916_0013261_0013520.wav": {
+        "ground": "ok unintelligible television",
+        "transcript": "okay the delevision"
+    },
+    "fj228x-015-110412_195930_0014324_0014928.wav": {
+        "ground": "no i want to know if there is television in that pub",
+        "transcript": "though i want to know if there is still avision in that part"
+    },
+    "fj228x-016-110412_195939_0015547_0015871.wav": {
+        "ground": "im looking for a pub that have television",
+        "transcript": "i'm looking for a pub that's alle"
+    },
+    "fj228x-017-110412_195947_0016481_0016631.wav": {
+        "ground": "im looking for a pub",
+        "transcript": "i'm looking for a park"
+    },
+    "fj228x-018-110412_195957_0017523_0017660.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-019-110412_200006_0018304_0018575.wav": {
+        "ground": "hi im looking for a pub",
+        "transcript": "i am looking for it pad"
+    },
+    "fj228x-020-110412_200016_0019311_0019554.wav": {
+        "ground": "hello im looking for a pub",
+        "transcript": "hello i'm looking for it"
+    },
+    "fj228x-021-110412_200018_0019588_0019806.wav": {
+        "ground": "dont you have internet connection",
+        "transcript": "that you have internet connections"
+    },
+    "fj228x-022-110412_200028_0020692_0020795.wav": {
+        "ground": "ok",
+        "transcript": "okay"
+    },
+    "fj228x-023-110412_200032_0020953_0021101.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110412_033117_0001838_0002107.wav": {
+        "ground": "i want a cheap japanese restaurant",
+        "transcript": "i want a cheap japanese restaurant"
+    },
+    "fj228x-002-110412_033128_0003066_0003327.wav": {
+        "ground": "i want a moderate japanese restaurant",
+        "transcript": "i want a moderate japanese restaurant"
+    },
+    "fj228x-003-110412_033144_0004747_0004896.wav": {
+        "ground": "i dont care about the area",
+        "transcript": "i don't care about the area"
+    },
+    "fj228x-004-110412_033159_0006250_0006361.wav": {
+        "ground": "phone number",
+        "transcript": "phone numbers"
+    },
+    "fj228x-005-110412_033210_0007398_0007513.wav": {
+        "ground": "and the price",
+        "transcript": ""
+    },
+    "fj228x-006-110412_033224_0008742_0008884.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "bye"
+    },
+    "fj228x-001-110403_014354_0002055_0002486.wav": {
+        "ground": "im looking for a cheap restaurant and it should be in the fen ditton area",
+        "transcript": "i'm looking for a cheap restaurant and it should be in defendington area"
+    },
+    "fj228x-002-110403_014406_0003513_0003607.wav": {
+        "ground": "chinese",
+        "transcript": "chinese"
+    },
+    "fj228x-003-110403_014419_0004818_0004943.wav": {
+        "ground": "fen ditton",
+        "transcript": ""
+    },
+    "fj228x-004-110403_014433_0006292_0006368.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-005-110403_014448_0007681_0007847.wav": {
+        "ground": "what is the phone number and address",
+        "transcript": "what is the phone number and address"
+    },
+    "fj228x-006-110403_014505_0009454_0009570.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good by"
+    },
+    "fj228x-001-110406_201618_0001987_0002597.wav": {
+        "ground": "noise im trying to find a moderately priced restaurant and i want it to be in the chesterton area",
+        "transcript": "i'm trying to find a moderately priced restaurant and i want it to be in the chestertonn area"
+    },
+    "fj228x-002-110406_201637_0003879_0004416.wav": {
+        "ground": "may i have the address phone number and price of the venue",
+        "transcript": "can i have the address phone number and price of the venue"
+    },
+    "fj228x-003-110406_201700_0006522_0006800.wav": {
+        "ground": "good bye and thank you",
+        "transcript": "goodbye and thank you"
+    },
+    "fj228x-001-110404_163138_0001964_0002229.wav": {
+        "ground": "im looking for a restaurant in kings hedges",
+        "transcript": "looking for a restaurant and king's hedges"
+    },
+    "fj228x-002-110404_163152_0003391_0003611.wav": {
+        "ground": "i need to know their address",
+        "transcript": "i need another address"
+    },
+    "fj228x-003-110404_163159_0004300_0004400.wav": {
+        "ground": "phone number",
+        "transcript": "phone member"
+    },
+    "fj228x-004-110404_163210_0005414_0005483.wav": {
+        "ground": "unintelligible the food",
+        "transcript": "type of food"
+    },
+    "fj228x-005-110404_163219_0006211_0006350.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good die"
+    },
+    "fj228x-001-110405_174510_0001946_0002303.wav": {
+        "ground": "east asian restaurant",
+        "transcript": "east asian restaurant"
+    },
+    "fj228x-002-110405_174513_0002448_0002605.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-003-110405_174516_0002863_0002970.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-004-110405_174517_0003011_0003075.wav": {
+        "ground": "sil",
+        "transcript": "say"
+    },
+    "fj228x-005-110405_174520_0003204_0003290.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-006-110405_174522_0003312_0003506.wav": {
+        "ground": "expensive",
+        "transcript": "expensive"
+    },
+    "fj228x-007-110405_174536_0004800_0004933.wav": {
+        "ground": "trinity college",
+        "transcript": "trinity college"
+    },
+    "fj228x-008-110405_174550_0006179_0006304.wav": {
+        "ground": "catharines college",
+        "transcript": "jeffin's college"
+    },
+    "fj228x-009-110405_174559_0007177_0007237.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-010-110405_174615_0008575_0008790.wav": {
+        "ground": "whats the address",
+        "transcript": "ster at this"
+    },
+    "fj228x-011-110405_174631_0010198_0010347.wav": {
+        "ground": "uh whats the phone number",
+        "transcript": "what's phone number"
+    },
+    "fj228x-012-110405_174644_0011498_0011653.wav": {
+        "ground": "okay thank you goodbye",
+        "transcript": "okay thank you when my"
+    },
+    "fj228x-001-110403_151729_0000082_0000305.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110403_151741_0001225_0001576.wav": {
+        "ground": "im looking for a contemporary restaurant that is free",
+        "transcript": "i'm looking for a contemporary restaurant that is free"
+    },
+    "fj228x-003-110403_151756_0002755_0003021.wav": {
+        "ground": "what is the address phone number and area",
+        "transcript": "what is the address phone number and area"
+    },
+    "fj228x-004-110403_151813_0004602_0004750.wav": {
+        "ground": "what is the area",
+        "transcript": "what is the area"
+    },
+    "fj228x-005-110403_151821_0005454_0005566.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_071742_0001808_0002114.wav": {
+        "ground": "im looking for a cheap coffee shop",
+        "transcript": "i'm looking for a cheap coffee shop"
+    },
+    "fj228x-002-110409_071752_0003005_0003116.wav": {
+        "ground": "any kind",
+        "transcript": "any kind"
+    },
+    "fj228x-003-110409_071801_0003982_0004093.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    "fj228x-004-110409_071814_0005292_0005329.wav": {
+        "ground": "no",
+        "transcript": "now"
+    },
+    "fj228x-005-110409_071827_0006342_0006614.wav": {
+        "ground": "what is the phone number and postcode",
+        "transcript": "what is the phone number in postcode"
+    },
+    "fj228x-006-110409_071842_0008034_0008182.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110411_062226_0001872_0002308.wav": {
+        "ground": "system i am looking for a moderately priced restaurant in the newnham area",
+        "transcript": "i am looking for a moderately priced restaurant in the newonham area"
+    },
+    "fj228x-002-110411_062240_0003443_0003688.wav": {
+        "ground": "whats the address and phone number of the venue",
+        "transcript": "let's to address and phone number of the venue"
+    },
+    "fj228x-003-110411_062255_0005065_0005215.wav": {
+        "ground": "what was the address again",
+        "transcript": "what was the addressed again"
+    },
+    "fj228x-004-110411_062304_0005947_0006090.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110411_055734_0001815_0002074.wav": {
+        "ground": "yes im looking for an american restaurant",
+        "transcript": "yes i'm looking for an american restaurant"
+    },
+    "fj228x-002-110411_055744_0002953_0003067.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-003-110411_055756_0004217_0004311.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110411_055808_0005202_0005514.wav": {
+        "ground": "whats the address phone number and price of the venue",
+        "transcript": "what's the address phone number and price to the venue"
+    },
+    "fj228x-005-110411_055832_0007760_0007912.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_162632_0001894_0002332.wav": {
+        "ground": "i want to find a pub with an internet connection and a tv",
+        "transcript": "i want to find a pub on an internet connection and a td"
+    },
+    "fj228x-002-110409_162645_0003454_0003601.wav": {
+        "ground": "what is its phone number",
+        "transcript": "its phone number"
+    },
+    "fj228x-003-110409_162657_0004689_0004849.wav": {
+        "ground": "what is its address",
+        "transcript": "what is its address"
+    },
+    "fj228x-004-110409_162707_0005664_0005811.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110410_171405_0001907_0002312.wav": {
+        "ground": "i would like information about a pub with an internet connection and a television",
+        "transcript": "i would like information about a pub with an internet connection and a television"
+    },
+    "fj228x-002-110410_171415_0003199_0003260.wav": {
+        "ground": "the bakers have tv",
+        "transcript": "the bakers have t v"
+    },
+    "fj228x-003-110410_171423_0004085_0004109.wav": {
+        "ground": "the bakers have tv",
+        "transcript": "the bakers have t v"
+    },
+    "fj228x-004-110410_171435_0005106_0005256.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you could die"
+    },
+    "fj228x-001-110409_163956_0001842_0002189.wav": {
+        "ground": "id like a moderately priced restaurant in the trumpington",
+        "transcript": "i'd like a moderately priced restaurant in trumpington"
+    },
+    "fj228x-002-110409_164007_0003215_0003298.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-003-110409_164021_0004505_0004683.wav": {
+        "ground": "what is its address",
+        "transcript": "itsress"
+    },
+    "fj228x-004-110409_164033_0005676_0005831.wav": {
+        "ground": "what is its telephone number",
+        "transcript": "what is its telephone number"
+    },
+    "fj228x-005-110409_164048_0007072_0007330.wav": {
+        "ground": "what type of food does it serve",
+        "transcript": "what type of food does it serve"
+    },
+    "fj228x-006-110409_164056_0008025_0008162.wav": {
+        "ground": "thank you good bye",
+        "transcript": "you could"
+    },
+    "fj228x-001-110403_223848_0001792_0002209.wav": {
+        "ground": "yes i am looking for a moderately priced pub in the castlehill area",
+        "transcript": "yes i'm looking for a moderatelyu price pub and the castle hill area"
+    },
+    "fj228x-002-110403_223857_0002811_0003088.wav": {
+        "ground": "im looking for a venue that has internet",
+        "transcript": "i'm looking for venues that has internet"
+    },
+    "fj228x-003-110403_223910_0004229_0004356.wav": {
+        "ground": "is there moderately",
+        "transcript": "is there modely"
+    },
+    "fj228x-004-110403_223914_0004437_0004735.wav": {
+        "ground": "price range pub in the castlehill area",
+        "transcript": "christ range pub in the castle hill area"
+    },
+    "fj228x-005-110403_223924_0005451_0005800.wav": {
+        "ground": "a moderate price range pub in the castlehill area",
+        "transcript": "a moderate price range pub and castle hill area"
+    },
+    "fj228x-006-110403_223935_0006785_0006903.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-007-110403_223942_0007449_0007527.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-008-110403_223952_0008389_0008540.wav": {
+        "ground": "may i have the phone number",
+        "transcript": "may i have the phone number"
+    },
+    "fj228x-009-110403_224015_0010723_0010875.wav": {
+        "ground": "does it have internet",
+        "transcript": "does it house internet"
+    },
+    "fj228x-010-110403_224023_0011523_0011672.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you go by"
+    },
+    "fj228x-001-110402_204844_0000264_0000468.wav": {
+        "ground": "sil",
+        "transcript": "s"
+    },
+    "fj228x-002-110402_204855_0001435_0001576.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-003-110402_204859_0001833_0001980.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-004-110402_204912_0002902_0003257.wav": {
+        "ground": "uh greek restaurant i dont care about the price range",
+        "transcript": "uh greek restaurant i don't care about the price ring"
+    },
+    "fj228x-005-110402_204920_0003953_0004053.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-006-110402_204923_0004279_0004386.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-007-110402_204927_0004639_0004798.wav": {
+        "ground": "greek restaurant",
+        "transcript": "greek restaurants"
+    },
+    "fj228x-008-110402_204930_0004931_0005027.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-009-110402_204944_0006309_0006427.wav": {
+        "ground": "uh",
+        "transcript": ""
+    },
+    "fj228x-010-110402_204952_0007187_0007284.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-011-110402_205002_0008182_0008271.wav": {
+        "ground": "central",
+        "transcript": "central"
+    },
+    "fj228x-012-110402_205016_0009361_0009664.wav": {
+        "ground": "yes i need the address the phone number and the postcode",
+        "transcript": "yes i need to address the phone number and the postcodes"
+    },
+    "fj228x-013-110402_205036_0011470_0011612.wav": {
+        "ground": "okay i need the address",
+        "transcript": "canny the edges"
+    },
+    "fj228x-014-110402_205049_0012758_0012907.wav": {
+        "ground": "okay thank you goodbye",
+        "transcript": "ho can i thank he's goodbe"
+    },
+    "fj228x-001-110414_192328_0001954_0002595.wav": {
+        "ground": "i am looking for a moderately priced restaurant and it should be in the barnwell area",
+        "transcript": "i am looking for a moderately price restaurant and it should be in the barnwell area"
+    },
+    "fj228x-002-110414_192333_0002862_0003139.wav": {
+        "ground": "if you can provide phone number address",
+        "transcript": "if you can provide phone number address"
+    },
+    "fj228x-003-110414_192401_0005718_0005860.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_222955_0000592_0000849.wav": {
+        "ground": "im looking for a pub with an internet connection",
+        "transcript": "i'm looking for a publication in an internet connection"
+    },
+    "fj228x-002-110409_223004_0001590_0001766.wav": {
+        "ground": "what is the address and price range",
+        "transcript": "what is the addressing price range"
+    },
+    "fj228x-003-110409_223024_0003644_0003780.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "take you too by"
+    },
+    "fj228x-001-110410_010002_0001883_0002104.wav": {
+        "ground": "im looking for a cheap pub",
+        "transcript": "i'ming for alabus"
+    },
+    "fj228x-002-110410_010011_0002968_0003052.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-003-110410_010020_0003866_0003945.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-004-110410_010031_0004850_0004995.wav": {
+        "ground": "may i have the address",
+        "transcript": "may i have the address"
+    },
+    "fj228x-005-110410_010039_0005646_0005789.wav": {
+        "ground": "and the phone number",
+        "transcript": "and the phone number"
+    },
+    "fj228x-006-110410_010052_0006933_0007079.wav": {
+        "ground": "thank you good bye",
+        "transcript": "think you could buy"
+    },
+    "fj228x-001-110412_040133_0001794_0002283.wav": {
+        "ground": "im looking for a moderately priced restaurant in the cherry hinton area",
+        "transcript": "i am looking for a moderately priced restaurant in the cherry hinton area"
+    },
+    "fj228x-002-110412_040143_0003184_0003306.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-003-110412_040151_0004014_0004081.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-004-110412_040205_0005306_0005494.wav": {
+        "ground": "what is the address and type of food",
+        "transcript": "what is the address and tya food"
+    },
+    "fj228x-005-110412_040215_0006441_0006541.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-006-110412_040218_0006560_0006792.wav": {
+        "ground": "what is the address and type of food",
+        "transcript": "what is the address and type of free"
+    },
+    "fj228x-007-110412_040228_0007424_0007832.wav": {
+        "ground": "im looking for a moderately priced restaurant in the cherry hinton area",
+        "transcript": "i'm looking for a moderately plushed restaurant in the je hinton area"
+    },
+    "fj228x-008-110412_040239_0008721_0008865.wav": {
+        "ground": "what is the type of food",
+        "transcript": "what is the type of food"
+    },
+    "fj228x-009-110412_040247_0009557_0009676.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "than you the pa"
+    },
+    "fj228x-001-110412_020858_0000538_0000602.wav": {
+        "ground": "unitelligible",
+        "transcript": ""
+    },
+    "fj228x-002-110412_020912_0001514_0001929.wav": {
+        "ground": "im looking for a cheap restaurant in the cherry hinton area",
+        "transcript": "i'm looking for a cheap restaurant in the cherry hinton area"
+    },
+    "fj228x-003-110412_020916_0002261_0002363.wav": {
+        "ground": "sil",
+        "transcript": "m"
+    },
+    "fj228x-004-110412_020920_0002761_0002820.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-005-110412_020928_0003537_0003604.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-006-110412_020932_0003890_0003987.wav": {
+        "ground": "dont care",
+        "transcript": "don't care"
+    },
+    "fj228x-007-110412_020935_0004191_0004318.wav": {
+        "ground": "dont care",
+        "transcript": "don't care"
+    },
+    "fj228x-008-110412_020943_0004649_0005049.wav": {
+        "ground": "a restaurant",
+        "transcript": ""
+    },
+    "fj228x-009-110412_020952_0005738_0005978.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-010-110412_020954_0006045_0006163.wav": {
+        "ground": "dont care",
+        "transcript": "dult care"
+    },
+    "fj228x-011-110412_020956_0006311_0006391.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-012-110412_021007_0007335_0007463.wav": {
+        "ground": "whats the address",
+        "transcript": "what the address"
+    },
+    "fj228x-013-110412_021018_0008371_0008548.wav": {
+        "ground": "whats the address",
+        "transcript": "what's the address"
+    },
+    "fj228x-014-110412_021023_0008882_0009025.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-015-110412_021029_0009498_0009661.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-016-110412_021038_0010366_0010516.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110412_223040_0001908_0002285.wav": {
+        "ground": "im looking for english restaurant in the moderate price range",
+        "transcript": "i'm looking for an english restaurant in the moderate price range"
+    },
+    "fj228x-002-110412_223055_0003628_0003760.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-003-110412_223107_0004754_0004958.wav": {
+        "ground": "and what is the postcode of the venue",
+        "transcript": "and what is the postcode of the venue"
+    },
+    "fj228x-004-110412_223118_0005783_0006080.wav": {
+        "ground": "thank you good bye",
+        "transcript": "think you could bye"
+    },
+    "fj228x-001-110404_193053_0001855_0002251.wav": {
+        "ground": "i want to find a pub and it should have an internet connection and a tv",
+        "transcript": "i want to find a pub and it should have an internet connection on a tv"
+    },
+    "fj228x-002-110404_193102_0003036_0003150.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-003-110404_193111_0003868_0004002.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-004-110404_193122_0004967_0005101.wav": {
+        "ground": "whats the price range",
+        "transcript": "what's the price range"
+    },
+    "fj228x-005-110404_193131_0005900_0006026.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110405_170244_0000074_0000340.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110405_170257_0001278_0001604.wav": {
+        "ground": "what is a cheap restaurant in the fenditton area",
+        "transcript": "what is a cheap restaurant in the fended area"
+    },
+    "fj228x-003-110405_170311_0002857_0002988.wav": {
+        "ground": "fenditton",
+        "transcript": "then ditton"
+    },
+    "fj228x-004-110405_170324_0004195_0004258.wav": {
+        "ground": "fenditton",
+        "transcript": ""
+    },
+    "fj228x-005-110405_170337_0005573_0005671.wav": {
+        "ground": "fenditton",
+        "transcript": ""
+    },
+    "fj228x-006-110405_170348_0006544_0006694.wav": {
+        "ground": "fenditton",
+        "transcript": "bitten"
+    },
+    "fj228x-007-110405_170400_0007777_0007927.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-008-110405_170412_0009035_0009172.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-009-110405_170422_0009952_0010092.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110412_184232_0000185_0000298.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110412_184244_0001133_0001434.wav": {
+        "ground": "a pub food restaurant",
+        "transcript": "a food restaurant"
+    },
+    "fj228x-003-110412_184255_0002395_0002588.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    "fj228x-004-110412_184304_0003283_0003468.wav": {
+        "ground": "fen ditton area",
+        "transcript": "fenington area"
+    },
+    "fj228x-005-110412_184317_0004689_0004735.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-006-110412_184328_0005711_0005859.wav": {
+        "ground": "what area is it in",
+        "transcript": "what area is it in"
+    },
+    "fj228x-007-110412_184343_0006767_0007313.wav": {
+        "ground": "do you have a pub food restaurant in the fen ditton area",
+        "transcript": "do you have a subb food restaurant in uh spendington area"
+    },
+    "fj228x-008-110412_184358_0008444_0008797.wav": {
+        "ground": "do you have any others in the fen ditton area",
+        "transcript": "do you have any others in the spndentton area"
+    },
+    "fj228x-009-110412_184410_0009865_0010014.wav": {
+        "ground": "what area is it in",
+        "transcript": "what area is it in"
+    },
+    "fj228x-010-110412_184422_0010929_0011241.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-011-110412_184432_0012019_0012181.wav": {
+        "ground": "what is the postcode",
+        "transcript": "what is the cot code"
+    },
+    "fj228x-012-110412_184443_0013083_0013334.wav": {
+        "ground": "do you have any others in that area",
+        "transcript": "do you have any others in that area"
+    },
+    "fj228x-013-110412_184455_0014328_0014476.wav": {
+        "ground": "what area is it in",
+        "transcript": "what area is it in"
+    },
+    "fj228x-014-110412_184508_0015290_0015830.wav": {
+        "ground": "do you have any other pub food restaurants in the fen ditton area",
+        "transcript": "do you have any other club food restaurants in the and it an area"
+    },
+    "fj228x-015-110412_184519_0016763_0016909.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_212115_0001906_0002056.wav": {
+        "ground": "im looking for a restaurant",
+        "transcript": "i'm looking for a restaurant"
+    },
+    "fj228x-002-110409_212126_0003033_0003184.wav": {
+        "ground": "any price range",
+        "transcript": "any price range"
+    },
+    "fj228x-003-110409_212138_0004293_0004443.wav": {
+        "ground": "any type of food",
+        "transcript": "any type of food"
+    },
+    "fj228x-004-110409_212149_0005461_0005557.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-005-110409_212159_0006409_0006495.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-006-110409_212203_0006864_0006933.wav": {
+        "ground": "unintelligible",
+        "transcript": "ch"
+    },
+    "fj228x-007-110409_212210_0007514_0007586.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-008-110409_212213_0007753_0007890.wav": {
+        "ground": "restaurant",
+        "transcript": ""
+    },
+    "fj228x-009-110409_212217_0008198_0008295.wav": {
+        "ground": "restaurant",
+        "transcript": ""
+    },
+    "fj228x-010-110409_212225_0009021_0009118.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-011-110409_212231_0009639_0009731.wav": {
+        "ground": "yesd",
+        "transcript": "yes"
+    },
+    "fj228x-012-110409_212240_0010473_0010623.wav": {
+        "ground": "chesterton",
+        "transcript": "chesterson"
+    },
+    "fj228x-013-110409_212251_0011613_0011688.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-014-110409_212259_0012423_0012538.wav": {
+        "ground": "any price",
+        "transcript": "any price"
+    },
+    "fj228x-015-110409_212304_0012869_0013060.wav": {
+        "ground": "any price range",
+        "transcript": "eddye price range"
+    },
+    "fj228x-016-110409_212309_0013437_0013472.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-017-110409_212312_0013536_0013628.wav": {
+        "ground": "chesterton",
+        "transcript": "testers"
+    },
+    "fj228x-018-110409_212318_0014398_0014471.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-019-110409_212323_0014579_0014779.wav": {
+        "ground": "any price range",
+        "transcript": "any price range"
+    },
+    "fj228x-020-110409_212330_0015456_0015604.wav": {
+        "ground": "chesterton",
+        "transcript": "chesterson"
+    },
+    "fj228x-021-110409_212340_0016462_0016612.wav": {
+        "ground": "any price range",
+        "transcript": "eddy price range"
+    },
+    "fj228x-022-110409_212354_0017830_0018025.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110404_194456_0001873_0002077.wav": {
+        "ground": "turkish restaurant",
+        "transcript": "turkish restaurantant"
+    },
+    "fj228x-002-110404_194509_0003053_0003335.wav": {
+        "ground": "doesnt matter the price range",
+        "transcript": "does it matter the price range"
+    },
+    "fj228x-003-110404_194519_0004057_0004398.wav": {
+        "ground": "price range no price range",
+        "transcript": "why range low price range"
+    },
+    "fj228x-004-110404_194522_0004579_0004711.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-005-110404_194525_0004941_0005020.wav": {
+        "ground": "nosie sil",
+        "transcript": ""
+    },
+    "fj228x-006-110404_194530_0005294_0005483.wav": {
+        "ground": "turkish food",
+        "transcript": "kish"
+    },
+    "fj228x-007-110404_194534_0005699_0005851.wav": {
+        "ground": "turkish food",
+        "transcript": "urk his flu"
+    },
+    "fj228x-008-110404_194544_0006627_0006859.wav": {
+        "ground": "doesnt matter the price range",
+        "transcript": "it doesn't matter the price sp"
+    },
+    "fj228x-009-110404_194550_0007112_0007509.wav": {
+        "ground": "any price range any price range",
+        "transcript": "a price range any price range"
+    },
+    "fj228x-010-110404_194555_0007722_0008016.wav": {
+        "ground": "any price range",
+        "transcript": "he cried raations"
+    },
+    "fj228x-011-110404_194558_0008135_0008301.wav": {
+        "ground": "any price range",
+        "transcript": "any price range"
+    },
+    "fj228x-012-110404_194610_0009374_0009498.wav": {
+        "ground": "dont care",
+        "transcript": "don't care"
+    },
+    "fj228x-013-110404_194620_0010254_0010403.wav": {
+        "ground": "turkish food",
+        "transcript": "turkish food"
+    },
+    "fj228x-014-110404_194629_0011140_0011348.wav": {
+        "ground": "dont care breathing",
+        "transcript": "don't care"
+    },
+    "fj228x-015-110404_194630_0011435_0011522.wav": {
+        "ground": "breathing sil",
+        "transcript": ""
+    },
+    "fj228x-016-110404_194640_0012224_0012450.wav": {
+        "ground": "dont care clicking",
+        "transcript": "don't care"
+    },
+    "fj228x-017-110404_194646_0012826_0013031.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-018-110404_194649_0013278_0013386.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-019-110404_194656_0013970_0014090.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-020-110404_194659_0014264_0014398.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-021-110404_194714_0015739_0015907.wav": {
+        "ground": "can i have the address",
+        "transcript": "can i have thep"
+    },
+    "fj228x-022-110404_194720_0016125_0016499.wav": {
+        "ground": "noise i need the address and the post co",
+        "transcript": "i need address and a co"
+    },
+    "fj228x-023-110404_194726_0016964_0017120.wav": {
+        "ground": "i need the address",
+        "transcript": "i need you address"
+    },
+    "fj228x-024-110404_194736_0017855_0018074.wav": {
+        "ground": "thank you good bye",
+        "transcript": ""
+    },
+    "fj228x-025-110404_194740_0018168_0018404.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank too good bye"
+    },
+    "fj228x-001-110407_170654_0001866_0002301.wav": {
+        "ground": "im looking for a contemporary restaurant in the castle hill area",
+        "transcript": "i'm looking for a contemporary restaurant in the castle hiill area"
+    },
+    "fj228x-002-110407_170704_0003219_0003291.wav": {
+        "ground": "any",
+        "transcript": ""
+    },
+    "fj228x-003-110407_170713_0004044_0004128.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-004-110407_170716_0004414_0004493.wav": {
+        "ground": "moderate",
+        "transcript": "rate"
+    },
+    "fj228x-005-110407_170729_0005591_0005737.wav": {
+        "ground": "castle hill area",
+        "transcript": "castle hill area"
+    },
+    "fj228x-006-110407_170737_0006362_0006529.wav": {
+        "ground": "castle hill area",
+        "transcript": "castle hill area"
+    },
+    "fj228x-007-110407_170749_0007722_0007802.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-008-110407_170800_0008758_0008905.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-009-110407_170809_0009643_0009783.wav": {
+        "ground": "what is the phone number",
+        "transcript": "sport is a phone number"
+    },
+    "fj228x-010-110407_170821_0010809_0010947.wav": {
+        "ground": "what is the post code",
+        "transcript": "what is a postcode"
+    },
+    "fj228x-011-110407_170830_0011781_0011872.wav": {
+        "ground": "thank you good bye",
+        "transcript": "think you good bye"
+    },
+    "fj228x-001-110409_163218_0001857_0002221.wav": {
+        "ground": "im looking for a turkish restaurant in the expensive price range",
+        "transcript": "i'm looking for a turkish restaurant in the expensive price range"
+    },
+    "fj228x-002-110409_163228_0003190_0003310.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it't matter"
+    },
+    "fj228x-003-110409_163241_0004424_0004514.wav": {
+        "ground": "whats the address",
+        "transcript": "would seeress"
+    },
+    "fj228x-004-110409_163258_0006180_0006286.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the far over"
+    },
+    "fj228x-005-110409_163309_0007280_0007389.wav": {
+        "ground": "whats the post code",
+        "transcript": "the postguard"
+    },
+    "fj228x-006-110409_163318_0008172_0008264.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_200223_0000265_0000402.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-002-110409_200234_0001363_0001540.wav": {
+        "ground": "free restaurant",
+        "transcript": "free restaurant"
+    },
+    "fj228x-003-110409_200248_0002813_0002943.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110409_200259_0003881_0004002.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-005-110409_200312_0004957_0005362.wav": {
+        "ground": "phone number and address please",
+        "transcript": "phone number in address"
+    },
+    "fj228x-006-110409_200317_0005682_0005818.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-007-110409_200322_0006010_0006274.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-008-110409_200323_0006305_0006429.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-009-110409_200335_0007045_0007581.wav": {
+        "ground": "free restaurant",
+        "transcript": "free restaurant"
+    },
+    "fj228x-010-110409_200347_0008624_0008857.wav": {
+        "ground": "im looking for a free restaurant",
+        "transcript": "i'm looking for a free restaurant"
+    },
+    "fj228x-011-110409_200358_0009709_0009875.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-012-110409_200400_0010084_0010155.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-013-110409_200403_0010343_0010384.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-014-110409_200411_0011066_0011263.wav": {
+        "ground": "phone number and address please",
+        "transcript": "phone number and address please"
+    },
+    "fj228x-015-110409_200424_0012424_0012541.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-016-110409_200445_0014473_0014638.wav": {
+        "ground": "is it a free restaurant",
+        "transcript": "get a free restaurant"
+    },
+    "fj228x-017-110409_200457_0015729_0015866.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110414_180250_0001931_0002360.wav": {
+        "ground": "i would like to find a moderately priced restaurant in the cherry hinton area",
+        "transcript": "i would like to find a moderately priced restaurant in the cherry hil area"
+    },
+    "fj228x-002-110414_180303_0003607_0003646.wav": {
+        "ground": "no",
+        "transcript": "now"
+    },
+    "fj228x-003-110414_180311_0004315_0004407.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110414_180322_0005369_0005493.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-005-110414_180323_0005539_0005634.wav": {
+        "ground": "of the venue",
+        "transcript": "of the venue"
+    },
+    "fj228x-006-110414_180333_0006503_0006630.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-007-110414_180345_0007741_0007868.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-008-110414_180355_0008683_0008831.wav": {
+        "ground": "and what is the price of the venue",
+        "transcript": "and what is the price of the venue"
+    },
+    "fj228x-009-110414_180419_0011112_0011229.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110413_015550_0001909_0002273.wav": {
+        "ground": "i need a continental restaurant in the riverside area",
+        "transcript": "i need a continental restaurant in the riverside area"
+    },
+    "fj228x-002-110413_015603_0003308_0003551.wav": {
+        "ground": "may i have the address and phone number",
+        "transcript": "may i have the address and phone number"
+    },
+    "fj228x-003-110413_015619_0004966_0005125.wav": {
+        "ground": "what is the postcode",
+        "transcript": "is postcode"
+    },
+    "fj228x-004-110413_015628_0005983_0006107.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110406_001415_0000039_0000555.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110406_001426_0001412_0001672.wav": {
+        "ground": "im looking for a restaurant in barnwell",
+        "transcript": "i'm looking for a restaurant in bawell"
+    },
+    "fj228x-003-110406_001438_0002681_0002895.wav": {
+        "ground": "can i have the address and postcode",
+        "transcript": "can i have the address in postcode"
+    },
+    "fj228x-004-110406_001452_0004100_0004227.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110414_152001_0000219_0000308.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-002-110414_152017_0001628_0001973.wav": {
+        "ground": "i want a moderately priced restaurant in the new chesterton area",
+        "transcript": "i want a moderately price restaurant in the new chestertonn areas"
+    },
+    "fj228x-003-110414_152029_0002814_0003176.wav": {
+        "ground": "a moderately priced restaurant in the new chesterton area",
+        "transcript": "a moderately placed restaurant in the new chestertonn area"
+    },
+    "fj228x-004-110414_152042_0004355_0004467.wav": {
+        "ground": "whats the address",
+        "transcript": "let's the adres"
+    },
+    "fj228x-005-110414_152052_0005090_0005411.wav": {
+        "ground": "and whats the price",
+        "transcript": "and what's the price"
+    },
+    "fj228x-006-110414_152055_0005630_0005748.wav": {
+        "ground": "yawning",
+        "transcript": "and"
+    },
+    "fj228x-007-110414_152056_0005841_0005901.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-008-110414_152104_0006496_0006611.wav": {
+        "ground": "whats the price",
+        "transcript": "what's the price"
+    },
+    "fj228x-009-110414_152109_0007008_0007112.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-010-110414_152118_0007882_0008028.wav": {
+        "ground": "thanks bye",
+        "transcript": "thans"
+    },
+    "fj228x-001-110407_192709_0001815_0002230.wav": {
+        "ground": "im looking for a free restaurant in the city center area",
+        "transcript": "i'm looking for a free restaurant in the city center area"
+    },
+    "fj228x-002-110407_192722_0003480_0003610.wav": {
+        "ground": "city center",
+        "transcript": "city center"
+    },
+    "fj228x-003-110407_192733_0004608_0004689.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-004-110407_192750_0006091_0006316.wav": {
+        "ground": "i need the address and phone number",
+        "transcript": "i need the address and phone number"
+    },
+    "fj228x-005-110407_192806_0007826_0007954.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_205545_0001848_0002139.wav": {
+        "ground": "im looking for a free restaurant",
+        "transcript": "i'm looking for a free restaurant"
+    },
+    "fj228x-002-110409_205554_0003006_0003084.wav": {
+        "ground": "no im not",
+        "transcript": "no i'm not"
+    },
+    "fj228x-003-110409_205557_0003365_0003433.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-004-110409_205606_0004131_0004251.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it matter"
+    },
+    "fj228x-005-110409_205612_0004662_0004895.wav": {
+        "ground": "i dont care about the area",
+        "transcript": "i don't care about the area"
+    },
+    "fj228x-006-110409_205616_0005017_0005272.wav": {
+        "ground": "shhh",
+        "transcript": ""
+    },
+    "fj228x-007-110409_205626_0005809_0006222.wav": {
+        "ground": "can i get the phone number and post code of it",
+        "transcript": "can i get the phone number and post tode of it"
+    },
+    "fj228x-008-110409_205630_0006604_0006670.wav": {
+        "ground": "noise",
+        "transcript": ""
+    },
+    "fj228x-009-110409_205634_0006725_0007017.wav": {
+        "ground": "can i get the telephone number and postal code",
+        "transcript": "can i get the telephone number in postal code"
+    },
+    "fj228x-010-110409_205641_0007728_0007806.wav": {
+        "ground": "noise",
+        "transcript": ""
+    },
+    "fj228x-011-110409_205643_0007881_0007947.wav": {
+        "ground": "noise",
+        "transcript": "yet"
+    },
+    "fj228x-012-110409_205646_0008078_0008290.wav": {
+        "ground": "noise",
+        "transcript": ""
+    },
+    "fj228x-013-110409_205651_0008536_0008798.wav": {
+        "ground": "can i get the telephone number and postal code please",
+        "transcript": "can i get the telephone member and postal code please"
+    },
+    "fj228x-014-110409_205656_0009094_0009252.wav": {
+        "ground": "noise",
+        "transcript": "ak rush"
+    },
+    "fj228x-015-110409_205709_0010457_0010629.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110405_170749_0000067_0000291.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110405_170803_0001316_0001640.wav": {
+        "ground": "moderate price range a fusion restaurant",
+        "transcript": "moderate price range of fusion restaurant"
+    },
+    "fj228x-003-110405_170817_0002962_0003036.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-004-110405_170829_0004146_0004283.wav": {
+        "ground": "what is the address",
+        "transcript": "with the address"
+    },
+    "fj228x-005-110405_170840_0004987_0005338.wav": {
+        "ground": "what is the area of the venue",
+        "transcript": "what is the area of the venue"
+    },
+    "fj228x-006-110405_170849_0006090_0006220.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you goodbye"
+    },
+    "fj228x-001-110409_224702_0001911_0002340.wav": {
+        "ground": "im looking for greek restaurant in the city center area",
+        "transcript": "i'm looking for a greek restaurant in the city center area"
+    },
+    "fj228x-002-110409_224714_0003449_0003563.wav": {
+        "ground": "what is the price",
+        "transcript": "what is the price"
+    },
+    "fj228x-003-110409_224728_0004806_0004957.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-004-110409_224740_0006046_0006156.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_004839_0000083_0000511.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-002-110409_004849_0001352_0001486.wav": {
+        "ground": "coffee shop",
+        "transcript": "coffee shop"
+    },
+    "fj228x-003-110409_004851_0001608_0001713.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-004-110409_004900_0002497_0002649.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-005-110409_004941_0006586_0006673.wav": {
+        "ground": "arbury",
+        "transcript": "harbory"
+    },
+    "fj228x-006-110409_004949_0007445_0007525.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-007-110409_005002_0008646_0008754.wav": {
+        "ground": "central",
+        "transcript": "central"
+    },
+    "fj228x-008-110409_005009_0009362_0009470.wav": {
+        "ground": "coffee shop",
+        "transcript": "coffee shop"
+    },
+    "fj228x-009-110409_005018_0010325_0010399.wav": {
+        "ground": "castle hill",
+        "transcript": "castleville"
+    },
+    "fj228x-010-110409_005030_0011535_0011615.wav": {
+        "ground": "drink",
+        "transcript": ""
+    },
+    "fj228x-011-110409_005038_0012274_0012354.wav": {
+        "ground": "good bye",
+        "transcript": "good bye"
+    },
+    "fj228x-001-110414_144133_0001913_0002167.wav": {
+        "ground": "may i have a restaurant in the chesterton area",
+        "transcript": "may i have a restaurant in the chestertonn area"
+    },
+    "fj228x-002-110414_144144_0003028_0003305.wav": {
+        "ground": "may i have the phone number and postcode",
+        "transcript": "may i have the phone number in post codes"
+    },
+    "fj228x-003-110414_144200_0004765_0004900.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you by"
+    },
+    "fj228x-001-110409_173549_0000389_0000487.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-002-110409_173551_0000632_0000735.wav": {
+        "ground": "unintelligible",
+        "transcript": "yi"
+    },
+    "fj228x-003-110409_173552_0000781_0000847.wav": {
+        "ground": "background noise",
+        "transcript": "y"
+    },
+    "fj228x-004-110409_173605_0001791_0002140.wav": {
+        "ground": "a moderately priced restaurant in a chesterton area",
+        "transcript": "a moderately priced restaurant in a chesterton area"
+    },
+    "fj228x-005-110409_173617_0003086_0003360.wav": {
+        "ground": "chesterton",
+        "transcript": "chesterton"
+    },
+    "fj228x-006-110409_173629_0004461_0004586.wav": {
+        "ground": "whats the address",
+        "transcript": "what's the address"
+    },
+    "fj228x-007-110409_173638_0005342_0005487.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-008-110409_173651_0006550_0006711.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110408_152431_0001881_0002272.wav": {
+        "ground": "im looking for a thai restaurant in the expensive price range",
+        "transcript": "i'm looking for a thai restaurant in the expensive price range"
+    },
+    "fj228x-002-110408_152444_0003544_0003639.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-003-110408_152456_0004634_0004765.wav": {
+        "ground": "whats the address",
+        "transcript": "what's the address"
+    },
+    "fj228x-004-110408_152516_0006639_0006718.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-005-110408_152528_0007828_0007975.wav": {
+        "ground": "and whats the postcode",
+        "transcript": "and what's the toast good"
+    },
+    "fj228x-006-110408_152537_0008790_0008897.wav": {
+        "ground": "thank you good bye",
+        "transcript": "good bye"
+    },
+    "fj228x-001-110406_152520_0001908_0002281.wav": {
+        "ground": "im looking for a cheap restaurant in the girton area",
+        "transcript": "i'm looking for a cheap restaurant in the gurtton area"
+    },
+    "fj228x-002-110406_152534_0003488_0003624.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-003-110406_152547_0004789_0004925.wav": {
+        "ground": "what is the postcode",
+        "transcript": "is the postcoard"
+    },
+    "fj228x-004-110406_152557_0005877_0005969.wav": {
+        "ground": "thank you good bye",
+        "transcript": "than good bye"
+    },
+    "fj228x-001-110409_232345_0001840_0002265.wav": {
+        "ground": "i am looking for a pub with an internet connection and a tv",
+        "transcript": "i'm looking for a pub with an internet connection and a tv"
+    },
+    "fj228x-002-110409_232356_0003091_0003324.wav": {
+        "ground": "may i have the address and phone number",
+        "transcript": "may i have the address and phone number"
+    },
+    "fj228x-003-110409_232411_0004633_0004783.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110408_082231_0001895_0002502.wav": {
+        "ground": "hello i am looking for a restaurant uh that sells only drinks and snacks",
+        "transcript": "hello i'm looking for a restaurant to who serves only drinks and canacs"
+    },
+    "fj228x-002-110408_082245_0003493_0003812.wav": {
+        "ground": "ok what is the address and phone number of the restaurant",
+        "transcript": "okay what is the address and restaurant"
+    },
+    "fj228x-003-110408_082300_0005188_0005339.wav": {
+        "ground": "ok thank you good bye",
+        "transcript": "okay thank you goodbye"
+    },
+    "fj228x-001-110411_201329_0000172_0000436.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110411_201337_0001154_0001294.wav": {
+        "ground": "im looking for a",
+        "transcript": ""
+    },
+    "fj228x-003-110411_201341_0001353_0001685.wav": {
+        "ground": "an expensive restaurant in the fenditton area",
+        "transcript": "an expensive restaurant in the fendington area"
+    },
+    "fj228x-004-110411_201351_0002584_0002664.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-005-110411_201409_0004121_0004451.wav": {
+        "ground": "looking for a french restaurant in the river side area",
+        "transcript": "i'm looking for a french restaurant in the riverside area"
+    },
+    "fj228x-006-110411_201426_0005962_0006134.wav": {
+        "ground": "what is the phone number of the venue",
+        "transcript": "what is the phone number of the venue"
+    },
+    "fj228x-007-110411_201442_0007427_0007729.wav": {
+        "ground": "im looking for a cheap pub with internet connection",
+        "transcript": "i'm looking for a cheap pub with internet connections"
+    },
+    "fj228x-008-110411_201451_0008392_0008675.wav": {
+        "ground": "i want to know the address phone number and area",
+        "transcript": "i want to know the address phone number in area"
+    },
+    "fj228x-009-110411_201509_0010273_0010387.wav": {
+        "ground": "thank you good bye",
+        "transcript": "be you good bye"
+    },
+    "fj228x-001-110412_220933_0001891_0002030.wav": {
+        "ground": "looking for a pub",
+        "transcript": "looking for a pub"
+    },
+    "fj228x-002-110412_220939_0002611_0002706.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-003-110412_220947_0003360_0003458.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-004-110412_220950_0003478_0003726.wav": {
+        "ground": "unintelligible",
+        "transcript": "molds"
+    },
+    "fj228x-005-110412_220954_0003956_0004128.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-006-110412_221001_0004640_0004874.wav": {
+        "ground": "cheap cheap",
+        "transcript": ""
+    },
+    "fj228x-007-110412_221007_0005286_0005485.wav": {
+        "ground": "cheap",
+        "transcript": "p"
+    },
+    "fj228x-008-110412_221020_0006513_0006782.wav": {
+        "ground": "ok let me get the address and phone number",
+        "transcript": "okay let me get the addb's phone number"
+    },
+    "fj228x-009-110412_221036_0008201_0008421.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110410_051211_0000455_0000524.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110410_051222_0001391_0001661.wav": {
+        "ground": "a restaurant in the trumpington area",
+        "transcript": "a restaurant in the trumpington area"
+    },
+    "fj228x-003-110410_051232_0002533_0002671.wav": {
+        "ground": "expensive",
+        "transcript": "extenses"
+    },
+    "fj228x-004-110410_051243_0003613_0003699.wav": {
+        "ground": "expensive",
+        "transcript": "expenses"
+    },
+    "fj228x-005-110410_051248_0004082_0004271.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-006-110410_051253_0004622_0004722.wav": {
+        "ground": "trumpington",
+        "transcript": "ington"
+    },
+    "fj228x-007-110410_051257_0005048_0005124.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-008-110410_051301_0005403_0005527.wav": {
+        "ground": "trumpington",
+        "transcript": ""
+    },
+    "fj228x-009-110410_051306_0005979_0006102.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-010-110410_051314_0006770_0006898.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-011-110410_051318_0007171_0007282.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-012-110410_051322_0007527_0007653.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-013-110410_051333_0008711_0008770.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-014-110410_051348_0010143_0010236.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-015-110410_051358_0011117_0011245.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "you good by"
+    },
+    "fj228x-001-110409_020511_0001902_0002201.wav": {
+        "ground": "ah hi ah i am looking for a thia restaurant",
+        "transcript": "yeah hi uh i'm looking for a ti restaurant"
+    },
+    "fj228x-002-110409_020514_0002260_0002524.wav": {
+        "ground": "and it should be in the expensive price range",
+        "transcript": "and it should be the expensive price range"
+    },
+    "fj228x-003-110409_020518_0002774_0002875.wav": {
+        "ground": "a thai food",
+        "transcript": "thai food"
+    },
+    "fj228x-004-110409_020524_0003315_0003512.wav": {
+        "ground": "im looking for a thai restaurant",
+        "transcript": "i'm looking for a time restaurant"
+    },
+    "fj228x-005-110409_020535_0004440_0004579.wav": {
+        "ground": "a country park",
+        "transcript": "a country park"
+    },
+    "fj228x-006-110409_020546_0005570_0005699.wav": {
+        "ground": "unintelligible college",
+        "transcript": "thisus college"
+    },
+    "fj228x-007-110409_020551_0005950_0006165.wav": {
+        "ground": "ah im looking for a thai restaurant",
+        "transcript": "i i'm looking for a thai restaurant"
+    },
+    "fj228x-008-110409_020555_0006356_0006506.wav": {
+        "ground": "im looking for a thai restaurant",
+        "transcript": "i'm looking for a thai restaurant"
+    },
+    "fj228x-009-110409_020605_0007397_0007595.wav": {
+        "ground": "ah in the trinity college",
+        "transcript": "in trinity college"
+    },
+    "fj228x-010-110409_020614_0008421_0008531.wav": {
+        "ground": "a castle hill",
+        "transcript": "hi kathine's he"
+    },
+    "fj228x-011-110409_020628_0009613_0009824.wav": {
+        "ground": "thank you good bye",
+        "transcript": "hasan you good bye"
+    },
+    "fj228x-001-110404_154712_0000040_0000069.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110404_154727_0001511_0001616.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    "fj228x-003-110404_154737_0002528_0002607.wav": {
+        "ground": "pub",
+        "transcript": "b"
+    },
+    "fj228x-004-110404_154744_0003235_0003315.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-005-110404_154757_0004438_0004569.wav": {
+        "ground": "phone number and address",
+        "transcript": "phone number maches"
+    },
+    "fj228x-006-110404_154809_0005690_0005766.wav": {
+        "ground": "ok thank you",
+        "transcript": "okay thank you"
+    },
+    "fj228x-007-110404_154812_0005997_0006070.wav": {
+        "ground": "good bye",
+        "transcript": "good bye"
+    },
+    "fj228x-001-110406_142214_0001068_0001134.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-002-110406_142225_0002140_0002211.wav": {
+        "ground": "restaurant",
+        "transcript": ""
+    },
+    "fj228x-003-110406_142235_0003155_0003250.wav": {
+        "ground": "moderate",
+        "transcript": ""
+    },
+    "fj228x-004-110406_142247_0004301_0004401.wav": {
+        "ground": "japanese",
+        "transcript": "japanese"
+    },
+    "fj228x-005-110406_142303_0005867_0006017.wav": {
+        "ground": "in the romsey area",
+        "transcript": "viamoni area"
+    },
+    "fj228x-006-110406_142318_0007335_0007518.wav": {
+        "ground": "sydney sussex collesge",
+        "transcript": "sydney suffix college"
+    },
+    "fj228x-007-110406_142334_0008960_0009119.wav": {
+        "ground": "the technology building",
+        "transcript": "the technology buildings"
+    },
+    "fj228x-008-110406_142348_0010430_0010581.wav": {
+        "ground": "thank you good bye",
+        "transcript": "good bye"
+    },
+    "fj228x-001-110412_114401_0001822_0002074.wav": {
+        "ground": "looking for a continental restaurant",
+        "transcript": "looking for a continental restaurant"
+    },
+    "fj228x-002-110412_114410_0002766_0002925.wav": {
+        "ground": "continental restaurant",
+        "transcript": "continental restaurant"
+    },
+    "fj228x-003-110412_114421_0003915_0003992.wav": {
+        "ground": "expensive",
+        "transcript": "expenses"
+    },
+    "fj228x-004-110412_114430_0004843_0004955.wav": {
+        "ground": "expensive",
+        "transcript": "expenses"
+    },
+    "fj228x-005-110412_114443_0006125_0006231.wav": {
+        "ground": "doesnt matter",
+        "transcript": ""
+    },
+    "fj228x-006-110412_114459_0007604_0007825.wav": {
+        "ground": "ah whats the phone number and area",
+        "transcript": "ah what's the phone number in area"
+    },
+    "fj228x-007-110412_114512_0008994_0009143.wav": {
+        "ground": "and whats the area",
+        "transcript": "and what's the area"
+    },
+    "fj228x-008-110412_114521_0009913_0010021.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you goodbe"
+    },
+    "fj228x-001-110412_031026_0001873_0002121.wav": {
+        "ground": "i want to find a american restaurant",
+        "transcript": "i want to find any american restaurant"
+    },
+    "fj228x-002-110412_031036_0002935_0003061.wav": {
+        "ground": "i do not care",
+        "transcript": "i do not care"
+    },
+    "fj228x-003-110412_031045_0003900_0004023.wav": {
+        "ground": "i do not care",
+        "transcript": "i do not care"
+    },
+    "fj228x-004-110412_031053_0004682_0004813.wav": {
+        "ground": "i do not care",
+        "transcript": "i do not care"
+    },
+    "fj228x-005-110412_031105_0005751_0005982.wav": {
+        "ground": "what is the phone number and address",
+        "transcript": "what are these phone number and address"
+    },
+    "fj228x-006-110412_031120_0007371_0007484.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110415_000519_0001660_0001740.wav": {
+        "ground": "a pub",
+        "transcript": "b"
+    },
+    "fj228x-002-110415_000520_0001808_0001877.wav": {
+        "ground": "pub",
+        "transcript": "pipe"
+    },
+    "fj228x-003-110415_000527_0002407_0002620.wav": {
+        "ground": "yes with children allowed",
+        "transcript": "yes with children aloud"
+    },
+    "fj228x-004-110415_000534_0003181_0003269.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-005-110415_000548_0004580_0004665.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-006-110415_000557_0005428_0005562.wav": {
+        "ground": "expensive then",
+        "transcript": "expensive"
+    },
+    "fj228x-007-110415_000607_0006431_0006555.wav": {
+        "ground": "free",
+        "transcript": ""
+    },
+    "fj228x-008-110415_000617_0007394_0007532.wav": {
+        "ground": "no entrance fee",
+        "transcript": "no entrance fee"
+    },
+    "fj228x-009-110415_000627_0008384_0008557.wav": {
+        "ground": "alright moderately priced then",
+        "transcript": "all right moderately price then"
+    },
+    "fj228x-010-110415_000636_0009416_0009530.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank good bye"
+    },
+    "fj228x-001-110402_154747_0000173_0000467.wav": {
+        "ground": "unintelligible",
+        "transcript": "spent at least five of themem that's a dollar list"
+    },
+    "fj228x-002-110402_154804_0001443_0002169.wav": {
+        "ground": "im looking for a moderately priced restaurant and it should be in the fen ditton area make sure you get the address and the type of food of the venue",
+        "transcript": "un looking for a mily price restaurant it should be in the indiden area make sure you get to address in the type of food of the venue"
+    },
+    "fj228x-003-110402_154822_0003647_0003979.wav": {
+        "ground": "i need it in the fen ditton area",
+        "transcript": "the benditton area"
+    },
+    "fj228x-004-110402_154833_0004906_0005108.wav": {
+        "ground": "a moderately priced restaurant",
+        "transcript": "a mitle press restaurant"
+    },
+    "fj228x-005-110402_154843_0006107_0006181.wav": {
+        "ground": "chinese",
+        "transcript": ""
+    },
+    "fj228x-006-110402_154855_0007246_0007351.wav": {
+        "ground": "vegetarian",
+        "transcript": "vegetarian"
+    },
+    "fj228x-007-110402_154908_0008494_0008605.wav": {
+        "ground": "american",
+        "transcript": "american"
+    },
+    "fj228x-008-110402_154912_0008910_0008995.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-009-110402_154922_0009872_0010004.wav": {
+        "ground": "alright thank you good bye",
+        "transcript": "thinking's the bu"
+    },
+    "fj228x-010-110402_154931_0010748_0010921.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110410_025459_0000154_0000413.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110410_025509_0001218_0001367.wav": {
+        "ground": "yes im looking for a pub",
+        "transcript": "yes i'm looking for a pallet"
+    },
+    "fj228x-003-110410_025517_0002073_0002224.wav": {
+        "ground": "yes thatll be fine",
+        "transcript": "yes that'll be fine"
+    },
+    "fj228x-004-110410_025527_0003094_0003219.wav": {
+        "ground": "ah cheap",
+        "transcript": "my che"
+    },
+    "fj228x-005-110410_025540_0004399_0004529.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    "fj228x-006-110410_025555_0005800_0005978.wav": {
+        "ground": "ah near a restaurant",
+        "transcript": "near a restaurant"
+    },
+    "fj228x-007-110410_025602_0006616_0006688.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-008-110410_025613_0007659_0007864.wav": {
+        "ground": "ah it should allow children",
+        "transcript": "it should allow children"
+    },
+    "fj228x-009-110410_025626_0008963_0009112.wav": {
+        "ground": "whats the address",
+        "transcript": "the address"
+    },
+    "fj228x-010-110410_025635_0009845_0010026.wav": {
+        "ground": "does it have internet",
+        "transcript": "does it have internet"
+    },
+    "fj228x-011-110410_025642_0010583_0010719.wav": {
+        "ground": "ok thank you good bye",
+        "transcript": "than by"
+    },
+    "fj228x-001-110409_194318_0001931_0002291.wav": {
+        "ground": "id like a restaurant that serves drinks and snacks only",
+        "transcript": "i like a restaurant that serves drinks and snacks only"
+    },
+    "fj228x-002-110409_194330_0003398_0003507.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-003-110409_194332_0003529_0003689.wav": {
+        "ground": "whats the price range",
+        "transcript": "look the price range"
+    },
+    "fj228x-004-110409_194352_0005491_0005651.wav": {
+        "ground": "whats the phone number and address",
+        "transcript": "what's the phone number in address"
+    },
+    "fj228x-005-110409_194406_0006985_0007122.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "franki gimer"
+    },
+    "fj228x-001-110403_230906_0001995_0002211.wav": {
+        "ground": "im looking for a free restaurant",
+        "transcript": "i'ming for a free restaurant"
+    },
+    "fj228x-002-110403_230921_0003538_0003704.wav": {
+        "ground": "address doesnt matter",
+        "transcript": "address doesn't matter"
+    },
+    "fj228x-003-110403_230935_0004952_0005142.wav": {
+        "ground": "the area does not matter",
+        "transcript": "the area does not matter"
+    },
+    "fj228x-004-110403_230949_0006337_0006531.wav": {
+        "ground": "i dont care about the area",
+        "transcript": "i don't care about the area"
+    },
+    "fj228x-005-110403_231002_0007672_0007798.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    "fj228x-006-110403_231017_0009118_0009268.wav": {
+        "ground": "no that area doesnt matter",
+        "transcript": "no the area doesn't matter"
+    },
+    "fj228x-007-110403_231031_0010449_0010662.wav": {
+        "ground": "can i get the address and phone number",
+        "transcript": "can i get the address and phone number"
+    },
+    "fj228x-008-110403_231050_0012414_0012563.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you to bye"
+    },
+    "fj228x-001-110410_010941_0001886_0002259.wav": {
+        "ground": "can i have a cheap restaurant in the fen ditton area",
+        "transcript": "can i have a cheap restaurant in the finditton area"
+    },
+    "fj228x-002-110410_010954_0003386_0003584.wav": {
+        "ground": "in the fen ditton area",
+        "transcript": "the fenerton areas"
+    },
+    "fj228x-003-110410_011009_0004908_0004993.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-004-110410_011019_0005909_0006025.wav": {
+        "ground": "fen ditton",
+        "transcript": "fa the tens"
+    },
+    "fj228x-005-110410_011030_0006985_0007109.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-006-110410_011041_0008045_0008209.wav": {
+        "ground": "can i have the phone number",
+        "transcript": "can i have the phone number"
+    },
+    "fj228x-007-110410_011052_0009274_0009347.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-008-110410_011102_0009967_0010316.wav": {
+        "ground": "a cheap restaurant in the fen ditton area",
+        "transcript": "a cheap restaurant in the fienditton area"
+    },
+    "fj228x-009-110410_011114_0011409_0011549.wav": {
+        "ground": "what is the area",
+        "transcript": "what is the area"
+    },
+    "fj228x-010-110410_011126_0012566_0012715.wav": {
+        "ground": "what is the area",
+        "transcript": "what is the area"
+    },
+    "fj228x-011-110410_011133_0013309_0013417.wav": {
+        "ground": "unintelligible",
+        "transcript": "what town"
+    },
+    "fj228x-012-110410_011142_0014051_0014371.wav": {
+        "ground": "what is the postcode",
+        "transcript": "oh my hod what is the post go"
+    },
+    "fj228x-013-110410_011153_0015300_0015448.wav": {
+        "ground": "what is the price range",
+        "transcript": "what is the price range"
+    },
+    "fj228x-014-110410_011202_0016077_0016298.wav": {
+        "ground": "is it in the fen ditton area",
+        "transcript": "is it in the fentitton area"
+    },
+    "fj228x-015-110410_011210_0016915_0017066.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110410_044332_0000280_0000548.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110410_044343_0001377_0001635.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-003-110410_044352_0002472_0002579.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurants"
+    },
+    "fj228x-004-110410_044400_0003233_0003350.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-005-110410_044409_0004062_0004277.wav": {
+        "ground": "i dont ca fen ditton",
+        "transcript": "adulttt vincentson"
+    },
+    "fj228x-006-110410_044420_0005234_0005358.wav": {
+        "ground": "fen ditton",
+        "transcript": ""
+    },
+    "fj228x-007-110410_044430_0006297_0006401.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-008-110410_044438_0007061_0007188.wav": {
+        "ground": "fen ditton",
+        "transcript": "and ten"
+    },
+    "fj228x-009-110410_044445_0007848_0007917.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-010-110410_044453_0008570_0008708.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurants"
+    },
+    "fj228x-011-110410_044459_0009166_0009294.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-012-110410_044514_0010623_0010739.wav": {
+        "ground": "phone number",
+        "transcript": "phone number"
+    },
+    "fj228x-013-110410_044526_0011871_0011988.wav": {
+        "ground": "postcode",
+        "transcript": "postcodes"
+    },
+    "fj228x-014-110410_044535_0012728_0012875.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_200651_0001826_0001986.wav": {
+        "ground": "restaurant",
+        "transcript": ""
+    },
+    "fj228x-002-110409_200701_0002894_0003017.wav": {
+        "ground": "free",
+        "transcript": ""
+    },
+    "fj228x-003-110409_200715_0004214_0004375.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-004-110409_200728_0005534_0005684.wav": {
+        "ground": "trumpington area",
+        "transcript": "cpington area"
+    },
+    "fj228x-005-110409_200736_0006297_0006430.wav": {
+        "ground": "thank you good bye",
+        "transcript": "bring your"
+    },
+    "fj228x-001-110409_192445_0001803_0002090.wav": {
+        "ground": "i want an international restaurant",
+        "transcript": "i want an international restaurant"
+    },
+    "fj228x-002-110409_192456_0002924_0003195.wav": {
+        "ground": "what is the phone number and price",
+        "transcript": "what is the phone number and price"
+    },
+    "fj228x-003-110409_192519_0005329_0005497.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110403_002823_0000358_0000599.wav": {
+        "ground": "cough",
+        "transcript": ""
+    },
+    "fj228x-002-110403_002836_0001441_0001903.wav": {
+        "ground": "a moderately priced restaurant in the trumpington area",
+        "transcript": "a moderately price restaurant in the trumpington area"
+    },
+    "fj228x-003-110403_002851_0003306_0003396.wav": {
+        "ground": "anywhere",
+        "transcript": "anywhere"
+    },
+    "fj228x-004-110403_002903_0004422_0004554.wav": {
+        "ground": "kings college",
+        "transcript": "kings college"
+    },
+    "fj228x-005-110403_002913_0005397_0005620.wav": {
+        "ground": "thank you",
+        "transcript": ""
+    },
+    "fj228x-006-110403_002921_0006164_0006375.wav": {
+        "ground": "can i have the address and the price",
+        "transcript": "can i have the address in the price"
+    },
+    "fj228x-007-110403_002932_0007342_0007482.wav": {
+        "ground": "vegetarian",
+        "transcript": "vegetarian"
+    },
+    "fj228x-008-110403_002943_0008421_0008564.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_202536_0001982_0002330.wav": {
+        "ground": "hi im looking for a cheap restaurant in the girton area",
+        "transcript": "i'm looking for a cheap restaurant in the gurton area"
+    },
+    "fj228x-002-110409_202551_0003482_0003834.wav": {
+        "ground": "i need to know the phone number and the address of that restaur or pub",
+        "transcript": "i need the phone number and address"
+    },
+    "fj228x-003-110409_202607_0005303_0005438.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110408_200333_0001816_0001886.wav": {
+        "ground": "a pub",
+        "transcript": "m"
+    },
+    "fj228x-002-110408_200339_0002471_0002551.wav": {
+        "ground": "dont care",
+        "transcript": "don't care"
+    },
+    "fj228x-003-110408_200347_0003181_0003333.wav": {
+        "ground": "a pub with internet",
+        "transcript": "a pub with internet"
+    },
+    "fj228x-004-110408_200354_0003961_0004052.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-005-110408_200402_0004790_0004861.wav": {
+        "ground": "cheap",
+        "transcript": ""
+    },
+    "fj228x-006-110408_200414_0005888_0005993.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-007-110408_200424_0006983_0007017.wav": {
+        "ground": "price",
+        "transcript": "price"
+    },
+    "fj228x-008-110408_200441_0008652_0008768.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_221826_0001876_0002098.wav": {
+        "ground": "im looking for a mediterranean restaurant",
+        "transcript": "i'm looking for a mediterranean restaurant"
+    },
+    "fj228x-002-110409_221837_0003040_0003212.wav": {
+        "ground": "price range doesnt matter",
+        "transcript": "price ranges doesn't matter"
+    },
+    "fj228x-003-110409_221848_0004090_0004250.wav": {
+        "ground": "price range does not matter",
+        "transcript": "price range does that matter"
+    },
+    "fj228x-004-110409_221859_0005210_0005392.wav": {
+        "ground": "i dont care about the price range",
+        "transcript": "i don't care about the price a"
+    },
+    "fj228x-005-110409_221912_0006472_0006622.wav": {
+        "ground": "the area doesnt matter",
+        "transcript": "the area doesn't matter"
+    },
+    "fj228x-006-110409_221928_0007998_0008240.wav": {
+        "ground": "the location doesnt matter",
+        "transcript": "the location doesn't matter"
+    },
+    "fj228x-007-110409_221941_0009376_0009521.wav": {
+        "ground": "venue doesnt matter",
+        "transcript": "then you doesn't matter"
+    },
+    "fj228x-008-110409_221955_0010702_0010901.wav": {
+        "ground": "kings hedges",
+        "transcript": "kingsges"
+    },
+    "fj228x-009-110409_222007_0012025_0012141.wav": {
+        "ground": "castle hill",
+        "transcript": "capital hill"
+    },
+    "fj228x-010-110409_222019_0013204_0013327.wav": {
+        "ground": "riverside",
+        "transcript": "riverside"
+    },
+    "fj228x-011-110409_222034_0014704_0014841.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110407_220439_0001821_0002117.wav": {
+        "ground": "im looking for a pub with internet and a tv",
+        "transcript": "iming for ag with internet and"
+    },
+    "fj228x-002-110407_220449_0003053_0003151.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-003-110407_220500_0004137_0004231.wav": {
+        "ground": "and the price",
+        "transcript": ""
+    },
+    "fj228x-004-110407_220519_0005986_0006124.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110406_174521_0001839_0002235.wav": {
+        "ground": "i want to find a pub and it should have an internet connection and a television",
+        "transcript": "i want to find a pub and they should have an internet connection and a television"
+    },
+    "fj228x-002-110406_174530_0003022_0003161.wav": {
+        "ground": "does it have a television",
+        "transcript": "does it have a television"
+    },
+    "fj228x-003-110406_174542_0004131_0004284.wav": {
+        "ground": "does it have a television",
+        "transcript": "does it have a television"
+    },
+    "fj228x-004-110406_174552_0005203_0005275.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-005-110406_174600_0005988_0006145.wav": {
+        "ground": "whats the price of the venue",
+        "transcript": "what's the price of thevenue"
+    },
+    "fj228x-006-110406_174618_0007738_0007887.wav": {
+        "ground": "does it have a television",
+        "transcript": "does it have a television"
+    },
+    "fj228x-007-110406_174632_0009139_0009293.wav": {
+        "ground": "is there a television",
+        "transcript": "is there a television"
+    },
+    "fj228x-008-110406_174644_0010311_0010520.wav": {
+        "ground": "does the bakers have a television",
+        "transcript": "does the bakers have a television"
+    },
+    "fj228x-009-110406_174655_0011288_0011587.wav": {
+        "ground": "does it have a television",
+        "transcript": "does it have a television"
+    },
+    "fj228x-010-110406_174708_0012736_0012884.wav": {
+        "ground": "is there a television",
+        "transcript": "is there television"
+    },
+    "fj228x-011-110406_174718_0013636_0013927.wav": {
+        "ground": "is there a television available",
+        "transcript": "is there a television available"
+    },
+    "fj228x-012-110406_174727_0014606_0014757.wav": {
+        "ground": "does it have a television",
+        "transcript": "does it have a television"
+    },
+    "fj228x-013-110406_174742_0016225_0016352.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110402_221028_0000521_0000670.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110402_221042_0001617_0002107.wav": {
+        "ground": "a spanish restaurant any price any area",
+        "transcript": "a spanish restaurant any price any area"
+    },
+    "fj228x-003-110402_221053_0003047_0003203.wav": {
+        "ground": "a spanish restaurant",
+        "transcript": "a spanish restaurant"
+    },
+    "fj228x-004-110402_221102_0003975_0004070.wav": {
+        "ground": "any",
+        "transcript": "in name life"
+    },
+    "fj228x-005-110402_221109_0004657_0004779.wav": {
+        "ground": "unintelligible",
+        "transcript": "late nights"
+    },
+    "fj228x-006-110402_221113_0005074_0005200.wav": {
+        "ground": "any price",
+        "transcript": "any price"
+    },
+    "fj228x-007-110402_221120_0005758_0005892.wav": {
+        "ground": "any price",
+        "transcript": "any price"
+    },
+    "fj228x-008-110402_221125_0006221_0006391.wav": {
+        "ground": "i do not care",
+        "transcript": "s"
+    },
+    "fj228x-009-110402_221130_0006791_0006856.wav": {
+        "ground": "i dont care",
+        "transcript": ""
+    },
+    "fj228x-010-110402_221136_0007348_0007460.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-011-110402_221144_0008194_0008289.wav": {
+        "ground": "cheap",
+        "transcript": "pe"
+    },
+    "fj228x-012-110402_221154_0009189_0009249.wav": {
+        "ground": "yeah",
+        "transcript": ""
+    },
+    "fj228x-013-110402_221202_0009980_0010085.wav": {
+        "ground": "any area",
+        "transcript": "any area"
+    },
+    "fj228x-014-110402_221211_0010830_0010970.wav": {
+        "ground": "any area",
+        "transcript": "any area"
+    },
+    "fj228x-015-110402_221216_0011447_0011532.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-016-110402_221223_0011744_0012193.wav": {
+        "ground": "uh spanish restaurant any price any area",
+        "transcript": "a spanish restaurant any price andper"
+    },
+    "fj228x-017-110402_221233_0013093_0013246.wav": {
+        "ground": "a spanish restaurant",
+        "transcript": "a spanish restaurant"
+    },
+    "fj228x-018-110402_221235_0013277_0013385.wav": {
+        "ground": "any price",
+        "transcript": "any price"
+    },
+    "fj228x-019-110402_221243_0014131_0014206.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-020-110402_221248_0014648_0014689.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-021-110402_221300_0015673_0015825.wav": {
+        "ground": "what is the address",
+        "transcript": "the address"
+    },
+    "fj228x-022-110402_221315_0017228_0017378.wav": {
+        "ground": "what is the addre",
+        "transcript": "the"
+    },
+    "fj228x-023-110402_221321_0017828_0018047.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110411_062811_0001865_0002448.wav": {
+        "ground": "yes i am looking for a pub and it should have an internet connection and allow children",
+        "transcript": "yes i am looking for a pub and it should have an internet connection and allow children"
+    },
+    "fj228x-002-110411_062823_0003353_0003701.wav": {
+        "ground": "what is the address phone number and price",
+        "transcript": "what is the address phone number and price"
+    },
+    "fj228x-003-110411_062851_0006273_0006422.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110414_182408_0001475_0001549.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-002-110414_182418_0002428_0002577.wav": {
+        "ground": "middle eastern restaurant",
+        "transcript": "middle eastern restaurant"
+    },
+    "fj228x-003-110414_182431_0003661_0003814.wav": {
+        "ground": "may i have the address please",
+        "transcript": "may have the address please"
+    },
+    "fj228x-004-110414_182440_0004586_0004740.wav": {
+        "ground": "may i have the price please",
+        "transcript": "may have the praise please"
+    },
+    "fj228x-005-110414_182455_0006161_0006290.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_203658_0001896_0002292.wav": {
+        "ground": "im looking for a fusion restaurant and in the cheap price range",
+        "transcript": "i'm looking for a fusion restaurant and cheap price"
+    },
+    "fj228x-002-110409_203711_0003314_0003492.wav": {
+        "ground": "i need the address and the price",
+        "transcript": "i need the address in the price"
+    },
+    "fj228x-003-110409_203727_0005067_0005145.wav": {
+        "ground": "thank you",
+        "transcript": "thank you"
+    },
+    "fj228x-004-110409_203728_0005210_0005291.wav": {
+        "ground": "good bye",
+        "transcript": "my"
+    },
+    "fj228x-001-110408_132548_0001826_0002214.wav": {
+        "ground": "im looking for a pub with an internet connection and i dont care about the price range",
+        "transcript": "i'm looking for a pub with an internet connection and i don't care about the price range"
+    },
+    "fj228x-002-110408_132559_0003126_0003300.wav": {
+        "ground": "i dont care about the price range",
+        "transcript": "i don't care about the price range"
+    },
+    "fj228x-003-110408_132608_0003980_0004222.wav": {
+        "ground": "im looking for a pub with an internet connection",
+        "transcript": "i'm looking for a pub with an internet connection"
+    },
+    "fj228x-004-110408_132618_0004912_0005170.wav": {
+        "ground": "what is the address and post code",
+        "transcript": "what is the address and postcodes"
+    },
+    "fj228x-005-110408_132642_0007470_0007578.wav": {
+        "ground": "thank you good bye",
+        "transcript": "think you goodbye"
+    },
+    "fj228x-001-110404_183339_0001062_0001109.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110404_183341_0001217_0001310.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-003-110404_183347_0001884_0001993.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-004-110404_183355_0002637_0002717.wav": {
+        "ground": "noise dont care",
+        "transcript": "don't care"
+    },
+    "fj228x-005-110404_183402_0003360_0003479.wav": {
+        "ground": "dont care",
+        "transcript": "don't care"
+    },
+    "fj228x-006-110404_183408_0003996_0004096.wav": {
+        "ground": "italian",
+        "transcript": "italian"
+    },
+    "fj228x-007-110404_183411_0004279_0004390.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-008-110404_183414_0004596_0004668.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-009-110404_183424_0005431_0005695.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-010-110404_183426_0005716_0005892.wav": {
+        "ground": "castle hill area",
+        "transcript": "castle hill area"
+    },
+    "fj228x-011-110404_183429_0005958_0006120.wav": {
+        "ground": "nosie sil",
+        "transcript": ""
+    },
+    "fj228x-012-110404_183432_0006221_0006433.wav": {
+        "ground": "castle hill area",
+        "transcript": "castle hill area"
+    },
+    "fj228x-013-110404_183435_0006573_0006737.wav": {
+        "ground": "noise sil",
+        "transcript": "their were"
+    },
+    "fj228x-014-110404_183438_0006962_0007045.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-015-110404_183452_0007843_0008430.wav": {
+        "ground": "noise castle hill area",
+        "transcript": "castle hill area"
+    },
+    "fj228x-016-110404_183505_0009626_0009791.wav": {
+        "ground": "castle hill area",
+        "transcript": "castle hill area"
+    },
+    "fj228x-017-110404_183516_0010742_0010822.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-018-110404_183530_0012022_0012210.wav": {
+        "ground": "noise in the castle hill area",
+        "transcript": "in the capitalal area"
+    },
+    "fj228x-019-110404_183543_0013169_0013568.wav": {
+        "ground": "noise address",
+        "transcript": "ress"
+    },
+    "fj228x-020-110404_183545_0013667_0013803.wav": {
+        "ground": "noise sil",
+        "transcript": "in like"
+    },
+    "fj228x-021-110404_183548_0013960_0014035.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-022-110404_183555_0014733_0014804.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-023-110404_183603_0015465_0015518.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-024-110404_183611_0015990_0016389.wav": {
+        "ground": "noise yes in the castle hill area",
+        "transcript": "yes in the castle hill area"
+    },
+    "fj228x-025-110404_183616_0016787_0016871.wav": {
+        "ground": "is that the castle hil",
+        "transcript": "is that the castle"
+    },
+    "fj228x-026-110404_183620_0017176_0017237.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-027-110404_183622_0017355_0017454.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-028-110404_183628_0017886_0018022.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-029-110404_183634_0018563_0018681.wav": {
+        "ground": "whats the post code",
+        "transcript": "what's the post code"
+    },
+    "fj228x-030-110404_183638_0018871_0019062.wav": {
+        "ground": "noise post code",
+        "transcript": "post cone"
+    },
+    "fj228x-001-110412_214739_0001865_0002169.wav": {
+        "ground": "i would like a restaurant in barnwell",
+        "transcript": "i would like a restaurant in barnwells"
+    },
+    "fj228x-002-110412_214749_0003091_0003219.wav": {
+        "ground": "may i have the address",
+        "transcript": "may have the address"
+    },
+    "fj228x-003-110412_214800_0004118_0004251.wav": {
+        "ground": "may i have the price",
+        "transcript": "price"
+    },
+    "fj228x-004-110412_214817_0005851_0005972.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110413_225737_0001906_0002202.wav": {
+        "ground": "hi im looking for a thai restaurant",
+        "transcript": "ing for a di"
+    },
+    "fj228x-002-110413_225750_0003140_0003422.wav": {
+        "ground": "i dont care about the pr the price range",
+        "transcript": "i don't care about the par french"
+    },
+    "fj228x-003-110413_225800_0004303_0004425.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110413_225815_0005698_0005887.wav": {
+        "ground": "new chesterton area",
+        "transcript": "new cheerton areas"
+    },
+    "fj228x-005-110413_225830_0007017_0007457.wav": {
+        "ground": "so where can i get a thai food restaurant",
+        "transcript": "uh so where can i get a pai food restaurants"
+    },
+    "fj228x-006-110413_225842_0008351_0008582.wav": {
+        "ground": "can you select me another venue",
+        "transcript": "can you suggest me another vus"
+    },
+    "fj228x-007-110413_225851_0009375_0009529.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-008-110413_225859_0010302_0010367.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-009-110413_225905_0010522_0010933.wav": {
+        "ground": "ok can i get the address and the price range",
+        "transcript": "okay can i get the address and the price rinche"
+    },
+    "fj228x-010-110413_225910_0011316_0011466.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-011-110413_225925_0012785_0012936.wav": {
+        "ground": "and the phone number please",
+        "transcript": "and the phone number please"
+    },
+    "fj228x-012-110413_225939_0014125_0014400.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good byes"
+    },
+    "fj228x-001-110406_181940_0001935_0002282.wav": {
+        "ground": "im looking for a thai restaurant in the riverside area",
+        "transcript": "i'm looking for a thai restaurant in the riverside area"
+    },
+    "fj228x-002-110406_181952_0003240_0003467.wav": {
+        "ground": "ah doesnt matter",
+        "transcript": "ah doesn't matter"
+    },
+    "fj228x-003-110406_182005_0004528_0004698.wav": {
+        "ground": "ah what are the prices there",
+        "transcript": "uh one of the prices there"
+    },
+    "fj228x-004-110406_182022_0006332_0006457.wav": {
+        "ground": "ah whats the phone number",
+        "transcript": "well's the phone number"
+    },
+    "fj228x-005-110406_182036_0007653_0007785.wav": {
+        "ground": "ok thank you good bye",
+        "transcript": "oh okay thank you goodbye"
+    },
+    "fj228x-001-110407_050901_0001985_0002417.wav": {
+        "ground": "im looking for a greek restaurant i dont care about the price range",
+        "transcript": "i'm looking for a greek restaurant i don't care about the price range"
+    },
+    "fj228x-002-110407_050912_0003436_0003553.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-003-110407_050924_0004629_0004763.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-004-110407_050938_0005990_0006108.wav": {
+        "ground": "riverside",
+        "transcript": "riverside"
+    },
+    "fj228x-005-110407_050940_0006149_0006263.wav": {
+        "ground": "greek restaurant",
+        "transcript": "greek restaurant"
+    },
+    "fj228x-006-110407_050952_0007284_0007526.wav": {
+        "ground": "find me a greek restaurant",
+        "transcript": "find me a greek restaurant"
+    },
+    "fj228x-007-110407_051004_0008354_0008730.wav": {
+        "ground": "find me a greek restaurant i dont care where is",
+        "transcript": "finding me a greek restaurant i don't care where it is"
+    },
+    "fj228x-008-110407_051021_0010116_0010463.wav": {
+        "ground": "address and phone number and price please",
+        "transcript": "address and phone number and price please"
+    },
+    "fj228x-009-110407_051045_0012671_0012821.wav": {
+        "ground": "thank you and goodbye",
+        "transcript": "thank you and good bye"
+    },
+    "fj228x-001-110407_072616_0001959_0002300.wav": {
+        "ground": "im looking for a moderately priced restaurant",
+        "transcript": "i look to wear a moderately price restaurant"
+    },
+    "fj228x-002-110407_072620_0002332_0002601.wav": {
+        "ground": "should be in the addenbrookes area",
+        "transcript": "should be in the patonbrooks area"
+    },
+    "fj228x-003-110407_072630_0003603_0003675.wav": {
+        "ground": "english",
+        "transcript": ""
+    },
+    "fj228x-004-110407_072641_0004603_0004715.wav": {
+        "ground": "seafoood",
+        "transcript": ""
+    },
+    "fj228x-005-110407_072648_0005358_0005474.wav": {
+        "ground": "seafood",
+        "transcript": ""
+    },
+    "fj228x-006-110407_072700_0006387_0006627.wav": {
+        "ground": "a moderately priced restaurant",
+        "transcript": "a moderately price restaurant"
+    },
+    "fj228x-007-110407_072714_0007585_0008040.wav": {
+        "ground": "addenbrookes area moderately priced restaurant",
+        "transcript": "hadenbrook area moderately price restaurant"
+    },
+    "fj228x-008-110407_072724_0008966_0009108.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-009-110407_072733_0009787_0009928.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-010-110407_072751_0011435_0011735.wav": {
+        "ground": "great address and postcode please",
+        "transcript": "great adjust and postcode please"
+    },
+    "fj228x-011-110407_072809_0013418_0013568.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110408_035730_0000071_0000314.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110408_035741_0001159_0001414.wav": {
+        "ground": "what is a restaurant in cherry hinton",
+        "transcript": "what are a restaurant in cherry hittens"
+    },
+    "fj228x-003-110408_035751_0002298_0002448.wav": {
+        "ground": "doesnt matter",
+        "transcript": "doesn't matter"
+    },
+    "fj228x-004-110408_035802_0003506_0003584.wav": {
+        "ground": "greek",
+        "transcript": "creek"
+    },
+    "fj228x-005-110408_035820_0005021_0005322.wav": {
+        "ground": "what is a fast food restaurant in cherry hinton",
+        "transcript": "what is a fast food restaurant in cherry hittens"
+    },
+    "fj228x-006-110408_035832_0006335_0006559.wav": {
+        "ground": "what is a restaurant in cherry hinton",
+        "transcript": "what is a restaurant in cherry hittens"
+    },
+    "fj228x-007-110408_035840_0007233_0007366.wav": {
+        "ground": "doesnt matter",
+        "transcript": "doesn it matter"
+    },
+    "fj228x-008-110408_035855_0008717_0008817.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-009-110408_035905_0009694_0009814.wav": {
+        "ground": "what is the address",
+        "transcript": "what is heres"
+    },
+    "fj228x-010-110408_035917_0010894_0011044.wav": {
+        "ground": "what is the type of food",
+        "transcript": "what is the type of food"
+    },
+    "fj228x-011-110408_035926_0011759_0011910.wav": {
+        "ground": "right thank you goodbye",
+        "transcript": "right thank you goodbye"
+    },
+    "fj228x-012-110408_035937_0012838_0012995.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110406_062554_0001868_0002175.wav": {
+        "ground": "im looking for a fusion restaurant",
+        "transcript": "i'm looking for a fusion restaurant"
+    },
+    "fj228x-002-110406_062558_0002216_0002491.wav": {
+        "ground": "and it should be in the girton area",
+        "transcript": "and it should be in the girtton area"
+    },
+    "fj228x-003-110406_062614_0003652_0004153.wav": {
+        "ground": "and i want to know the address phone number and price range please",
+        "transcript": "and i want to know the addj's phone number and price range please"
+    },
+    "fj228x-004-110406_062633_0006056_0006121.wav": {
+        "ground": "background noise",
+        "transcript": ""
+    },
+    "fj228x-005-110406_062638_0006162_0006523.wav": {
+        "ground": "thank you and good bye",
+        "transcript": "thank you and the good bye"
+    },
+    "fj228x-001-110409_153533_0000206_0000603.wav": {
+        "ground": "breathing unintelligible",
+        "transcript": ""
+    },
+    "fj228x-002-110409_153541_0001304_0001414.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-003-110409_153551_0001517_0002369.wav": {
+        "ground": "no breathing thank you good bye thank you good bye thank you good bye",
+        "transcript": "no make you good bye thank good bye than you goodbe"
+    },
+    "fj228x-004-110409_153553_0002457_0002604.wav": {
+        "ground": "thank you good bye",
+        "transcript": "you could buy"
+    },
+    "fj228x-001-110403_161711_0000251_0000412.wav": {
+        "ground": "cough",
+        "transcript": ""
+    },
+    "fj228x-002-110403_161726_0001557_0001906.wav": {
+        "ground": "expensive restaurant in addenbrookes area",
+        "transcript": "fensive restaurant in aenburg's area"
+    },
+    "fj228x-003-110403_161737_0002862_0003005.wav": {
+        "ground": "expensive",
+        "transcript": "expensive"
+    },
+    "fj228x-004-110403_161750_0004172_0004303.wav": {
+        "ground": "middle eastern",
+        "transcript": "middle eastern"
+    },
+    "fj228x-005-110403_161758_0004929_0005079.wav": {
+        "ground": "restaurant",
+        "transcript": "red"
+    },
+    "fj228x-006-110403_161814_0006362_0006687.wav": {
+        "ground": "addenbrookes brookes area",
+        "transcript": "adenbrke's books area"
+    },
+    "fj228x-007-110403_161830_0008193_0008296.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-008-110403_161845_0009654_0009791.wav": {
+        "ground": "address",
+        "transcript": "i had dread"
+    },
+    "fj228x-009-110403_161854_0010635_0010748.wav": {
+        "ground": "phone number",
+        "transcript": "phone number"
+    },
+    "fj228x-010-110403_161909_0011934_0012221.wav": {
+        "ground": "thank you goodbye cough",
+        "transcript": "thank you goodbe"
+    },
+    "fj228x-001-110412_022939_0002007_0002236.wav": {
+        "ground": "i want to find a restaurant in barnwell",
+        "transcript": "i want to find a restaurant in barnwell"
+    },
+    "fj228x-002-110412_022951_0003208_0003442.wav": {
+        "ground": "can i get a phone number and type of food",
+        "transcript": "i get a phone number and type the food"
+    },
+    "fj228x-003-110412_023009_0005114_0005233.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good night"
+    },
+    "fj228x-001-110407_192506_0001881_0002319.wav": {
+        "ground": "i need to find a pub that allows children and has a tv",
+        "transcript": "i need to find a pub that allows and a tv"
+    },
+    "fj228x-002-110407_192516_0003202_0003310.wav": {
+        "ground": "doesnt matter",
+        "transcript": ""
+    },
+    "fj228x-003-110407_192523_0003888_0003966.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-004-110407_192534_0004879_0005121.wav": {
+        "ground": "i need the address and price range",
+        "transcript": "i need the address and price range"
+    },
+    "fj228x-005-110407_192553_0006878_0007003.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank good bye"
+    },
+    "fj228x-001-110413_234551_0000309_0000420.wav": {
+        "ground": "unintelligible moderately priced",
+        "transcript": "modernlytir"
+    },
+    "fj228x-002-110413_234601_0001220_0001352.wav": {
+        "ground": "moderate",
+        "transcript": "moderate"
+    },
+    "fj228x-003-110413_234603_0001439_0001487.wav": {
+        "ground": "moderate",
+        "transcript": "modedric"
+    },
+    "fj228x-004-110413_234611_0002262_0002392.wav": {
+        "ground": "restaurant",
+        "transcript": "rusant"
+    },
+    "fj228x-005-110413_234614_0002499_0002623.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-006-110413_234620_0003152_0003233.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-007-110413_234623_0003434_0003568.wav": {
+        "ground": "new chesterton",
+        "transcript": "you cheest or ten"
+    },
+    "fj228x-008-110413_234634_0004585_0004663.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-009-110413_234646_0005724_0005838.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-010-110413_234653_0006504_0006589.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-011-110413_234659_0007027_0007178.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110415_144226_0001920_0002285.wav": {
+        "ground": "contemporary restaurant in the girton area",
+        "transcript": "contemporary restaurant and a gerthton area"
+    },
+    "fj228x-002-110415_144238_0003319_0003449.wav": {
+        "ground": "doesnt matter",
+        "transcript": "he doesn't him matter"
+    },
+    "fj228x-003-110415_144251_0004531_0004681.wav": {
+        "ground": "no price range",
+        "transcript": "in no price range"
+    },
+    "fj228x-004-110415_144302_0005667_0005833.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-005-110415_144305_0006013_0006124.wav": {
+        "ground": "sil",
+        "transcript": "the one"
+    },
+    "fj228x-006-110415_144319_0007215_0007584.wav": {
+        "ground": "contemporary restaurant girton area",
+        "transcript": "contemporary restaurants beurton areas"
+    },
+    "fj228x-007-110415_144331_0008615_0008767.wav": {
+        "ground": "doesnt matter",
+        "transcript": "don't matter"
+    },
+    "fj228x-008-110415_144342_0009705_0009853.wav": {
+        "ground": "traditional",
+        "transcript": "traditional"
+    },
+    "fj228x-009-110415_144358_0011240_0011453.wav": {
+        "ground": "address and postcode",
+        "transcript": "andres and tokos"
+    },
+    "fj228x-010-110415_144404_0011819_0012087.wav": {
+        "ground": "sil",
+        "transcript": "cre my ma in"
+    },
+    "fj228x-011-110415_144407_0012289_0012349.wav": {
+        "ground": "unintelligible",
+        "transcript": "not plan"
+    },
+    "fj228x-012-110415_144412_0012662_0012888.wav": {
+        "ground": "unintelligible",
+        "transcript": "one nearb"
+    },
+    "fj228x-013-110415_144417_0013138_0013392.wav": {
+        "ground": "address and postcode",
+        "transcript": "aress in postco"
+    },
+    "fj228x-014-110415_144428_0014297_0014450.wav": {
+        "ground": "sil",
+        "transcript": "my"
+    },
+    "fj228x-015-110415_144431_0014595_0014743.wav": {
+        "ground": "postcode",
+        "transcript": ""
+    },
+    "fj228x-016-110415_144442_0015686_0015825.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "than you good bye"
+    },
+    "fj228x-001-110406_212528_0001980_0002369.wav": {
+        "ground": "moderately priced restaurant barnwell area",
+        "transcript": "waterley price restaurant barnwell area"
+    },
+    "fj228x-002-110406_212535_0002964_0003061.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-003-110406_212546_0004163_0004183.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-004-110406_212548_0004315_0004411.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-005-110406_212559_0005427_0005524.wav": {
+        "ground": "address",
+        "transcript": "address"
+    },
+    "fj228x-006-110406_212619_0007260_0007518.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110408_000625_0001969_0002388.wav": {
+        "ground": "id like to find a moderately priced restaurant in the addenbrookes area",
+        "transcript": "i'd like to find a moderately priced restaurant in the aenbrooks area"
+    },
+    "fj228x-002-110408_000636_0003457_0003564.wav": {
+        "ground": "um",
+        "transcript": ""
+    },
+    "fj228x-003-110408_000639_0003625_0003786.wav": {
+        "ground": "its a it doesnt matter",
+        "transcript": "it's it doesn't matter"
+    },
+    "fj228x-004-110408_000646_0004475_0004546.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-005-110408_000652_0004937_0005086.wav": {
+        "ground": "chinese",
+        "transcript": "chinese"
+    },
+    "fj228x-006-110408_000717_0007412_0007594.wav": {
+        "ground": "okay thank you goodbye",
+        "transcript": "okay thank you good byce"
+    },
+    "fj228x-001-110413_225127_0000437_0000519.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-002-110413_225137_0001385_0001521.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-003-110413_225149_0002393_0002719.wav": {
+        "ground": "moderately high pretty pricey",
+        "transcript": "moderately high quicki princhy"
+    },
+    "fj228x-004-110413_225159_0003690_0003776.wav": {
+        "ground": "girton",
+        "transcript": "thirtyen"
+    },
+    "fj228x-005-110413_225203_0003838_0004167.wav": {
+        "ground": "girton im looking for a venue in girton",
+        "transcript": "i'm looking for a venue in girdha"
+    },
+    "fj228x-006-110413_225212_0004948_0005086.wav": {
+        "ground": "girton",
+        "transcript": "garton"
+    },
+    "fj228x-007-110413_225219_0005645_0005743.wav": {
+        "ground": "english",
+        "transcript": ""
+    },
+    "fj228x-008-110413_225227_0006500_0006560.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-009-110413_225233_0007010_0007157.wav": {
+        "ground": "yes that is correct",
+        "transcript": "yes that is correct"
+    },
+    "fj228x-010-110413_225240_0007618_0007767.wav": {
+        "ground": "unintelligible",
+        "transcript": "really"
+    },
+    "fj228x-011-110413_225246_0008185_0008466.wav": {
+        "ground": "ok um american food",
+        "transcript": "okay um american food"
+    },
+    "fj228x-012-110413_225252_0008867_0009027.wav": {
+        "ground": "uh i like the girton area",
+        "transcript": "now i like the girtain area"
+    },
+    "fj228x-013-110413_225255_0009217_0009343.wav": {
+        "ground": "i like the girton area",
+        "transcript": "i like the garden area"
+    },
+    "fj228x-014-110413_225302_0010014_0010089.wav": {
+        "ground": "x",
+        "transcript": ""
+    },
+    "fj228x-015-110413_225310_0010773_0010890.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110406_201116_0001349_0001741.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110406_201120_0001944_0002316.wav": {
+        "ground": "im looking for a fusion restaurant i dont care about the price",
+        "transcript": "i'm looking for a fusion restaurant i don't care about rice"
+    },
+    "fj228x-003-110406_201124_0002574_0002649.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110406_201131_0003290_0003412.wav": {
+        "ground": "anything",
+        "transcript": "anything"
+    },
+    "fj228x-005-110406_201139_0003970_0004167.wav": {
+        "ground": "i want a fusion restaurant",
+        "transcript": "i want a fusion restaurants"
+    },
+    "fj228x-006-110406_201145_0004620_0004770.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurant"
+    },
+    "fj228x-007-110406_201152_0005318_0005474.wav": {
+        "ground": "doesnt matter",
+        "transcript": "doesn't matter"
+    },
+    "fj228x-008-110406_201158_0005837_0006096.wav": {
+        "ground": "good bye thank you",
+        "transcript": "goodbye sant ko"
+    },
+    "fj228x-001-110412_141004_0001861_0002222.wav": {
+        "ground": "im looking for a mexican or a texmex restaurant",
+        "transcript": "looking for a mexican or a texmex restaurant"
+    },
+    "fj228x-002-110412_141015_0003195_0003317.wav": {
+        "ground": "ah expensive",
+        "transcript": "expensive"
+    },
+    "fj228x-003-110412_141032_0004628_0004985.wav": {
+        "ground": "ah no i just need the address phone number and post code",
+        "transcript": "ah no judge just need the address phone number and postcodes"
+    },
+    "fj228x-004-110412_141046_0006325_0006391.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-005-110412_141102_0007680_0007951.wav": {
+        "ground": "ah whats the address phone number and post code",
+        "transcript": "uh what's the address phone number and postcodes"
+    },
+    "fj228x-006-110412_141121_0009759_0009863.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_073225_0000274_0000380.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110409_073236_0001205_0001435.wav": {
+        "ground": "a french restaurant",
+        "transcript": "a french restaurant"
+    },
+    "fj228x-003-110409_073245_0002269_0002353.wav": {
+        "ground": "free",
+        "transcript": ""
+    },
+    "fj228x-004-110409_073258_0003426_0003664.wav": {
+        "ground": "what is the address and phone number",
+        "transcript": "what is the address and phone number"
+    },
+    "fj228x-005-110409_073313_0005054_0005195.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_154301_0000370_0000438.wav": {
+        "ground": "noise sil",
+        "transcript": ""
+    },
+    "fj228x-002-110409_154313_0001363_0001617.wav": {
+        "ground": "cheap restaurant castle hill area",
+        "transcript": "cheap restaurant castle hill area"
+    },
+    "fj228x-003-110409_154324_0002574_0002645.wav": {
+        "ground": "doent matter",
+        "transcript": "doesn't matter"
+    },
+    "fj228x-004-110409_154338_0004011_0004085.wav": {
+        "ground": "no",
+        "transcript": "now"
+    },
+    "fj228x-005-110409_154352_0005189_0005482.wav": {
+        "ground": "castle hill",
+        "transcript": "castle hill"
+    },
+    "fj228x-006-110409_154401_0006313_0006430.wav": {
+        "ground": "castle hill",
+        "transcript": "castle hill"
+    },
+    "fj228x-007-110409_154415_0007646_0007766.wav": {
+        "ground": "castle hill",
+        "transcript": "castle hill"
+    },
+    "fj228x-008-110409_154428_0008928_0009058.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110413_233957_0000821_0000893.wav": {
+        "ground": "cough",
+        "transcript": ""
+    },
+    "fj228x-002-110413_234006_0001755_0001860.wav": {
+        "ground": "restaurant",
+        "transcript": "restaurants"
+    },
+    "fj228x-003-110413_234016_0002661_0002802.wav": {
+        "ground": "cheap",
+        "transcript": "hi"
+    },
+    "fj228x-004-110413_234027_0003783_0003880.wav": {
+        "ground": "fen ditton",
+        "transcript": "it"
+    },
+    "fj228x-005-110413_234037_0004868_0004944.wav": {
+        "ground": "any",
+        "transcript": ""
+    },
+    "fj228x-006-110413_234050_0006068_0006164.wav": {
+        "ground": "fen ditton",
+        "transcript": "find it"
+    },
+    "fj228x-007-110413_234103_0007484_0007555.wav": {
+        "ground": "no",
+        "transcript": ""
+    },
+    "fj228x-008-110413_234114_0008479_0008589.wav": {
+        "ground": "fen ditton",
+        "transcript": "penditton"
+    },
+    "fj228x-009-110413_234115_0008618_0008705.wav": {
+        "ground": "sil",
+        "transcript": "the"
+    },
+    "fj228x-010-110413_234117_0008847_0008940.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-011-110413_234126_0009749_0009826.wav": {
+        "ground": "any",
+        "transcript": ""
+    },
+    "fj228x-012-110413_234137_0010781_0010879.wav": {
+        "ground": "fen ditton",
+        "transcript": "ton"
+    },
+    "fj228x-013-110413_234146_0011760_0011858.wav": {
+        "ground": "fen ditton",
+        "transcript": "and"
+    },
+    "fj228x-014-110413_234153_0012398_0012507.wav": {
+        "ground": "any type",
+        "transcript": "any type"
+    },
+    "fj228x-015-110413_234202_0013265_0013382.wav": {
+        "ground": "fen ditton",
+        "transcript": "ton"
+    },
+    "fj228x-016-110413_234209_0014006_0014116.wav": {
+        "ground": "fen ditton",
+        "transcript": "ton"
+    },
+    "fj228x-017-110413_234219_0015019_0015111.wav": {
+        "ground": "fen ditton",
+        "transcript": "and"
+    },
+    "fj228x-018-110413_234229_0016007_0016124.wav": {
+        "ground": "fen ditton",
+        "transcript": "and"
+    },
+    "fj228x-019-110413_234240_0017098_0017225.wav": {
+        "ground": "goodbye thank you",
+        "transcript": "good bye thank you"
+    },
+    "fj228x-001-110409_215901_0001888_0002323.wav": {
+        "ground": "im looking for a free french restaurant",
+        "transcript": "i'm looking for a free french restaurant"
+    },
+    "fj228x-002-110409_215914_0003487_0003636.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-003-110409_215923_0004428_0004534.wav": {
+        "ground": "phone number",
+        "transcript": "phone number"
+    },
+    "fj228x-004-110409_215934_0005526_0005670.wav": {
+        "ground": "postcode",
+        "transcript": "cot"
+    },
+    "fj228x-005-110409_215944_0006463_0006630.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110402_162329_0001904_0001971.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110402_162334_0002014_0002389.wav": {
+        "ground": "im looking for a coffee shop serving english food",
+        "transcript": "i'm looking for a coffee shop serving english food"
+    },
+    "fj228x-003-110402_162337_0002549_0002741.wav": {
+        "ground": "moderate price range",
+        "transcript": "moderate price range"
+    },
+    "fj228x-004-110402_162344_0003260_0003426.wav": {
+        "ground": "moderate",
+        "transcript": "ate"
+    },
+    "fj228x-005-110402_162347_0003598_0003715.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-006-110402_162351_0004018_0004159.wav": {
+        "ground": "the address",
+        "transcript": "address"
+    },
+    "fj228x-007-110402_162401_0004920_0005089.wav": {
+        "ground": "trumpington area",
+        "transcript": "trumpington area"
+    },
+    "fj228x-008-110402_162409_0005849_0005927.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-009-110402_162411_0006038_0006180.wav": {
+        "ground": "castle hill",
+        "transcript": "the castle hill"
+    },
+    "fj228x-010-110402_162418_0006700_0006792.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-011-110402_162422_0007088_0007199.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-012-110402_162427_0007647_0007764.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-013-110402_162440_0008940_0009074.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-014-110402_162445_0009435_0009575.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is a saw member"
+    },
+    "fj228x-015-110402_162450_0009877_0009987.wav": {
+        "ground": "phone number",
+        "transcript": "so number"
+    },
+    "fj228x-016-110402_162452_0010161_0010244.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-017-110402_162501_0010913_0011064.wav": {
+        "ground": "phone number",
+        "transcript": "phone number"
+    },
+    "fj228x-018-110402_162504_0011276_0011414.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-019-110402_162507_0011648_0011733.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-020-110402_162511_0011948_0012091.wav": {
+        "ground": "phone number",
+        "transcript": "phone number"
+    },
+    "fj228x-021-110402_162516_0012449_0012575.wav": {
+        "ground": "postcode",
+        "transcript": "postcard"
+    },
+    "fj228x-022-110402_162525_0013392_0013563.wav": {
+        "ground": "postcode",
+        "transcript": "postcd"
+    },
+    "fj228x-023-110402_162532_0014074_0014187.wav": {
+        "ground": "thank you",
+        "transcript": ""
+    },
+    "fj228x-024-110402_162539_0014748_0014897.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_232645_0002317_0002791.wav": {
+        "ground": "i am looking for a moderately priced restaurant in the barnwell area",
+        "transcript": "i am looking for a moderately priced restaurant in the barnwell area"
+    },
+    "fj228x-002-110409_232659_0003890_0004114.wav": {
+        "ground": "may i have the address and phone number",
+        "transcript": "may i have the address and phone number"
+    },
+    "fj228x-003-110409_232715_0005406_0005761.wav": {
+        "ground": "and one more thing what is the postcode",
+        "transcript": "and one more thing what is the postcode"
+    },
+    "fj228x-004-110409_232719_0006028_0006098.wav": {
+        "ground": "dog barking",
+        "transcript": ""
+    },
+    "fj228x-005-110409_232721_0006316_0006389.wav": {
+        "ground": "dog barking",
+        "transcript": "there"
+    },
+    "fj228x-006-110409_232724_0006605_0006638.wav": {
+        "ground": "dog barking",
+        "transcript": "there"
+    },
+    "fj228x-007-110409_232728_0006945_0007016.wav": {
+        "ground": "dog barking",
+        "transcript": "then"
+    },
+    "fj228x-008-110409_232731_0007158_0007309.wav": {
+        "ground": "what is the postcode",
+        "transcript": "what is the postcode"
+    },
+    "fj228x-009-110409_232733_0007505_0007578.wav": {
+        "ground": "dog barking",
+        "transcript": "there"
+    },
+    "fj228x-010-110409_232736_0007783_0007857.wav": {
+        "ground": "dog barking",
+        "transcript": ""
+    },
+    "fj228x-011-110409_232739_0008037_0008102.wav": {
+        "ground": "dog barking",
+        "transcript": ""
+    },
+    "fj228x-012-110409_232743_0008317_0008499.wav": {
+        "ground": "what is the postcode",
+        "transcript": "what is the postcode"
+    },
+    "fj228x-013-110409_232744_0008614_0008636.wav": {
+        "ground": "dog barking",
+        "transcript": "then"
+    },
+    "fj228x-014-110409_232750_0009140_0009203.wav": {
+        "ground": "dog barking",
+        "transcript": ""
+    },
+    "fj228x-015-110409_232752_0009303_0009425.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you goodbye"
+    },
+    "fj228x-001-110409_191909_0001069_0001139.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110409_191920_0002084_0002198.wav": {
+        "ground": "moderate",
+        "transcript": ""
+    },
+    "fj228x-003-110409_191930_0003004_0003216.wav": {
+        "ground": "turkish restaurant",
+        "transcript": "turkish restaurant"
+    },
+    "fj228x-004-110409_191940_0004110_0004246.wav": {
+        "ground": "moderate",
+        "transcript": ""
+    },
+    "fj228x-005-110409_191955_0005555_0005669.wav": {
+        "ground": "um no",
+        "transcript": ""
+    },
+    "fj228x-006-110409_192008_0006878_0006991.wav": {
+        "ground": "dont care",
+        "transcript": "don't care"
+    },
+    "fj228x-007-110409_192024_0008418_0008592.wav": {
+        "ground": "great phone number",
+        "transcript": "great do numbers"
+    },
+    "fj228x-008-110409_192026_0008685_0008761.wav": {
+        "ground": "cough",
+        "transcript": "no science"
+    },
+    "fj228x-009-110409_192036_0009702_0009795.wav": {
+        "ground": "phone number",
+        "transcript": ""
+    },
+    "fj228x-010-110409_192049_0011034_0011111.wav": {
+        "ground": "and whats the price",
+        "transcript": "it was surprised"
+    },
+    "fj228x-011-110409_192113_0013349_0013500.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good by"
+    },
+    "fj228x-001-110407_181958_0001824_0002381.wav": {
+        "ground": "im looking for a mexican texmex texmex restaurant in the addonbrookes area",
+        "transcript": "i'm looking for mexican texma texmex restaurant in the adenbrooks area"
+    },
+    "fj228x-002-110407_182011_0003597_0003699.wav": {
+        "ground": "whats the phone number",
+        "transcript": "' the phone number"
+    },
+    "fj228x-003-110407_182023_0004784_0004879.wav": {
+        "ground": "whats the post code",
+        "transcript": "what's the post good"
+    },
+    "fj228x-004-110407_182033_0005645_0005795.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110403_220447_0001836_0002302.wav": {
+        "ground": "im looking for an italian restaurant and it should have an expensive price range",
+        "transcript": "i'm looking for an italian restaurant and it should have an expensive price range"
+    },
+    "fj228x-002-110403_220503_0003737_0003889.wav": {
+        "ground": "no particular venue",
+        "transcript": "no particular venue"
+    },
+    "fj228x-003-110403_220517_0005037_0005289.wav": {
+        "ground": "that one please what is the address",
+        "transcript": "that one please what is the address"
+    },
+    "fj228x-004-110403_220537_0007197_0007332.wav": {
+        "ground": "what is the area",
+        "transcript": "what is the area"
+    },
+    "fj228x-005-110403_220545_0007931_0008093.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110403_171830_0001843_0002228.wav": {
+        "ground": "looking for a mediterranean restaurant in the romsey area",
+        "transcript": "looking for a mediterranean restaurant in the romsey area"
+    },
+    "fj228x-002-110403_171844_0003429_0003565.wav": {
+        "ground": "what is the address",
+        "transcript": "what is the address"
+    },
+    "fj228x-003-110403_171847_0003745_0003840.wav": {
+        "ground": "breathing",
+        "transcript": ""
+    },
+    "fj228x-004-110403_171850_0004081_0004141.wav": {
+        "ground": "breathing",
+        "transcript": ""
+    },
+    "fj228x-005-110403_171854_0004363_0004543.wav": {
+        "ground": "what is the address and phone number",
+        "transcript": "what is the address and phone number"
+    },
+    "fj228x-006-110403_171858_0004808_0004958.wav": {
+        "ground": "what is the address and phone number",
+        "transcript": "what is the address and so numberber"
+    },
+    "fj228x-007-110403_171909_0005942_0006055.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank here good bye"
+    },
+    "fj228x-001-110411_032116_0001887_0002215.wav": {
+        "ground": "im looking for a fusion restaurant i dont care about the price range",
+        "transcript": "looking for a fusing restaurant i don't care about the place ra"
+    },
+    "fj228x-002-110411_032126_0003129_0003258.wav": {
+        "ground": "a fusion restaurant",
+        "transcript": "a fusion restaurant"
+    },
+    "fj228x-003-110411_032134_0003983_0004073.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-004-110411_032144_0004949_0005026.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-005-110411_032156_0006018_0006277.wav": {
+        "ground": "whats the address phone number and area",
+        "transcript": "what's the address phone number and areas"
+    },
+    "fj228x-006-110411_032212_0007679_0007796.wav": {
+        "ground": "what is the area",
+        "transcript": "what is the area"
+    },
+    "fj228x-007-110411_032220_0008487_0008634.wav": {
+        "ground": "thank you good bye",
+        "transcript": "think you could die"
+    },
+    "fj228x-001-110409_180108_0001828_0002257.wav": {
+        "ground": "im looking for a pub that has internet connection and a tv",
+        "transcript": "i'm looking for a pub that has internet connection and a t v"
+    },
+    "fj228x-002-110409_180117_0003002_0003142.wav": {
+        "ground": "whats the phone number",
+        "transcript": "web the phone numbers"
+    },
+    "fj228x-003-110409_180127_0004082_0004206.wav": {
+        "ground": "whats the address",
+        "transcript": "what's the address"
+    },
+    "fj228x-004-110409_180136_0004883_0005041.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_162856_0001887_0002157.wav": {
+        "ground": "im looking for a thai restaruant",
+        "transcript": "i'm looking for a thai restaurant"
+    },
+    "fj228x-002-110409_162908_0003263_0003382.wav": {
+        "ground": "doesnt matter",
+        "transcript": "doesn't matter"
+    },
+    "fj228x-003-110409_162923_0004641_0004878.wav": {
+        "ground": "im not concerned about the price range",
+        "transcript": "i'm not concerned about the price range"
+    },
+    "fj228x-004-110409_162937_0006051_0006254.wav": {
+        "ground": "the price range does not matter",
+        "transcript": "the price range does not matter"
+    },
+    "fj228x-005-110409_162947_0007134_0007281.wav": {
+        "ground": "lets start over",
+        "transcript": "let's start over"
+    },
+    "fj228x-006-110409_163001_0008307_0008671.wav": {
+        "ground": "im looking for a thia restaruant in the city center area",
+        "transcript": "i'm looking for a thai restaurant in the city center area"
+    },
+    "fj228x-007-110409_163016_0009861_0010153.wav": {
+        "ground": "what is its address",
+        "transcript": "what is its address"
+    },
+    "fj228x-008-110409_163032_0011588_0011743.wav": {
+        "ground": "what is its post code",
+        "transcript": "its postcode"
+    },
+    "fj228x-009-110409_163042_0012641_0012789.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110407_034955_0000310_0000375.wav": {
+        "ground": "sil",
+        "transcript": ""
+    },
+    "fj228x-002-110407_035004_0001226_0001269.wav": {
+        "ground": "a free restaurant",
+        "transcript": ""
+    },
+    "fj228x-003-110407_035011_0001895_0001982.wav": {
+        "ground": "french",
+        "transcript": ""
+    },
+    "fj228x-004-110407_035013_0002097_0002185.wav": {
+        "ground": "restaurant",
+        "transcript": ""
+    },
+    "fj228x-005-110407_035018_0002596_0002656.wav": {
+        "ground": "restaurant",
+        "transcript": ""
+    },
+    "fj228x-006-110407_035029_0003657_0003726.wav": {
+        "ground": "french",
+        "transcript": ""
+    },
+    "fj228x-007-110407_035039_0004687_0004798.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-008-110407_035046_0005403_0005500.wav": {
+        "ground": "i dont care",
+        "transcript": "i don't care"
+    },
+    "fj228x-009-110407_035056_0006336_0006464.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank good bye"
+    },
+    "fj228x-001-110410_013909_0001845_0002019.wav": {
+        "ground": "im looking for a pub",
+        "transcript": "i'm looking for a pub"
+    },
+    "fj228x-002-110410_013916_0002573_0002641.wav": {
+        "ground": "no",
+        "transcript": "no"
+    },
+    "fj228x-003-110410_013922_0003257_0003325.wav": {
+        "ground": "yes",
+        "transcript": "yes"
+    },
+    "fj228x-004-110410_013934_0004249_0004400.wav": {
+        "ground": "does it allow children",
+        "transcript": "does it allow children"
+    },
+    "fj228x-005-110410_013944_0005358_0005474.wav": {
+        "ground": "what is the address",
+        "transcript": "what is he address"
+    },
+    "fj228x-006-110410_013953_0006210_0006356.wav": {
+        "ground": "what is the phone number",
+        "transcript": "what is the phone number"
+    },
+    "fj228x-007-110410_014004_0007359_0007494.wav": {
+        "ground": "what is the area",
+        "transcript": "what is the area"
+    },
+    "fj228x-008-110410_014013_0008238_0008379.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110409_175336_0001834_0002165.wav": {
+        "ground": "yes im looking for an east asian restaurant",
+        "transcript": "yes i'm looking for an east asian restaurant"
+    },
+    "fj228x-002-110409_175346_0003068_0003188.wav": {
+        "ground": "expensive",
+        "transcript": "expenses"
+    },
+    "fj228x-003-110409_175359_0004378_0004451.wav": {
+        "ground": "dont care",
+        "transcript": "you don't care"
+    },
+    "fj228x-004-110409_175409_0005373_0005451.wav": {
+        "ground": "correct",
+        "transcript": ""
+    },
+    "fj228x-005-110409_175418_0006267_0006341.wav": {
+        "ground": "yes",
+        "transcript": ""
+    },
+    "fj228x-006-110409_175430_0007475_0007573.wav": {
+        "ground": "whats the address",
+        "transcript": "what's the address"
+    },
+    "fj228x-007-110409_175438_0008265_0008373.wav": {
+        "ground": "whats the phone number",
+        "transcript": "what's the phone number"
+    },
+    "fj228x-008-110409_175450_0009423_0009572.wav": {
+        "ground": "and whats the area",
+        "transcript": "and what's the area"
+    },
+    "fj228x-009-110409_175458_0010189_0010339.wav": {
+        "ground": "thank you goodbye",
+        "transcript": "thank you good bye"
+    },
+    "fj228x-001-110403_160006_0001957_0002056.wav": {
+        "ground": "unintelligible",
+        "transcript": ""
+    },
+    "fj228x-002-110403_160009_0002137_0002372.wav": {
+        "ground": "with internet and tv",
+        "transcript": "with internet and t v"
+    },
+    "fj228x-003-110403_160023_0003689_0003797.wav": {
+        "ground": "phone number",
+        "transcript": "phone number"
+    },
+    "fj228x-004-110403_160035_0004806_0004969.wav": {
+        "ground": "area of the venue",
+        "transcript": "area of the venue"
+    },
+    "fj228x-005-110403_160045_0005897_0006031.wav": {
+        "ground": "where is it",
+        "transcript": "where is"
+    },
+    "fj228x-006-110403_160055_0006787_0006957.wav": {
+        "ground": "thank you good bye",
+        "transcript": "thank good bye"
+    },
+    "fj228x-001-110402_220012_0001904_0002203.wav": {
+        "ground": "yes im looking for a cafe food restaurant",
+        "transcript": "yes i'm looking for a cafe food restaurant"
+    },
+    "fj228x-002-110402_220024_0003333_0003489.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    "fj228x-003-110402_220041_0004770_0005124.wav": {
+        "ground": "im looking for a cafe food restaurant",
+        "transcript": "i'm looking for cafe food restaurant"
+    },
+    "fj228x-004-110402_220043_0005152_0005356.wav": {
+        "ground": "i dont care about the price",
+        "transcript": "i don't care about the price"
+    },
+    "fj228x-005-110402_220058_0006707_0006868.wav": {
+        "ground": "it doesnt matter",
+        "transcript": "it doesn't matter"
+    },
+    
