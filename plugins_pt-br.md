@@ -19,6 +19,7 @@
 | mTEDx-ptbr | 0.1829 | 0.1971 | 0.2753 |
 | fleurs | 0.1892 | 0.1978 | 0.1513 |
 | PTBRSpeechRecognition_CORAA | 0.1963 | 0.2393 | 0.3149 |
+| compare-accents-pt | 0.3622 | 0.2694 | 0.2676 |
 
 
 # WER: ovos-stt-plugin-xabier-zuazo
@@ -40,7 +41,7 @@
 | multilingual_librispeech | 0.2973 |
 | compare-accents-pt | 0.3107 |
 | PTBRSpeechRecognition_CORAA | 0.4072 |
-| mTEDx-ptbr | 0.443 |
+| mTEDx-ptbr | 0.442 |
 
 
 # WER: ovos-stt-plugin-mms
@@ -54,11 +55,20 @@
 | compare-accents-pt | N/A | 0.246 |
 
 
+# WER: ovos-stt-plugin-whisper-turbo
+|dataset/model|whisper-large-v3-turbo|
+|-|-|
+| MultiLingualSpeechRecognition_MLS-pt | 0.0874 |
+| fleurs | 0.114 |
+| multilingual_librispeech | 0.1817 |
+| PTBRSpeechRecognition_CORAA | 0.26 |
+
+
 # WER: ovos-stt-plugin-whisper
 |dataset/model|whisper-small|whisper-medium|whisper-tiny|
 |-|-|-|-|
 | fleurs | 0.1496 | 0.1155 | 0.3051 |
-| mTEDx-ptbr | 0.2323 | 0.1761 | 0.3891 |
+| mTEDx-ptbr | 0.2323 | 0.1761 | 0.379 |
 | multilingual_librispeech | 0.2627 | 0.2773 | 0.4931 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2952 | 0.232 | 0.4375 |
 | PTBRSpeechRecognition_CORAA | 0.7629 | 0.2942 | 0.6273 |

@@ -8,4 +8,4 @@
 | multilingual_librispeech | 0.2973 |
 | compare-accents-pt | 0.3107 |
 | PTBRSpeechRecognition_CORAA | 0.4072 |
-| mTEDx-ptbr | 0.443 |
+| mTEDx-ptbr | 0.442 |

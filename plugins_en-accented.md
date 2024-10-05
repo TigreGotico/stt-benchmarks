@@ -3,6 +3,7 @@
 |dataset/model|stt_en_citrinet_512_gamma_0_25|
 |-|-|
 | voxpopuli_en_accented | 0.2061 |
+| afrispeech-200 | 0.6677 |
 | edacc | 0.9716 |
 
 
@@ -10,7 +11,8 @@
 |dataset/model|chromium|
 |-|-|
 | voxpopuli_en_accented | 0.2791 |
-| edacc | 0.9933 |
+| afrispeech-200 | 0.5084 |
+| edacc | 0.9908 |
 
 
 # WER: ovos-stt-plugin-mms
@@ -20,7 +22,14 @@
 
 
 # WER: ovos-stt-plugin-whisper
-|dataset/model|whisper-tiny.en|whisper-tiny|whisper-small.en|whisper-small|
-|-|-|-|-|-|
-| edacc | 2.9666 | 3.2982 | 1.6184 | 1.5213 |
-| voxpopuli_en_accented | N/A | N/A | 0.4203 | N/A |
+|dataset/model|whisper-tiny.en|whisper-tiny|whisper-small.en|whisper-small|whisper-medium.en|
+|-|-|-|-|-|-|
+| afrispeech-200 | 1.021 | 0.8572 | 0.6211 | N/A | 0.4118 |
+| edacc | 2.9666 | 3.2982 | 1.6184 | 1.5213 | N/A |
+| voxpopuli_en_accented | N/A | N/A | 0.4203 | N/A | N/A |
+
+
+# WER: ovos-stt-plugin-whisper-turbo
+|dataset/model|whisper-large-v3-turbo|
+|-|-|
+| afrispeech-200 | 0.5099 |

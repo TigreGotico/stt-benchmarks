@@ -4,4 +4,4 @@
 |-|-|
 | common_voice_17_0 | 0.2028 |
 | fleurs | 0.2303 |
-| openslr | 0.2707 |
+| openslr | 0.2419 |

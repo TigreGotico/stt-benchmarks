@@ -7,3 +7,4 @@
 | mTEDx-ptbr | 0.1829 | 0.1971 | 0.2753 |
 | fleurs | 0.1892 | 0.1978 | 0.1513 |
 | PTBRSpeechRecognition_CORAA | 0.1963 | 0.2393 | 0.3149 |
+| compare-accents-pt | 0.3622 | 0.2694 | 0.2676 |
