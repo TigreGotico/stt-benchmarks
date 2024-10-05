@@ -2,5 +2,5 @@
 # WER: ovos-stt-plugin-chromium
 |dataset/model|chromium|
 |-|-|
-| voxpopuli | 0.1635 |
-| common_voice_17_0 | 0.1745 |
+| common_voice_17_0 | 0.1743 |
+| voxpopuli | 0.1823 |

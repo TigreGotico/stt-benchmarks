@@ -3,15 +3,15 @@
 |dataset/model|distil-large-v3|distil-medium.en|distil-small.en|
 |-|-|-|-|
 | spgispeech | 0.0701 | 0.0442 | 0.0727 |
-| Libriheavy-HQ | 0.1116 | 0.0992 | 0.1183 |
-| fleurs | 0.119 | 0.1226 | N/A |
-| common_voice_17_0 | 0.1218 | 0.1768 | 0.1111 |
-| gigaspeech | 0.1949 | 0.183 | 0.1613 |
-| tedlium | 0.2144 | 0.201 | 0.2148 |
-| earnings22 | 0.2263 | 0.4016 | N/A |
+| Libriheavy-HQ | 0.1201 | 0.0973 | 0.1183 |
+| common_voice_17_0 | 0.1218 | 0.1781 | 0.1111 |
+| fleurs | 0.1252 | 0.1218 | N/A |
+| voxpopuli | 0.1588 | 0.151 | 0.1405 |
+| gigaspeech | 0.1975 | 0.183 | 0.1613 |
+| slurp | 0.2128 | 0.1935 | 0.2324 |
+| tedlium | 0.2144 | 0.2052 | 0.2148 |
+| supreme-court-speech | 0.2306 | 0.2558 | 0.3636 |
 | meanwhile | 0.2642 | N/A | 0.2755 |
-| ami | 0.3093 | 0.303 | 0.3043 |
-| edacc | 0.8947 | 0.9004 | 0.8772 |
-| slurp | N/A | 0.1935 | 0.2324 |
-| voxpopuli | N/A | 0.1533 | 0.1405 |
-| supreme-court-speech | N/A | 0.2494 | 0.3636 |
+| earnings22 | 0.3139 | 0.3273 | 0.1373 |
+| ami | 0.3358 | 0.3212 | 0.3043 |
+| edacc | 0.8562 | 0.8836 | 0.8773 |

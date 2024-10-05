@@ -14,3 +14,5 @@
 | common_voice_pt_pt | 2.8208 | 1.2651 | 7.0205 |
 | locallingua_pt | N/A | N/A | 1.2122 |
 | compare-accents-pt | N/A | N/A | 0.4944 |
+| cml_tts_dataset_portuguese | N/A | N/A | 0.3522 |
+| portuguese_audios_male | N/A | N/A | 0.4866 |

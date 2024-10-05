@@ -40,10 +40,14 @@
 |dataset/model|whisper-tiny-pt|whisper-medium-pt|whisper-small-pt|whisper-base-pt|whisper-large-v3-pt|
 |-|-|-|-|-|-|
 | fleurs | 0.3003 | 0.13 | 0.1707 | 0.223 | N/A |
+| cml_tts_dataset_portuguese | 0.3423 | 0.1515 | N/A | N/A | N/A |
 | common_voice_17_0 | 0.3467 | 0.2439 | 0.1821 | N/A | N/A |
 | MultiLingualSpeechRecognition_MLS-pt | 0.426 | 0.2316 | 0.2674 | 0.4242 | N/A |
+| portuguese-tts | 0.4328 | 0.2982 | N/A | N/A | N/A |
+| portuguese_audios | 0.4434 | 0.2473 | N/A | N/A | N/A |
 | multilingual_librispeech | 0.4477 | 0.2335 | 0.2685 | 0.3768 | 0.0761 |
 | mTEDx-ptbr | 0.4594 | 0.1976 | 0.2503 | N/A | N/A |
+| portuguese_audios_male | 0.4985 | 0.1064 | N/A | N/A | N/A |
 | Speech-MASSIVE | 0.5214 | 0.175 | 0.2155 | N/A | 0.1038 |
 | compare-accents-pt | 0.5778 | 0.1869 | N/A | N/A | N/A |
 | PTBRSpeechRecognition_CORAA | 0.6249 | 0.4194 | 0.3223 | N/A | 0.0556 |
@@ -59,18 +63,22 @@
 |dataset/model|chromium|
 |-|-|
 | Speech-MASSIVE | 0.1333 |
+| minds14 | 0.1509 |
 | fleurs | 0.1637 |
-| minds14 | 0.1744 |
 | common_voice_17_0 | 0.2664 |
 | MultiLingualSpeechRecognition_MLS-pt | 0.2908 |
-| multilingual_librispeech | 0.2973 |
+| portuguese-tts | 0.2944 |
+| multilingual_librispeech | 0.2983 |
 | compare-accents-pt | 0.3107 |
 | locallingua_pt | 0.3136 |
 | PTBRSpeechRecognition_CORAA | 0.4072 |
 | VocativesEuropeanPortuguese | 0.4099 |
-| mTEDx-ptbr | 0.442 |
-| SPGSV_splits | 0.5857 |
+| cml_tts_dataset_portuguese | 0.4145 |
+| mTEDx-ptbr | 0.4218 |
+| portuguese_audios_male | 0.4599 |
+| portuguese_audios | 0.4661 |
 | cv_mls_psfb_zero_synthetic | 0.5954 |
+| SPGSV_splits | 0.7565 |
 | common_voice_pt_pt | 0.9828 |
 
 
@@ -93,15 +101,24 @@
 # WER: ovos-stt-plugin-whisper-turbo
 |dataset/model|whisper-large-v3-turbo|
 |-|-|
-| MultiLingualSpeechRecognition_MLS-pt | 0.0874 |
-| fleurs | 0.114 |
-| VocativesEuropeanPortuguese | 0.1588 |
+| minds14 | 0.05 |
+| MultiLingualSpeechRecognition_MLS-pt | 0.0905 |
+| fleurs | 0.1113 |
+| portuguese-tts | 0.1564 |
+| VocativesEuropeanPortuguese | 0.1571 |
+| multilingual_librispeech | 0.1718 |
 | Speech-MASSIVE | 0.1759 |
-| multilingual_librispeech | 0.1817 |
-| common_voice_17_0 | 0.1894 |
-| PTBRSpeechRecognition_CORAA | 0.26 |
-| cv_mls_psfb_zero_synthetic | 0.3266 |
-| common_voice_pt_pt | 2.0299 |
+| compare-accents-pt | 0.1781 |
+| common_voice_17_0 | 0.1848 |
+| portuguese_audios_male | 0.1902 |
+| mTEDx-ptbr | 0.2336 |
+| cml_tts_dataset_portuguese | 0.2415 |
+| PTBRSpeechRecognition_CORAA | 0.2503 |
+| portuguese_audios | 0.2993 |
+| cv_mls_psfb_zero_synthetic | 0.311 |
+| locallingua_pt | 0.5023 |
+| SPGSV_splits | 0.5894 |
+| common_voice_pt_pt | 1.9841 |
 
 
 # WER: ovos-stt-plugin-whisper
@@ -119,3 +136,5 @@
 | common_voice_pt_pt | 2.8208 | 1.2651 | 7.0205 |
 | locallingua_pt | N/A | N/A | 1.2122 |
 | compare-accents-pt | N/A | N/A | 0.4944 |
+| cml_tts_dataset_portuguese | N/A | N/A | 0.3522 |
+| portuguese_audios_male | N/A | N/A | 0.4866 |
